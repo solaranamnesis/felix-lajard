@@ -63,4 +63,58 @@ _Posse linenda cedro, et levi servanda cupresso ?_
 
 *) Les anciens croyaient que le cyprès se couvrait trois fois, chaque année, de fruits qui mûrissaient aux mois de janvier, de mai et de septembre.
 
+Le silence des auteurs anciens sur la plupart des motifs qui présidèrent en Orient au choix du cyprès pyramidal, comme emblème ou comme attribut des divinités créatrices, semblerait, au premier abord, fournir une objection contre la justesse de quelques-unes des considérations par lesquelles je cherche à expliquer un tel choix. Mais, quel que soit le degré de confiance qu'on leur accordera, rien ne peut infirmer les nombreux témoignages qui nous restent de la consécration du cyprès aux dieux générateurs, dès une haute antiquité. Les productions de l'art vont nous montrer qu'en Orient, comme en Occident, elles sont d'accord avec les textes pour mettre ce fait hors de toute contestation.
+
+Les premiers monuments figurés qui appellent l'attention du lecteur, sont des médailles frappées dans l'Asie occidentale, sous la domination des Romains. Si elles appartiennent ainsi à une époque peu ancienne, elles ont du moins l'avantage de faire partie d'une série qui, selon le sentiment des plus habiles archéologues, nous offre fréquemment des sujets asiatiques que l'on doit considérer comme la reproduction de types religieux dont l'invention et l'usage remontent à des temps très-reculés. C'est à la politique adoptée par les Grecs dans les provinces conquises de l'Asie occidentale, et suivie par les Romains, leurs successeurs, que nous sommes redevables de la restauration ou de la conservation des types hiératiques dont j'entends parler, et d'une multitude d'autres représentations figurées, religieuses, non moins intéressantes à étudier. En tête des médailles qui peuvent me fournir un témoionage précieux dans la question particulière de l'emploi symbolique du cyprès, se placent deux pièces coloniales frappées à Héliopolis, dans la Cœlésyrie, non loin de la pointe culminante de ce mont Liban qui, dès une époque très-ancienne, fut un des siéges principaux du culte de la Vénus asiatique. L'une de ces médailles est à l'effigie de l'empereur Philippe père ; l'autre, à l'effigie d'Otacilie, son épouse.* Le n° 7 de la planche 38 du tome 4 de nos _Monuments inédits_ reproduit un dessin fidèle de la première. Toutes deux ont pour type, à leur revers, la façade d'un temple dodécastyle, où l'on monte par un escalier de six marches ; sous le péristyle de cet édifice on remarque un cyprès pyramidal, planté à la place même où, sur d'autres monnaies asiatiques, nous voyons tantôt une pierre pyramidale ou conique,* emblème connu de la Vénus orientale, tantôt la statue en pied de la déesse,* ou son buste seulement.* Plusieurs médailles, à l'effigie d'Alexandre Sévère,* de Philippe père,* de Philippe jeune,* ou de Trébonianus Gallus,* et frappées à Damascus, dans la même province, nous montrent, en adoration devant un cyprès pyramidal, la figure nue de Silène ou d'un Faune, qui, sur l'épaule gauche, porte une outre gonflée par le liquide qu'elle contient. Le n° 1 de la planche B ci-jointe offre un exemple de ce type. Le même personnage mythologique, sur quelques monnaies coloniales de Tyr, à l'effigie de Caracalla,* d'Élagabale,* de Sévère-Alexandre* ou de Trébonianus Gallus,* se retrouve placé, dans une attitude semblable, devant un palmier que nous reconnaîtrons ailleurs pour un autre emblème de la Vénus orientale, et qui est accompagné ici de l'étoile d'Astarté et d'un _murex_ que, dans ce cas, je prends pour l'équivalent du _ctéis_ gravé sur plusieurs cônes ou cylindres asiatiques, consacrés à cette déesse.* Je dirai, dès à présent, que si l'on pouvait douter que Silène ou Faune, sur les diverses médailles citées, fût en adoration devant l'image symbolique d'Astarté, il suffirait, pour acquérir une entière conviction à cet égard, de jeter les yeux sur un nombre considérable d'autres médailles asiatiques, où ce même personnage, portant comme ici une outre sur l'épaule gauche, accomplit un acte d'adoration aux pieds d'une statue colossale d'Astarté. Les monuments monétaires de Sidon, de Tyr et de Bostra, qui se rapportent aux règnes de Caracalla,* d'Élagabale,* de Sévère-Alexandre,* de Gordien Pie,* de Philippe père,* de Philippe jeune,* de Trajan Dèce,* de Trébonianus Gallus,* de Volusien,* de Valérien père* et de Gallien,* fournissent des exemples de ce sujet, parmi lesquels j'ai choisi les trois que je place sous les yeux du lecteur.*
+
+*) Vaillant, _Numism. in colon. percuss._, 2., 262.
+
+*) Planche citée, n° 10 ; _Nouv. Annal._ 1836 ; _Monum. inéd._, t. 1., pl. 1., _c_, _d_ ; pl. 4., n°s 10, 11 et 12. --- Mionnet, _Descript. de méd._, t. 2., p. 670 et suiv. ; _Supplém._, t. 7., p. 303 et suiv.
+
+*) _Nouv. Annal._, 1836 ; _Monum. inéd._, t. 1., pl. 4., n° 9. --- Eckhel, _Catalog. mus. Cæsar. Vindobon._, 1., 242, n° 12. --- Mionnet, _Descript. de méd._, 5., 433, n°s 644, 645, etc.
+
+*) _Rech. sur Vénus_, pl. 4., n° 5. --- _Mém. de l' Acad. des inscript._, t. 15., 2e partie (_Mém. sur un bas-rel. mithriaq._), pl. 2., n° 5.
+
+*) Sestini, _Descript. num. var._, p. 528. --- Mionnet, _Descript. de méd._, t. 5., p. 292, n° 61.
+
+*) Vaillant, _Num. in colon. percuss._, 2., p. 232. --- Mionnet, _loc. cit._, n° 62.
+
+*) Mionnet, _loc. cit._, p. 294, n° 77.
+
+*) _Ibid._, p. 295 et 296, n° 85. --- _Mus. Sanclem. Num. select._, p. 512, tab. 34., n° 37.
+
+*) V. le n° 3 de la pl. B ci-jointe. --- Eckhel, Catalog. cité, 1., 244, n° 20 ; cf. n° 19.
+
+*) Sestini, _Mus. Hederv._, 3., p. 97, n° 34. --- Mionnet, _loc. cit._, p. 434, n° 650.
+
+*) Mionnet, _ibid._, p. 438, n° 674.
+
+*) Id., _ibid._, p. 443 et 444, n° 703.
+
+*) Voy. mes _Rech. sur le culte de Vénus_, p. 52-54 ; pl. 1., n°s 1 et 2.
+
+*) Eckhel, _Catalog. mus. Cæsar. Vindob._, 1., p. 244, n°s 19 et 20. --- Mionnet, _Descript. de méd._, t. 5., p. 429, n° 626.
+
+*) Vaillant, _Num. in colon. percuss._ --- Sestini, _Mus. Hederv._, 3., p. 97, n°s 30 et 37 ; C. M. H. n°s 6148 et 6100. --- Mionnet, _loc. cit._, p. 384, n°s 319 et 320.
+
+*) Sestini, _Descript. num. var._, p. 539, n° 32. --- Mionnet, _loc. cit._, p. 437, n° 673.
+
+*) Mionnet, _ibid._, p. 438, n° 676.
+
+*) Id., _ibid._, p. 439 et 440, n° 685 ; p. 441, n° 692. Ajoutez une médaille de la même série, à l'effigie d'Otacilie, _ibid._, p. 441 et 442, n° 695.
+
+*) Id., _ibid._, p. 442, n° 698.
+
+*) Sestini, _Descript. num. vet._, p. 539. --- Mionnet, _loc. cit._, p. 584 et 585, n° 35.
+
+*) Mionnet, _ubi supra_, p. 443 et 444, n° 703 ; p. 444, n° 704.
+
+*) Vaillant, _ubi supra_. --- Mionnet, _loc. cit._, p. 445, n°s 714 et 716. --- _Mus. Theupol._, p. 760.
+
+*) Mionnet, _loc. cit._, p. 447, n° 724.
+
+*) Id., _ibid._, p. 449 et 450, n° 739. --- Ajoutez une médaille de la même série, à l'effigie de Salonine, et décrite par Sestini (_Mus. Hederv._, 3., p. 98, n° 45).
+
+*) Pl. B, n°s 2, 4 et 5.
+
 ...
