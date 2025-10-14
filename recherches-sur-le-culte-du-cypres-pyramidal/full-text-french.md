@@ -117,4 +117,58 @@ Les premiers monuments figurés qui appellent l'attention du lecteur, sont des m
 
 *) Pl. B, n°s 2, 4 et 5.
 
+Je n'ignore point que, selon le témoignage irrécusable des monuments,* le dieu Faune ou le dieu Silène, portant une outre sur l'épaule, figure seul et sans Astarté ou Vénus sur les médailles coloniales romaines, frappées à Alexandria-Troas, à Antioche de Pisidie, à Bostra en Arabie, à Cœla dans la Chersonèse de Thrace, et à Corinthe. Je n'ignore pas non plus que la plupart des numismates, et nommément l'illustre Eckhel, le considèrent comme un simple signe colonial, même lorsque sur les médailles romaines citées de la Cœlésyrie, de la Phénicie et de l'Arabie, nous le voyons adorer Astarté tantôt sous l'emblème du cyprès pyramidal, tantôt sous une forme humaine. Mais je ne puis me défendre de penser que les Romains, en le plaçant dans cette attitude auprès de la déesse, avaient entendu par là indiquer qu'il existait des rapports particuliers entre elle et le personnage mythologique dont il s'agit. Une pareille supposition ne pourrait-elle pas se justifier par le souvenir des relations que l'Italie, comme nous le verrons plus loin, avait anciennement établies entre le symbole du cyprès et le dieu Silvain, qui a tant d'analogie avec le dieu Faune ? Et cette attribution du cyprès ne nous autoriserait-elle pas à rechercher si la déesse _Fauna_ n'avait, de son côté, aucun trait de ressemblance avec l'Astarté des peuples de l'Asie occidentale ? Ce n'est point ici le lieu de discuter ces questions incidentes, et je dois me borner à faire remarquer qu'au revers d'une belle médaille frappée à Thessalonique, en l'honneur de Trajan-Dèce,* on voit, placée devant la statue colossale d'une divinité hermaphrodite, à deux têtes et vêtue à mi-corps comme la _Venus genetrix_, une petite figure semblable en tout au Silène ou au Faune qui, sur les médailles citées d'Asie et d'Arabie, est en adoration devant Astarté où devant son arbre symbolique.
+
+*) Voy. Mionnet, _Descript. de med._, t. 5, p. 337, n°s 19 et 20 ; p. 582, n° 24 ; t. 2., p. 643 et 644, n° 104 ; p. 645, n° 110 ; p. 647, n° 124 ; p. 652 et 653, n° 159 ; t. 3, p. 493, n° 8 ; t. 2, p. 179 et 180, n° 233. --- Vaillant, _Num. in colon. percuss._, 2., p. 114. --- Christ. Ramus, _Catalog. num. vet. reg. Daniæ_, 1., 346, n° 8. --- Sestini _Descript._, p. 79, n° 5 ; _Lett. numism._, t. 4., p. 93 ; t. 9., p. 18. --- D'Ennery, _Catalog._, p. 558. --- Mionnet, _Suppl._, t. 3., p. 165, n° 1073 ; pl. 9., fig. 1.
+
+Nous retrouvons cet arbre comme emblème d'Astarté, sur des médailles asiatiques où il est placé entre un lion et un taureau, symboles du soleil et de la lune, symboles du principe igné ou actif et du principe humide ou passif, et attributs caractéristiques de la déesse, comme je crois l'avoir démontré dans le mémoire cité.* A ce mémoire, encore inédit, étaient joints les dessins que je reproduis ici* de deux médailles d'Aradus, choisies, au cabinet de la Bibliothèque royale, parmi une suite nombreuse de pièces que divers empereurs romains firent frapper dans cette île phénicienne, et qui toutes ont pour revers le type dont il s'agit. Leur témoignage me permet de comprendre, avec toute assurance, dans la même catégorie plusieurs monnaies impériales de Damascus, à l'effigie d'Élagabale,* de Trébonianus Gallus* ou de Volusien,* sur lesquelles le lion est remplacé, auprès du cyprès pyramidal et en regard d'un taureau, par un cheval, autre symbole solaire qui, comme le lion, fut consacré à Vénus chez les Grecs et chez les Romains, ainsi que j'ai eu l'occasion de le dire dans le même mémoire et dans une dissertation plus récente.* Une de ces monnaies est fidèlement reproduite par le dessin ci-joint* ; elle appartient au règne de Trébonianus Gallus. Le docte Eckhel ne fait aucune difficulté de reconnaître que le cheval et le taureau sont les symboles du soleil et de la lune ; et, avec toute raison, il cite à l'appui de cette interprétation le témoignage des médailles autonomes grecques de la même ville, où se voient, d'un côté, le buste du soleil, et, de l'autre, le buste de la lune.* On est étonné d'avoir à remarquer qu'après ce judicieux rapprochement, l'illustre numismate, négligeant de rapprocher des monnaies de Damascus celles d'Aradus qui viennent d'être citées, affirme que, sur ces dernières, le lion et le taureau entre lesquels est planté un cyprès sont, non point les emblèmes du soleil et de la lune, mais les emblèmes de deux légions romaines.* Il avait dit, quelques pages plus haut,* que le cyprès fut consacré tout à la fois au Soleil, d'après la raison qu'il en avait donnée précédemment, et à la Lune, divinité identique avec Hécate ou Proserpine, parce que, selon le témoignage formel de Pline, le cyprès était consacré à Pluton. On n'est pas moins étonné que Eckhel ait pu écrire ces mots sans se trouver amené à supposer que primitivement le cyprès avait dû être l'emblème sacré d'une divinité androgyne et créatrice, dont le soleil et la lune étaient les agents et la manifestation.
+
+*) Voy. Mionnet, _Suppl._, t. 3., p. 165, n° 1073 ; pl. 9., fig. 1.
+
+*) Ci-dessus, pages 2 et 3.
+
+*) _Monum. inéd._, t. 4., pl. 38., n° 8 ; pl. B, ci-jointe, n° 6.
+
+*) _Mus. Theupol._, p. 720. --- Mionnet, _Suppl._, t. 8., p. 198, n° 24.
+
+*) Mionnet, _Descript. de méd._, t. 5., p. 295, n° 283.
+
+*) _Ibid._, p. 296, n° 89.
+
+*) _Mem. sur un bas-rel. mithriaq. découvert à Vienne_ (_Annal. de l'Inst. archéol._, t. 13., p. 199 et suiv. ; _Monum. inéd._, vol. 3., pl. 36., fig. 1. _a_, 1. _b_, 1. _c_. --- _Mém. de l'Acad. roy. des inscrip._, t. 15., 2e partie, p. 98-100 ; 234, 235 ; pl. 2., n°s 1. _a_, 1. _b_, 1. _c_).
+
+*) Planche C, n° 1. --- _Rech. sur le culte de Vénus_, pl. 3., n° 5.
+
+*) Voy. Mionnet, _Descript. de méd._, t. 5., p. 283, n° 10. --- Sestini, _Lett. numism. continuaz._, t. 6., p. 86, n° 4.
+
+*) _Ibid._, p. 394.
+
+*) _Doctr. num._, t. 3., p. 331 et 332.
+
+Sur d'autres médailles asiatiques, une pierre conique ou pyramidale remplace le cyprès et devient, comme lui, l'emblème d'Astarté. Cette pierre, dans ce cas, est placée sous le péristyle d'un temple tétrastyle, dont le fronton triangulaire porte au milieu de son tympan un globe, emblème symbolique de Vénus-Astarté, qui nous rappelle qu'à Aphagues, dans le Liban, le jour de la fête consacrée à cette déesse, on faisait paraître dans les airs un globe de feu.* De chaque côté de la pierre conique, on voit un cyprès placé dans une niche ou _sacellum_, que surmonte un fronton également triangulaire. Au sommet de ce fronton, comme au sommet de la pierre symbolique, est attachée une couronne, emblème d'éternité* et par conséquent de déité. A cet accessoire près, la pierre, par sa forme, est très-analogue aux deux monuments coniques qui ont été rapportés des ruines de Babylone, l'un par Michaux,* l'autre par Rich,* et qui tous deux me semblent appartenir au culte de la Vénus assyrienne. Le type curieux que je viens de décrire est gravé au revers d'une médaille coloniale inédite du cabinet de la Bibliothèque royale, frappée à _Ælia Capitolina_, sous le règne de Septime Sévère. La planche citée* de nos _Monuments inédits_ en offre, sous le n° 10, un dessin fidèle. Comme termes de comparaison, je donne deux autres dessins : le premier* nous montre, au revers de la tête d'Élagabale, sur un bronze frappé à Tripolis de Phénicie, la statue d'Astarté posée, au milieu d'un temple et entre deux _sacellum_ ou chapelles, précisément à la même place où, sur la médaille précédente, nous venons de trouver une pierre conique dressée, comme emblème d'Astarté, entre deux cyprès plantés chacun au milieu d'un _sacellum_. Ici les deux _sacellum_ sont ornés chacun de trois colonnes, derrière lesquelles on n'aperçoit ni cyprès, ni figures. L'autre dessin* reproduit une seconde médaille coloniale inédite d'_Ælia Capitolina_, à l'effigie de Septime Sévère. Au revers de cette pièce, qui se conserve dans la même collection, nous retrouvons la pierre conique, emblème d'Astarté ; mais ici elle est placée entre deux enseignes militaires qui, plantées chacune dans l'intérieur d'un _sacellum_, sont ainsi substituées aux deux cyprès de la première médaille coloniale d'_Ælia Capitolina_ dont j'ai parlé. Je ne puis, au reste, prononcer le nom de cette ville sans rappeler que l'histoire de Jérusalem et de la Judée fournit des preuves bien plus anciennes de la faveur dont y avait joui le culte de la déesse, et sans rappeler en même temps, que, non loin de là, le culte du cyprès s'était établi avec celui d'Astarté. Jésus, fils de Sirach,* S. Jérôme* et S. Cyrille* font une mention expresse des plantations de cyprès du mont Liban ; et, à cette occasion, le premier de ces trois écrivains désigne nominativement, dans l'Ecclésiastique, la partie du Liban qu'on appelait _Hermon_. Je montrerai ailleurs comment ce nom se lie plus intimement que peut-être on ne le pense à la légende de la Vénus orientale.
+
+*) Zosime, _Historiæ_, 1., 58., 4 ; ed. Reitemeier.
+
+*) Voy. ma _Note sur l'emploi du cercle ou de la couronne et du globe dans les représentations fig. des divinités chald. ou assyr. et des divinités persiq._, insérée dans le _Nouv. Journal asiatiq._, t. 16., p. 171-179.
+
+*) _Magas. encyclop._, ann. 6., t. 3., p. 86 et suiv. --- Millin, _Monum. antiq. inéd._, t. 1., p. 58-68, pl. 8. et pl. 9.
+
+*) _Min. de l'Orient_, t. 3., p. 199 ; pl. 2., fig. 2 et 3 ; _Babylon and Persepolis_, p. 186, pl. 8, n°s 1. _a_ et 1. _b_.
+
+*) 38.
+
+*) Planche C, n° 2.
+
+*) _Ibid._, n° 3.
+
+*) _Ecclesiastic._, cap. 24., v. 13.
+
+*) _Comment. in Esa._, 60. ; _in Ezech._, 27.
+
+*) _Super Isaiam_, lib. 5.
+
+Si de la Judée, de la Phénicie et de la Cœlésyrie, nous passons dans la Syrie proprement dite, nous y trouvons, à l'égard du culte de l'arbre sacré qui nous occupe, des témoignages moins officiels sans doute que celui des médailles citées, mais dignes cependant de toute confiance. C'est ainsi que nous apprenons de plusieurs écrivains grecs ou latins* qu'il existait, dans le célèbre faubourg d'Antioche appelé Daphné, un bois de très-grands cyprès qui entourait un temple consacré à Apollon, divinité dont les Grecs avaient probablement substitué le nom à celui de Baal ou de quelque autre divinité solaire adorée par les Syriens. Là, selon Philostrate,* la terre, à cause de Cyparisse réputé assyrien, passait même pour produire le germe ou la semence du cyprès. Couper un des arbres du bois sacré de Daphné était réputé une grave offense envers Apollon.* Aussi la plantation s'était-elle conservée jusqu'au temps du bas-empire, comme le prouvent à la fois le témoignage des historiens contemporains, et les dispositions du code Théodosien* et du code Justinien* qui eurent pour but de mettre le _cupressetum_ de Daphné à l'abri des dévastations que, selon la remarque de M. Avellino,* on pouvait craindre de la part des néophytes chrétiens.
+
+*) Philostrate, in _Vit. Apollon._, 1., 16. --- Libanius, _De vita sua_, p. 76 et 77 ; in _Antiochic._, p. 380 et 381, ed. Morell. --- Saint Jean Chrysostome, _Homil._ 17., _ad popul. Antioch. de statuis evers._ --- Sozomène, _Hist. eccles._, 5., 19. --- Procope, _Persicor._ 2., 11, 14.
+
 ...
