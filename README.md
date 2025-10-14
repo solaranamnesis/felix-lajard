@@ -9,7 +9,7 @@ French - PDF | Biolinum | Atkinson | Cursive | Auriocus | Kerkis | Artemisia | D
 English - Plain Text  
 English - PDF  
 
-## Recherches sur le culte, les symboles, les attributs et les monuments figurés de Vénus en Orient et en Occidént.
+## Recherches sur le Culte, les Symboles, les Attributs et les Monuments figurés de Vénus en Orient et en Occidént.
 
 French - Plain Text  
 French - PDF | Biolinum | Atkinson | Cursive | Auriocus | Kerkis | Artemisia | DnD | Custom  
