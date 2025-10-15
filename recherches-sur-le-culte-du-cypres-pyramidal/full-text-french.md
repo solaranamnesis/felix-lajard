@@ -385,4 +385,90 @@ Bien qu'aucune tradition ne fasse directement mention d'une divinité appelée _
 
 *) Voy. Saint-Martin, ouvr. cité, t. 1., p. 253-257 et suiv.
 
+Lorsqu'on voit un des successeurs de Haïg se faire couronner roi d'Arménie au pied de l'arbre sacré qui était un des symboles de Mylitta et d'Astarté, la pensée se reporte incontinent vers l'un des monuments figurés les plus anciens de l'Asie occidentale, le grand bas-relief découvert par M. Charles Texier,* à Yazili-kaïa, sur le sol de l'antique Phrygie ; bas-relief où l'on a représenté un prince assyrien ou phrygien recevant des mains d'Astarté le sceptre et la couronne. La présence de la déesse, figurée ici sous une forme humaine, explique suffisamment pourquoi, dans cette scène, nous ne trouvons pas le symbole du cyprès ; mais le lion sur lequel Astarté est debout et le taureau que l'on n'a pas oublié de placer à ses côtés, ne nous ramènent-ils pas aux médailles de Syrie et de Phénicie qui nous ont offert, planté entre un lion et un taureau, un cyprès pyramidal, image symbolique de la déesse ? En Perse, plusieurs bas-reliefs, taillés sur des faces de rochers, comme l'est celui d'Yazili-kaïa, et conçus dans le même esprit que ce dernier monument, représentent, à leur tour, un prince sassanide au moment où il reçoit tantôt des mains d'Ormuzd, en présence de Mithra,* tantôt des mains de la déesse Anaïs,* la couronne du monde, c'est-à-dire la couronne royale de Perse. Un bas-relief, d'époque romaine, va bientôt nous montrer un initié recevant des mains du dieu Mithra, au pied de trois cyprès, la couronne mystique ou céleste.
+
+*) _Descript. de l'Asie Mineure_, première partie, t. 1., pl. 78.
+
+*) Porter's _Travels in Georgia, Persia_, etc., vol. 2., pl. 66.
+
+*) _Ibid._, vol. 1., pl. 19.
+
+La domination de Sémiramis sur l'Arménie, loin d'affaiblir la ferveur des rois de ce pays pour le culte de Vénus, l'aurait au contraire excitée, s'il en avait été besoin. Car qui ne sait combien l'histoire de cette trop célèbre princesse est intimement liée à la légende de la Vénus asiatique ? Et ne dois-je pas faire remarquer que, par une coïncidence qui ne saurait avoir été fortuite, Sémiramis, née en Syrie, où Vénus était représentée sous l'emblème du cyprès, trouva le culte de la déesse établi, chez les Arméniens, avec le culte du cyprès, comme elle l'avait certainement trouvé institué avec le culte de ce même arbre dans la célèbre contrée située entre le Tigre et l'Euphrate, qui vit naître cette antique théologie chaldéenne dont il n'est pas impossible, encore aujourd'hui, de retrouver les principaux traits et de constater l'influence sur les idées théologiques et cosmologiques des peuples les plus civilisés des autres parties du monde ancien ?
+
+Cette remarque me conduit à faire observer qu'un des traits saillants de la théogonie et de la cosmogonie chaldéennes se découvre dans la tradition recueillie par Mar Ibas Cadina au sujet du culte du cyprès chez les Arméniens. Le rôle que remplit l'air ou le vent, dans cette tradition, et l'association intime de cet élément physique au culte de l'arbre qui était l'emblème de Mylitta, doivent en effet nous rappeler que la déesse, médiatrice entre l'homme et la divinité suprême, était assimilée, cosmologiquement parlant, à l'air, qui remplit, à son tour, entre l'eau et le feu, le rôle de médiateur, c'est-à-dire le rôle d'un agent intermédiaire destiné à faciliter la combinaison entre eux de deux éléments d'une nature opposée. Je dirai même, à cétte occasion, que le mot qui signifie proprement _air_ dans les langues sémitiques, n'appartient à aucune d'elles, tandis qu'il a son radical dans les idiomes japhétiques. C'est une particularité sur laquelle je reviendrai ailleurs, lorsque je serai amené, par le cours de mes travaux, à réunir dans un mémoire toutes les observations qui m'ont permis d'avancer que les Chaldéens descendent des enfants de Japhet, et sont les in venteurs du culte et des mystères de la divinité que les Assyriens ont appelée Mylitta.
+
+L'historien arménien Jean Catholicos, dans l'abrégé très-rapide qu'il s'ést contenté de nous donner du livre de Mar Ibas Cadina, n'a pas, à l'exemple de Moïse de Khoren, conservé le passage relatif au culte du cyprès et de l'air établi dans Armavir par Arménag ; mais, du moins, il ne néglige ni de répéter que l'historien syrien avait puisé à des sources chaldéennes, ni de dire qu'Anouschavan reçut le nom de _Sos_,* et que le père de ce prince s'appelait Gartos avant d'avoir pris le nom d'Ara, d'après le désir ou la volonté de Sémiramis.
+
+Il serait, sans doute, intéressant de connaître, avec quelque certitude, la date de l'introduction du culte du cyprès en Arménie. Je serais disposé à croire que ce fait ne doit pas être séparé de celui de l'importation du culte de la Vénus assyrienne* dans ce pays, et qu'il est permis d'attribuer à Haïg* cette importation. Toutefois je pense qu'à défaut de traditions antérieures au témoignage qui nous a été conservé par Mar Ibas Cadina, il convient de ne pas remonter au-delà du règne d'Arménag, fils de Haïg, puisque ce prince est le premier roi d'Arménie dont le nom se trouve associé à une mention expresse du culte du cyprès dans cette contrée. Mais l'époque de ce règne ne saurait elle-même être déterminée d'une manière rigoureuse. La chronologie des historiens orientaux ne repose pas sur des bases assez solides pour que nous admettions avec une entière confiance les dates qu'elle fournit. Moïse de Khoren, l'auteur le mieux informé des faits qui appartiennent à l'histoire ancienne de l'Arménie, ne fixe même aucune date pour les règnes des rois d'Arménie antérieurs à la conquête de la Perse par Alexandre le Grand. Et si feu mon savant ami M. Saint-Martin a placé en l'année 2026 avant J. C. l'avénement d'Arménag,* il a eu soin d'avertir ses lecteurs* que toutes les dates qui, dans ses tables chronologiques de l'histoire d'Arménie, se rapportent à des rois de la dynastie des Haïganiens, sont empruntées à l'historien Michel Tchamtchéan, et paraissent être déterminées d'une manière fort arbitraire. Il déclare même qu'il ignore sur quelles autorités le P. Tchamtchéan se fonde pour les donner. L'an 2026 de l'ère ancienne n'est donc que la date plus ou moins approximative de la première mention du culte du cyprès chez les Arméniens. En adoptant, sous toutes les réserves convenables, ce point de départ, nous trouvons, avec le P. Tchamtchéan,* que le roi Ara le Beau ou Ara 1er, qui fut tué dans un combat contre Sémiramis, était monté sur le trône d'Arménie 1769 ans avant la naissance de J. C. ; que son fils, Ara 2, qui périt de la même manière, avait reçu de Sémiramis, en 1743, l'investiture du royaume d'Arménie ; et qu'il eut pour successeur immédiat son fils Anouschavan, couronné en 1725 sous le nom de Sos, à Armavir, au pied des cyprès plantés par Arménag. Ces dates, bien qu'incertaines, fournissent trois nouveaux termes qu'il conviendrait peut-être d'ajouter aux diverses données dont on s'est servi jusqu à ce jour pour assigner au règne de Sémiramis une date approximative. Personne n'ignore que les circonstances les plus importantes de ce dernier événement restent encore plongées dans l'obscurité qui dérobe à nos yeux les origines de l'empire d'Assyrie et l'histoire des premiers siècles de son existence. Aussi l'avénement de cette princesse a-t-il été placé par les écrivains modernes à des époques si diverses, qu'elles varient depuis l'année 737 jusqu à l'année 2200 avant l'ère chrétienne. Les savants auteurs de l'_Art de vérifier les dates_ ont adopté l'année 1916. Fréret penchait pour cette même date ; M. Daunou, pour celle de 1196 ou 1195.* Saint-Martin* fait commencer en 1997, et finir en 1957 les quarante années que dura le règne de Sémiramis. D'après le P. Michel Tchamtchéan, cette princesse aurait conquis l'Arménie plusieurs années avant 1743. Quel que soit le chiffre qu'il faille admettre, on est amené à reconnaître que l'importation du culte du cyprès chez les Arméniens remonte à une haute antiquité, puisque nous venons de constater qu'il y était établi dès le règne d'Arménag, fils et successeur de Haïg, chef de la première dynastie royale d'Arménie. Cette époque est donc antérieure à la domination de Sémiramis.
+
+*) _Hist. d'Armén._, Mss. armén. de la Bibliothèque royale, n° 91, ch. 8., p. 23, trad. franç. de Saint-Martin, p. 13.
+
+*) Dans mes _Recherches sur Vénus_ et dans mes _Recherches sur Mithra_, je publierai plusieurs monuments figurés, dont le témoignage viendra s'ajouter à celui des médailles citées plus haut, pour prouver que le culte du palmier se liait également à la légende de Mylitta ou Astarté, comme à celle de Hermès ou Mercure et, par suite, au culte de Mithra, du Soleil et de la Lune. Mais je dirai ici que, chez les Grecs, on tirait des augures de cet arbre (_Orphic. Fragm._, 40., p. 496 ; ed. Hermann), et que la Sibylle écrivait ses oracles sur des feuilles de palmier.
+
+*) Saint-Martin, dans ses _Mémoires sur l'Arménie_ (t. 1., p. 407), place, d'après le P. Michel Tchamtchéan, l'avénement de Haïg à l'an 2107 av. J. C.
+
+*) _Loc. cit._
+
+*) _Ibid._, p. 404 et 405.
+
+*) _Ibid._, p. 407.
+
+*) _Biogr. univers._ de Michaud, t. 41., p. 550-555.
+
+*) _Ibid._, art. Sanchoniathon, t. 40., p. 305, 1re col.
+
+Nous ne pouvons douter non plus, malgré l'absence de toute preuve directe, que, chez les Arméniens, le culte du cyprès pyramidal ne se soit perpétué aussi longtemps que le culte de la Vénus assyrienne. Car nous savons, par le double témoignage des textes et des monuments figurés, que là cette déesse continua d'être honorée d'un culte particulier jusqu'au moment où l'Arménie fut entièrement convertie au christianisme. Nous apprenons même de Pline,* de Strabon,* et de Dion Cassius,* qu'un canton de la grande Arménie, situé non loin des sources de l'Euphrate, devait au culte de la déesse _Anahid_, _Anaïs_ ou _Anaïtis_ le nom de _Contrée Anaïtique_ (_Anaitica regio_), et même le nom d'_Anaïtis_ ([GREEK]).* Pline ajouté* que dans les environs se trouvait le _Lac Anaïtique_ (_Anaïticus lacus_).
+
+*) _Hist. nat._, 5., 20. ; cf. 33., 24.
+
+*) _Geogr._, 11., p. 532.
+
+*) 36., 31, 36.
+
+*) Strab., _loc. cit._
+
+*) _Hist. nat._, 16., 44.
+
+Si du royaume d'Arménie nous passons dans un pays voisin, la Commagène, nous y trouvons la preuve que les habitants de ce pays avaient reçu, avec le culte de Vénus, celui du cyprès. Cette preuve résulte du témoignage, pour ainsi dire, officiel d'une médaille frappée en l'honneur de Julia Domna dans la ville que les Romains appelaient _Germanica Cæsarea_. Sur cette médaille, dont le n° 6 de notre planche C reproduit un dessin fidèle, nous voyons, en effet, au revers de la tête de l'impératrice, une galère qui est renfermée dans un cercle ou dans une couronne, et qui nous rappelle la galère d'Astarté si fréquemment placée sur les monnaies romaines de Phénicie ; au-dessous est gravé un taureau, symbole affecté à cette même déesse ; et, à gauche, on voit un cyprès* planté sur un autel carré.
+
+*) Ici cet arbre est de l'espèce appelée _cyprès de Montpellier_ (_cupressus horizontalis._ De Cand. --- _Cupressus sempervirens_, var. [GREEK]. Linn.), qui, comme le cyprès pyramidal, croît sur le Liban.
+
+Dans un autre pays voisin de l'Arménie et de la Commagène, l'antique Phrygie, dont les origines ne sont pas mieux connues que celles de l'empire assyrien et du royaume fondé dans la Babylonie, le culte du cyprès, dès une époque antérieure à la guerre de Troie, s'y montre uni à celui de Rhéa et de Vénus, divinités primitivement identiques, qui, dans la suite des temps, conservèrent chacune au nombre de leurs symboles ou attributs, le lion, le taureau, et non-seulement le cyprès, mais aussi le pin, deux arbres mystiques que nous rétrouvons, avec le lion et le taureau, dans la légende de Mithra. Au moment de fuir des murs d'Ilion embrasé, Énée indique, pour point de ralliement, aux malheureux Troyens qui veulent partager son sort, un antique cyprès que, depuis longues années, leur dit-il, conserve la piété de nos pères. Cet arbre vénéré était planté, hors de la ville, à côté d'un temple abandonné de Cérès ou Rhéa :
+
+_Est urbe egressis tumulus, templumque vetustum_  
+_Desertæ Cereris, juxtaque antiqua cupressus_  
+_Relligione patrum multos servata per annos._*
+
+C'est ainsi que Virgile, d'après une de ces traditions hiératiques qu'il avait recueillies avec le plus grand soin, fait parler le fils d'Anchise et de Vénus. Nous verrons bientôt que le pieux Troyen, après s'être embarqué au port d'Antandre, aborde sur les rivages de la Thrace, et y célèbre les funérailles de l'infortuné Polydore en faisant dresser des autels funéraires que l'on couvre de branches de cyprès.
+
+*) Virgile, _Æneid._, 2., 712-714.
+
+Si l'immortel chantre de l'Iliade, par le rôle qu'il fait jouer à Vénus, et par l'arrivée des troupes assyriennes envoyées au secours de Priam, nous révèle à grands traits les liens religieux et politiques qui existèrent entre le roi des rois, chef de l'empire d'Assyrie, et ses feudataires les rois de Phrygie, le poëte latin vient confirmer le témoignage du poëte grec en nous donnant des détails qui nous prouvent que le culte du cyprès était passé de chez les Assyriens chez les Troyens avec le culte d'une déesse que les historiens grecs, lorsqu'ils parlent des divinités assyriennes ou babyloniennes, désignent tantôt sous les noms de Mylitta,* d'Alitta,* d'Alilat* et d'Urania, tantôt sous le nom de Rhéa,* tantôt enfin sous celui de Héra* ou Junon.
+
+*) Hérodote, 1., 131.
+
+*) Id., _ibid._
+
+*) Id., 3., 162.
+
+*) Diodore de Sicile, 2., 9 ; ed. Dindorf.
+
+*) Lucien, _De Dea syria_ ; Opp., t. 9., p. 81, ed. Lehmann.
+
+### § 1\. _Arabie._
+
+Selon le témoignage formel d'Hérodote, les Arabes avaient reçu des mains des Assyriens le culte de la même divinité, et la nommaient _Alitta_* et _Alilat_.* Ce fait important est confirmé par les nombreuses médailles impériales frappées à Bostra,* à Esbus* et à Moca,* sur lesquelles on reconnaît l'image de la déesse, ainsi que par les écrits de plusieurs Arabes musulmans, qui nous ont conservé certaines traditions relatives au culte d'une divinité féminine qu'ils appellent _Allat_, _Al-Uzza_ ou _Al-Ozza_,* et qui est identique avec l'_Alilat_ et l'_Alitta_ d'Hérodote.
+
+*) Hérodote, 1., 131.
+
+*) _Id._, 3., 162.
+
+*) Mionnet, _Descr._, 5., 579-584, n°s 7, 8, 9, 10, 14, 29 et 35. --- Sestini, _Descr. num. veter._, p. 548, n° 1.
+
+*) A Esbus. Mionnet, _ibid._, 585, n° 38.
+
+*) A Moca. _Ibid._, p. 586, n° 40.
+
+*) Depuis la rédaction de ce mémoire, les inscriptions en langue himyarite, découvertes dans l'Arabie par M. Arnaud et interprétées avec tant de succès par M. Fulg. Fresnel, sont venues nous apprendre que les anciens habitants de cette contrée donnaient aussi à Vénus le nom d'_Athtor_ ou _Othtor_ (_Journ. asiat._, 4e série, t. 5., p. 211 ; t. 6., p. 169, 199-201). Ce nom confirme ainsi l'origine asiatique que j'attribue à la déesse _Athor_, _Hâthor_ ou _Hâthyr_ des Égyptiens ; et si l'on remarque que le nom du pays, que, d'après les Grecs et les Romains, nous appelons Assyrie, est écrit _Athour_ ([ARABIC]) dans Masoudi (_Notic. et extr. des Mss._, t. 8., p. 159), et _Athura_ dans les inscriptions en caractères cunéiformes du système zend, qui sont gravées sur les murs de Persépolis, et qui récemment ont été interprétées par M. Lassen (_Über die Keilinschriften der ersten und zweiten Gattung_, p. 48, 176 et 178 du tirage à part), on sera peut-être tenté de supposer avec moi que Vénus, chez les Arabes et chez les Égyptiens, avait reçu un nom ou un surnom qui rappelait l'origine assyrienne de son culte. Chez les Grecs, pour la même raison, n'était-elle pas appelée [GREEK] (Nonn. _Dionysiac._, 31., 203), la _Déesse assyrienne_ ou _d'Assyrie_, et, plus tard, [GREEK], la _Déesse de Syrie_ (Lucien, _De Dea syria_) ? Toutefois, je dois ajouter que M. Fresnel, après avoir dit que le nom _Athtor_ ou _Othtor_ « ne coïncide exactement avec aucune racine hébraïque ou arabe, » propose deux étymologies de ce nom, l'une qui, par une transformation dont il cite d'autres exemples, identifierait _Athtor_ avec l'_Aschtôreth_ (Astarté) des Hébreux et des Phéniciens, sauf la terminaison féminine ; l'autre qui rapprocherait _Athtor_ d'une racine arabe que probablement, selon le même orientaliste, on trouve dans le mot [ARABIC]. Je me réserve d'examiner ailleurs, avec toute l'attention que méritent les opinions de ce savant, la valeur respective de chacune des deux étymologies qu'il indique.
+
 ...
