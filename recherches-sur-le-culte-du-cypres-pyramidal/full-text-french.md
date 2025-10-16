@@ -6,6 +6,16 @@
 
 ---
 
+# [Introduction.]()
+
+## 1\. [Orient.]()
+
+### § 1\. [_Assyrie, Babylonie, Arménie, Commagène, Phrygie, Syrie et Phénicie_.]()
+
+### § 2\. [_Arabie._]()
+
+### § 3\. [_Perse._]()
+
 ---
 
 (Extrait des _Nouvelles Annales de l'Institut archéologique_ ; vol. 19., 1847.)
@@ -455,7 +465,7 @@ Si l'immortel chantre de l'Iliade, par le rôle qu'il fait jouer à Vénus, et p
 
 *) Lucien, _De Dea syria_ ; Opp., t. 9., p. 81, ed. Lehmann.
 
-### § 1\. _Arabie._
+### § 2\. _Arabie._
 
 Selon le témoignage formel d'Hérodote, les Arabes avaient reçu des mains des Assyriens le culte de la même divinité, et la nommaient _Alitta_* et _Alilat_.* Ce fait important est confirmé par les nombreuses médailles impériales frappées à Bostra,* à Esbus* et à Moca,* sur lesquelles on reconnaît l'image de la déesse, ainsi que par les écrits de plusieurs Arabes musulmans, qui nous ont conservé certaines traditions relatives au culte d'une divinité féminine qu'ils appellent _Allat_, _Al-Uzza_ ou _Al-Ozza_,* et qui est identique avec l'_Alilat_ et l'_Alitta_ d'Hérodote.
 
@@ -470,5 +480,65 @@ Selon le témoignage formel d'Hérodote, les Arabes avaient reçu des mains des 
 *) A Moca. _Ibid._, p. 586, n° 40.
 
 *) Depuis la rédaction de ce mémoire, les inscriptions en langue himyarite, découvertes dans l'Arabie par M. Arnaud et interprétées avec tant de succès par M. Fulg. Fresnel, sont venues nous apprendre que les anciens habitants de cette contrée donnaient aussi à Vénus le nom d'_Athtor_ ou _Othtor_ (_Journ. asiat._, 4e série, t. 5., p. 211 ; t. 6., p. 169, 199-201). Ce nom confirme ainsi l'origine asiatique que j'attribue à la déesse _Athor_, _Hâthor_ ou _Hâthyr_ des Égyptiens ; et si l'on remarque que le nom du pays, que, d'après les Grecs et les Romains, nous appelons Assyrie, est écrit _Athour_ ([ARABIC]) dans Masoudi (_Notic. et extr. des Mss._, t. 8., p. 159), et _Athura_ dans les inscriptions en caractères cunéiformes du système zend, qui sont gravées sur les murs de Persépolis, et qui récemment ont été interprétées par M. Lassen (_Über die Keilinschriften der ersten und zweiten Gattung_, p. 48, 176 et 178 du tirage à part), on sera peut-être tenté de supposer avec moi que Vénus, chez les Arabes et chez les Égyptiens, avait reçu un nom ou un surnom qui rappelait l'origine assyrienne de son culte. Chez les Grecs, pour la même raison, n'était-elle pas appelée [GREEK] (Nonn. _Dionysiac._, 31., 203), la _Déesse assyrienne_ ou _d'Assyrie_, et, plus tard, [GREEK], la _Déesse de Syrie_ (Lucien, _De Dea syria_) ? Toutefois, je dois ajouter que M. Fresnel, après avoir dit que le nom _Athtor_ ou _Othtor_ « ne coïncide exactement avec aucune racine hébraïque ou arabe, » propose deux étymologies de ce nom, l'une qui, par une transformation dont il cite d'autres exemples, identifierait _Athtor_ avec l'_Aschtôreth_ (Astarté) des Hébreux et des Phéniciens, sauf la terminaison féminine ; l'autre qui rapprocherait _Athtor_ d'une racine arabe que probablement, selon le même orientaliste, on trouve dans le mot [ARABIC]. Je me réserve d'examiner ailleurs, avec toute l'attention que méritent les opinions de ce savant, la valeur respective de chacune des deux étymologies qu'il indique.
+
+Dès lors, n'est-il pas vraisemblable qu'avec ce culte, les Assyriens avaient transmis le culte de l'un des arbres qu'ils avaient consacrés à Mylitta ou Astarté ? A défaut de témoignages directs, nous pouvons, sur ce point, recourir avec toute confiance aux preuves indirectes qui nous sont fournies par les poëtes et les historiens orientaux. Et d'abord remarquons que le cyprès, étranger au sol de l'Arabie, joue, dans les poëtes nationaux, le même rôle qu'il joue dans les poëtes persans. Les écrivains arabes l'appellent de deux noms, _serv_ ou _sarou_ et _div-dar_ ou _div-darou_,* qui n'appartiennent ni à leur idiome ni à aucune langue sémitique, mais qui se trouvent dans les vocabulaires persans. Ne nous étonnons donc point si Firdousi, dans le _Schâh-namèh_* donne le nom persan de _Serv_, _cyprès_, au roi du Yémen dont les trois filles épousèrent les trois fils de Féridoun, le héros de l'Iran. Ce nom, rapproché de celui de _Sos_, Cyprès, qu'avait reçu un ancien roi de l'Haïgastan, nous révèle, entre les anciens usages de l'Assyrie, de l'Arabie et de l'Arménie, une communauté qui s'explique tout naturellement par la notion de l'importation du culte de la Vénus assyrienne dans l'une et l'autre de ces deux dernières contrées. Le témoignage de Firdousi acquiert quelque poids, lorsque nous voyons d'autres écrivains musulmans attester que le culte des arbres était anciennement répandu chez les Arabes et dans le Yémen en particulier. Quelques auteurs arabes, cités par Pococke,* disent en effet que plusieurs tribus d'Arabie adoraient, sous l'emblème d'un arbre, la divinité qu'ils nomment tantôt _Allat_, dont le sens littéral est peut-être _la Déesse_ ; tantôt _Al-Uzza_ ou _Al-Ozza_, qui signifie _la Glorieuse_. Mahomet, ajoutent ces mêmes auteurs, abolit le culte de cette déesse, fit renverser et brûler les arbres et les temples qui lui étaient consacrés. Selon Firouzabadi,* un personnage nommé _Dhâlem_ avait, le premier, dans la tribu des _Gatfan_, consacré un arbre à la déesse et placé sur cet arbre une maison quil avait appelée _boss_ ; on ne pouvait y entrer sans entendre un son particulier. Une partie de ce récit rappelle les traditions persanes ou arabes qui nous apprennent que Zoroastre avait fait construire un palais, ou du moins une grande salle, sur le cyprès planté par lui à Kaschmer. Tabary, de son côté, rapporte* que, dans le Yémen, les habitants de _Nédjran_ conservaient, dans la partie orientale de leur ville, un superbe palmier autour duquel ils célébraient chaque année une fête solennelle : ils s'y rendaient processionnellement, dit-il, après l'avoir couvert de riches étoffes et entouré de leurs idoles ; ils déposaient là des offrandes, et ils récitaient des prières jusqu'à ce que du milieu de l'arbre un esprit ou démon leur eût fait entendre sa voix. Ils se prosternaient alors devant le palmier, après quoi ils se retiraient. A la suite de ces détails curieux, qui nous reportent aux monuments figurés des Assyriens, des Syriens et des Phéniciens, où le palmier est l'emblème de Mylitta et d'Astarté, l'historien arabe raconte comment un descendant des apôtres de Jésus-Christ, venu de Syrie dans le Yémen, abattit le palmier de Nédjran, et se servit de cette circonstance pour convertir au christianisme les habitants. La narration de Firouzabadi, à quelques légères différences près, est confirmée par Zakaria Cazwini,* qui écrivait dans le treizième siècle de notre ère. Ce dernier auteur fait précéder son récit de cette observation, que les Arabes, qui primitivement suivaient la religion d'Abraham, étaient ensuite tombés dans une grande idolâtrie, et adoraient, les uns une pierre,* les autres un arbre. Nous avons à regretter qu'à l'exemple des écrivains cités par Pococke, Zakaria ne dise pas si cet arbre était un cyprès ou un palmier. Mais nous devons remarquer, à l'appui des observations qui précèdent, que le cyprès, chez les Arabes, ne peut avoir porté un nom étranger, ni servi de nom propre à un roi du Yémen et de comparaison aux poëtes nationaux, pour exprimer les idées de majesté et de beauté, sans avoir été là, comme chez les Assyriens, le symbole de la déesse qui réunissait au suprême degré ces deux qualités particulières.
+
+*) Voy. sir Willam Ouseley, _Travels in var. count. of the East_, vol. 1., p. 387 ; et _ibid._, note 75.
+
+*) T. 1., p. 121 ; trad. franç. de M. J. Mohl.
+
+*) _Specim. histor. Arab._, p. 90 sqq., ed. Oxon. 1650. Cf. le discours préliminaire (p. 23., éd. de 1795) que Pococke a mis en tête de sa traduction du Coran.
+
+*) Voy. Pococke, _Specim. hist. Arab._, p. 92 et 93.
+
+*) Dans un passage inédit de sa Chronique, cité par Sir William Ouseley (_Travels in var. countr. of the East_, vol. 1., appendix, p. 369-371).
+
+*) Cité par Sir William Ouseley, _ibid._, p. 371.
+
+### § 3\. _Perse._
+
+Des traditions écrites, des monuments figurés vont nous apprendre qu'au sixième siècle avant l'ère chrétienne, le culte du cyprès fut porté de la Babylonie chez les Perses avec le culte de Mithra, comme il l'avait été chez les Arabes avec le culte d'Alitta, Alilat ou Allat. Nous acquerrons ainsi une preuve nouvelle de l'authenticité des renseignements qui avaient permis à Hérodote, deux siècles plus tard, d'affirmer que le culte de Mithra, de même que celui d'Alitta, dérivait du culte assyrien de Mylitta ou Vénus-Uranie.
+
+Le _Schah-namèh_ de Firdousi, le _Muntekhab-al-tewarikh_ ou _Schemschir-khani_,* le _Schah-namèh-naser_,* le _Rauzet-al-safa_* de Mirkhond, le _Ferhengi-Djihanguiri_, un écrit de Boundâry ou Bondâry, et les autres ouvrages orientaux qu'avaient consultés Thomas Hyde, d'Herbelot et Anquetil du Perron, s'accordent en effet à nous dire, avec des circonstances plus ou moins croyables, plus ou moins merveilleuses, que Zoroastre introduisit le culte du cyprès dans la Bactriane et dans le pays que nous appelons aujourd'hui le Khorassan, en même temps qu'il y établissait le culte de Mithra. A peine arrivé à la cour de Gustasp, à peine admis à lire devant ce prince le livre de la loi ou le Zend-Avesta, le disciple des Chaldéens d'Assyrie ou de Babylone planta dans la ville de Bactres, à côté du palais du roi, un cyprès qui, selon l'auteur du Schah-namèh en prose,* acquit, en peu de jours, de telles dimensions, que dix grandes cordes, dont à la vérité on ne nous indique pas la longueur, suffisaient tout juste à embrasser sa circonférence, et que le planteur fortuné put faire construire une grande salle sur les branches les plus élevées de l'arbre miraculeux. Tawakkol-Beg* ajoute que les feuilles de ce cyprès donnaient de l'intelligence ou de l'esprit à ceux qui en mangeaient. Les traditions qui se rapportent à un second cyprès, également planté par Zoroastre, sont plus détaillées. Ici je laisserai parler Anquetil, qui les avait recueillies avec soin, sans se douter pourtant que le culte du cyprès eût originairement été institué, avec le culte de Mylitta, par les Chaldéens ou les Assyriens ; sans se douter non plus que cet arbre mystique jouât un rôle quelconque dans les monuments figurés mithriaques. « Il y avait, dit-il,* dans Kaschmer (ou Kischmer), village du Khorassan,* un _atesch-gâh_* célèbre. Près de la porte de ce temple, Zoroastre planta un cyprès, et grava sur l'écorce du tronc de cet arbre, que Gustasp avait embrassé sa Loi. Après plusieurs années, ce cyprès étant devenu grand, épais et garni de branches, on bâtit dessus un palais qui avait quarante coudées de haut et en carré. Il renfermait deux salles, dont le toit était d'or, le plancher d'argent, les murs d'ambre et ornés de pierres précieuses. On y forma les portraits de Djemschid et de Féridoun. Gustasp se retira dans ce palais, pour de là s'élever au ciel, lorsque son heure serait venue. Ce prince, continue Anquetil,* dépêcha des courriers aux extrémités de son empire, et écrivit aux gouverneurs de venir à pied visiter le cyprès, écouter Zoroastre, et d'abandonner le culte des idoles du Touran et de Tchin. Boundari ajoute qu'on lui obéit moitié de gré ; moitié de force ; et ce fut ce zèle ardent qui occasionna en partie les guerres sanglantes que Gustasp eut à soutenir. » Anquetil termine en disant, dans une note,* que, selon le _Fehrengi-Djihanguiri_,* Zoroastre planta deux branches de cyprès, qu'il avait apportées du ciel, l'une à _Kaschmer_, village de _Tarschiz_, de la dépendance du Khorassan ; l'autre dans _Féroumad_,* qui était un des villages de _Tous_, dépendant aussi du Khorassan. Cette dernière tradition avait déjà été puisée à la même source par le docteur Thomas Hyde,* qui n'a pas oublié, comme l'a fait Anquetil, d'ajouter que, suivant ce dictionnaire, les deux cyprès furent plantés sous une étoile heureuse. Le savant anglais cite un passage de Scharistâni,* où nous lisons que Dieu, après avoir placé l'esprit ou l'âme de Zoroastre dans un arbre qui croît sur les montagnes les plus élevées, planta cet arbre dans l'Aderbaïdjân, sur le mont _Asmuîdacher_. Hyde n'hésite pas à dire qu'il s'agit ici du cyprès.*
+
+*) Voy. mes _Recherches sur le culte de Vénus_, p. 61, note 4.
+
+*) Écrit en persan, au dix-septième siècle de notre ère, par Tawakkol-Beg.
+
+*) Ouvrage anonyme et composé, par quelque destour ou prêtre parse, d'après le _Schah-namèh_ de Firdousi.
+
+*) On prononce : _assafa_ ou _essafa_.
+
+*) _Schah-namèh-naser_, cité par Th. Hyde, _Relig. veter. Pers._, p. 324 ; ed. secunda. --- Anquetil du Perron, _Zend-Avesta_ (_Vie de Zoroastre_), t. 1., 2e partie, p. 33.
+
+*) Dans son _Muntekhab-al-tewarikh_, cité par Anquetil, _ubi supra_, note 2.
+
+*) Ouvrage cité, t. 1., 2e partie, p. 46 et 47. --- Ce passage d'Anquetil du Perron est tiré d'une histoire inédite des sulthans Seldjoukydes, par Emad-eddyn, intitulée, [ARABIC] (c'est-à-dire, _La crème du secours et le choix du temps_), et abrégée par l'imam Alfath, fils d'Ali-al-Bondary d'Ispahan, qui écrivait vers l'an 1230 de notre ère. La Bibliothèque royale de Paris possède un exemplaire de cet abrégé (_Mss. arab._, anc. fonds, n° 767 A).
+
+*) Ce village était situé dans le canton de Nischapour ; son nom se prononce tantôt _Kaschmer_, tantôt _Kischmer_, tantôt _Kaschmir_.
+
+*) Autel du feu ou pyrée.
+
+*) Ouvrage cité, t. 1., 2e partie, p. 47.
+
+*) _Ibid._, p. 46 et 47, note 2.
+
+*) Composé, en 1605, par Djémal-eddyn-Hussein-Andjou.
+
+*) Hyde (ouvrage cité, p. 332) fait observer que ce lieu est aussi désigné sous les noms de _Pharouyad_ et de _Pherdîd_.
+
+*) _Ibid._, p. 332.
+
+*) _Ibid._, p. 300.
+
+*) _Ibid._, p. 332.
+
+Firdousi, dans son _Schah-namèh_,* ajoute, au sujet du cyprès de Kischmer, quelques détails qui ont été négligés par les écrivains que je viens de citer, et qui méritent d'être rapportés. C'est ainsi que, selon le poëte, le temple du feu, devant lequel Zoroastre planta cet arbre, s'appelait _Mihr-Berzin_, dénomination qui, pour nous, a le précieux avantage de montrer le culte du cyprès aussi intimement lié, chez les Perses, au culte de Mithra, qu'il l'était, chez les Assyriens et les Phéniciens, au culte de Mylitta ou d'Astarté. L'expression dont se sert Firdousi, en parlant du palais que fit construire le prophète, est assez vague pour qu'il soit possible de comprendre que ce palais fut édifié, non sur les branches du cyprès, mais bien autour de l'arbre. Diverses variantes, recueillies par M. Jules Mohl, qui a eu la complaisance de me les communiquer, présentent clairement ce dernier sens. On lit ensuite, dans le _Schah-namèh_, que Zoroastre fit peindre, sur les murs du palais, Gustasp en adoration devant le soleil et la lune, Féridoun armé de sa massue à tête de taureau, et les portraits de tous les autres rois de Perse. Quand l'édifice fut achevé, Gustasp envoya dans toutes les parties de son empire, un message conçu en ces termes : « Qu'y a-t-il de comparable dans le monde au cyprès de Kischmer ? Dieu me l'a envoyé du ciel, et m'a dit que de là j'irais dans le ciel. Écoutez maintenant, vous tous, mon conseil. Rendez-vous à pied auprès du cyprès de Kischmer ; suivez tous la voie de Zoroastre, et tournez le dos aux idoles de la Chine. Au nom du pouvoir et de la gloire du roi des Iraniens, je vous ordonne de vous ceindre tous du kosti, d'abandonner les coutumes de vos pères, et de vous réunir sous l'ombre de ce cyprès. Venez au temple du feu, d'après l'ordre du prophète véridique. » « Tous ceux qui portaient des diadèmes, reprend Firdousi, se rendirent, sur l'ordre du roi, auprès du cyprès de Kischmer ; par leur présence, le temple devint semblable au paradis, et Zoroastre y enchaîna les divs.* » Plus loin, le poëte raconte* qu'au bout de huit années d'un second séjour à la cour de Gustasp, Zoroastre, voyant que le pélerinage du cyprès s'était ralenti, conseilla au roi de secouer le joug du Touran. Son but probablement était d'essayer de ranimer le zèle de ses sectateurs par une guerre de religion.
+
+*) Pag. 1067 et 1068 ; éd. de Calcutta ; trad. franç. ms. de M. Jules Mohl.
+
+*) Hamdallah Cazwini rapporte, au sujet du cyprès de Kaschmer, quelques particularités qui s'écartent de celles que présente le récit de Firdousi. Voy. Sir William Ouseley's _Travels_, vol. 1., p. 388 et 389.
+
+*) _Schah-namèh_, 3e djeld, cité par Anquetil du Perron (_Vie de Zoroastre_, dans le _Zend-Avesta_, t. 1., 2e partie, p. 54).
 
 ...
