@@ -6,17 +6,17 @@
 
 ---
 
-### [Introduction.]()
+### [Introduction.](#introduction-1)
 
-# [Premier Mémoire.]()
+# [Premier Mémoire.](#premier-mémoire-1)
 
-## 1\. [Orient.]()
+## 1\. [Orient.](#1-orient-1)
 
-### § 1\. [_Assyrie, Babylonie, Arménie, Commagène, Phrygie, Syrie et Phénicie_.]()
+### § 1\. [_Assyrie, Babylonie, Arménie, Commagène, Phrygie, Syrie et Phénicie_.](#-1-assyrie-babylonie-arménie-commagène-phrygie-syrie-et-phénicie-1)
 
-### § 2\. [_Arabie._]()
+### § 2\. [_Arabie._](#-2-arabie-1)
 
-### § 3\. [_Perse._]()
+### § 3\. [_Perse._](#-3-perse-1)
 
 ---
 
