@@ -6,7 +6,9 @@
 
 ---
 
-# [Introduction.]()
+### [Introduction.]()
+
+# [Premier Mémoire.]()
 
 ## 1\. [Orient.]()
 
@@ -20,7 +22,7 @@
 
 (Extrait des _Nouvelles Annales de l'Institut archéologique_ ; vol. 19., 1847.)
 
-# Introduction.
+### Introduction.
 
 _Ce travail a été lu a l'Académie royale des inscriptions et belles-lettres, dans le mois de mars de l'année 1843._
 
