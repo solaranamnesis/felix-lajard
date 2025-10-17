@@ -22,6 +22,10 @@
 
 ### § 4\. [_Kachemyre et Inde._](#-4-kachemyre-et-inde-1)
 
+### § 5\. [_Afrique._]()
+
+# [Explication des Planches.]()
+
 ---
 
 (Extrait des _Nouvelles Annales de l'Institut archéologique_ ; vol. 19., 1847.)
@@ -341,7 +345,7 @@ Le témoignage, pour ainsi dire, officiel des médailles frappées dans la Phén
 
 *) Depuis que ceci a été écrit, les fouilles pratiquées en 1843 à Khorsabad, près de l'emplacement de Ninive, par M. Botta, consul de France à Mossul, ont fait découvrir les ruines d'un vaste palais assyrien, orné de belles sculptures. Cette importante découverte a été suivie de celle de plusieurs bas-reliefs assyriens, sculptés sur le roc, aux environs de Ninive (_Journal asiatiq._, 4e série, t. 7., année 1846) ; et plus récemment un voyageur anglais, M. Layard, a eu le bonheur de retrouver à Nimroud les ruines de deux palais, dont un paraît être d'une époque beaucoup plus reculée, et l'autre d'une époque moins ancienne que celui de Khorsabad. On dit le second mieux conservé que le premier et plus riche en bas-reliefs religieux.
 
-Je place sous les yeux du lecteur les dessins de deux cylindres assyriens,* où la présence du cyprès, au milieu de scènes d'initiations, sur lesquelles je me réserve de m'expliquer ailleurs, nous apprend que si rien ne nous défend de rapporter ces petits monuments aux mystères de Mylitta, rien ne nous empêche non plus de reconnaître ici, comme nous l'avons fait sur les médailles et les bas-reliefs asiatiques cités, que le cyprès est l'image symbolique de la déesse. Le premier des deux cylindres que je produis, appartient à la précieuse collection de M. J. Robert Steuart ; le second, au musée britannique. Le témoignage d'un troisième cylindre, figuré à côté de ceux-ci,* semblerait pouvoir être invoqué à l'appui de mon assertion ; car, au milieu d'une scène qui se rattache aux cérémonies usitées dans la célébration des mystères de Mylitta, il nous offre un arbre mystique, dont la forme conventionnelle est probablement empruntée à celle du cyprès pyramidal. Au-dessus de l'arbre, on distingue le _mihr_, symbole dont le type primitif est la colombe, oiseau consacré à Vénus et à Mithra chez les peuples de l'Asie antérieure. Ce beau cylindre fait partie de mon ancienne collection, maintenant en la possession de M. le marquis de Fortia.* Un quatrième cylindre, tiré du cabinet des médailles et antiques de la Bibliothèque royale, et figuré ici sous le n° 3 de la planche 38 de nos _Monuments inédits_, peut servir de second exemple, pour nous montrer comment un art hiératique, procédant par une méthode que j'appellerai conventionnelle, modifiait à son gré la forme originale des objets ou des êtres empruntés aux divers règnes de la nature.* Sur ce petit monument, en effet, si l'on n'avait pas ailleurs plusieurs termes de comparaison, nous pourrions avoir quelque peine à reconnaître un palmier dans l'arbre mystique qui est planté entre deux boucs, au milieu d'une scène d'initiation, et qui porte deux colombes posées sur ses branches latérales.
+Je place sous les yeux du lecteur les dessins de deux cylindres assyriens,* où la présence du cyprès, au milieu de scènes d'initiations, sur lesquelles je me réserve de m'expliquer ailleurs, nous apprend que si rien ne nous défend de rapporter ces petits monuments aux mystères de Mylitta, rien ne nous empêche non plus de reconnaître ici, comme nous l'avons fait sur les médailles et les bas-reliefs asiatiques cités, que le cyprès est l'image symbolique de la déesse. Le premier des deux cylindres que je produis, appartient au Musée britannique ; le second, au cabinet des médailles et antiques de la Bibliothèque royale de Paris. Le témoignage d'un troisième cylindre, figuré à côté de ceux-ci,* semblerait pouvoir être invoqué à l'appui de mon assertion ; car, au milieu d'une scène qui se rattache aux cérémonies usitées dans la célébration des mystères de Mylitta, il nous offre un arbre mystique, dont la forme conventionnelle est probablement empruntée à celle du cyprès pyramidal. Au-dessus de l'arbre, on distingue le _mihr_, symbole dont le type primitif est la colombe, oiseau consacré à Vénus et à Mithra chez les peuples de l'Asie antérieure. Ce beau cylindre fait partie de mon ancienne collection, maintenant en la possession de M. le marquis de Fortia.* Un quatrième cylindre, tiré du cabinet des médailles et antiques de la Bibliothèque royale, et figuré ici sous le n° 3 de la planche 38 de nos _Monuments inédits_, peut servir de second exemple, pour nous montrer comment un art hiératique, procédant par une méthode que j'appellerai conventionnelle, modifiait à son gré la forme originale des objets ou des êtres empruntés aux divers règnes de la nature.* Sur ce petit monument, en effet, si l'on n'avait pas ailleurs plusieurs termes de comparaison, nous pourrions avoir quelque peine à reconnaître un palmier dans l'arbre mystique qui est planté entre deux boucs, au milieu d'une scène d'initiation, et qui porte deux colombes posées sur ses branches latérales.
 
 *) _Monum. inéd._, t. 4., pl. 38., n°s 2 et 4.
 
@@ -677,4 +681,126 @@ On se tromperait fort si l'on croyait que l'usage de suspendre des offrandes aux
 
 ### § 4\. _Kachemyre et Inde._
 
-...
+A l'est de l'ancienne Bactriane, dans le pays que nous appelons aujourd'hui le _Kachemyre_, la culture du cyprès pyramidal est fort répandue, selon le témoignage unanime des voyageurs. Elle remonte à une époque que l'on ne saurait déterminer, mais qui peut-être suivit de près l'arrivée de Zoroastre à Bactres et la plantation des deux cyprès que ce personnage célèbre plaça l'un devant le palais du roi Gustasp, l'autre devant le pyrée de Kaschmer. Ce qui me porte à présenter cette conjecture, c'est le nom de _dêva-darou_, l'arbre de dieu ou l'arbre divin, qu'a retenu le cyprès pyramidal chez les Kachemyriens, et la mention fréquente que l'on rencontre de cet arbre, sous le même nom, dans leurs poëmes épiques populaires, où il sert de terme de comparaison à peu près comme dans le Schah-namèh de Firdousi et dans les autres poëmes modernes de l'Orient. _Dêva-darou_ est identique avec le _div-dar_ ou _div-darou_ des lexiques persans ou arabes. D'un autre côté, les ornements que, dans les schâles de Kachemyre, nous appelons improprement _palmes_, doivent leur origine à l'imitation du cyprès pyramidal. Cette assertion se trouve confirmée par la comparaison que chacun peut faire de la forme habituelle de ces palmes avec la forme de convention qu'affectent les cyprès sculptés dans les bas-reliefs du grand escalier de l'édifice principal de Persépolis. Or cet arbre est originaire des contrées occidentales de l'Asie, et non de la province de Kachemyre. Si j'ajoute que la fabrication des schâles, commune à ce pays et à la Perse, remonte à une époque fort ancienne, de même que le tissage des brocards d'or ou d'argent et des étoffes de soie, où les Persans se plaisent à prodiguer les palmes, c'est-à-dire les cyprès, nous serons conduits à conjecturer qu'en Perse, comme dans le Kachemyre, ce genre d'ornement a dû primitivement être appliqué aux étoffes riches et précieuses dont on avait, dans tout l'Orient, l'usage de parer les statues et les temples des dieux. Ces étoffes, ainsi que celles dont on se servait pour le costume des prêtres, des rois et des dignitaires de la cour, étaient souvent chargées de symboles religieux. J'aurai ailleurs l'occasion d'en donner des preuves irrécusables.
+
+*) Voy. ma Lettre à M. Th. Panofka, insérée dans les _Ann. de l'Instit. archéol._, t. 5., p. 97.
+
+Au delà de l'Indus et de ses affluents on n'aperçoit aucune trace de la culture du cyprès pyramidal. Cet arbre semble être resté étranger au sol de l'Asie orientale ; et cependant il en est fait mention à diverses reprises, m'assure-t-on, dans les plus anciens livres sacrés des Indiens, les Vêdas. Il y reçoit, de même que dans les poëmes kachemyriens, le nom de _dêva-darou_, l'arbre de dieu. De plus, il paraît y être l'objet d'un culte particulier, auquel s'associe celui de plusieurs personnages mythologiques, très-analogues aux Faunes, aux Dryades et aux Hamadryades des écrivains occidentaux de l'antiquité ; circonstance qui a conduit à remarquer que ces deux derniers noms nous offrent, dans leur composition, le mot _dry_, identique avec _drou_ et _darou_, qui, en sanscrit, comme dans les idiomes de la Perse, signifient _arbre_.* Mais, en même temps, il faut observer que les monuments figurés qui nous restent de l'Inde ancienne ne présentent aucun exemple de l'attribution du cyprès à une des nombreuses divinités du panthéon indien. Il faut observer aussi que les poëtes modernes de cette vaste contrée, au lieu de comparer au cyprès, comme le fontles poëtes arabes ou persans, le port et la taille de leurs héros et de leurs héroïnes, les comparent à d'autres espèces d'arbres qui sont indigènes dans l'Inde. C'est parmi ceux qui portent sur deux pieds séparés leurs fleurs mâles et leurs fleurs femelles, que les Indiens choisissaient les deux arbres dont j'ai dit plus haut* qu'ils se servaient pour célébrer d'une manière symbolique les noces des dieux. J'ajouterai ici que les livres religieux de ce peuple qui nous apprennent ce fait, mentionnent aussi la coutume où étaient les dévots d'adopter pour fils un arbre, et de lui adresser des invocations en l'appelant « mon fils. » Toutefois nous ne voyons pas que cet arbre fût de l'espèce du cyprès.
+
+*) Quelques personnes pensent que le nom des _Druides_ peut avoir la même origine.
+
+Dans l'Inde, le cyprès ne figure pas davantage auprès des monuments funéraires, qu'il ne figure soit auprès des divinités représentées sur les monuments de l'art, soit parmi les arbres cultivés sur le sol ; il est pourtant connu sous une seconde dénomination, _soka_, qui, en sanscrit, signifie proprement _tristesse, douleur_,* et qui a peut-être quelque rapport avec le nom arménien du cyprès, _sos_. Faut-il en conclure qu'à des époques fort anciennes, dont le souvenir s'est effacé dans la mémoire des hommes, les Indiens, comme plusieurs autres peuples civilisés de l'Orient et de l'Occident, avaient fait du cyprès un emblème funéraire ? Ou bien doit-on croire que cet usage ne fut jamais pratiqué dans l'Inde, et que le nom _soka_ et sa signification, _tristesse, douleur_, y étaient une importation étrangère ? En ce cas, faudrait-il attribuer cette importation au grand mouvement qui, durant une période très-reculée, semble avoir fait rayonner d'un centre commun vers les diverses parties du monde, la haute civilisation à laquelle étaient parvenus, sur les bords du Tigre et de l'Euphrate, les Chaldéens et leurs élèves les Assyriens ? Je n'entreprendrai pas de décider ces diverses questions ; et jusqu'à la publication de la partie des Vêdas où il est question du cyprès, je m'abstiendrai également de tirer aucune conséquence des observations très-incomplètes qui m'ont été communiquées sur le rôle que joue cet arbre dans les anciennes traditions des Indiens.
+
+*) Ci-dessus, p. 5.
+
+*) _Asoka_, en sanscrit, signifie : sans douleur.
+
+### § 5\. _Afrique._
+
+Le cyprès pyramidal ne croît pas non plus spontanément sur le sol de l'Égypte, où, comme dans l'Inde, rien n'indique même que la main de l'homme ait jamais été employée à planter et cultiver des forêts de cet arbre. C'est de la Syrie que, dans les temps anciens, l'Égypte tirait tout le bois de cyprès dont elle avait besoin pour ses constructions navales. Lors donc que nous trouvons des cyprès représentés sur les anciens édifices religieux, ou sur les monuments funéraires que nous a légués l'antiquité égyptienne, nous pouvons hardiment affirmer que les Égyptiens avaient reçu de l'Asie occidentale le culte de cet arbre symbolique avec le culte de quelque divinité génératrice, ou de quelque divinité infernale. Parmi les sculptures égyptiennes que le temps a respéctées, il est un bas-relief dont le témoignage peut être invoqué avec toute confiance à l'appui d'une telle assertion. Ce bas-relief décore, à l'est, une des faces du grand temple de Dendérah, de ce temple que l'on sait avoir été élevé en l'honneur d'Hâthor, divinité originaire de l'Asie occidentale, et identique avec la Vénus assyrienne ou chaldéenne. Une des significations symboliques que j'attribue au cyprès pyramidal se révèle ici à nos yeux d'une manière plus explicite encore que sur les monuments figurés asiatiques qui ont été cités dans le cours de ce mémoire. Le bas-relief dont j'entends parler, et dont un dessin est gravé dans la _Description de l'Égypte_,* représente, en effet, un prêtre debout, accomplissant un acte d'adoration devant un dieu mâle et ithyphallique, et portant dans la main droite un jeune cyprès pyramidal, qu'il élève vers cette divinité. Malgré la forme caractéristique de l'arbre et ses dimensions, MM. Jollois et Devilliers, à qui l'on doit la description du grand temple de Dendérah, indiquent dans le texte, au lieu d'un jeune cyprès, une espèce de _pomme de pin_. Un savant académicien, M. Jomard, n'hésite pas à penser avec moi qu'il y a inadvertance dans une pareille désignation, et que le dessin qui a été joint par MM. Jollois et Devilliers à leur description ne peut laisser aucun doute sur l'intention qu'avait eue le sculpteur, de représenter un jeune cyprès pyramidal. Or le dieu qui reçoit cette offrande est celui que Champollion le jeune appelle _Amon générateur_ ou _Mendès_, et qu'il assimile à Pan ou à Priape, dont nous trouvons, chez les Grecs, le culte associé à celui d'Aphrodite, de même qu'à Dendérah et ailleurs le culte d'Amon générateur ou Mendès est associé à celui de Vénus-Hâthor.
+
+*) _Antiquités_, t. 4., pl. 26, fig. 1.
+
+Ce sont aussi deux jeunes cyprès pyramidaux que l'on reconnaît sans hésitation sur un des deux autels qui, dans une peinture du sanctuaire de Karnak, sont placés auprès du dieu ithyphallique _Amon générateur_ ou _Mendès_. Entre ces deux arbres, qui sont peints en vert, et qui nous rappellent les deux cyprès plantés auprès de Vénus-Astarté ou auprès de Mithra, sur les monuments cités plus haut, on voit se dresser une tige de lotus bleu, dont la fleur s'épanouit au sein d'un calice peint en rouge et en jaune.* Cet emblème religieux a été gravé, avec la figure du dieu, dans la _Description de l'Égypte_,* et reproduit par Champollion le jeune dans son _Panthéon Égyptien_* ; mais il n'a donné lieu, de sa part, à aucune remarque. On peut croire cependant que si le savant dont la mort prématurée a laissé un grand vide dans l'Académie royale des inscriptions, avait connu les rapports intimes qui, dans l'Asie occidentale, existèrent dès une haute antiquité, entre le symbole du cyprès et plusieurs divinités génératrices, nommément Mylitta ou Astarté et Mithra, il aurait rapproché du sujet peint à Karnak le bas-relief de Dendérah que je viens d'indiquer, et les nombreuses caisses de momies où l'on trouve peint le cyprès pyramidal au milieu de scènes funéraires auxquelles présidait, chez les Égyptiens, Vénus-Hâthor, ou la déesse Neith, qui se confond avec elle. Rapprochant ensuite de ces diverses représentations les traditions ou les monuments asiatiques et les bas-reliefs mithriaques d'époque romaine que j'ai cités, comme aussi les traditions et les monuments grecs ou romains que je signalerai plus loin, Champollion se serait trouvé conduit à reconnaître, ainsi que je viens de le faire, que le cyprès pyramidal avait été importé de l'Asie occidentale en Egypte, dès une époque très-reculée, avec la même signification symbolique qui lui était attribuée par les peuples asiatiques, et très-probablement avec le culte de celle de leurs divinités créatrices, Vénus par exemple, à laquelle le cyprès pyramidal était particulièrement affecté.* Par là enfin, il eût été amené à rechercher quand et par qui avait eu lieu cette double importation ; question d'un haut intérêt, question difficile à résoudre, que n'embrassent pas mes recherches actuelles sur le culte du cyprès pyramidal, et dont la solution semble être subordonnée à la solution de la question ardue des origines égyptiennes.
+
+*) Une fleur de lotus, également placée entre deux cyprès, se voit aussi sur une stèle égyptienne du musée Britannique, dont il sera question dans la note 1 de la page suivante.
+
+*) _Antiquités_, t. 3., pl. 47, n° 2.
+
+*) Pl. 4.
+
+*) Cette présomption se change en certitude à la vue d'une belle stèle égyptienne que, depuis la rédaction de ce mémoire, M. E. Prisse a dessinée au musée Britannique, et dont il a bien voulu me communiquer un dessin qu'il vient de réduire et de publier dans la _Revue archéologique_ (3e année, t. 3., n° du 15 février 1847). Cette stèle nous offre deux scènes : dans la partie supérieure, une déesse entièrement nue, vue de face, debout et les pieds posés sur le dos d'un lion ou d'une lionne, marchant de gauche à droite, tient dans la main droite une couronne ou un cercle, avec une fleur épanouie et deux boutons de lotus. De la main gauche elle porte deux serpents un peu frustes. Cette figure, dont le nom et la qualification peuvent se lire, dans la légende hiéroglyphique de la déesse, _Koun, reine absolue du ciel_, est certainement une des formes de la Vénus assyrienne, appelée Hâthor ou Athyr, chez les Égyptiens ; elle nous reporte à la Vénus-Astarté de Yazili-kaïa également montée debout sur un lion, et à une multitude de figures de dieux, de déesses, de prêtresses ou de prêtres qui, sur des monuments asiatiques, sont aussi placés debout sur des lions, sur des taureaux, ou sur d'autres animaux symboliques. A la gauche de la déesse de notre stèle est sculptée debout une divinité mâle, dont le nom, écrit en caractères hiéroglyphiques, se lit, selon M. Prisse, _Ranpo_ ou _Renpho_. A la droite de la même déesse, on voit un dieu mâle et ithyphallique, que le même voyageur appelle _Amon-Ra, le Fécondateur_. Derrière ce dieu, comme sur l'autel peint, dans le sanctuaire de Karnak à côté d'Amon générateur ou Mendès, s'élève une tige fleurie de lotus, plantée entre deux cyprès, que l'on pourrait prendre pour les emblèmes asiatiques du soleil et de la lune. Leur sommet se courbe ou plutôt s'incline vers la déesse Koun, en signe d'adoration ; et c'est ainsi que, dans la Grèce moderne, sur des tombeanx, dont je parlerai plus en détail dans la dernière partie de mes recherches, on voit une croix plantée entre deux cyprès qui inclinent chacun la tête vers le signe révéré des chrétiens. Nous retrouvons deux cyprès dans la seconde scène, qui est sculptée sur la stèle que je décris, et qui en occupe la partie inférieure ; mais ici le sommet de ces deux arbres n'est pas courbé ; et, au lieu d'être plantés à côté d'une tige de lotus, ils sont placés entre les trois pieds ou supports d'une table ou d'un autel posé devant une divinité femelle, assise, coiffée du pschent, vêtue et armée. Celle-ci, comme la déesse Koun, est une autre forme de la Vénus assyrienne ; mais son culte, dans cette scène, n'est pas réuni à celui d'Amon fécondateur ou générateur, ainsi qu'il l'est dans la scène supérieure. Son nom, _Anta_, ou _Tanata_ (avec le T article féminin), que M. Prisse lit dans la légende hiéroglyphique gravée auprès d'elle, lui paraît être l'origine primordiale du grec [GREEK], la mort. Mais ce nom pourrait aussi nous rappeler la déesse _Tanath_ ou _Taneth_ des inscriptions puniques découvertes dans l'Afrique septentrionale, et la déesse _Tanaïtis_ ou _Anaïtis_ des auteurs occidentaux, l'une et l'autre identiques avec la Vénus _Anahid_ des Assyriens, qui, sans nul doute, était, comme l'Astarté des Phéniciens, une déesse armée. De même Mithra, chez les Perses, était un dieu armé ; toutes ses armes sont décrites, avec le plus grand soin, dans le Zend-Avesta. Un acte d'adoration est accompli devant la Vénus-Tanata de la stèle du musée Britannique par trois personnages, qui, très-probablement, représentent un adolescent précédé de son père et de sa mère. Le jeune homme porte, de la main droite, une tige fleurie de lotus, et, de la main gauche, une colombe, offrande dont l'Asie occidentale revendique l'usage. Le costume du père, ainsi que le style du monument, appartient au temps où régnaient, en Égypte, les rois de la dix-huitième dynastie. On voit, par les remarques qui précèdent, que cette précieuse stèle sert non-seulement à confirmer l'identité de la Vénus des Égyptiens avec la Vénus assyrienne et la Vénus phénicienne, mais aussi à montrer que, sur un monument égyptien d'une époque reculée, le cyprès pyramidal, qui, je le répète, est originaire de l'Asie occidentale et non de l'Égypte, se trouve intimement lié au culte de Vénus-Hâthor, représentée sous deux formes différentes. Ce monument sera reproduit en entier dans mes _Recherches sur le culte de Vénus en Orient et en Occident_ ; mais j'ai cru devoir placer ici, sous le n° 2 de la planche additionnelle E, le dessin des deux cyprès qui, dans la partie supérieure de la stèle, sont plantés auprès d'une tige fleurie de lotus ; et, sous le n° 12 de la planche 38 de nos _Monuments inédits_, le dessin des deux cyprès placés, dans la scène inférieure, entre les supports de la table ou de l'autel chargé d'offrandes.
+
+D'autres parties de l'Afrique septentrionale, où le cyprès pyramidal ne croît pas spontanément, avaient sans doute, comme l'Égypte, reçu de l'Asie occidentale le culte de cet arbre avec celui de quelque divinité génératrice. Mais on n'en a qu'une preuve indirecte ; elle se tire des traditions relatives aux rites funèbres qui étaient en usage chez les Carthaginois. Je dois donc différer de la produire jusqu'au moment où je serai amené à considérer le cyprès comme un emblème funéraire.
+
+Ne doutons point que si les révolutions politiques dont Carthage fut le théâtre n'avaient pas détruit ou dispersé les monuments d'un culte apporté de Tyr par les fondateurs de la nouvelle cité, nous aurions, dans les antiquités figurées, comme dans les livres sacrés des Carthaginois, d'aussi fréquents exemples de l'attribution du cyprès à la déesse Astarté que nous en fournissent les antiquités qui, sur le sol de la Phénicie, ont survécu aux bouleversements politiques et physiques. Et ce que je dis ici de Carthage doit s'entendre également de tous les établissements que les Phéniciens ou d'autres colonies asiatiques avaient formés sur les côtes de l'Afrique septentrionale.
+
+# Explication des Planches.
+
+### Qui appartiennent aux Recherches sur le Culte du Cyprès pyramidal.
+
+## Planche 38.
+
+(_Monum. inéd. de l'Instit. archéol._, vol 4.)
+
+N° 1\. Petit bas-relief coulé en bronze, acquis à Rome par M. le professeur Éd. Gerhard, et déposé au _Musée royal de Berlin_.
+
+N° 2\. Cylindre de jaspe noir. _Musée britannique_.
+
+N° 3\. Cylindre d'hématite. _Bibliothèque royale de Paris_.
+
+N° 4\. Cylindre de stéatite verte. _Même collection_.
+
+N° 5\. Cylindre de belle hématite. _Même collection_.
+
+N° 6\. Bas-relief votif palmyrénien. Hauteur, 4 palm. rom. et 4/12 ; largeur, 3 palm. rom. environ.* _Musée capitolin_.
+
+*) La palme de Rome équivaut à environ 212 millimètres.
+
+N° 7\. Médaille coloniale d'Héliopolis (Cœlésyrie), à l'effigie de Philippe père. BR. _Bibliothèque royale de Paris_.
+
+N° 8\. Moyen bronze d'Élagabale, frappé dans l'île d'Aradus. _Même collection_.
+
+N° 9\. Développement de la périphérie d'un vase funéraire d'argent, trouvé, assure-t-on, dans le Rhône, entre Lyon et Vienne. Il est reproduit ici avec les dimensions de l'original. _Même collection_.
+
+N° 9\. _a._ Réduction de la forme de ce même vase.
+
+N° 10\. Médaille coloniale d'_Ælia Capitolina_, à l'effigie de Septime Sévère. BR. _Bibliothèque royale de Paris_.
+
+N° 11\. Face antérieure d'un autel ou cippe votif, palmyrénien, et de marbre. Hauteur, 3 palm. rom. et 10/12 ; largeur, 2 palm. rom. et 5/12 environ. _Musée capitolin_.
+
+N° 11\. _a._ Face postérieure du même monument.
+
+N° 11\. _b._ Face latérale gauche du même monument.
+
+N° 11\. _c._ Face latérale droite du même monument.
+
+N° 12\. Table ou autel chargé d'offrandes, tiré d'une stèle égyptienne dessinée par M. E. Prisse au _Musée britannique_.
+
+## Planches additionnelles.
+
+### Planche B, _Ann._ 1847.
+
+N° 1\. Médaille coloniale de Damascus (Cœlésyrie), à l'effigie de Philippe fils. BR. _Bibliothèque royale de Paris_.
+
+N° 2\. Médaille coloniale de Tyr, à l'effigie de Caracalla. BR. _Même collection_.
+
+N° 3\. Autre médaille coloniale de la même ville, à l'effigie de cet empereur. BR. _Même collection_.
+
+N° 4\. Médaille coloniale de la même ville, à l'effigie de Volusien. BR. _Même collection_.
+
+N° 5\. Médaille coloniale de Bostra (Arabie), à l'effigie de Trajan Dèce. BR. _Même collection_.
+
+N° 6\. Moyen bronze d'Élagabale, frappé dans l'île d'Aradus. _Même collection_.
+
+### Planche C, _Ann._ 1847.
+
+N° 1\. Médaille coloniale de Damascus, à l'effigie de Trébonianus Gallus. BR. _Bibliothèque royale de Paris_.
+
+N° 2\. Moyen bronze d'Élagabale, frappé à Tripolis de Phénicie. _Même collection_.
+
+N° 3\. Médaille coloniale d'_Ælia Capitolina_, à l'effigie de Septime Sévère. BR. _Même collection_.
+
+N° 4\. Moyen bronze de Caracalla, frappé à Tripolis de Phénicie. _Même collection_.
+
+N° 5\. Autre moyen bronze de cet empereur, frappé dans la même ville. _Même collection_.
+
+N° 6\. Moyen bronze de Julia Domna, frappé à _Germanica Cæsarea_ (Commagène). _Même collection_.
+
+### Planche D, _Ann._ 1847.
+
+N° 1\. Cône de calcédoine saphirine. _Bibliothèque royale de Paris_.
+
+N° 2\. Cône du _Musée britannique_.
+
+N° 3\. Médaille autonome de Nagidus (Cilicie). AR. _Bibliothèque royale de Paris_.
+
+N° 4\. Autre médaille autonome de la même ville. AR. _Même collection_.
+
+N° 5\. Grand bronze Julia Domna, frappé à _Apollonia_ (Illyrie). _Même collection_.
+
+### Planche E, _Ann._ 1847.
+
+N° 1\. Petite plaque de bronze, trouvée en Transylvanie, et reproduite ici avec les dimensions de l'original. Possesseur non connu.
+
+N° 2\. Emblème tiré de la stèle égyptienne dessinée par M. E. Prisse au _Musée britannique_.
