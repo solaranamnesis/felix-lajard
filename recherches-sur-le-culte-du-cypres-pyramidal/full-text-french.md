@@ -18,6 +18,8 @@
 
 ### § 3\. [_Perse._](#-3-perse-1)
 
+### § 4\. [_Kachemyre et Inde._]()
+
 ---
 
 (Extrait des _Nouvelles Annales de l'Institut archéologique_ ; vol. 19., 1847.)
@@ -205,11 +207,7 @@ Bien que les archéologues n'aient encore signalé aucune représentation figur�
 
 *) _Doctr. num._, t. 3., p. 532.
 
-*) Mém. cité, p. 25. --- Le docteur Lampe était bien plus près de la vérité lorsque, 
-parlant de quelques médailles romaines, frappées en Syrie ou dans la Cœlésyrie, il 
-disait (_loc. cit._, p. 35) qu'elles représentent, placé au milieu du temple de Hiérapolis, 
-un cyprès, arbre consacré au soleil, à cet astre qui, chez les Syriens, était adoré sous le 
-nom de Baal ou Jupiter.
+*) Mém. cité, p. 25. --- Le docteur Lampe était bien plus près de la vérité lorsque, parlant de quelques médailles romaines, frappées en Syrie ou dans la Cœlésyrie, il disait (_loc. cit._, p. 35) qu'elles représentent, placé au milieu du temple de Hiérapolis, un cyprès, arbre consacré au soleil, à cet astre qui, chez les Syriens, était adoré sous le nom de Baal ou Jupiter.
 
 *) Eichhorn, _Comment. Societ. reg. scient. Gottingens._, t. 4., p. 98-105.
 
@@ -221,9 +219,7 @@ nom de Baal ou Jupiter.
 
 *) _Mus. Hederv._, 3., p. 93, n° 32 ; C. M. H., n° 6126.
 
-*) Cf. deux médailles impériales de Tripolis de Phénicie, frappées en l'honneur 
-d'Élagabale, et succinctement décrites, l'une par Vaillant (_Num. græc._), et l'autre par 
-Tiepolo (_Mus. Theupol. antiq. num._, p. 1015).
+*) Cf. deux médailles impériales de Tripolis de Phénicie, frappées en l'honneur d'Élagabale, et succinctement décrites, l'une par Vaillant (_Num. græc._), et l'autre par Tiepolo (_Mus. Theupol. antiq. num._, p. 1015).
 
 *) Mém. cité, p. 25.
 
@@ -542,5 +538,141 @@ Firdousi, dans son _Schah-namèh_,* ajoute, au sujet du cyprès de Kischmer, que
 *) Hamdallah Cazwini rapporte, au sujet du cyprès de Kaschmer, quelques particularités qui s'écartent de celles que présente le récit de Firdousi. Voy. Sir William Ouseley's _Travels_, vol. 1., p. 388 et 389.
 
 *) _Schah-namèh_, 3e djeld, cité par Anquetil du Perron (_Vie de Zoroastre_, dans le _Zend-Avesta_, t. 1., 2e partie, p. 54).
+
+Le _Dabistân_* décrit, d'après le code de Mâhâbâd, les différentes régions dont se compose le paradis. Les minéraux appartiennent à la première ; les végétaux, à la seconde. Celle-ci renferme deux arbres : le platane et le cyprès. L'auteur du _Dabistân_* ne fait mention que d'une seule branche de cyprès, qui, selon les livres des Behdinians, aurait été rapportée du paradis par Zoroastre, et serait devenue un arbre, après avoir été plantée de ses mains devant l'atesch-gah ou le pyrée de Kischmer. Mais le même ouvrage nous apprend que,* selon quelques Yezdénians, Zoroastre avait imploré en faveur de ce rejeton la protection particulière d'_Azerwan_ (l'ized du feu), surveillant supérieur de tous les arbres de l'espèce du cyprès. On voit ici comment l'idée du feu, exprimée à la fois par un pyrée et par l'ized qui préside à cet élément, se rattache à la signification symbolique de l'arbre dont on avait fait l'emblème ou l'attribut des divinités génératrices, et dont la forme pyramidale rappelle la forme de la flamme qui s'élance de la terre vers les cieux. L'auteur anonyme du _Dessâtir_,* s'il est permis de citer une pareille composition, renchérit sur cette alliance d'idées : parmi les nombreux emprunts qu'il fait au Dabistân, sans indiquer la source où il puise, nous retrouvons la tradition qui caractérise la région des végétaux par le platane et le cyprès ; mais il ajoute au nom d'_Azerwan_ celui de _Nuzerwan_ (l'ized de la lumière), qui aurait été le second gardien de ces deux arbres.
+
+*) _The Dabistan or School of manners, translated from the original Persian by David Sea and Anthony Troyer_, vol. 1., p. 150 (Paris, 1843, 3 vol. in-8°).
+
+*) _Ibid._, p. 309.
+
+*) _Ibid._, _ibid._
+
+*) Pag. 9, § 57.
+
+Hyde* n'a pas omis de rapporter, d'après le _Fehrengi-Djihanguiri_, que, par l'ordre de Motawakkel, dixième kalife abasside, le cyprès qu'avait planté Zoroastre à Kischmer, dans le Khorassan,* fut coupé et transporté à Baghdad, malgré les instances et les offres considérables d'argent que firent les mages ou destours pour obtenir la révocation des ordres du khalife. Ces faits sont racontés fort au long dans un chapitre du Dabistân,* et dans un article du _Behran Katti_, cité par Sir William Ouseley.* Ils s'y trouvent accompagnés de quelques détails qui nous apprennent de, plus, que lorsque la volonté de Motawakkel fut connue à Kischmer, la population du canton et celle de tout le Khorassan se rassemblèrent au pied du cyprès sacré, suppliant, avec des lamentations et des larmes, le gouverneur arabe d'épargner cet objet de leur vénération. Le refus de ce gouverneur fut suivi d'une scène de désolation générale ; et l'arbre, en tombant sous les coups redoublés de la hache des Arabes, causa d'immenses dégâts aux bâtiments et aux fontaines du voisinage. Une grande catastrophe devait marquer la chute de ce cyprès sacré, et empêcher qu'il fût mis en la possession du khalife qui l'avait fait abattre. Le convoi qui transportait à Baghdad le tronc et les dépouilles de cet arbre, était parvenu à une journée du palais de _Djafariah_, le 12 décembre 861, lorsqu'on apprit que, pendant la nuit et à la suite d'une débauche, Motawakkel avait été assassiné, dans cette résidence, par les chefs de la garde turque. Selon le Dabistân, les Yezdénians prétendaient que le gardien céleste des cyprès était apparu à un docteur nommé Hakim Mirza, pour lui annoncer d'avance qu'il avait ordonné que l'on mît à mort Motawakkel, coupable du crime d'avoir fait abattre le cyprès de Kaschmer. Le compilateur persan, voulant nous donner une idée des dimensions gigantesques qu'avait atteintes cet antique cyprès, porte à la somme exorbitante de cinq cent mille dinars* le montant des frais occasionnés par le transport du tronc seul, et raconte que les branches formèrent la charge de treize cents chameaux. Quelques écrivains mahométans, ajoute-t-il, disent que le tronc n'avait pas moins de trente-trois coudées et trois quarts de circonférence, et que quatorze cent cinquante ans s'étaient écoulés depuis le jour où il avait été planté jusqu'à l'année 232 de l'hégire. Cette date, qui correspond à l'an 846-847 de notre ère, ferait ainsi remonter la plantation du cyprès de Zoroastre jusqu'en l'année 604 ou 603 avant J. C. Anquetil se croit autorise à retrancher quatre-vingt-trois ou quatre-vingt-deux ans de ce chiffre.* Il calcule qu'en 524 Zoroastre était à Babylone, et que trois ans après, c'est-à-dire en 521, il revint en Perse pour y établir le culte du cyprès. Quelle que soit la date qu'il convienne d'adopter, nous pouvons tenir pour certain que, si ce culte n'avait pas déjà été introduit dans ce pays au temps de Djemschid* ou de Féridoun, comme le donne à entendre Firdousi, il y fut institué, au plus tard, vers les premières années du sixième siècle avant J. C., par Zoroastre, l'élève des Chaldéens d'Assyrie. Ce fait mérite d'autant plus d'attirer notre attention, qu'avec le culte du cyprès, l'auteur du Zend-Avesta apportait en Perse, je le répète, le culte de Mithra, divinité androgyne, primitivement identique avec la Vénus chaldéenne ou assyrienne, dont nous avons vu que le cyprès, dès une époque très-reculée, fut un des symboles ou un des attributs caractéristiques.
+
+*) _Hist. relig. veter. Pers._, p. 332.
+
+*) C'est à tort qu'Anquetil du Perron (_ubi supra_) reproche à Th. Hyde d'avoir confondu ici Kaschmer avec Kachemyre.
+
+*) _The Dabistan_, etc., vol. 1., p. 306-308.
+
+*) _Travels_, vol. 1., p. 387 et 388.
+
+*) Le _dinar_ est une monnaie de compte, par laquelle on entend ordinairement la valeur du sequin de Venise ou de Hongrie, c'est-à-dire un peu moins de douze francs. Quelquefois cependant on prend le _dinar_ pour l'équivalent de treize francs.
+
+*) _Zend-Avesta_, t. 1., 2e part. (Vie de Zoroastre), p. 61.
+
+*) L'époque de l'arrivée de Djemschid en Perse est fort incertaine. Langlès la fixait au huitième siècle avant J. C. ; Saint-Martin la reculait jusqu'au quinzième.
+
+Remarquons aussi que Zoroastre, en plantant un cyprès à côté du pyrée de Kischmer, ne faisait qu'imiter un usage dont nous avons trouvé des exemples analogues, soit sur des médailles asiatiques qui reproduisent des types propres à la religion des Assyriens, des Syriens ou des Phéniciens, soit dans un récit emprunté aux traditions religieuses des Troyens ou des Phrygiens. D'autres exemples, comme nous le verrons plus loin, se rencontrent sur des médailles frappées en Occident, ou dans la description qui nous reste de plusieurs édifices religieux de la Grèce.
+
+Remarquons enfin que l'auteur du _Schah-namèh_, qui partout se montre très-initié à la connaissance des anciens usages religieux ou civils de la Perse, dit que Féridoun planta des cyprès et des roses à la place des herbes sauvages* ; il compare fréquemment au cyprès, au soleil, à la lune, les princes et princesses des premières dynasties persiques ; il emploie même, avec intention sans doute, certaines images qui font une allusion plus ou moins directe à quelque tradition antique, ou à quelque ancien monument de l'art. C'est ainsi, par exemple, qu'il nous représente, dans la salle du trône, le roi d'Irân, Féridoun, tantôt placé comme un grand cyprès, au-dessus duquel brille la lune, entre ses deux épouses, Schehrinaz à la taille de cyprès et Arnewaz à la face de lune* ; tantôt entouré de ses trois fils à stature de cyprès, et de ses trois belles-filles,* de même que le soleil est entouré des six planètes. Poursuivant le récit de la vie et des actions de son héros, Firdousi* raconte que, dans un acte de violent désespoir, Féridoun, qui venait de recevoir la nouvelle de la mort de son troisième fils, Iredj, roi d'Irân, mit le feu au palais et au jardin de ce prince, et brûla notamment _les hauts cyprès_ plantés dans la partie du jardin où se célébrait la fête des rois. Précédemment* le poëte avait appelé _cyprès argenté_, Arnewaz _à la face de lune_. Plus loin,* Zal, dans un entretien avec son amante Roudabèh _au visage de lune_, l'interpelle en ces termes : « O cyprès au sein argenté et parfumé de musc ! ... » Par à Firdousi nous permet de croire que, puisque le cyprès de la lune était d'argent, le cyprès du soleil devait être d'or. Cette remarque, rapprochée de la tradition persane qui nous a appris qu'à Bactres le palais élevé auprès du cyprès de Zoroastre avait une toiture d'or et un plafond d'argent, ne nous montre-t-elle pas que ces deux métaux furent consacrés à Mithra, comme ils le furent à Mylitta, à Apollon et à toutes les divinités créatrices qui, primitivement androgynes, avaient pour manifestation, dans l'ordre de la création du monde, le soleil et la lune, agents du pouvoir générateur actif et du pouvoir générateur passif ? Le palais d'or et d'argent érigé auprès du cyprès, image symbolique de Mithra, comme d'Apollon,* le cyprès d'or du soleil et le cyprès d'argent de la lune ne nous ramènent-ils pas ainsi à un antique usage qui, de l'Asie occidentale, était passé chez les Grecs, et sur lequel, dans une autre occasion, j'ai appelé l'attention des savants,* l'usage d'ériger aux divinités génératrices des statues composées d'or et d'argent ou d'or et d'ivoire ?
+
+*) _Le Livre des Rois_, trad. franç. de M. J. Mohl, t. 1., p. 119.
+
+*) _Ibid._, p. 103 ; cf. p. 73, 77, 79.
+
+*) _Ibid._, p. 119 et 137.
+
+*) _Ibid._, p. 163.
+
+*) _Ibid._, p. 75.
+
+*) _Ibid._, p. 269.
+
+Le temps, qui ne respecte rien, les tremblements de terre et le fanatisme aveugle des musulmans, qui ont couvert de ruines le sol de la Perse, semblent avoir cependant laissé subsister une partie des antiques sculptures de Persépolis pour servir de confirmation au double témoignage que, dans la question de l'importation en Perse du culte du cyprès, nous fournissent les traditions conservées par les écrivains musulmans que j'ai cités, et les monuments mithriaques, d'époque romaine, dont il sera question tout à l'heure. Au milieu des groupes de l'imposante panégyrie qui décore le grand escalier de l'édifice improprement appelé Tchéhelminar, on voit plusieurs cyprès,* dont la présence suffit ici pour justifier Firdousi d'avoir placé des cyprès dans la partie des jardins du palais d'Iredj où se célébrait la fête des rois.* Car les archéologues et les voyageurs s'accordent à reconnaître que, sur les faces des quatre rampes du grand escalier de Tchéhelminar, on avait voulu représenter la fête du _neu-rouz_ ou nouvel an, instituée tout à la fois en l'honneur d'Ormuzd et de Mithra et en l'honneur du roi. Le neu-rouz aujourd'hui n'est qu'une cérémonie civile, qui se célèbre dans le palais du prince régnant ; mais, comme autrefois, remarquons-le bien, elle se célèbre à l'équinoxe vernal,* à l'époque où une nouvelle vie se répand sur la terre. Les sculptures de Persépolis présentent le double caractère, religieux et civil, qui s'observe dans la composition de tous les autres monuments antiques de la Perse. Et si, à l'angle de chacune des quatre rampes du grand escalier, on trouve, non loin des cyprès et de la panégyrie royale, le groupe d'un lion dévorant un taureau, emblème énergique du phénomène solaire propre à l'équinoxe vernal,* quelques bas-reliefs, qui ornent d'autres parties des édifices de Persépolis, nous montrent Mithra, sous le symbole de la colombe ou du _mihr_, placé au milieu d'une rangée de taureaux et au milieu d'une rangée de lions, superposées l'une à l'autre.* Ces diverses particularités nous ramènent, on le voit, aux médailles asiatiques citées,* qui ont pour type Vénus-Astarté représentée sous l'emblème d'un cyprès planté entre un lion et un taureau, symboles du soleil et de la lune ; ou sous l'emblème d'un cône placé entre deux cyprès, autres symboles de ces mêmes astres. En même temps, nous découvrons à quelle source avait été puisé le dogme du Zend-Avesta,* qui place au ciel, entre le soleil et la lune, la résidence habituelle de Mithra.
+
+*) On verra plus loin qu'à Alexandria-Trojas un cyprès avait été planté à côté de la statue d'Apollon Sminthéus.
+
+*) _Nouv. Annal. de l'Instit. archéol._, t. 1., p. 204-209. --- _Recherches sur le culte de Vénus_, p. 108-116.
+
+*) Porter's _Travels in Georgia, Persia_, etc., vol. 1., pl. 34 et 38.
+
+*) Depuis que ceci a été écrit, les dessins et les bas-reliefs originaux apportés de Khorsabad à Paris sont venus m'apprendre qu'au milieu de quelques-unes des scènes représentées sur les murs du palais assyrien découvert par M. Botta, on voit plusieurs grands cyprès, de forme conventionnelle (_Monum. de Ninive, découv. et décr. par M. Botta, dessiné et mesuré par M. Flandin_, pl. 109, 111-113). Ces scènes se rapportent peut-être à la _fête des rois_, dont il est question dans le récit de Firdousi. Sans nul doute, elles font partie d'une vaste composition destinée à représenter la vie religieuse, civile et militaire d'un roi d'Assyrie. Elles nous permettent ainsi de croire qu'à Khorsabad, c'est-à-dire auprès des ruines de Ninive, les cyprès caractérisent les jardins de ce prince, comme les cyprès des sculptures de Persépolis et les _hauts cyprès_ du Schâhnamèh servent à caractériser les jardins des rois de Perse, de la race des Achéménides. Voilà donc un exemple de plus des usages empruntés par les Perses aux Assyriens.
+
+*) Selon le témoignage des auteurs arabes, l'usage d'offrir au souverain des présents, à l'époque du _neu-rouz_ ou nouvel an, s'était perpétué à la cour des khalifes de Baghdad jusqu'au temps des Abassides (Voy. _Ibn Khallikan's Biographical Dictionary, translat. fr. the Arabic by baron Mac Guckin de Slane._ Paris, 1842, in-4° ; vol. 1., p. 203, et p. 340, note 13). Cet usage était certainement la continuation d'une coutume qui se pratiquait à la cour des anciens rois de Ninive et de Babylone, avec cette différence cependant que, sous les Abassides, le _neu-rouz_ se célébrait à l'équinoxe d'automne, et non à l'équinoxe vernal. C'est ainsi que nous verrons ailleurs la fête de Mithra (le _Mihirdjân_ ou _Mihrgân_) transportée de l'équinoxe du printemps à l'équinoxe d'automne.
+
+*) Voy. _Mém. de l'Acad. des inscript._, t. 15., 2e part., p. 65-69.
+
+*) Chardin, _Voyage en Perse_, t. 2., pl. 63. et 64. ; édit. d'Amsterdam, 1735. --- Corneille Le Bruyn, _Voyage par la Moscovie en Perse_, t. 2., pl. 153 ; éd. d'Amterd., 1718. --- Niebuhr, _Voyage en Arabie_, t. 2., pl. 29. et 30. ; édit. d'Amst., 1780. --- Dans mes _Recherches sur le culte public et les mystères de Mithra_ (pl. 4.), je publie, d'après un dessin plus fidèle, exécuté sur les lieux par M. Eug. Flandin, le bas-relief que j'indique ici.
+
+*) Ci-dessus, pag. 10 et 11.
+
+*) T. 2., p. 13. --- Voy. _Mém. de l'Acad. des inscript._, t. 14., 2e part., p. 98.
+
+Une preuve moins directe, mais non moins authentique, des rapports que le système religieux emprunté par Zoroastre aux Chaldéens d'Assyrie avait établis entre Mithra, le soleil, la lune et le cyprès, se tire de quatre bas-reliefs mithriaques, d'époque romaine, dont je me réserve de parler avec détail dans la seconde section de ce mémoire, et où nous trouverons le cyprès du soleil et le cyprès de la lune sculptés, l'un à la droite, l'autre à la gauche du dieu des Perses.
+
+Les témoignages que nous fournissent les sculptures de Persépolis et ces quatre bas-reliefs mithriaques romains, nous permettent de croire que les cylindres persiques, gravés pour les sectateurs du culte secret de Mithra, reproduisaient, à leur tour, l'emblème du cyprès, tout comme les cylindres des mystères assyriens de Mylitta. Je ne puis en citer aucun ; mais je dois dire que si, au lieu d'attribuer au culte secret de Mithra les trois cylindres reproduits sous les n°s 2, 3 et 4 de la pl. 38 de nos _Monuments inédits_, je les ai compris au nombre de ceux que revendiquent les mystères de la Vénus assyrienne, je ne m'y suis trouvé déterminé que par l'appréciation du style propre à chacun de ces trois petits monuments, et non par des considérations tirées de tel ou tel détail caractéristique. Je ferai voir ailleurs que, lorsque les cylindres et les cônes ne sont accompagnés d'aucune légende en caractères cunéiformes, ou en caractères propres aux écritures nationales des peuples sémitiques, il est impossible de distinguer, autrement que par l'appréciation toujours difficile et plus ou moins arbitraire du style de la gravure, ceux de ces petits monuments figurés qu'il conviendrait de rapporter aux mystères de Mylitta ou d'Astarté, et ceux qui réellement appartiennent aux mystères de Mithra. Presque toujours ils se confondent les uns avec les autres par l'identité de leurs sujets, de leur style et des divers symboles sous lesquels y sont représentées ces deux divinités, qui, jamais, à ma connaissance, ne s'y trouvent figurées sous une forme humaine.
+
+Un passage très-laconique de Dinon, que nous a conservé Athénée,* est tout ce qui nous reste des détails que les auteurs anciens avaient dû recueillir sur l'emploi du cyprès, en Perse, dans les cérémonies religieuses ou civiles. Ce passage nous apprend que, chez les Perses, on tressait des _couronnes de cyprès_ ; mais il ne nous dit pas à quel usage on les faisait servir, et peut-être là, comme ailleurs, n'étaient-elles employées que dans les rites funéraires.
+
+Avant de quitter la terre classique où il faut étudier les doctrines, les symboles et les monuments de l'art propres au culte public et aux mystères de Mithra, examinons si elle ne fournirait pas quelque témoignage non équivoque, qui pût être ajouté à celui que déjà nous ont fourni les sculptures de Persépolis. Examinons si, tandis que dans une des provinces occidentales de la Perse, l'entrée d'une grotte creusée dans le roc, aux environs de Vân, a retenu, d'âge en âge jusqu'à nous, le nom de _Porte de Mithra_,* le souvenir du culte du cyprès et la vénération des Perses pour cet arbre symbolique ne se seraient pas également perpétués parmi les habitants actuels de la Perse méridionale.
+
+*) _Deipnosoph._, t. 4., p. 373 ; ed. Schweigh.
+
+*) Le docteur Frédéric Schulz (_Journ. asiatiq._, 3e série, t. 9., p. 302 et suiv.) nous apprend, en effet, que cette entrée s'appelle encore aujourd'hui _Meher-Capoussi_.
+
+A l'ouest des sépultures royales de Nakhsch-i-Roustem, et à trois heures de distance, s'élèvent trois rochers qu'on désigne communément sous le nom de forteresses d'_Istakhr_ ou _Istakhar_. Autrefois fortifiés par l'art, ils durent servir à défendre l'entrée de la plaine où sont situées les ruines de Persépolis ; ils dominent cette plaine ; et, comme si le culte du cyprès, dans des lieux qui furent chers aux sectateurs de Zoroastre, n'avait jamais dû cesser d'être attesté par un témoin vivant, on voit aujourd'hui encore, sur la plate-forme du rocher du milieu, un vieux cyprès planté à côté d'une ruine que les Persans appellent _Kalèh-serv_, c'est-à-dire le _Fort du cyprès_.* Le tronc de cet arbre, objet de leur vénération, est peut-être un dernier rejeton des cyprès qui autrefois avaient dû être plantés devant les portiques de Persépolis, à l'exemple des cyprès plantés chez les Assyriens, les Syriens, les Phéniciens, les Phrygiens, devant ou dans les temples de la Vénus assyrienne ; et à l'exemple aussi des deux cyprès plantés par Zoroastre, l'un à Bactres, devant le palais du roi Gustasp, l'autre à Kischmer, devant un pyrée. Ce tronc n'a pas moins de quatre mètres de circonférence ; il touche à un grand réservoir qui reçoit de plusieurs autres réservoirs supérieurs les eaux pluviales, et qui semble destiné à nous rappeler que le culte de Mithra devait toujours se célébrer auprès d'une source naturelle ou artificielle.* Plus au midi de la Perse, à l'ouest de Persépolis, dans les montagnes des Bahméi, au lieu nommé _Tenghi-Saoulek_, et situé à six ou sept parasanges de Bahbèhan ou Behbèhan, on a récemment trouvé dans une forêt de chênes et de cyprès deux bas-reliefs antiques qui, s'il est permis d'en juger d'après une description très-sommaire,* ont dû appartenir à quelque monument consacré au culte de Mithra. Ajoutons, sur la foi de tous les voyageurs, que dans le midi de la Perse, comme dans l'ancienne Babylonie, comme aux environs des ruines de Palmyre, les forêts de cyprès ne sont pas rares, et que cet arbre y atteint des proportions majestueuses. Ajoutons aussi, d'après le témoignage d'un passage de Firdousi,* cité par mon savant ami M. Jules Mohl,* qu'à Merv, sous le règne du sulthan Mahmoud, vivait un personnage nommé _Serv-Azad_, qui se disait de la famille de Sam, fils de Nériman. Il s'appelait ainsi parce que probablement le nom de Serv-Azad, que j'expliquerai plus loin, était en usage au temps des ancêtres dont il prétendait descendre. Ce qui n'est pas douteux, c'est que ce nom composé, dont la première partie signifie cyprès, nous ramène à ceux de _Sos_ et de _Serv_, que nous avons vus portés, l'un par un ancien roi d'Arménie, l'autre, par un roi du Yémen, contemporain de Féridoun.
+
+*) Voy. un rapport de M. Coste, inséré dans le journal _l'Institut_, n° 77, mai 1842, p. 69.
+
+*) Eubule cité par Porphyre, _De antr. nymphar._, cap. 7. ; cf. cap. 17.
+
+*) Voy. la Lettre de M. Eugène Boré, qui a été publiée dans le _Journal asiatique_, 3° série, t. 13., 1842, p. 328 et suiv.
+
+*) Manuscrits persans de la Biblioth. royale, n° 229, fol. 3 _verso_.
+
+*) _Le Livre des Rois_, trad. franç., t. 1., Préface, p. 47.
+
+Personne n'ignore que, de tout temps, le culte des arbres, malgré l'invasion des doctrines exclusives de l'islamisme, n'a pas cessé d'être très-répandu dans les diverses provinces de la Perse. Le poëte Saadi, dans son _Gulistan_ ou _Jardin des roses_,* nous montre un personnage persan qui, chaque nuit, se rend au pied d'un arbre sacré, s'y agenouille, et prie Dieu de lui accorder un fils. Cet arbre, dit le poëte, était journellement visité par une foule de pèlerins qui avaient quelque grâce à demander. Barbaro, envoyé à la cour de Perse, vers l'année 1471, par le gouvernement de Venise, fut étonné, en traversant les provinces persanes, d'y trouver de vieux arbres qui recevaient une espèce de culte.* Plus tard, en 1622, Pietro della Valle* éprouve le même étonnement lorsqu'en présence d'un antique cyprès resté debout à Passa ou Pasa, auprès des ruines que l'on croit être celles de Pasargarde, il apprend quelles dévotions viennent accomplir les Persans au pied de cet arbre, et avec quelle foi ils croient que ce cyprès renferme l'esprit ou l'âme de quelque personnage bienheureux. Plus tard encore, Chardin* et le frère Angélo,* pendant leur voyage en Perse, signalent, en plusieurs lieux, le culte qu'ils voient les Persans rendre à de vieux arbres, appelés du terme générique de _dirakht-i-fázel_, c'est-à-dire _les arbres excellents_, expression que l'on croirait empruntée au langage de Zoroastre. Le voyageur français, faisant une mention particulière d'un platane planté sur une des places d'Ispahan et journellement visité dans un but religieux, remarque que, parmi les Persans musulmans, les dévots aiment mieux faire leurs prières sous un vieux arbre que dans une mosquée. On sait aussi, par les récits des écrivains musulmans et des voyageurs européens,* qu'à Schiraz, pendant bien des siècles, deux superbes cyprès, appelés l'_amant_ et sa _maîtresse_, furent l'objet d'une espèce de culte de la part des habitants de la ville et de la province. De nos jours encore, et je puis apporter ici mon témoignage personnel, on rencontre fréquemment en Perse des arbres de diverses espèces, tout chargés de morceaux d'étoffes que des pèlerins sont venus y suspendre avec une intention superstitieuse. Sir William Ouseley, dans l'appendice de l'intéressante relation de son Voyage en Perse,* rapporte même une anecdote qui prouve que, depuis Saadi jusqu'à nous, la Perse a vu plus d'une fois se renouveler, au pied des _arbres excellents_, une prière inspirée par Le désir d'obtenir le bonheur de la paternité.
+
+*) Voy. Ouseley's _Travels_, t. 1., p. 377.
+
+*) Voy. la traduction latine de son itinéraire dans l'ouvrage de Bizarus, intitulé _Rerum Persicarum historia_, p. 469 sqq.
+
+*) _Viaggi_, t. 2., La Persia, parte 2a, lett. 16 de' 27 di luglio 1622, p. 311 ; Rom. 1658.
+
+*) _Voyage en Perse_, t. 2., p. 44, 47, 49, 86, 87 et 200.
+
+*) _Gazophyl. ling. Pers._, sub. voc. _Platano_, p. 293.
+
+*) Voy. Sir William Ouseley's _Travels_, vol. 1., p. 400 et suiv. --- Dans ce même volume, on trouvera des détails intéressants sur le culte des arbres en Égypte et dans quelques autres parties de l'Afrique (p. 391 et 394), comme aussi sur le platane appelé _Ménélaïs_ (p. 389).
+
+*) _Ibid._, vol. 1., p. 384 et 385.
+
+On se tromperait fort si l'on croyait que l'usage de suspendre des offrandes aux branches de ces arbres est né en Perse dans les temps modernes. Des traditions certaines nous apprennent qu'à l'époque des Achéménides, il y était déjà établi. Sous le règne de l'un de ces princes, Xerxès 1er, c'est le roi lui-même qui, parvenu à une journée de Sardes, s'arrête au pied d'un superbe platane, suspend aux branches de cet arbre de riches chlamydes, des bracelets d'or, plusieurs autres offrandes, et prépose à la garde de l'objet de sa dévotion un des guerriers du _corps des immortels_. Le fait nous est attesté par Hérodote* et par Ælien.* Ce dernier écrivain place dans son récit quelques détails que ne contient pas celui d'Hérodote, et qui nous permettent de croire qu'il avait puisé ailleurs que dans le livre de son célèbre devancier. Xerxès, en agissant comme on le raconte, ne faisait qu'ajouter de puériles démonstrations aux préceptes tracés dans le Zend-Avesta, préceptes que Zoroastre disait avoir reçus d'Ormuzd lui-même, et qui s'accordent parfaitement avec le culte des arbres en général et avec le culte du cyprès en particulier. Le _Vendidâd_,* par exemple, ordonne de prier, d'invoquer les arbres, et les qualifie de _purs et saints_ : « Approchez-vous des arbres qui croissent, dit Ormuzd à Zoroastre dans ce livre.* Prononcez bien ces paroles près des arbres qui croissent : je prie les arbres purs et saints qu'Ormuzd a donnés. L'abondance et le béhescht* sont pour le juste qui est pur. Celui-là est pur qui est saint, qui fait des œuvres célestes et pures. Tirez de ces (arbres) le barsom long d'une fois la largeur (de l'arbre). Qu'il n'y ait que l'homme pur qui coupe le barsom ; et que, le tenant de la main gauche, il fasse izechné à Ormuzd, aux Amschaspands,* au hom de couleur d'or, grand et très-pur,* au pur Bahman* qu'Ormuzd a établi chef du behescht. » Aussi trouvons-nous dans le 2e hâ de l'Izeschné* cette formule, plusieurs fois répétée ailleurs : « Avec ce zour,* avec ce barsom, je prie tous les arbres donnés d'Ormuzd, purs, et je leur fais iescht. » Ces paroles se prononcent à la suite d'une invocation dans laquelle le mazdéïesnan adresse sa prière à Mithra, au soleil, à la lune, au feu, fils d'Ormuzd, et à l'eau pure et excellente, donnée d'Ormuzd.* Bien plus, on retrouve la prière aux arbres dans le néaesch du soleil* et dans le néaesch de la lune,* qui, je le répète, doivent se réciter l'un avant, l'autre après le néaesch de Mithra. De telle sorte que, si les bas-reliefs romains nous montrent Mithra placé entre le cyprès du soleil et le cyprès de la lune,* la liturgie du Zend-Avesta nous montre la prière à Mithra placée entre deux prières, l'une au soleil et aux arbres, l'autre à la lune et aux arbres. Enfin ce code religieux établit entre les arbres et les _féroüers_ des rapports qui méritent d'être remarqués, et qui nous font comprendre comment, chez les Perses, le culte des arbres se liait à celui des _féroüers_, c'est-à-dire au culte dés mânes ou des héros : « Je fais izeschné aux purs, forts et excellents féroüers des Saints, qui montrent aux arbres créés à croître purement ; qui, placés au dessus (des arbres) donnés en abondance, (comme) sur un trône, sont occupés à les bénir* ... » Telle est la traduction que nous donne Anquetil d'un passage de la longue prière qui fut composée par Zoroastre en l'honneur des féroüers, l'_iescht farvardin_. On a fait remarquer avant moi que l'auteur avait dû puiser à la même source où les Grecs prirent l'idée de leurs Dryades et de leurs Hamadryades, devenues, sous la plume des poëtes chrétiens du moyen âge, des arbres et des forêts enchantés. Mais je crois avoir le premier, il y a plusieurs années, signalé l'importation en Étrurie de l'usage asiatique dont je parlais tout à l'heure, celui de suspendre des péplus, des écharpes, ou des morceaux d'étoffes, aux branches des arbres sacrés. Un exemple incontestable de cette importation m'a été fourni par les belles et curieuses peintures de la grotte Marzi.*
+
+*) 7., 31.
+
+*) _Var. histor._, 2., 14. ; cf. 9., 39. ; Eustath. ad Homer. _Iliad._, 2., 307.
+
+*) Le _Vendidâd_ est le vingtième nosk du _Zend-Avesta_.
+
+*) _Zend-Avesta_, t. 1., 2e partie (_Vendidâd_, farg. 19.), p. 416.
+
+*) Ce mot, qui équivaut à Gorotman et à Albordj, sert à désigner le lieu du ciel où résident Ormuzd, Mithra, les Amschaspands, les Izeds, et les féroüers des bien-heureux.
+
+*) Il faut bien remarquer que le soleil et la lune, dans le _Zend-Avesta_, sont qualifiés du titre d'Amschaspands, comme les sept conseillers d'Ormuzd.
+
+*) On n'est pas d'accord sur l'espèce d'arbre que Zoroastre appelle _le hom_. Peut-être n'est-ce qu'un nom générique.
+
+*) Bahman est la manifestation d'Ormuzd et de Mithra comme rois du ciel (Voy. _Mém. de l'Acad. des inscript._, t. 15., 2e part., p. 220-227).
+
+*) _Zend-Avesta_, t. 1., 2e part., p. 96.
+
+*) Le _zour_ est une eau consacrée, dont on faisait un fréquent usage dans la liturgie persique.
+
+*) _Zend-Avesta_, _loc. cit._, p. 95.
+
+*) _Zend-Avesta_, t. 2., p. 14.
+
+*) _Ibid._, p. 19. Dans cette même prière (p. 18) on récite ces paroles : « Lorsque la lumière de la lune répand la chaleur, elle fait croître les arbres de couleur d'or, elle multiplie la verdure sur la terre. »
+
+*) Ci-dessus, p. 57.
+
+*) _Zend-Avesta_, t. 2. (Iescht farvardin, 15e cardé), p. 257.
+
+### § 4\. _Kachemyre et Inde._
 
 ...
