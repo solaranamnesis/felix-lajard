@@ -22,9 +22,9 @@
 
 ### § 4\. [_Kachemyre et Inde._](#-4-kachemyre-et-inde-1)
 
-### § 5\. [_Afrique._]()
+### § 5\. [_Afrique._](#-5-afrique-1)
 
-# [Explication des Planches.]()
+# [Explication des Planches.](#explication-des-planches-1)
 
 ---
 
