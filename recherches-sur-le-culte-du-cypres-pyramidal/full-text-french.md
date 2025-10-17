@@ -4,6 +4,8 @@
 
 ## Par M. Félix Lajard.
 
+### 1847.
+
 ---
 
 ### [Introduction.](#introduction-1)
