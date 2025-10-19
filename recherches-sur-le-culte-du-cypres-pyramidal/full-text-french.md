@@ -759,7 +759,7 @@ N° 12\. Table ou autel chargé d'offrandes, tiré d'une stèle égyptienne dess
 
 ## Planches additionnelles.
 
-### Planche B, _Ann._ 1847.
+### [Planche B, _Ann._ 1847.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-b.png)
 
 N° 1\. Médaille coloniale de Damascus (Cœlésyrie), à l'effigie de Philippe fils. BR. _Bibliothèque royale de Paris_.
 
@@ -773,7 +773,7 @@ N° 5\. Médaille coloniale de Bostra (Arabie), à l'effigie de Trajan Dèce. BR
 
 N° 6\. Moyen bronze d'Élagabale, frappé dans l'île d'Aradus. _Même collection_.
 
-### Planche C, _Ann._ 1847.
+### [Planche C, _Ann._ 1847.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-c.png)
 
 N° 1\. Médaille coloniale de Damascus, à l'effigie de Trébonianus Gallus. BR. _Bibliothèque royale de Paris_.
 
@@ -787,7 +787,7 @@ N° 5\. Autre moyen bronze de cet empereur, frappé dans la même ville. _Même 
 
 N° 6\. Moyen bronze de Julia Domna, frappé à _Germanica Cæsarea_ (Commagène). _Même collection_.
 
-### Planche D, _Ann._ 1847.
+### [Planche D, _Ann._ 1847.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-d.png)
 
 N° 1\. Cône de calcédoine saphirine. _Bibliothèque royale de Paris_.
 
@@ -799,7 +799,7 @@ N° 4\. Autre médaille autonome de la même ville. AR. _Même collection_.
 
 N° 5\. Grand bronze Julia Domna, frappé à _Apollonia_ (Illyrie). _Même collection_.
 
-### Planche E, _Ann._ 1847.
+### [Planche E, _Ann._ 1847.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-e.png)
 
 N° 1\. Petite plaque de bronze, trouvée en Transylvanie, et reproduite ici avec les dimensions de l'original. Possesseur non connu.
 
