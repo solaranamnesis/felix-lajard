@@ -31,6 +31,7 @@
 \usepackage{booktabs}
 \setlength{\emergencystretch}{15pt}
 \usepackage{microtype}
+\usepackage{fancyhdr}
 \begin{document}
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
@@ -83,6 +84,8 @@
 \setcounter{tocdepth}{3}
 \setcounter{secnumdepth}{3}
 \tableofcontents
+\clearpage
+\listoffigures
 \clearpage
 \section*{Introduction}
 \begin{center}
@@ -228,6 +231,7 @@ Ne doutons point que si les révolutions politiques dont Carthage fut le théât
 \clearpage
 \vspace*{\fill}
 \section{Explication des Planches --- Qui appartiennent aux Recherches sur le Culte du Cyprès pyramidal}
+\vspace{5\baselineskip}
 
 \subsection{Planche 38}
 \begin{center}
@@ -235,6 +239,10 @@ Ne doutons point que si les révolutions politiques dont Carthage fut le théât
 \end{center}
 \vspace*{\fill}
 \clearpage
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Planche 38.}
+\cfoot{{\thepage}}
 \vspace*{\fill}
 \begin{figure}[H]
 \centering
@@ -363,6 +371,7 @@ Ne doutons point que si les révolutions politiques dont Carthage fut le théât
 \end{figure}
 \vspace*{\fill}
 \clearpage
+\pagestyle{plain}
 \vspace*{\fill}
 \begin{center}
 \textbf{Planches additionnelles.}
@@ -382,13 +391,19 @@ N° 5. Médaille coloniale de Bostra (Arabie), à l'effigie de Trajan Dèce. BR.
 N° 6. Moyen bronze d'Élagabale, frappé dans l'île d'Aradus. \emph{Même collection}.
 \vspace*{\fill}
 \clearpage
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Planches additionnelles. --- Planche B.}
+\cfoot{{\thepage}}
 \vspace*{\fill}
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.8\textwidth,keepaspectratio]{plate-b.png}
+\caption{Planche B, \emph{Ann.} 1847.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
+\pagestyle{plain}
 \vspace*{\fill}
 \subsection{Planche C, \emph{Ann.} 1847}
 \paragraph{}
@@ -405,13 +420,19 @@ N° 5. Autre moyen bronze de cet empereur, frappé dans la même ville. \emph{M�
 N° 6. Moyen bronze de Julia Domna, frappé à \emph{Germanica Cæsarea} (Commagène). \emph{Même collection}.
 \vspace*{\fill}
 \clearpage
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Planches additionnelles. --- Planche C.}
+\cfoot{{\thepage}}
 \vspace*{\fill}
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.85\textwidth,keepaspectratio]{plate-c.png}
+\caption{Planche C, \emph{Ann.} 1847.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
+\pagestyle{plain}
 \vspace*{\fill}
 \subsection{Planche D, \emph{Ann.} 1847}
 \paragraph{}
@@ -426,13 +447,19 @@ N° 4. Autre médaille autonome de la même ville. AR. \emph{Même collection}.
 N° 5. Grand bronze Julia Domna, frappé à \emph{Apollonia} (Illyrie). \emph{Même collection}.
 \vspace*{\fill}
 \clearpage
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Planches additionnelles. --- Planche D.}
+\cfoot{{\thepage}}
 \vspace*{\fill}
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.8\textwidth,keepaspectratio]{plate-d.png}
+\caption{Planche D, \emph{Ann.} 1847.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
+\pagestyle{plain}
 \vspace*{\fill}
 \subsection{Planche E, \emph{Ann.} 1847}
 \paragraph{}
@@ -441,10 +468,15 @@ N° 1. Petite plaque de bronze, trouvée en Transylvanie, et reproduite ici avec
 N° 2. Emblème tiré de la stèle égyptienne dessinée par M. E. Prisse au \emph{Musée britannique}.
 \vspace*{\fill}
 \clearpage
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Planches additionnelles. --- Planche E.}
+\cfoot{{\thepage}}
 \vspace*{\fill}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.8\textwidth,keepaspectratio]{plate-e.png}
+\includegraphics[width=0.75\textwidth,keepaspectratio]{plate-e.png}
+\caption{Planche E, \emph{Ann.} 1847.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
