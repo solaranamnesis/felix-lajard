@@ -723,39 +723,39 @@ Ne doutons point que si les révolutions politiques dont Carthage fut le théât
 
 (_Monum. inéd. de l'Instit. archéol._, vol 4.)
 
-N° 1\. Petit bas-relief coulé en bronze, acquis à Rome par M. le professeur Éd. Gerhard, et déposé au _Musée royal de Berlin_.
+[N° 1\.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-01.png) Petit bas-relief coulé en bronze, acquis à Rome par M. le professeur Éd. Gerhard, et déposé au _Musée royal de Berlin_.
 
-N° 2\. Cylindre de jaspe noir. _Musée britannique_.
+[N° 2\.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-02.png) Cylindre de jaspe noir. _Musée britannique_.
 
-N° 3\. Cylindre d'hématite. _Bibliothèque royale de Paris_.
+[N° 3\.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-03.png) Cylindre d'hématite. _Bibliothèque royale de Paris_.
 
-N° 4\. Cylindre de stéatite verte. _Même collection_.
+[N° 4\.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-04.png) Cylindre de stéatite verte. _Même collection_.
 
-N° 5\. Cylindre de belle hématite. _Même collection_.
+[N° 5\.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-05.png) Cylindre de belle hématite. _Même collection_.
 
-N° 6\. Bas-relief votif palmyrénien. Hauteur, 4 palm. rom. et 4/12 ; largeur, 3 palm. rom. environ.* _Musée capitolin_.
+[N° 6\.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-06.png) Bas-relief votif palmyrénien. Hauteur, 4 palm. rom. et 4/12 ; largeur, 3 palm. rom. environ.* _Musée capitolin_.
 
 *) La palme de Rome équivaut à environ 212 millimètres.
 
-N° 7\. Médaille coloniale d'Héliopolis (Cœlésyrie), à l'effigie de Philippe père. BR. _Bibliothèque royale de Paris_.
+[N° 7\.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-07.png) Médaille coloniale d'Héliopolis (Cœlésyrie), à l'effigie de Philippe père. BR. _Bibliothèque royale de Paris_.
 
-N° 8\. Moyen bronze d'Élagabale, frappé dans l'île d'Aradus. _Même collection_.
+[N° 8\.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-08.png) Moyen bronze d'Élagabale, frappé dans l'île d'Aradus. _Même collection_.
 
-N° 9\. Développement de la périphérie d'un vase funéraire d'argent, trouvé, assure-t-on, dans le Rhône, entre Lyon et Vienne. Il est reproduit ici avec les dimensions de l'original. _Même collection_.
+[N° 9\.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-09.png) Développement de la périphérie d'un vase funéraire d'argent, trouvé, assure-t-on, dans le Rhône, entre Lyon et Vienne. Il est reproduit ici avec les dimensions de l'original. _Même collection_.
 
-N° 9\. _a._ Réduction de la forme de ce même vase.
+[N° 9\. _a._](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-09a.png) Réduction de la forme de ce même vase.
 
-N° 10\. Médaille coloniale d'_Ælia Capitolina_, à l'effigie de Septime Sévère. BR. _Bibliothèque royale de Paris_.
+[N° 10\.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-10.png) Médaille coloniale d'_Ælia Capitolina_, à l'effigie de Septime Sévère. BR. _Bibliothèque royale de Paris_.
 
-N° 11\. Face antérieure d'un autel ou cippe votif, palmyrénien, et de marbre. Hauteur, 3 palm. rom. et 10/12 ; largeur, 2 palm. rom. et 5/12 environ. _Musée capitolin_.
+[N° 11\.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-11.png) Face antérieure d'un autel ou cippe votif, palmyrénien, et de marbre. Hauteur, 3 palm. rom. et 10/12 ; largeur, 2 palm. rom. et 5/12 environ. _Musée capitolin_.
 
-N° 11\. _a._ Face postérieure du même monument.
+[N° 11\. _a._](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-11a.png) Face postérieure du même monument.
 
-N° 11\. _b._ Face latérale gauche du même monument.
+[N° 11\. _b._](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-11b.png) Face latérale gauche du même monument.
 
-N° 11\. _c._ Face latérale droite du même monument.
+[N° 11\. _c._](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-11c.png) Face latérale droite du même monument.
 
-N° 12\. Table ou autel chargé d'offrandes, tiré d'une stèle égyptienne dessinée par M. E. Prisse au _Musée britannique_.
+[N° 12\.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1847/plate-38-12.png) Table ou autel chargé d'offrandes, tiré d'une stèle égyptienne dessinée par M. E. Prisse au _Musée britannique_.
 
 ## Planches additionnelles.
 
