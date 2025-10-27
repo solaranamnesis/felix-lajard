@@ -68,7 +68,7 @@ Originaire des contrées méridionales de l'Asie antérieure, comme l'attestent 
 
 D'autres avantages naturels avaient dû concourir à faire du cyprès, dans les idées des Chaldéens d'Assyrie, un emblème expressif du créateur du monde : telles furent sans doute la longévité de cet arbre très-vivace,* sa fécondité, la forme tétragonale de ses rameaux* ; la persistance de son feuillage toujours vert, toujours vivant ; la nature réputée incorruptible de son bois* ; la bonne odeur qu'il exhale ; les substances inflammables qu'il produit, comme tous les arbres résineux ; la croyance où l'on était que les objets placés dans des coffrets de bois de cyprès,* ou enveloppés de feuilles de cyprès,* pouvaient se conserver indéfiniment ; la vigueur de constitution* de cet arbre, qui lui permet de braver à la fois l'intensité de la chaleur, les frimats et les neiges ; la forme enfin de ses fruits, quelquefois assimilée à celle de deux organes qui sont une partie essentielle de l'appareil génital de l'homme.
 
-*) Voyez, sur la longévité du cyprès pyramidal et sur les grandes dimensions qu'atteint cet arbre, même en Europe, un article inséré, par M. Loiseleur-Deslonchamps, dans les _Annales de la Société d'horticulture à Paris_ (83e livraison, p. 37-53), et intitulé, _Recherches sur l'histoire des cyprès_.
+*) Voyez, sur la longévité du cyprès pyramidal et sur les grandes dimensions qu'atteint cet arbre, même en Europe, un article inséré, par M. Loiseleur-Deslongchamps, dans les _Annales de la Société d'horticulture à Paris_ (83e livraison, p. 37-53), et intitulé, _Recherches sur l'histoire des cyprès_.
 
 *) Le nombre quatre et la forme carrée ou cubique faisaient allusion aux quatre éléments, et furent consacrés à Vénus comme à toutes les divinités créatrices.
 
