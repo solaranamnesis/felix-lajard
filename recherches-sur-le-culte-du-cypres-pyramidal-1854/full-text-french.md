@@ -107,7 +107,7 @@ Au-dessus de la dédicace latine, qui se compose de six lignes, on voit un buste
 [HEBREW]
 
 1re ligne. _Aram* hanc Malachbelo et diis Palmyræ_  
-2e ligne. _obtulit T(i)B(e)RI(u)S CL(a)UDI(u)S F(e)L(i)CS  
+2e ligne. _obtulit_ T(i)B(e)RI(u)S CL(a)UDI(u)S F(e)L(i)CS  
 3e ligne. _et Palmyreni diis suis. Salve_ (ou _pax_).
 
 C'est-à-dire : « Tibérius Claudius Félix a consacré cet autel à Malachbel et aux dieux de Palmyre, et les Palmyréniens à leurs dieux. Salut (ou paix)* ! »
