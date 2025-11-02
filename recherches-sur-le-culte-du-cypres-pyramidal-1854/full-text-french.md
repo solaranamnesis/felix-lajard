@@ -12,11 +12,11 @@
 
 # [Premier Mémoire.](#premier-mémoire-1)
 
-## [Première Section. --- Orient.]()
+## [Première Section. --- Orient.](#première-section-----orient-1)
 
-### § [1er. --- Babylonie, Assyrie, Syrie, Phénicie, Arménie, Commagène, et Asie Mineure.]()
+### § [1er. --- Babylonie, Assyrie, Syrie, Phénicie, Arménie, Commagène, et Asie Mineure.](#-1er-----babylonie-assyrie-syrie-phénicie-arménie-commagène-et-asie-mineure-1)
 
-### § [2\. --- Arabie.]()
+### § [2\. --- Arabie.](#-2-----arabie-1)
 
 # [Second Mémoire.](#second-mémoire-1)
 
