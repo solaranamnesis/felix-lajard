@@ -294,6 +294,8 @@ On se tromperait fort si l'on croyait que l'usage de suspendre des offrandes aux
 
 ### § 4\. --- Pays situés entre la Perse et l'Indus, Inde, Thibet, Chine et Japon.
 
+Sur les plateaux habités de l'Afghanistân, et du royaume de Kaboul en particulier, comme aussi dans les vallées dépendantes des chaînes de montagnes qui traversent ou qui bordent ces deux pays, on trouve, mêlée avec des cèdres, des chênes, des châtaigniers, des oliviers sauvages et d'autres arbres, une grande espèce de cyprès. Si je ne me trompe, elle fut remarquée pour la première fois, en 1808, par M. Mount Stuart Elphinstone.* M. Carl Ritter* n'hésite pas à la rapporter à l'espèce appelée en Europe _pyramidale_, bien que le voyageur anglais ne s'explique pas sur ce point et semble faire ses réserves en disant : « A sort of gigantic cypress are also among the natives of the mountains. » L'habile géographe allemand n'hésite pas davantage à affirmer* que le cyprès pyramidal est du nombre des arbres dont se composent les forêts situées aux environs de Hérat, dans l'Afghanistân, mais qu'il ne croît pas spontanément dans les vallées du Kachemîr.
+
 ...
 
 # Second Mémoire.
