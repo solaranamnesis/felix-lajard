@@ -381,6 +381,46 @@ La petite stèle qui me permet de faire ces divers rapprochements remonte à une
 
 « Le nom de la déesse est très-important ; c'est pourquoi j'ajouterai ici que j'ai trouvé plusieurs variantes qui me paraissent éclaircir la valeur du premier caractère [HIERO], jusqu'ici douteux. Il y a, par exemple, dans le Rituel funéraire, une série de personnages qui se retrouve deux fois (chapitres 144 et 147) ; le second porte le nom de _Sati-ha_. Il est écrit dans le premier endroit [HIERO], et dans le second [HIERO] ; il en résulte que, suivant toute apparence, le signe [HIERO] est syllabique et se prononçait _sat_. Les signes syllabiques sont, à volonté, escortés de leurs compléments phonétiques, comme ici [HERIO] de _s_ [HIERO] et _t_ [HIERO] ; cependant, comme on ajoute quelquefois aux radicaux une _s_ préfixe (causative), il serait possible que la valeur de [HIERO] fût seulement _at_.* Je reviendrai sur le nom _Satesch_ quand j'aurai décrit toute la stèle. »
 
+« A droite de la déesse, figure Ammon dans sa forme ithyphallique, accompagné des attributs ordinaires de cette forme. Sa légende n'est pas tout à fait celle qu'on trouve habituellement : »
+
+[HIERO]
+
+« MiN* ? AMeN-RA Nåå PeHPeH HeR HēSe-w OUeR-t NeTeR Nåå. »
+
+« Min-Amon-ra, le plus grand des vaillants, le supérieur de sa grande demeure, dieu grand. »
+
+« Remarquez, je vous prie, cette qualification : _le plus grand des vaillants_, ou peut-être mot à mot : _le grand de la vaillance_ ; elle établit une analogie entre ce dieu et le second parèdre de la déesse _Satesch_. »
+
+« Celui-ci est représenté debout, de profil ; au premier abord, on remarque sa coiffure, composée d'un diadème sur lequel se détache une tête de gazelle, et sa barbe, exactement semblable à celle que les artistes égyptiens donnent partout aux Asiatiques. Aucune divinité égyptienne n'en porte une semblable. Sa main droite tient une lance, et sa main gauche, la croix ansée [HIERO], signe de la vie divine. Sa légende le nomme _Renpou_ : »
+
+[HIERO]
+
+« ReN POU NeTeR Nåå NeV eR NeHeH HiK Té TeN NeV PeHPeH eM CheN-nou PA-ou NeTeR-ou.* »
+
+« Renpou, dieu grand, seigneur des siècles, roi éternel, seigneur de la vaillance parmi les dieux (ou dans le séjour des dieux). »
+
+« Soit qu'on ait considéré ici ce dieu comme accessoire, soit qu'on l'ait identifié avec Ammon, il est à remarquer qu'il n'est pas rappelé dans les actes d'adoration qui remplissent le reste de la stèle ; ceux-ci s'adressent uniquement à _Satesch_ et à Amon-ra. »
+
+« Le bas de la stèle, les deux tranches et toute la partie postérieure sont couverts par des actes d'adoration que prononcent un magistrat nommé _Houi_, [HIERO], et toute sa famille. Ces formules contiennent quelques particularités dignes de remarque, et d'abord plusieurs titres y sont donnés à la déesse ; entre ceux déjà signalés de _dame du ciel_ et de _régente des dieux_, on y lit : 1° la qualification de [HIERO] « régente des deux mondes, » ce qui s'applique ordinairement à l'Égypte, mais peut aussi s'entendre du monde en général ; 2° [HIERO], « déesse nourrissant le monde. » Cette traduction, donnée par Champollion, me laisse des doutes ; c'est d'ailleurs un titre qui appartient ordinairement à Amon-ra, comme dieu suprême. 3° [HIERO] _Scherå-t our Rå_, « fille aînée du Soleil ; » ce qui est un nouveau trait de ressemblance avec Hâthôr. 4° [HIERO], _meri-t en Rå, out'å en Toum_, « l'aimée de Ra, l'œil de Toum ; » cette qualification se rapporte, comme vous le savez, aux deux principales formes de l'astre, considéré comme soleil levant et comme soleil couchant. La personne qui donne ce dernier titre à Satesch indique de plus le caractère infernal de la déesse, en lui demandant _de lui faire voir ses beautés dans la région inférieure_ : »
+
+[HIERO]
+
+« TÅ-t MÅÅ-å NoWRe-ou-t åM NeTeR KeR. »
+
+Mot à mot : « Da videam decora tua in orco. »
+
+« Ce caractère funéraire est encore plus tranché dans l'invocation du chef de la famille, [HIERO], _Houi_ ; voici ce qu'il demande à Satesch : »
+
+[HIERO]
+
+« Tå-s KRaS NoWRe-t Hå CheT Ååou. »
+
+« Qu'elle donne une sépulture bonne après la vieillesse. »
+
+« Tel est, Monsieur, l'ensemble des qualifications de la déesse ; mais je veux aussi vous faire remarquer celles que prennent les femmes qui l'invoquent sur ce monument. La première se nomme [HIERO], _Tacharou_. Ce nom, qui signifie littéralement « la Syrienne, » n'est pas rare sous les 18e et 19e dynasties ; il indique des tendances qui ne peuvent vous échapper. Cette femme prend le titre de : _odiste de sa maîtresse_, [HIERO] (_hosi en hent-s_) ; cette indication me porte à penser que Satesch avait, à l'époque de notre stèle, obtenu un culte public dans quelque partie de l'Égypte.* Cette conjecture se confirme par la qualification que prennent les autres femmes. Elles se disent toutes [HIERO], _VeK-t-s_ « sa servante. » Le fils de Houi se qualifie seul [HIERO], _VeK eN AMouN_ « serviteur d'Amon. » »
+
+« Je vous ai dit, Monsieur, que je regardais cette stèle comme appartenant à la 18e dynastie ; les noms propres, le style et le tracé des hiéroglyphes me rappellent l'époque de Thoutmès 3. Il faut remarquer néanmoins que le nom d'Amon n'a pas subi le martelage qui défigure ordinairement les stèles de cette époque ; la petitesse du monument aurait pu facilement le soustraire à cet outrage officiel. J'inclinerais néanmoins, à cause de cette circonstance, à le placer tout à la fin de la 18e dynastie. »
+
 ...
 
 # Second Mémoire.
