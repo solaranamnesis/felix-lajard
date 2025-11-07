@@ -24,6 +24,10 @@
 
 ### § [5\. --- Égypte et littoral de Carthage.](#-5-----égypte-et-littoral-de-carthage-1)
 
+## [Deuxième Section. --- Occident.]()
+
+### § [1er. --- Grèce et colonies grecques.]()
+
 # [Second Mémoire.](#second-mémoire-1)
 
 ---
