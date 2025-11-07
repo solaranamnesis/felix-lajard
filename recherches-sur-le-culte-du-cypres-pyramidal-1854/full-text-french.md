@@ -26,7 +26,7 @@
 
 ## [Deuxième Section. --- Occident.](#deuxième-section-----occident-1)
 
-### § [1er. --- Grèce et colonies grecques.]()
+### § [1er. --- Grèce et colonies grecques.](#-1er-----grèce-et-colonies-grecques-1)
 
 # [Second Mémoire.](#second-mémoire-1)
 
