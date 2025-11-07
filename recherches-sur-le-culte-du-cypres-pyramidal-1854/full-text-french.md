@@ -24,7 +24,7 @@
 
 ### § [5\. --- Égypte et littoral de Carthage.](#-5-----égypte-et-littoral-de-carthage-1)
 
-## [Deuxième Section. --- Occident.]()
+## [Deuxième Section. --- Occident.](#deuxième-section-----occident-1)
 
 ### § [1er. --- Grèce et colonies grecques.]()
 
