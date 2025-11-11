@@ -28,7 +28,7 @@
 
 ### § [1er. --- Grèce et colonies grecques.](#-1er-----grèce-et-colonies-grecques-1)
 
-### § [2\. --- Étrurie et Picentine.]()
+### § [2\. --- Étrurie et Picentine.](#-2-----étrurie-et-picentine-1)
 
 # [Second Mémoire.](#second-mémoire-1)
 
