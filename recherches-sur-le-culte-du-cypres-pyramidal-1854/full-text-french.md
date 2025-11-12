@@ -30,7 +30,7 @@
 
 ### § [2\. --- Étrurie et Picentine.](#-2-----étrurie-et-picentine-1)
 
-### § [3\. --- Rome et empire romain.]()
+### § [3\. --- Rome et empire romain.](#-3-----rome-et-empire-romain-1)
 
 # [Second Mémoire.](#second-mémoire-1)
 
