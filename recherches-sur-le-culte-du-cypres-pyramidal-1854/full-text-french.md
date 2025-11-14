@@ -10,7 +10,7 @@
 
 ### [Introduction.](#introduction-1)
 
-# [Premier Mémoire.](#premier-mémoire-1)
+# [Premier Mémoire.](#premier-mémoire-1) : _Du Cyprès pyramidal considéré comme symbole de Vie et comme Emblème ou Attribut des Divinités génératrices en Orient et en Occident._
 
 ## [Première Section. --- Orient.](#première-section-----orient-2)
 
@@ -32,7 +32,7 @@
 
 ### § [3\. --- Rome et empire romain.](#-3-----rome-et-empire-romain-1)
 
-# [Second Mémoire.](#second-mémoire-1)
+# [Second Mémoire.](#second-mémoire-1) : _Du cyprès pyramidal considéré comme symbole funéraire et comme emblème ou attribut des divinités infernales en orient et en occident._
 
 ## [Première Section. --- Orient.](#première-section-----orient-3)
 
