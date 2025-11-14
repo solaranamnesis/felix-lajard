@@ -34,9 +34,9 @@
 
 # [Second Mémoire.](#second-mémoire-1)
 
-## [Première Section. --- Orient.]()
+## [Première Section. --- Orient.](#première-section-----orient-3)
 
-### § [1er. --- Asie occidentale, Asie orientale, Arabie, Égypte et littoral de Carthage.]()
+### § [1er. --- Asie occidentale, Asie orientale, Arabie, Égypte et littoral de Carthage.](#-1er-----asie-occidentale-asie-orientale-arabie-égypte-et-littoral-de-carthage-1)
 
 ---
 
