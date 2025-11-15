@@ -26,9 +26,9 @@ _Du cyprès pyramidal considéré comme symbole de vie et comme emblème ou attr
 
 ### § [5\. --- Égypte et littoral de Carthage.](#-5-----égypte-et-littoral-de-carthage-1)
 
-## [Deuxième Section. --- Occident.](#deuxième-section-----occident-1)
+## [Deuxième Section. --- Occident.](#deuxième-section-----occident-2)
 
-### § [1er. --- Grèce et colonies grecques.](#-1er-----grèce-et-colonies-grecques-1)
+### § [1er. --- Grèce et colonies grecques.](#-1er-----grèce-et-colonies-grecques-2)
 
 ### § [2\. --- Étrurie et Picentine.](#-2-----étrurie-et-picentine-1)
 
@@ -42,9 +42,9 @@ _Du cyprès pyramidal considéré comme symbole funéraire et comme emblème ou 
 
 ### § [1er. --- Asie occidentale, Asie orientale, Arabie, Égypte et littoral de Carthage.](#-1er-----asie-occidentale-asie-orientale-arabie-égypte-et-littoral-de-carthage-1)
 
-## [Deuxième Section. --- Occident.]()
+## [Deuxième Section. --- Occident.](#deuxième-section-----occident-3)
 
-### § [1er. --- Grèce et colonies grecques.]()
+### § [1er. --- Grèce et colonies grecques.](#-1er-----grèce-et-colonies-grecques-3)
 
 ---
 
