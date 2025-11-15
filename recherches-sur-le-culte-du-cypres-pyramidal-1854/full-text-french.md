@@ -46,7 +46,7 @@ _Du cyprès pyramidal considéré comme symbole funéraire et comme emblème ou 
 
 ### § [1er. --- Grèce et colonies grecques.](#-1er-----grèce-et-colonies-grecques-3)
 
-### § [2\. --- Étrurie.]()
+### § [2\. --- Étrurie.](#-2-----étrurie-1)
 
 ---
 
