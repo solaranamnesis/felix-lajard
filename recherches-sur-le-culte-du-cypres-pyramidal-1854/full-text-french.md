@@ -34,7 +34,7 @@ _Du cyprès pyramidal considéré comme symbole de vie et comme emblème ou attr
 
 ### § [3\. --- Rome et empire romain.](#-3-----rome-et-empire-romain-2)
 
-### § [4\. --- Ibérie et Lusitanie.]()
+### § [4\. --- Ibérie et Lusitanie.](#-4-----ibérie-et-lusitanie-1)
 
 # [Second Mémoire.](#second-mémoire-1)
 
