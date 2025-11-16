@@ -34,6 +34,8 @@ _Du cyprès pyramidal considéré comme symbole de vie et comme emblème ou attr
 
 ### § [3\. --- Rome et empire romain.](#-3-----rome-et-empire-romain-2)
 
+### § [4\. --- Ibérie et Lusitanie.]()
+
 # [Second Mémoire.](#second-mémoire-1)
 
 _Du cyprès pyramidal considéré comme symbole funéraire et comme emblème ou attribut des divinités infernales en orient et en occident._
