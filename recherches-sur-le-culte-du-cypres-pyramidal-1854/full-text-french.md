@@ -32,7 +32,7 @@ _Du cyprès pyramidal considéré comme symbole de vie et comme emblème ou attr
 
 ### § [2\. --- Étrurie et Picentine.](#-2-----étrurie-et-picentine-1)
 
-### § [3\. --- Rome et empire romain.](#-3-----rome-et-empire-romain-1)
+### § [3\. --- Rome et empire romain.](#-3-----rome-et-empire-romain-2)
 
 # [Second Mémoire.](#second-mémoire-1)
 
@@ -47,6 +47,8 @@ _Du cyprès pyramidal considéré comme symbole funéraire et comme emblème ou 
 ### § [1er. --- Grèce et colonies grecques.](#-1er-----grèce-et-colonies-grecques-3)
 
 ### § [2\. --- Étrurie.](#-2-----étrurie-1)
+
+### § [3\. --- Rome et empire romain.](#-3-----rome-et-empire-romain-3)
 
 ---
 
