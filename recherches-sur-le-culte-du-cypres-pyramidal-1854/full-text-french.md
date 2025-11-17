@@ -52,7 +52,7 @@ _Du cyprès pyramidal considéré comme symbole funéraire et comme emblème ou 
 
 ### § [3\. --- Rome et empire romain.](#-3-----rome-et-empire-romain-3)
 
-### § [4\. --- Europe chrétienne.]()
+### § [4\. --- Europe chrétienne.](#-4-----europe-chrétienne-1)
 
 ---
 
