@@ -54,49 +54,7 @@ _Du cyprès pyramidal considéré comme symbole funéraire et comme emblème ou 
 
 ### § [4\. --- Europe chrétienne.](#-4-----europe-chrétienne-1)
 
-# Explication des planches.
-
-## Planche 1re.
-
-## Plance 2.
-
-## Plance 3.
-
-## Plance 4.
-
-## Planche 5.
-
-## Planche 6.
-
-## Planche 7.
-
-## Planche 8.
-
-## Planche 9.
-
-## Planche 10.
-
-## Planche 11.
-
-## Planche 12.
-
-## Planche 13.
-
-## Planche 14.
-
-## Planche 15.
-
-## Planche 16.
-
-## Planche 17.
-
-## Planche 18.
-
-## Planche 19.
-
-## Planche 20.
-
-## Planche 21.
+# [Explication des planches.]()
 
 ---
 
@@ -899,13 +857,13 @@ N° 1\. Face antérieure d'un autel ou cippe votif, palmyrénien, à quatre face
 
 N° 2\. Face postérieure du même monument.
 
-## Plance 2.
+## Planche 2.
 
 N° 1\. Face latérale gauche du même monument.
 
 N° 2\. Face latérale droite du même monument.
 
-## Plance 3.
+## Planche 3.
 
 N° 1\. Bas-relief votif, palmyrénien, de marbre. Hauteur, 4 palmes rom. et 4/12 ; largeur, 3 palmes romains. _Musée capitolin._
 
@@ -915,7 +873,7 @@ N° 3\. Médaille autonome de Mostène (Lydie). BR. _Bibliothèque impériale._
 
 N° 4\. Grand bronze d'Hadrien, frappé dans la même ville. _Même collection._
 
-## Plance 4.
+## Planche 4.
 
 N° 1\. Statuette inédite de bronze, provenant d'un _sacellum_ pratiqué dans les flancs d'une montagne située à 20 kilomètres environ de Seyde (Syrie). Hauteur de la statuette, 50 centimètres. _Cabinet de M. le duc de Luynes._
 
