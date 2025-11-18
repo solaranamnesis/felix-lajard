@@ -54,7 +54,7 @@ _Du cyprès pyramidal considéré comme symbole funéraire et comme emblème ou 
 
 ### § [4\. --- Europe chrétienne.](#-4-----europe-chrétienne-1)
 
-# [Explication des planches.]()
+# [Explication des planches.](#explication-des-planches-1)
 
 ---
 
