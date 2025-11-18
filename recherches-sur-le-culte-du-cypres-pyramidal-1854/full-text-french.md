@@ -853,7 +853,7 @@ Si donc les premiers chrétiens plaçaient le cyprès pyramidal sur leurs pierre
 
 N° 1\. Face antérieure d'un autel ou cippe votif, palmyrénien, à quatre faces, et de marbre. Hauteur, 3 palmes romains et 10/12 ; largeur, 2 palmes romains et 5/12.* _Musée capitolin._
 
-*) Le palme de Rome équivaut à environ 252 millimètres (8 pouces 3 lignes et 1/2).
+*) Le palme de Rome équivaut à environ 212 [252] millimètres (8 pouces 3 lignes et 1/2).
 
 N° 2\. Face postérieure du même monument.
 
