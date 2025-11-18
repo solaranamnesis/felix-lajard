@@ -54,6 +54,50 @@ _Du cyprès pyramidal considéré comme symbole funéraire et comme emblème ou 
 
 ### § [4\. --- Europe chrétienne.](#-4-----europe-chrétienne-1)
 
+# Explication des planches.
+
+## Planche 1re.
+
+## Plance 2.
+
+## Plance 3.
+
+## Plance 4.
+
+## Planche 5.
+
+## Planche 6.
+
+## Planche 7.
+
+## Planche 8.
+
+## Planche 9.
+
+## Planche 10.
+
+## Planche 11.
+
+## Planche 12.
+
+## Planche 13.
+
+## Planche 14.
+
+## Planche 15.
+
+## Planche 16.
+
+## Planche 17.
+
+## Planche 18.
+
+## Planche 19.
+
+## Planche 20.
+
+## Planche 21.
+
 ---
 
 ### Introduction.
@@ -844,3 +888,215 @@ Depuis longtemps elle était connue de tous les archéologues : Bellori* en 1691
 **Résumé.**
 
 Si donc les premiers chrétiens plaçaient le cyprès pyramidal sur leurs pierres tumulaires, dans leurs cimetières et sur leurs lampes* ; si l'Arménie et la Grèce du moyen âge alliaient à ce symbole la croix de rédemption ; si, de nos jours, en Europe, on entoure de cyprès les sépultures royales et les sépultures privées ; si, sous nos yeux, les peuples musulmans, successeurs des antiques nations qui, en Asie, en Afrique, en Europe, faisaient de cet arbre un emblème funèbre, plantent des cyprès autour de leurs tombeaux isolés et dans leurs _champs des morts_ ; si les habitants d'un vaste empire, qui s'étend de l'Europe en Asie, attachent encore aujourd'hui des idées religieuses au bois de cyprès ; si, dans le midi de la France, s'est conservée, d'âge en âge, jusqu'à nous la coutume de faire bénir, le dimanche des Rameaux, des branches de cyprès, dont le feuillage et les fruits sont argentés et dorés ; si, en Asie, le culte de cet arbre symbolique remonte à plus de trois mille ans et se lie intimement à la légende de la Vénus assyrienne, comme aux origines de l'empire d'Assyrie, du royaume d'Arménie et des États fondés par les Phrygiens ou les Troyens, comme à l'histoire de l'importation de la civilisation chaldéenne ou assyrienne chez les Phéniciens, les Arabes, les Égyptiens, les Perses, les Grecs et les peuples italiques ; si enfin le cyprès pyramidal est connu, dans toutes les langues de l'Europe ancienne et moderne, sous un seul nom, précisément le même que portait la divinité androgyne dont cet arbre était, en Asie, l'emblème vivant, reconnaissons que le culte du cyprès, institué aux lieux mêmes où ce bel arbre croît spontanément, aux lieux mêmes habités par les premiers adorateurs de cette divinité, dut être importé partout où pénétra le culte de la déesse qui avait donné son nom à l'île de Cypre, comme au cuivre, et qui fut adorée, chez les Grecs et les Romains, sous celui de Cypris, et, chez les Étrusques, sous le nom de Cypra ou Cupra. Tant furent profondes les racines qu'avaient jetées en Europe les croyances religieuses apportées de l'Asie occidentale avec tout le cortége d'une haute civilisation ! Tant fut puissante l'influence exercée par les castes sacerdotales sur les idées, le langage, les coutumes et les institutions des peuples ! Tant il est vrai de dire que les traits les moins effacés et les moins effaçables de la civilisation d'un peuple, les traits surtout qui caractérisent sa vie intellectuelle, sont ceux que l'on peut rapporter aux dogmes et aux rites enseignés dans ses livres sacrés, ou inscrits en caractères idéographiques sur ses édifices, sur ses monuments figurés ! Tant, il est juste enfin de reconnaître que le culte du cyprès, emblème tout à la fois de vie, de mort, de vie future et d'éternité, concourt, avec bien d'autres faits, à prouver qu'aucun peuple civilisé de l'antiquité ne méconnut le dogme de l'immortalité de l'âme, inséparable, comme la connaissance d'un Dieu éternel, comme le dogme des récompenses et des peines dans une vie future, des conditions morales d'existence, de progrès et de durée de la société humaine !
+
+# Explication des planches.
+
+## Planche 1re.
+
+N° 1\. Face antérieure d'un autel ou cippe votif, palmyrénien, à quatre faces, et de marbre. Hauteur, 3 palmes romains et 10/12 ; largeur, 2 palmes romains et 5/12.* _Musée capitolin._
+
+*) Le palme de Rome équivaut à environ 252 millimètres (8 pouces 3 lignes et 1/2).
+
+N° 2\. Face postérieure du même monument.
+
+## Plance 2.
+
+N° 1\. Face latérale gauche du même monument.
+
+N° 2\. Face latérale droite du même monument.
+
+## Plance 3.
+
+N° 1\. Bas-relief votif, palmyrénien, de marbre. Hauteur, 4 palmes rom. et 4/12 ; largeur, 3 palmes romains. _Musée capitolin._
+
+N° 2\. Fragment d'un très-petit bas-relief de bronze, trouvé en Transylvanie, et reproduit ici avec les dimensions de l'original. Possesseur non connu.
+
+N° 3\. Médaille autonome de Mostène (Lydie). BR. _Bibliothèque impériale._
+
+N° 4\. Grand bronze d'Hadrien, frappé dans la même ville. _Même collection._
+
+## Plance 4.
+
+N° 1\. Statuette inédite de bronze, provenant d'un _sacellum_ pratiqué dans les flancs d'une montagne située à 20 kilomètres environ de Seyde (Syrie). Hauteur de la statuette, 50 centimètres. _Cabinet de M. le duc de Luynes._
+
+N° 2\. Moyen bronze de Commode, frappé à Mostène. _Bibliothèque impériale._
+
+N° 3\. Moyen bronze de Gallien, frappé dans la même ville. _Même collection._
+
+N° 4\. Médaillon de bronze, frappé à Éphèse (Ionie) en l'honneur d'Antonin le Pieux. _Même collection._
+
+N° 5\. Autre médaillon de bronze, frappé à Éphèse en l'honneur du même empereur. _Même collection._
+
+## Planche 5.
+
+N° 1\. Petit trône votif, de bronze, inédit, et vu de face. Hauteur, 28 à 29 centimètres ; largeur, 12 à 13 centimètres. _Bibliothèque impériale._
+
+N° 2\. Le même monument, vu de profil.
+
+## Planche 6.
+
+N° 1\. Moyen bronze de Caracalla, frappé dans l'île d'Aradus (Phénicie). _Bibliothèque impériale._
+
+N° 2\. Moyen bronze d'Élagabale, frappé dans la même île. _Même collection._
+
+N° 3\. Monnaie coloniale de Damascus (Cœlésyrie), à l'effigie de Trébonien Galle. BR. _Même collection._
+
+N° 4\. Monnaie coloniale, inédite, de Carrhes de Mésopotamie (_Aurelia Carrhenorum_), à l'effigie de Septime Sévère. BR. _Biblioth. impériale._
+
+N° 5\. Monnaie coloniale d'Héliopolis (Cœlésyrie), à l'effigie de Philippe père. BR. _Même collection._
+
+N° 6\. Développement de la périphérie d'un petit vase funéraire, d'argent, inédit, et trouvé, selon les uns, dans le Rhône, entre Vienne et Lyon ; selon les autres, à Aire (Landes), sur les bords de l'Adour. Le sujet qu'il représente est reproduit ici avec les dimensions de l'original. _Même collection._
+
+N° 6\. _a._ Réduction de la forme de ce vase.
+
+## Planche 7.
+
+N° 1\. Monnaie coloniale de Damascus, à l'effigie de Philippe fils. BR. _Bibliothèque impériale._
+
+N° 2\. Monnaie coloniale de Tyr (Phénicie), à l'effigie de Caracalla. BR. _Même collection._
+
+N° 3\. Moyen bronze de Plautilla, frappé à Sicyone (Achaïe). _Même collect._
+
+N° 4\. Monnaie coloniale de Tyr, à l'effigie de Volusien. BR. _Même collection._
+
+N° 5\. Autre monnaie coloniale de Tyr, à l'effigie de Caracalla. BR. _Même collection._
+
+N° 6\. Petite plaque de bronze, gravée en creux, inédite, acquise à Rome par M. le professeur Édouard Gerhard, et déposée au _Musée royal de Berlin_.
+
+## Planche 8.
+
+N° 1\. Moyen bronze d'Élagabale, frappé à Tripolis de Phénicie. _Bibliothèque impériale._
+
+N° 2\. Moyen bronze de Caracalla, frappé dans la même ville. _Même collection._
+
+N° 3\. Moyen bronze du même empereur, frappé dans la même ville. _Même collection._
+
+N° 4\. Grand bronze de Julia Domna, frappé à Apollonia d'Illyrie. _Même collection._
+
+N° 5\. Cône du _Musée britannique._
+
+N° 6\. Cône de calcédoine saphirine. _Bibliothèque impériale._
+
+N° 7\. Moyen bronze de Julia Domna, frappé à _Germanicia* Cæsarea_ (Commagène). _Même collection._
+
+*) Par erreur, on a imprime à la page 79, ci-dessus, _Germanica Cæsarea_.
+
+N° 8\. Monnaie autonome de Nagidus (Cilicie). AR. _Même collection._
+
+N° 9\. Autre monnaie autonome de la même ville. AR. _Même collection._
+
+N° 10\. Monnaie coloniale de Bostra (Arabie), à l'effigie de Trajan Dèce. BR. _Même collection._
+
+N° 11\. Monnaie autonome d'Anticaria (Bétique). BR. Autrefois dans le musée Hédervar. Possesseur actuel non connu.
+
+## Planche 9.
+
+N° 1\. Cylindre de stéatite, vert foncé, à taches rougeâtres. Autrefois dans la collection de M. J. Robert Steuart. Possesseur actuel non connu.
+
+N° 2\. Cylindre de jaspe noir. _Musée britannique._
+
+N° 3\. Cylindre de chlorite terreuse, vert-noir. _Bibliothèque impériale._
+
+N° 4\. Cylindre de stéatite verte. Légende en caractères inconnus, offrant peut-être un exemple de l'altération des caractères cunéiformes du système assyrien. _Même collection._
+
+N° 5\. Cylindre de talc ollaire, vert-noir.* Collection de M. Cl. Scott Steuart, acquise par le _Musée britannique._
+
+*) Hématite, selon M. Hawkins.
+
+## Planche 10.
+
+N° 1\. Table ou autel chargé d'offrandes et tiré d'une stèle égyptienne. _Musée britannique._
+
+N° 2\. Emblème tiré de la même stèle.
+
+N° 3\. Emblème tiré du plafond d'une des salles du palais de Rhamessès 3, à Thèbes.
+
+N° 4\. Figure représentant le mois de _tôbi_, et tirée d'un des bas-reliefs qui ornent le temple d'Edfou.
+
+N° 5\. Même figure, tirée d'un autre bas-relief du même temple.
+
+## Planche 11.
+
+Stèle égyptienne, inédite, de pierre calcaire. _Musée du Louvre._
+
+## Planche 12.
+
+Dessin au trait d'une peinture à fresque, découverte à Pompeï en 1833 ou 1834.
+
+## Planche 13.
+
+N° 1\. Monnaie autonome coloniale, inédite, d'Alexandria-Troas. _Bibliothèque impériale._
+
+N° 2\. Monnaie coloniale, inédite, de la même ville, à l'effigie de Commode. _Même collection._
+
+N° 3\. Monnaie coloniale, inédite, de la même ville, à l'effigie de Maxime. _Même collection._
+
+N° 4\. Urne cinéraire étrusque, de terre cuite, sans couvercle, vendue aux enchères publiques, à Paris, en 1850. Elle se conservait autrefois à Florence, dans le musée Bucelli, et avait été trouvée au mont Politien. Possesseur actuel non connu.
+
+N° 5\. Urne cinéraire étrusque, de terre cuite, inédite, ayant son couvercle, et vendue aux mêmes enchères. Possesseur actuel non connu.
+
+## Planche 14.
+
+N° 1\. Moyen bronze d'Aurélien, frappé à Perga (Pamphylie). _Biblioth. imp._
+
+N° 2\. Autre moyen bronze d'Aurélien, frappé dans la même ville. _Même collection._
+
+N° 3\. Face antérieure d'un piédestal carré, de marbre blanc, sculpté sur trois de ses faces. Hauteur totale, 425 millimètres ; plus grande largeur, même dimension. _Musée da la ville de Vienne en Dauphiné._
+
+N° 4\. Face latérale gauche du même monument.
+
+N° 5\. Face latérale droite du même monument.
+
+## Planche 15.
+
+Bas-relief mithriaque romain, de marbre, trouvé, il y a peu d'années, aux environs de Carlsbourg en Transylvanie. Possesseur non connu.
+
+## Planche 16.
+
+N°s 1, 2, 3 et 4. Développement du sujet représenté en relief sur le bord intérieur d'un plat d'argent, rond, fourré de bronze, inédit, et trouve sur les bords du Rhin. _Biblioth. imp._
+
+N° 5\. Médaillon en relief, qui orne le fond du même plat.
+
+N° 6\. Profil ou forme extérieure de ce plat. Diamètre, 354 millimètres.
+
+## Planche 17.
+
+N°s 1, 2 et 3. Développement du sujet représenté en relief sur le bord intérieur d'un plat d'argent, rond, très-peu profond, et inédit, qui fait partie du trésor découvert, en 1830, à Berthouville, près de Bernay (Eure). _Bibliothèque impériale._
+
+N° 4\. Profil ou forme extérieure de ce plat. Diamètre, 355 millimètres.
+
+## Planche 18.
+
+N° 1\. Médaillon en relief, dont est orné le fond du plat d'argent représenté sur la planche précédente.
+
+N° 2\. Manche d'argent, qui a dû appartenir à une patère ou à tout autre vase employé à des libations dans les cérémonies funèbres. En vente à Paris, il y a très-peu d'années. Possesseur actuel non connu.
+
+N° 3\. Médaille contorniate, à l'effigie de Vespasien. _Bibliothèque impériale._
+
+N° 4\. Autre médaille contorniate, à l'effigie d'un personnage inconnu. _Même collection._
+
+## Planche 19.
+
+N° 1\. Lampe sépulcrale, de terre cuite rougeâtre. Autrefois dans la collection de Bellori. Possesseur actuel non connu.
+
+N° 2\. Autre lampe sépulcrale, de même matière. En vente à Paris, ainsi que la précédente, il y a peu d'années. Autrefois dans la collection de Sante Bartoli. Possesseur actuel non connu.
+
+## Planche 20.
+
+N° 1\. Lampe sépulcrale, chrétienne, de terre cuite rougeâtre, inédite. En vente à Paris, chez un marchand d'antiquités, il y a peu d'années. Possesseur actuel non connu.
+
+N° 2\. Médaille autonome de Balsa (Lusitanie). BR. Autrefois dans le médaillier du musée Hédervar. Possesseur actuel non connu.
+
+N° 3\. Médaille autonome d'Ostur (royaume de Valence). BR. Petit module. _Bibliothèque impériale._
+
+N° 4\. Autre médaille autonome de la même ville. BR. Grand module. _Même collection._
+
+N° 5\. Disque d'argent, provenant d'un trésor trouvé dans la terre, en 1836, à Notre-Dame d'Alençon, près de Brissac (Maine-et-Loire). _Musée du Louvre._
+
+## Planche 21.
+
+N° 1\. Petit bronze d'Antonin le Pieux, frappé à Épidaure (Argolide). Autrefois dans le musée Hédervar ; maintenant dans le médaillier de la _Bibliothèque impériale._
+
+N° 2\. Autre petit bronze d'Antonin le Pieux, frappé dans la même ville. Même provenance. _Même collection._
+
+N° 3\. Lampe sépulcrale, chrétienne, de terre cuite rougeâtre. Autrefois dans la collection de Bellori, maintenant au _Musée royal de Berlin_.
