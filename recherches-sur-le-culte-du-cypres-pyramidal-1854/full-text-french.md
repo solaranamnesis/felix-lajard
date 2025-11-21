@@ -425,6 +425,26 @@ Le bas-relief palmyrénien que reproduit le n° 1 de ma planche 3, nous offre un
 
 *) _D. N._ 3., p. 532.
 
+*) Eichhorn, _loc. cit._ t. 6., p. 98-105.
+
+*) _Paralipom._ t. 1., p. 30.
+
+*) Dans les temps anciens, les institutions civiles de l'Orient, calquées sur les institutions religieuses, voulaient que le roi et la reine fussent assimilés aux dieux créateurs du monde, et qu'ils parussent au milieu de leur cour revêtus, le roi, des insignes du Soleil ; la reine, des insignes de la Lune. La loi exigeait, de plus, que, le Soleil et la Lune, comme Bel et Beltis ou Mylitta, comme Jupiter et Junon en Occident, étant réputés frère et sœur et unis par un lien conjugal, le roi choisît parmi ses sœurs sa femme légitime. Ce mariage, ainsi sanctionné par les prescriptions hiératiques, n'avait rien d'incestueux aux yeux des peuples de l'Orient, et se célébrait chez eux en présence et sous les auspices, soit de Mithra, soit de la Vénus assyrienne, comme l'hyménée du Soleil avec la Lune représenté sur notre bas-relief palmyrénien.
+
+*) Lettre citée, p. 62-72, 99-102, 110, 111, 114-117.
+
+*) _Loc. cit._ p. 99, 100.
+
+*) _In Flav. Vopiscum notæ_ ; voy. _Histor. August. scriptor._ p. 370.
+
+*) _Abhandlung._ p. 175 ; ed. Welcker.
+
+*) Mémoire cité, p. 25.
+
+*) Voy. sur cette qualification les observations de M. le Dr. Stark, ouvrage cité, t. 1., p. 570 et suiv.
+
+*) M. l'abbé Lanci lit : [GREEK] (_Spiegazione_, etc. p. 147).
+
 Les deux lignes de caractères palmyréniens qui, sur le marbre, suivent immédiatement cette inscription, n'en sont pas la traduction exacte. C'est ce qui arrive fréquemment dans les inscriptions bilingues ou trilingues ; et, faute d'avoir tenu compte de ce fait, d'habiles philologues se sont parfois égarés en s'obstinant à vouloir trouver entre les mots de chaque texte une parfaite correspondance. Le premier essai tenté pour déchiffrer les caractères palmyréniens de notre bas-relief remonte à Joseph Scaliger. Il dut lui en coûter beaucoup d'avouer qu'il n'avait pu les lire, « lui qui cependant se glorifiait de savoir assez de langues pour pénétrer par terre jusqu'à la Chine, sans le secours d'aucun interprète.* » En 1632, Samuel Petit* donna une version latine de l'inscription palmyrénienne. Ce second essai fut plus malheureux encore : on mit en doute le bon sens du traducteur.* Je ne m'arrêterai pas à raconter ici toutes les autres tentatives, plus ou moins infructueuses, qui se succédèrent depuis 1632 jusqu'en 1754. L'abbé Barthélemy en a fait le récit,* et s'est acquis l'honneur d'avoir, le premier, restitué l'alphabet palmyrénien et transcrit l'inscription de notre bas-relief et celle de l'autel à quatre faces avec assez d'exactitude pour ne laisser à ses successeurs qu'un très-petit nombre de rectifications à opérer ou de lacunes à remplir. En 1825, M. l'abbé Lanci, très-versé dans la connaissance des idiomes sémitiques ou araméens, et fort peu satisfait, ainsi qu'Akerblad,* du travail de Giorgi, a proposé* une transcription en dialecte chaldaïque et une version italienne, qui se rapprochent beaucoup de la lecture de l'académicien français. Je les rapporte ici l'une et l'autre :
 
 [HEBREW]
@@ -441,15 +461,113 @@ A ma prière, M. le duc de Luynes a bien voulu revoir, sur l'estampage qui m'ava
 
 C'est-à-dire : « Iarchi, fils de Chaliphe (ou Kalife), fils de Iarchi, fils de Lasemescear, a consacré à Aglibol et à Malachbel, à ses propres dépens, une chapelle d'argent avec tous ses ornements, pour la conservation de la vie de son fils Iéochaia, dans le mois de scébat de l'année 547. »
 
+*) Barthélemy, _Mém. de l'Acad. des inscript._ t. 26., p. 578.
+
+*) _Epistol. ann. 1632 ad Peireskium, apud_ Spon. _Miscell. erud. antiq._ p. 2, 3. On trouve là, de plus, une lettre écrite à Spon par Galland, qui se moque agréablement de Samuel Petit, et lui reproche d'avoir fait une _exposition_ tout aussi énigmatique que les caractères orientaux qu'il a cherché à expliquer.
+
+*) _Loc. cit._ Cf. la Lettre citée du P. Giorgi, p. 6.
+
+*) _Loc. cit._ p. 578 et suiv. A l'opuscule qu'il cite de l'orientaliste Rhenferd, il faut ajouter une lettre où Gisbert Cuper transmet à Bianchini la traduction faite par Rhenferd de l'inscription palmyrénienne dont il s'agit. Cette lettre est insérée dans le tome 1 (p. 60-70) des _Opuscula_ de Bianchini (Rom. 1754). L'écrit de Rhenferd, publié en 1704, sous le titre de _Periculum phœnicium_, a été réimprimé en 1722, à Franecker, dans le recueil in-4° des œuvres de cet auteur.
+
+*) M. l'abbé Lanci, ouvrage cité (_Spiegaz._), p. 145.
+
+*) _Ibid._ p. 149.
+
+*) [HEBREW], _Iarchi_, de [HEBREW], « luna, mensis. » (Note de M. le duc de Luynes.)
+
+*) [HEBREW], _Chalifi_, de [HEBREW], « successit, vires obtinuit ; » cf. _chalife_, [ARABIC]. _Idem._
+
+*) [HEBREW], _Lasemescear_, ou de [HEBREW], _Lasemes_, « solis ; » [HEBREW], _scear_, « porta. » _Id._
+
+*) [HEBREW], _Ieochaia_, de [HEBREW], _Iao_ ; [HEBREW], « vivere fecit. » _Idem._
+
+*) Les lettres numérales de la date sont curieuses, et je ne les retrouve pas absolument semblables dans les autres inscriptions palmyréniennes que je connais : [SVG] 500 + [SVG] 40 + [SVG] 5 + [SVG] 2 = 547. [SVG] est le 2 arabe. _Id._ --- Ce sont ces lettres numérales que Rhenferd (Bianchini, _Opuscula_, t. 1., p. 69, 70) avait prises pour un nom de prince ou de magistrat.
+
 Le déchiffrement de M. le duc de Luynes et celui de M. l'abbé Lanci présentent entre eux, on le voit, quelques légères différences. Le premier de ces deux savants a désiré, avec sa modestie habituelle, que son travail fût soumis à un juge dont personne ne peut contester la compétence, M. Salomon Munk. J'ai dû déférer à ce désir, et il m'est très-agréable d'avoir à dire que la transcription de M. le duc de Luynes en caractères hébraïques a obtenu l'assentiment de M. Munk, sauf les mots rendus par _pro salute Ieochaiæ, filii sui_, qui, selon lui, comme selon M. l'abbé Lanci, doivent se lire : [HEBREW], c'est-à-dire, _pro vita sua et vita filiorum suorum_.
 
 La traduction de M. le duc de Luynes et celle de M. l'abbé Lanci s'accordent à nous montrer combien le texte palmyrénien diffère du texte grec : l'habitant de Palmyre, ou de la Palmyrène, qui a composé la dédicace dans l'idiome national, reprend pour son père et pour lui-même, dans cette dédicace, le nom qu'ils portaient avant de se laisser imposer ou d'adopter des noms grecs ou romains ; au lieu d'une statue d'argent, il est question ici, selon M. de Luynes, d'une petite chapelle d'argent, ce qui nous donnerait à comprendre que la statue dont parle le texte grec était placée dans un _sacellum_, ou dans une niche. Enfin, selon les mœurs de l'Orient, l'auteur de la dédicace palmyrénienne ne fait aucune mention de sa femme, et ne désigne parmi ses enfants que ses fils (si l'on suit la traduction de M. Lanci et celle de M. Munk), ou que son fils _Iéochaia_ (comme traduit M. le duc de Luynes), parce que vraisemblablement ses autres enfants étaient des filles.
 
 Dans les deux textes nous lisons le nom de Malachbel. Il désigne ici le Soleil. Sur l'autel décrit plus haut, il s'applique à Baal ou Bel lui-même, représenté sous les traits d'un dieu-soleil et qualifié _sol sanctissimus_. Par là, nous acquérons une nouvelle preuve de la confusion qui avait fini par s'établir entre Baal et le Soleil, chez les Syriens, comme entre Mithra et le Soleil chez les Perses et les Romains. Malgré l'avis contraire du savant Selden, qui veut,* dans Aglibol, reconnaître le dieu-soleil Alagabal ou Élagabal, Aglibol, dans l'inscription bilingue de notre bas-relief palmyrénien, est donc nécessairement le nom* qu'à Palmyre on donnait à la Lune ou plutôt au dieu Lunus. Dans le texte grec, comme dans le texte palmyrénien, Aglibol est nommé le premier ; et, bien que la dédicace s'adresse simultanément à Aglibol et à Malachbel, c'est-à-dire à Lunus et au Soleil, Tite Aurèle Héliodore Hadrien, en présentant pour offrande une statue d'argent, accomplissait sans doute un vœu particulier fait à Aglibol ; car l'argent, personne ne l'ignore, était partout le métal consacré à la lune, comme l'or au soleil.* Cette supposition semble être confirmée par le soin que, sur notre bas-relief, on avait eu d'orner d'une couronne à pointes la tête d'Aglibol et de le revêtir du costume militaire des empereurs romains, tandis que Malachbel, vêtu à l'orientale, s'y montre sans armes et sans couronne. C'est une flatterie qui s'adresse aux dominateurs de la Palmyrène, et qui ne peut nous laisser aucun doute, ce me semble, quant à la prééminence accordée ici à Aglibol sur Malachbel, conséquence naturelle du changement de sexe qu'une prescription hiératique, passablement extraordinaire, avait fait subir au Soleil et à la Lune.* Toutefois, si après avoir remarqué que, dans la dédicace bilingue, Aglibol prend le pas sur Malachbel, on était tenté de croire que celui-ci, dans les sculptures du bas-relief, occupe la place d'honneur, puisqu'il est placé à la droite, et Aglibol à la gauche de Vénus, représentée sous l'emblème du cyprès,* les médailles asiatiques dont je parlerai plus loin nous prouveraient qu'on ne peut attacher aucune importance à cette disposition, ni en tirer une conséquence quelconque ; car elles nous montrent le soleil et réciproquement la lune, tantôt à la droite, tantôt à la gauche de Vénus. Malgré cette variante, les artistes ne croyaient pas sans doute violer le dogme qui assigne à Mylitta une place habituelle au ciel entre le soleil et la lune, les deux agents de la création et de la reproduction, les deux astres chargés de donner à la terre la lumière, la chaleur, l'eau et la fécondité, les deux astres que l'hérésiarque Bardesane, au rapport d'Abou'lpharage,* appelait : _le père et la mère de la vie_. Un dogme semblable est formellement énoncé à l'égard de Mithra dans les livres sacrés des Perses.* De là ces nombreux monuments qui représentent le dieu ayant à sa droite le buste ou le char du Soleil, et à sa gauche le buste ou le char de la Lune. De là aussi ce commandement de la liturgie du Zend-Avesta, qui, certainement emprunté aux Chaldéens d'Assyrie, veut que le soleil et la lune soient invoqués en même temps que Mithra dans les prières composées en l'honneur de ce dieu.* De plus, le Zend-Avesta renferme deux prières particulières (_néaeschs_) qui s'adressent, lune au soleil,* l'autre à la lune,* et il impose aux mazdéiesnans l'obligation de réciter entre ces deux prières le _néaesch_ et l'_iescht de Mithra_.* Ne nous étonnons donc pas de voir un habitant de Palmyre qualifier le soleil et la lune _dieux de la patrie_. Ils reçoivent la même qualification, non-seulement dans une autre inscription lapidaire trouvée à Palmyre,* mais aussi dans les trois inscriptions citées,* qui proviennent d'une montagne de Syrie, appelée _Scheikh Béréquet_. Au témoignage des monuments de tout genre qui attestent combien était répandu, dans l'Asie occidentale, le culte de ces deux divinités, vient s'ajouter le témoignage, pour ainsi dire, officiel qui résulte d'une médaille impériale, frappée à Tripolis, en Phénicie,* médaille dont le type nous offre, au revers de la tête d'Antonin le Pieux, les images debout du Soleil et de la Lune personnifiés et entourés de la légende grecque : [GREEK]. Les formules latines de consécration, SOLI • INVICTO • ET • LVNAE • AETERNAE* ; AETERNITATI • SACR • SOLI • ET • LVNAE* ; SOLI • AETERNO • LVNAE,* ou simplement, SOLI • ET • LVNAE,* se rencontrent bien souvent sur les monuments lapidaires, et attestent, à leur tour, que les Romains, comme les Grecs, avaient adopté, dans l'Asie occidentale, l'usage d'adresser nominativement leurs vœux au Soleil et à la Lune divinisés.
 
+*) _De Diis syriis_, syntagm. 2., cap. 1., p. 152, 153.
+
+*) Ce nom, qui a été lu tantôt _Agalibalus_, tantôt _Iaribolus_, n'a jamais été interprété d'une manière satisfaisante. Plusieurs érudits, au nombre desquels on est étonné de trouver Selden (_loc. cit._ p. 149), ont proposé de le traduire par _Deus_ ou _Dominus rotundus_, attendu, disent-ils, que l'antiquité identifiait Dieu avec la sphère du monde. Je vois avec peine qu'à l'exemple de Selden M. le Dr. Stark, dans son savant ouvrage sur l'Orient hellénistique, cité plus haut, identifie (t. 1., p. 571) _Aglibol_ avec _Élagabal_, et en fait le dieu du soleil. Avellino ne commet pas cette erreur ; il reconnaît (Mémoire cité, p. 25) le dieu Lunus sous le nom d'Aglibol, comme Halley et Barthélemy l'avaient reconnu sous le nom d'_Iaribolus_.
+
+*) Si le vœu s'était adressé au Soleil, c'est-à-dire à Malachbel, l'offrande aurait été une statue d'or ou dorée. Telles étaient les statues consacrées à Apollon, à Mithra ; et nous apprenons de Pausanias (5., 19., 3) que, dans l'Altis, on voyait un _xoanon_ d'Apollon dont la tête était dorée.
+
+*) J'ai déjà dit ailleurs (_Recherch. sur Vénus_, p. 20) que cette prescription hiératique me paraît avoir été elle-même la conséquence forcée d'une révolution politique qui, ayant amené sur le trône d'Assyrie une femme ambitieuse et douée d'une haute intelligence, Sémiramis peut-être ou toute autre, avait causé une grave perturbation dans les institutions civiles en faisant descendre à une position subordonnée le mari de la reine. Dès lors, un des rapports les plus essentiels qu'on avait précédemment établis entre les institutions civiles et les institutions religieuses se trouvait tout à coup rompu par la force et la violence. Pour rétablir l'assimilation de la reine et du roi aux dieux créateurs du monde, il fallut sans doute faire intervenir un décret sacerdotal, qui transporta à la divinité féminine la prééminence jusqu'alors attribuée à la divinité mâle, et qui, en même temps, déclara la lune mâle et le soleil femelle, changeant ainsi le sexe qu'auparavant on avait assigné à ces deux astres. Un nombre considérable de monuments figurés attestent cette innovation religieuse et confirment sur ce point le témoignage de notre bas-relief palmyrénien. Et, chose aussi remarquable que conforme aux règles suivies par le sacerdoce dans l'antiquité, le changement de sexe du soleil et de la lune se révèle avec non moins d'évidence dans les langues d'Orient et dans celles d'Occident. En Orient, selon que les peuples se soumirent ou non à la révolution politique et à la réforme religieuse dont j'entends parler, nous voyons uniformément, dans leurs idiomes respectifs, le mot lune prendre le genre masculin, ou conserver le genre féminin, et les mots soleil et amour, qui souvent sont synonymes, prendre le genre féminin, ou conserver le genre masculin. En Occident, la langue grecque, la langue latine et les idiomes qui en sont dérivés ont conservé le mot lune au féminin, et les mots soleil et amour au masculin ; tandis que les langues germaniques et les langues slaves, dont la formation et l'importation d'Asie en Europe sont d'une époque beaucoup moins ancienne, affectent à la lune le genre masculin, et aux mots soleil et amour le genre féminin.
+
+*) Pl. 3., n° 1.
+
+*) Pag. 125.
+
+*) _Zend-Avesta_, t. 1., 2e partie, p. 28 ; t. 2., p. 13.
+
+*) _Ibid._ t. 2., p. 15, 16 ; 204-232.
+
+*) _Ibid._ p. 8-14.
+
+*) _Ibid._ p. 16-19.
+
+*) _Ibid._ p. 15, 16.
+
+*) Wood, _Rud. Palmyr._ p. 27, n° 4 (cf. _Philosoph. Transact._ vol. 48., p. 691, n° 4). _Corp. inscript græcar._ vol. 3., n° 4480.
+
+*) Ci-dessus, p. 17.
+
+*) Pellerin, _Mélang. de div. méd._ 1., p. 343. Eckhel, _D. N._ 3., p. 374. Mionnet, _Descript. de méd._ 5., 400, 401, n° 426.
+
+*) Gruter, _Inscr. antiq._ p. 33., nn. 5, 6.
+
+*) _Id. ibid._ p. 32., n. 9.
+
+*) _Id. ibid._ n. 10.
+
+*) _Id. ibid._ p. 31., nn. 11, 12, 13. Maffei, _Mus. veron._ p. 81, n. 10.
+
 De même que notre bas-relief palmyrénien, le troisième monument de Syrie dont il me reste à parler nous montre ces deux divinités formant une triade secondaire avec la Vénus asiatique représentée sous le symbole du cyprès pyramidal. Mais ici le Soleil et la Lune, au lieu d'être figurés sous une forme humaine, sont eux-mêmes représentés chacun sous l'emblème de cet arbre sacré, symbole de vie, preuve nouvelle et irrécusable que le cyprès sculpté sur le bas-relief et sur l'autel palmyrénien du Musée capitolin est bien réellement, comme je l'ai avancé, l'image symbolique de la Vénus qu'adoraient les Syriens. Le monument qui nous fournit cette preuve est un petit trône votif, de forme asiatique et de bronze, que M. Henri Guys, ancien consul de France à Beyrouth, a rapporté de Syrie, en 1848, et qu'il a cédé au cabinet des médailles et antiques de la Bibliothèque impériale. Ce trône n'a que 28 a 29 centimètres de haut, sur 12 à 13 de large. Il est supporté par quatre griffes de lion, et orné, en relief, sur chacune de ses faces latérales, d'un lion debout, marchant de gauche à droite et formant une saillie très-prononcée. La face antérieure est décorée de trois cyprès pyramidaux également en relief, placés sur un même plan. Celui qui s'élève au milieu des deux autres les dépasse d'un tiers environ. Ce monument votif* ne doit remonter qu'à la dernière période de la domination romaine sur la Syrie. Le style en est lourd, incorrect, et entaché de tous les défauts qui accusent une époque de décadence. L'Académie en jugera par les deux dessins que j'ai placés sous les n°s 1 et 2 de la planche 5, et qui représentent ce petit trône, l'un de face, l'autre de profil. Mais, à mes yeux, il rachète toutes ses imperfections par le fait nouveau qu'il apporte à la science archéologique ; et ce fait, bien qu'il soit unique jusqu'à ce jour, est néanmoins en parfaite harmonie avec les témoignages qui résultent des documents écrits. Lucien, ou plutôt l'auteur inconnu du célèbre Traité sur la Déesse de Syrie,* la Vénus assyrienne, ne nous apprend-il pas* que, dans le temple d'Hiérapolis, la statue de cette antique divinité était assise sur des lions, et celle du dieu, son époux, assise sur des taureaux ? Et ces deux espèces de quadrupèdes ne représentent-elles pas, dans le langage symbolique, l'une le soleil, l'autre la lune* ? De plus, la déesse n'avait-elle pas la tête ceinte des rayons du soleil, en même temps qu'elle portait, parmi d'autres attributs, ceux d'Artémis ou Diane, et de Séléné ou la Lune* ? De son côté, Macrobe a soin de nous dire que, chez les Assyriens, des lions étaient placés aux pieds d'Atergatis, par la même raison que, chez les Phrygiens, on attelait des animaux de cette espèce au char de la _Mère des Dieux_, qui est la Terre.* Or Atergatis, divinité également tellurique, est la même que la Déesse de Syrie. Strabon* et Pline,* aussi bien que Macrobe, ne nous laissent aucun doute sur cette identité. Le passage cité du traité attribué à Lucien reçoit même une éclatante confirmation du témoignage d'un moyen bronze* frappé en l'honneur d'Alexandre Sévère à Hiérapolis même,* dans la Cyrrhestique. Il représente,* au revers de la tête radiée de ce prince, et entourés de la légende [GREEK], la Déesse de Syrie assise sur une couple de lions, et son divin époux, Baal ou Bel, assis sur une couple de taureaux. Entre ces deux divinités s'élève un _sacellum_ surmonté d'une colombe, oiseau de Vénus ; un lion placé au bas de cet édifice achève de le caractériser comme un sanctuaire particulièrement consacré à la déesse.* Ce type, à quelques légères différences près, se reproduit au revers d'une belle tétradrachme de Caracalla, frappée à Antioche de Syrie, décrite premièrement par Pellerin, puis par Eckhel* ; mais, à mon grand étonnement, omise par Mionnet dans sa Description de médailles et dans son Supplément.
 
+*) Les témoignages ne manquent pas pour prouver que souvent les anciens consacraient, dans les temples, des trônes d'or, d'ivoire ou de bronze. Je désigne celui-ci comme un monument votif, parce qu'il ne m'est pas démontré que, malgré la dépression circulaire qui se fait remarquer dans l'intérieur, une statuette ait jamais été placée sur ce petit trône.
+
+*) Si je suis bien informé, un savant helléniste, M. le professeur Immanuel Bekker, qui prépare une édition critique des œuvres de Lucien, a lu récemment à l'Académie royale de Berlin une dissertation composée dans le but d'établir que ce satyrique grec n'est pas l'auteur du traité [GREEK].
+
+*) _De Dea syria_, 31, 32 ; ed. Lehmann.
+
+*) Voyez mes _Recherches sur le culte de Vénus_, p. 220-227.
+
+*) _De Dea syria, loc. cit._
+
+*) « Sub eodem (Atargatis) simulacro species leonum sunt, eadem ratione, terram esse monstrantes, qua Phryges finxere Matrem Deûm, id est terram leonibus vehi. » (_Saturnal._ 1., 23. ; edit. Varior.)
+
+*) ... [GREEK]. (_Geogr._ 16., p. 748, Casaub.)
+
+*) « Bambycen, quæ alio nomine Hierapolis ... ibi prodigiosa Atargatis ... colitur. » (_H. N._ 5., 19., 1.)
+
+*) Pour me conformer à l'usage suivi jusqu'à présent, j'emploie, dans ce mémoire, les dénominations vulgaires de _petit bronze, moyen bronze, grand bronze, médaillon_, quoique je reconnaisse combien M. le comte Borghesi est fondé à proposer de leur substituer les dénominations scientifiques qui résultent des divisions et subdivisions légales de la monnaie chez les Romains. Voyez la lettre de ce savant archéologue à M. l'abbé Cavédoni, datée du 13 août 1849, et insérée par ce dernier dans sa _Numismatica biblica_ (Modène, 1850, in-8°), p. 111-136.
+
+*) Ce nom, sur les médailles, est écrit : _Hiéropolis_.
+
+*) Cette belle et rare médaille, qui appartient au cabinet impérial de Vienne, est figurée sous le n° 1 de la planche 3 B de mes _Recherches sur Vénus_. Les numismates ne l'ont pas toujours interprétée avec une connaissance suffisante de la mythologie orientale, bien que Eckhel, leur illustre maître, eût tracé la route à suivre, en rapprochant de cette médaille le passage cité du traité _De Dea syria_ (Voy. _D. N._ 3., p. 262, 263). Il ne lui avait pas échappé non plus (_ibid._ p. 296) que la belle tétradrachme de Caracalla, dont je parle quelques lignes plus bas, se rapporte au même passage. Toutefois le revers de cette tétradrachme n'est pas absolument semblable à celui de la médaille impériale de Hiérapolis, quoiqu'on pût conclure le contraire de ces paroles d'Eckhel (_ibid._ p. 263) : « In quo (tetradrachmo) eadem omnino est aversa, nisi quod pro leone inferne conspicitur aquila. » C'est une légère inadvertance ; car plus loin (_ibid._ p. 296) il décrit ainsi ce même revers, d'après Pellerin : « Sacellum, intra quod signum militare, numine hinc et inde adsidente, quorum uni adstat leo, alteri taurus ... »
+
+*) Ce lion marche de gauche à droite, comme chacun des deux lions qui ornent le petit trône votif figuré ici sous les n°s 1 et 2 de la pl. 5.
+
+*) _D. N._ t. 3., p. 296. --- Cette tétradrachme paraît être restée unique, et j'ignore même entre les mains de qui elle se trouve ; le médaillier de la Bibliothèque impériale ne la possède pas.
+
 D'autre part, quelques médailles impériales, frappées dans l'île de Cypre* et à Sardes,* ont pour type un cône, symbole de Vénus, placé au milieu du temple de la déesse, et ce temple est surmonté de l'astérisque du soleil, superposé au croissant de la lune. Un cône, d'origine asiatique, que j'ai publié* il y a déjà plusieurs années, nous montre la Vénus orientale, hermaphrodite, tenant de la main droite un serpent, symbole de vie,* la tête couronnée des rayons du Soleil, et de la main gauche un autre serpent, celui-ci surmonté d'un croissant. Une pierre gravée, que j'ai également publiée,* représente Vénus assise sur un trône, ayant à sa droite le soleil, à sa gauche la lune.* Plusieurs médailles impériales d'Apollonia d'Illyrie, dont il sera question plus loin, portent, à leur revers, l'image de la déesse pareillement assise sur un trône, mais placée au milieu d'un temple flanqué de deux cyprès, qui sont, n'en doutons pas, le cyprès du soleil et celui de la lune, et surmonté de cinq autres cyprès, qui ne peuvent être que les représentants des cinq autres planètes.* Bientôt nous verrons sur des bas-reliefs d'époque romaine Mithra placé de même entre sept cyprès, emblèmes des sept planètes, ou simplement entre deux cyprès plantés, l'un à côté du buste de la Lune, l'autre à côté de celui du Soleil. Enfin, au revers de deux médailles impériales frappées à Perga (Pamphylie), en l'honneur d'Aurélien, et figurées sous les n°s 1 et 2 de ma planche 14, nous voyons à l'entrée du temple d'Artémis, divinité qui se confond avec Vénus, un cône, image symbolique de chacune de ces deux déesses, placé entre deux cyprès plantés, l'un sous l'astérisque du soleil, l'autre sous le croissant de la lune.*
+
+*) Voy. mes _Recherches sur Vénus_, pl. 1., n° 12.
+
+*) Mionnet, _Supplém._ 7., 422, n° 481 ; _Descript. de méd._ 4., 125 et 126, n° 714.
+
+*) _Recherch. sur Vénus_, p. 32-118 ; pl. 1., n°s 1 et 1 _a_.
+
+*) _Ibid._ p. 35 et 36.
+
+*) Voyez _Recherch. sur Vénus_, pl. 14. G, n° 4.
+
+*) Les monuments de l'art établissent de même des rapports directs entre d'autres divinités génératrices et le soleil et la lune. Les représentations figurées de Zeus ou Jupiter, de Héra ou Junon, en fournissent des exemples aussi bien que celles de Pan, le dieu créateur par excellence. Parmi ces dernières, je citerai un vase peint d'Apulie, très-curieux et publié par M. Éd. Gerhard (_Lichtgottheiten_, p. 8 ; pl. 3., n° 3) ; il représente Hélios et Séléné, tous deux debout sur un quadrige placé dans une barque, selon un usage hiératique, que l'Asie occidentale peut revendiquer tout aussi bien que l'Égypte. Le char est précédé par le dieu Pan, qui lui sert de guide. Sur un autre vase (cratère) peint, M. Th. Panofka (_Vases Blacas_, n°s 17 et 18) croit reconnaître le même dieu placé entre le quadrige du Soleil et la Lune personnifiée.
+
+*) Le n° 4 de la planche 8 ci-jointe offre un exemple de ce type. Ailleurs Vénus, comme déesse à la fois solaire et lunaire, est représentée assise sur un trône, ayant à ses pieds deux griffons, symboles du soleil et de la lune, et portant sur la main droite une chouette, emblème de la nuit. (Voyez mes _Recherches sur Vénus_, pl. 14. H, n° 10.)
 
 Il n'est donc pas douteux que, sur la face antérieure de notre trône votif,* orné latéralement des deux lions de la Déesse de Syrie, les trois cyprès représentent symboliquement la déesse elle-même, le soleil et la lune, qui forment ici, comme sur le bas-relief palmyrénien, une triade secondaire, à la fois céleste et tellurique. Remarquons que l'auteur de ce petit monument, fidèle aux règles de l'art asiatique, a eu soin d'indiquer, dans cette triade, la supériorité des fonctions et du rang de la Déesse de Syrie, en donnant au cyprès qui la représente des proportions colossales, et aux deux cyprès qui représentent le soleil et la lune, de très-humbles proportions. Tel est aussi le contraste que nous offrent, sur les médailles citées de Perga, le cône colossal, qui tient lieu de l'image d'Artémis, et les deux petits cyprès plantés auprès de ce cône, et surmontés, l'un, de l'astérisque du soleil, l'autre, du croissant de la lune. Tel est encore le contraste qui se manifeste sur une médaille d'Ephèse,* où, au revers de la tête de Septime Sévère, nous trouvons le simulacre de Junon _Pronuba_ placé entre deux petites figures nues et assises à terre, au-dessus desquelles on voit, dans le champ, le soleil et la lune. Les graveurs cependant ne se sont pas toujours assujettis à la règle que je constate. C'est du moins ce qu'il est permis de croire, si l'on admet comme exact le dessin, plus que médiocre, que Pembroke* a publié d'une monnaie autonome d'Apamée. Cette pièce, qui nous reporte en Syrie et qui me semble être restée unique,* aurait pour type, au revers de la tête laurée d'un personnage mâle, mais imberbe, trois cyprès* de taille égale, plantés sur un même rang. Je n'ai pas vu l'original, et je ne puis dire si, comme il est arrivé quelquefois, le dessinateur n'a pas pris ici trois épis de blé pour trois cyprès. Dans le cas où il ne se serait pas trompé, il y aurait un rapprochement intéressant à faire entre ces trois cyprès gravés au revers d'une monnaie frappée dans une ville de Syrie, et les trois cyprès placés sur la face antérieure du trône votif trouvé dans la même contrée et consacré à la divinité qui s'appelait la Déesse de Syrie.
 
