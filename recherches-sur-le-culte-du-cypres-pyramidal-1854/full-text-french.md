@@ -677,7 +677,29 @@ Bien qu'aucune tradition ne fasse directement mention d'une divinité appelée _
 
 *) Il est bien probable que le nom de cette divinité était entré dans la composition de celui de deux rois d'Assyrie appelés, l'un _Sôsarès_ ([GREEK]), l'autre _Sôsarmus_ ([GREEK]), dans la _Chronique_ d'Eusèbe (1., p. 45 ; 2., 241, 290, 294 ; edit. Mediolan.) ; _Sôsmarès_ et _Sôsarmus_, dans la version arménienne (1., p. 99 ; 2., p. 119, 129 ; ed. Venet.) La même remarque peut s'appliquer au nom de _Sôsarmus_, roi des Mèdes (Euseb. _Chronic._ 1., p. 46).
 
+*) Selon Saint-Martin (_Mém. sur l'Armén._ t. 1., p. 407), elle commença avec l'année 2107 avant J. C. Jean Catholicos recule cette date jusqu'en 2297 ou 2295.
+
+*) En l'année 1725 avant J. C. (Saint-Martin, _loc. cit._).
+
+*) Sur les liens politiques qui très-anciennement existaient entre l'empire assyrien et le Haïgasdan ou l'Arménie, voy. Moïse de Khoren, _Histor. armen._ 1., 12.
+
+*) Parmi les faits qui justifient cette assertion, je me bornerai à rappeler que jusqu'au temps de Mesrob, c'est-à-dire jusqu'au commencement du 5e siècle de l'ère chrétienne, les Arméniens n'eurent point, pour écrire leur propre langue, un alphabet qui leur fût particulier ; ils se servaient des caractères syriaques.
+
+*) _Genes._ 10., 3.
+
+*) Voy. Saint-Martin, ouvrage cité, t. 1., p. 253 et suiv.
+
+*) Un savant dont l'Allemagne s'honore, M. Görres, soutient même l'opinion que la race japhétique tirait son origine de l'Arménie (voyez l'ouvrage qu'il a publié sous le titre suivant : _Die Völkertafel des Pentateuchs, oder die Japhetiden und ihr Auszug aus Armenien._ Regensburg, 1845).
+
 Lorsqu'on voit un des successeurs de Haïg se faire couronner roi d'Arménie au pied de l'arbre sacré qui était un des emblèmes de Mylitta et d'Astarté, la pensée se reporte involontairement vers l'un des monuments figurés les plus anciens de l'Asie occidentale, le grand bas-relief découvert par M. Charles Texier* à Yazili-kaïa, sur le sol de l'antique Phrygie ; bas-relief où l'on a représenté un prince assyrien ou phrygien recevant des mains d'Astarté le sceptre et la couronne. La présence de la déesse, figurée ici sous une forme humaine, explique suffisamment pourquoi, dans cette scène, nous ne trouvons pas le symbole du cyprès ; mais le lion, sur lequel Astarté est debout, et le taureau, qu'on n'a pas oublié de placer à ses côtés, ne nous ramènent-ils pas aux monuments figurés que j'ai produits dans mon Mémoire sur le taureau et le lion considérés comme attributs caractéristiques de Venus* ? Tout à l'heure, sur quelques médailles de Syrie et de Phénicie, ne verrons-nous pas, planté entre un lion et un taureau, un cyprès pyramidal, image symbolique de la déesse ? En Perse, plusieurs bas-reliefs, taillés sur des faces de rochers, comme l'est celui d'Yazili-kaïa, et conçus dans le même esprit que ce dernier monument, représentent, à leur tour, un prince sassanide au moment où il reçoit tantôt des mains d'Ormuzd, en présence de Mithra,* tantôt des mains de la déesse Anaïs,* la couronne du monde, c'est-à-dire la couronne royale de Perse. Un bas-relief d'époque romaine va bientôt nous montrer un initié recevant des mains du dieu Mithra, au pied de trois cyprès, la couronne mystique ou céleste.
+
+*) _Description de l'Asie Mineure_, 1re partie, t. 1., pl. 78.
+
+*) _Recherch. sur Vénus_, p. 119-240.
+
+*) Porter's _Travels in Georgia, Persia_, etc. vol. 2., pl. 66.
+
+*) _Id. ibid._ vol. 1., pl. 19.
 
 La domination de Sémiramis sur l'Arménie, loin d'affaiblir la ferveur des rois de ce pays pour le culte de Vénus, l'aurait au contraire excitée, s'il en avait été besoin ; car qui ne sait combien l'histoire de cette trop célèbre princesse est intimement liée à la légende de la Vénus asiatique ? Et ne dois-je pas faire remarquer que, par une coïncidence qui ne saurait avoir été fortuite, Sémiramis, née en Syrie, où Vénus était représentée sous l'emblème du cyprès, trouva le culte de la déesse établi, chez les Arméniens, avec le culte du cyprès, comme elle l'avait certainement trouvé institué avec le culte de ce même arbre dans la célèbre contrée située entre le Tigre et l'Euphrate, qui vit naître cette antique théologie chaldéenne dont il n'est pas impossible, encore aujourd'hui, de retrouver les principaux dogmes et de constater l'influence sur les idées théologiques et cosmologiques des peuples les plus civilisés des autres parties du monde ancien ?
 
