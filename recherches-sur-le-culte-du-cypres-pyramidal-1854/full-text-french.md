@@ -779,7 +779,31 @@ Relligione patrum multos servata per annos.*
 
 C'est ainsi que Virgile, d'après une de ces traditions hiératiques qu'il avait recueillies avec le plus grand soin, fait parler le fils d'Anchise et de Vénus. Nous verrons bientôt que le pieux Troyen, après s'être embarqué au port d'Antandre, aborde sur les rivages de la Thrace, et y célèbre les funérailles de l'infortuné Polydore en faisant dresser des autels funéraires que l'on couvre de branches de cyprès.*
 
+*) Virgile, _Æneid._ 2., 713-715.
+
+*) Cette circonstance et le rôle important que joue ailleurs le cyprès dans les rites funéraires, ont entraîné Servius (_ad_ Virgil. _Æneid._ 2., 714) à faire sur les vers cités de l'Énéide, un commentaire qui prouve jusqu'à quel point il ignorait que cet arbre avait été placé au nombre des emblèmes funéraires, précisément parce qu'il était l'image symbolique des divinités qui, comme Cérès ou Rhéa, président tout à la fois au ciel, à la terre et aux enfers : « Antiqua cupressus] Ad vetustatem retulit, dit-il ; cupressum autem funebrem arborem bene ante templum deæ lugentis esse confirmat. »
+
 Si l'immortel chantre de l'Iliade, par le rôle qu'il fait jouer à Vénus, et par l'arrivée des troupes assyriennes envoyées au secours de Priam, nous révèle à grands traits les liens religieux et politiques qui existèrent entre le roi des rois, chef de l'empire d'Assyrie, et ses feudataires les rois de Phrygie, le poëte latin confirme le témoignage du poëte grec en nous donnant des détails qui nous prouvent que le culte du cyprès était passé de chez les Assyriens chez les Troyens avec le culte d'une déesse que les écrivains grecs, lorsqu'ils parlent des divinités assyriennes ou babyloniennes, désignent tantôt sous les noms d'Urania,* de Mylitta,* d'Alitta,* d'Alilat,* d'Anæa* ou Nanea,* et d'Anaïtis,* tantôt sous le nom de Rhéa,* tantôt enfin sous ceux de Déesse de Syrie, et de Héra* ou Junon. Nous verrons bientôt Diodore de Sicile attester, à son tour, que, dès une époque fort reculée, le culte du cyprès s'associait à celui de Rhéa chez les Crétois, tout comme chez les Phrygiens. Nous verrons bientôt aussi Claudien, dans son poëme sur l'enlèvement de Proserpine, attribuer directement à Cérès, comme Virgile, cet arbre symbolique. Ajoutons enfin que ces deux poëtes* célèbrent, chacun de leur côté, les beaux cyprès qui couvraient le mont Ida.
+
+*) Hérodote, 1., 131.
+
+*) _Id. ibid._
+
+*) _Id. ibid._
+
+*) _Id._ 3., 162.
+
+*) Strabon, _Geogr._ 16., p. 738.
+
+*) 2. _Machab._ 1., 13 et 15.
+
+*) Strabon, _Geogr._ 11., p. 512, 532 ; 12., p. 559 ; 15., p. 733. Plutarque, _in Vita Artax._ § 27. Pausanias, 3., 16., 6. Clément d'Alexandrie, _in Protreptic._ 5., Opp. t. 1., p. 57 ; ed. Potter. Dion Cass. p. 104 ; ed. Reimar. Agathias, 2., 24 ; ed. Bonn. Eustathe, ad Homer. _Iliad._ 14., v. 295 ; in Dionysium, v. 846. --- [GREEK], _Anæa, Nanea_, ne sont que des altérations de la forme orientale _Anahid_.
+
+*) Diodore de Sicile, 2., 9 ; ed. Dindorf.
+
+*) _De Dea syria_, Lucian. _Opp._ t. 9., p. 81.
+
+*) Virgile, _Georgic._ 2., 84. Claudien, _De raptu Proserp._ 3., 371, 372.
 
 Après tant de témoignages directs ou indirects recueillis en faveur de l'attribution du cyprès à la divinité polynome que nous connaissons aussi sous les noms de Mère des dieux, de Cybèle, de _Dea bona_, il me reste cependant à invoquer ceux que peuvent fournir quelques médailles asiatiques dont, à dessein, j'ai différé d'entretenir l'Académie. A tort ou à raison, j'ai conçu l'espoir que les observations qui précèdent disposeraient la Compagnie à m'absoudre du reproche de témérité, obligé que je suis de combattre, au sujet de ces médailles, une opinion soutenue par Eckhel, le prince de la science numismatique, et par ses émules. Les pièces dont il s'agit furent frappées en Phénicie et en Syrie pendant la domination romaine. Si elles appartiennent ainsi à une époque peu ancienne, elles ont du moins, comme la plupart de celles que j'ai déjà décrites ou que je décrirai plus loin, l'avantage de faire partie d'une série qui fréquemment nous offre la reproduction de types hiératiques, dont l'invention et l'usage remontent à une haute antiquité. C'est à la politique adoptée par les Grecs dans les provinces conquises de l'Asie occidentale et suivie par les Romains, leurs successeurs, que nous sommes redevables de la conservation ou de la restauration de ces types et d'une multitude d'autres représentations religieuses, non moins intéressantes à étudier. N'est-il pas permis de penser que les conquérants grecs, comme les conquérants romains, pour le dire en passant, durent éprouver d'autant moins de répugnance à faire d'une telle conduite la base principale de leur politique, que dans l'Asie occidentale ils retrouvaient, sous d'autres noms, il est vrai, plus d'une divinité dont jadis le culte et les symboles avaient été importés de cette contrée en Grèce et en Italie ?
 
