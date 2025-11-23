@@ -843,7 +843,39 @@ A côté des médailles dont il vient d'être question, je n'hésite pas à plac
 
 *) _Ibid._ p. 331, 332.
 
+*) D'autrefois la statue d'Astarté est placée sous le portique d'un temple, entre deux _sacellum_ où l'on n'aperçoit ni figures, ni cyprès ; tel est le type d'un moyen bronze d'Élagabale, frappé aussi à Tripolis de Phénicie, et figuré sous le n° 1 de ma pl. 8. Ici les deux petites chapelles sont certainement dédiées au Soleil et à la Lune ; et les trois colonnes qui décorent le portique de chacune d'elles font allusion, je le suppose, au triple Soleil et à la triple Hécate.
+
+*) Deux astérisques sont gravés dans le champ de la médaille, l'un à droite, l'autre à gauche de ce fronton, et représentent sans doute ici l'étoile du matin et l'étoile du soir, ou la planète Vénus sous ses deux aspects.
+
+*) Zosime, _Historiæ_, 1., 58., 4 ; ed. Reitemeier.
+
+*) Lucien, _Advers. Indoctum_, § 3.
+
+*) Nonnus, _Dionysiac._ 43., v. 105 ; ed. Græfe.
+
+*) 3. _Reg._ 5., 8-10 ; 6., 15, 34 ; 9., 11 ; 4. _Reg._ 19., 23. --- Dans la construction du temple de Jérusalem, on employa concurremment du bois de cyprès et du bois de cèdre, tirés l'un et l'autre des forêts du mont Liban. Un passage du Cantique de Salomon (1., 16) nous prouve que dans les édifices particuliers les solives étaient de cèdre et les lambris de cyprès.
+
+*) 2., 3., 5.
+
+*) 37., 24 ; 60., 13.
+
+*) 27., 5.
+
+*) 11., 1, 2.
+
+*) 1., _v. ultim._
+
+*) _Comment. in Esa._ 60. ; _in Ezech._ 27.
+
+*) _Super Isaiam_, lib. 5.
+
+*) 19., 58., 3 ; ed. Ludov. Dindorf. --- L'historien grec fait ici une mention expresse de l'admirable beauté et de la hauteur des cyprès el des cèdres que, peu après la mort d'Alexandre le Grand, on tira du Liban pour construire la flotte d'Antigone.
+
+*) 24., 13. Cf. 50., 11-14.
+
 Les observations placées par M. Movers dans son savant ouvrage sur les Phéniciens* établissent avec certitude, ce me semble, non-seulement que sur le Liban le cyprès était consacré à cette déesse, mais que là, comme aussi à Aphaques, à Byblos, à Béryte et au lieu appelé maintenant _Kalaat-Fakra_, la Vénus du mont Liban portait le même nom que cet arbre. Sur ce point, l'opinion de l'habile professeur de Breslau n'a pu être influencée par le témoignage des monuments figurés phéniciens, syriens ou palmyréniens ; il n'en cite aucun, et ne paraît même pas avoir soupçonné que l'antiquité asiatique nous a légué plus d'un exemple de la représentation de Vénus sous la forme d'un cyprès pyramidal. Il prend texte d'un passage où Sanchoniathon,* en même temps qu'il place au nombre des montagnes déifiées le Casius, le Liban et l'Antiliban, nous fait connaître une divinité locale appelée _Brathy_ ([GREEK]). Or Dioscoride,* Hiller en avait déjà fait la remarque,* nous apprend que l'une des deux espèces de sabine portait le nom de [GREEK], _brathy_, à cause de la ressemblance de ses feuilles avec celles du cyprès. Pline* confirme le fait et ajoute que, pour cette raison, quelques personnes appellent la sabine _cyprès de Crète_ (_cupressus cretica_). Il nous dit, de plus,* qu'un arbre appelé _bratus_, _brathus_ ou _brathys_* croît dans l'Élymaïde et ressemble à un cyprès dont les rameaux descendraient vers la terre, particularité qui me porte à penser qu'il s'agit ici de l'espèce de cyprès nommée par les botanistes _cupressus horizontalis_. Ces divers renseignements conduisent M. Movers à considérer _brathy_ comme un mot qui, dans un dialecte mixte, sémitique et araméen, servait à désigner tout à la fois le cyprès et la sabine. En conséquence, il n'hésite pas à identifier le nom de la déesse _Brathy_ avec _brathy_, un des noms que portait le cyprès. D'autre part, cet arbre, dans la Bible, étant fréquemment nommé _béroth, bérouth_ ou _barouth_, l'écrivain allemand a toute raison de se croire autorisé à déclarer identique avec la déesse _Brathy_ du Liban une divinité que Sanchoniathon* nomme _Bérouth_ ([GREEK]),* et dont l'époux habitait les environs de Byblos. Dès lors ces deux déesses, appelées chacune du même nom que le cyprès, se confondent à leur tour avec la Vénus du mont Liban adorée à Aphaques, à Béryte,* à Byblos et au lieu nommé aujourd'hui _Kalaath-Fakra_. Ainsi nous avons, dans ces divers rapprochements, une nouvelle preuve de la consécration du cyprès à la Vénus asiatique, et un second exemple d'un usage qui déjà nous était révélé par l'identité du mot _cyprès_ avec le nom de la déesse _Cypris_. N'y a-t-il pas lieu de s'étonner que ce dernier rapprochement ait échappé à l'attention de M. Movers ? Ce léger oubli, je me hâte de le dire, est amplement racheté par les nombreux témoignages qu'il a su recueillir* touchant la coutume, très-répandue chez les peuples de l'Asie occidentale, de représenter leurs divinités féminines sous la forme d'un arbre coupé ou d'une colonne de bois, et de leur consacrer, non-seulement le cyprès, mais aussi le pin, le grenadier et l'amandier. Rapprochés de l'autel et du bas-relief palmyréniens du Musée capitolin, ainsi que du trône votif de la Bibliothèque impériale et d'un passage où Zosime* dit expressément que la déesse adorée à Palmyre était l'Aphrodite surnommée _Aphacitis_,* c'est-à-dire la _Vénus d'Aphaques_, ces témoignages me portent à croire que, dans cette dernière ville, où Vénus était appelée _Brathy_, c'est-à-dire _Cyprès_, la déesse devait être habituellement représentée sous la forme même d'un cyprès,* comme elle l'est sur les trois monuments palmyréniens ou syriens ici figurés.
+
+*) _Die Phönizier_, t. 1., ch. 15., p. 575-584.
 
 Je suis loin, quant au cyprès, d'avoir épuisé les précieux secours que M. Movers a complétement négligé d'emprunter à la nombreuse série des monnaies asiatiques qui attestent la consécration de cet arbre aux divinités génératrices, soit mâles, soit femelles. Plusieurs pièces coloniales frappées à Damascus,* dans la Cœlésyrie, méritent l'attention de l'Académie, non moins que les monnaies de la même ville dont il a été question plus haut. Elles sont à l'effigie de Sévère Alexandre,* de Philippe père,* de Philippe jeune,* ou de Trébonien Galle,* et nous montrent, en adoration devant un cyprès pyramidal, la figure nue de Silène ou d'un Faune qui, sur l'épaule gauche, porte une outre gonflée par le liquide qu'elle contient. Le n° 1 de la planche 7 ci-jointe offre un exemple de ce type. Le même personnage mythologique, sur quelques monnaies coloniales de Tyr, à l'effigie de Caracalla,* d'Élagabale,* de Sévère Alexandre,* de Philippe père,* ou de Trébonien Galle,* se retrouve placé, dans une attitude semblable, devant un palmier que nous reconnaîtrons ailleurs pour un autre emblème de la Vénus orientale, et qui est accompagné ici de l'étoile d'Astarté et d'un _murex_ que, dans ce cas, je prends pour l'équivalent du _cteis_ gravé sur plusieurs cônes ou cylindres asiatiques, consacrés à cette déesse.* Je dirai, dès à présent, que si l'on pouvait douter que, sur les diverses médailles citées, Silène ou Faune Ascophore fût en adoration devant l'image symbolique d'Astarté, il suffirait, pour acquérir une entière conviction à cet égard, de jeter les yeux sur un nombre considérable d'autres médailles asiatiques, où ce même personnage, portant, comme ici, une outre sur l'épaule gauche, accomplit un acte d'adoration aux pieds d'une statue colossale d'Astarté. Les monuments monétaires de Sidon, de Tyr et de Bostra, qui se rapportent aux règnes de Caracalla,* d'Élagabale,* de Sévère Alexandre,* de Gordien Pie,* de Philippe père,* de Philippe jeune,* de Trajan Dèce,* de Trébonien Galle,* de Volusien,* de Valérien père* et de Gallien,* fournissent des exemples de ce sujet ; j'en ai choisi trois que je place sous les yeux de l'Académie.*
 
