@@ -893,7 +893,7 @@ Les observations placées par M. Movers dans son savant ouvrage sur les Phénici
 
 *) L'identité de ce nom avec celui de la ville appelée _Béryte_, [GREEK], nous permet de constater ici un second exemple d'éponymie dans la légende de Vénus.
 
-*) Nonnus (_Dionysiac._ 41., 83, 143 sqq. ed. Græfe), après avoir célébré la haute antiquité de la ville appelée d'abord _Béroë_, puis _Béryte_, énumère les divinités qu'on y adore, et qualifie cette ville de _maison de Vénus_ et demeure des Amours_ (_ibid._ v. 146) : ... [GREEK].
+*) Nonnus (_Dionysiac._ 41., 83, 143 sqq. ed. Græfe), après avoir célébré la haute antiquité de la ville appelée d'abord _Béroë_, puis _Béryte_, énumère les divinités qu'on y adore, et qualifie cette ville de _maison de Vénus_ et _demeure des Amours_ (_ibid._ v. 146) : ... [GREEK].
 
 *) _Loc. cit._ p. 560-584.
 
