@@ -877,11 +877,97 @@ Les observations placées par M. Movers dans son savant ouvrage sur les Phénici
 
 *) _Die Phönizier_, t. 1., ch. 15., p. 575-584.
 
+*) _Fragm._ p. 18 ; ed. Orelli.
+
+*) 1., 88.
+
+*) _Hierophyticon_, pars 1., cap. 40., p. 375.
+
+*) _Hist. nat._ 24., 61., 1.
+
+*) _Ibid._ 12., 39., 1. --- C'est un des arbres, observe Pline, dont l'empereur Claude, dans ses Histoires, parle comme d'une merveille. Il dit que les Parthes mêlent ses feuilles à leurs boissons ; que son odeur rappelle celle du cèdre, et que la fumée qui s'exhale de son bois, quand on le brûle, détruit les qualités pernicieuses des exhalaisons de quelques autres espèces d'arbres. On le trouve sur le mont Zagrus. J'ajoute que le _cupressus horizontalis_ croît spontanément aussi sur le Liban ; là il est mêlé avec le cyprès pyramidal.
+
+*) Saumaise (_Exercit. Plinian._ p. 260) a proposé de lire _brathyn_ dans le passage cité de Pline (12., 39., 1). Quelques éditions récentes portent, les unes, _bratum_, les autres, _brathum_. M. Movers (ouvrage cité, t. 1., p. 575) et M. Littré lisent _bratum_.
+
+*) _Fragm._ p. 24 ; ed. Orelli.
+
+*) L'identité de ce nom avec celui de la ville appelée _Béryte_, [GREEK], nous permet de constater ici un second exemple d'éponymie dans la légende de Vénus.
+
+*) Nonnus (_Dionysiac._ 41., 83, 143 sqq. ed. Græfe), après avoir célébré la haute antiquité de la ville appelée d'abord _Béroë_, puis _Béryte_, énumère les divinités qu'on y adore, et qualifie cette ville de _maison de Vénus_ et demeure des Amours_ (_ibid._ v. 146) : ... [GREEK].
+
+*) _Loc. cit._ p. 560-584.
+
+*) _Historiæ_, 1., 58., 7 ; ed. Reitemeier.
+
+*) Ce surnom a échappé à l'attention du savant Larcher.
+
+*) Voyez ce que dit M. Movers (_loc. cit._) au sujet de Vénus-_Aschéra_.
+
 Je suis loin, quant au cyprès, d'avoir épuisé les précieux secours que M. Movers a complétement négligé d'emprunter à la nombreuse série des monnaies asiatiques qui attestent la consécration de cet arbre aux divinités génératrices, soit mâles, soit femelles. Plusieurs pièces coloniales frappées à Damascus,* dans la Cœlésyrie, méritent l'attention de l'Académie, non moins que les monnaies de la même ville dont il a été question plus haut. Elles sont à l'effigie de Sévère Alexandre,* de Philippe père,* de Philippe jeune,* ou de Trébonien Galle,* et nous montrent, en adoration devant un cyprès pyramidal, la figure nue de Silène ou d'un Faune qui, sur l'épaule gauche, porte une outre gonflée par le liquide qu'elle contient. Le n° 1 de la planche 7 ci-jointe offre un exemple de ce type. Le même personnage mythologique, sur quelques monnaies coloniales de Tyr, à l'effigie de Caracalla,* d'Élagabale,* de Sévère Alexandre,* de Philippe père,* ou de Trébonien Galle,* se retrouve placé, dans une attitude semblable, devant un palmier que nous reconnaîtrons ailleurs pour un autre emblème de la Vénus orientale, et qui est accompagné ici de l'étoile d'Astarté et d'un _murex_ que, dans ce cas, je prends pour l'équivalent du _cteis_ gravé sur plusieurs cônes ou cylindres asiatiques, consacrés à cette déesse.* Je dirai, dès à présent, que si l'on pouvait douter que, sur les diverses médailles citées, Silène ou Faune Ascophore fût en adoration devant l'image symbolique d'Astarté, il suffirait, pour acquérir une entière conviction à cet égard, de jeter les yeux sur un nombre considérable d'autres médailles asiatiques, où ce même personnage, portant, comme ici, une outre sur l'épaule gauche, accomplit un acte d'adoration aux pieds d'une statue colossale d'Astarté. Les monuments monétaires de Sidon, de Tyr et de Bostra, qui se rapportent aux règnes de Caracalla,* d'Élagabale,* de Sévère Alexandre,* de Gordien Pie,* de Philippe père,* de Philippe jeune,* de Trajan Dèce,* de Trébonien Galle,* de Volusien,* de Valérien père* et de Gallien,* fournissent des exemples de ce sujet ; j'en ai choisi trois que je place sous les yeux de l'Académie.*
+
+*) Je ne crois pas devoir y comprendre une monnaie coloniale de la même ville, qui porte l'effigie de Valérien père et dont le revers est décrit en ces termes par l'abbé de Tersan, dans le Catalogue des médailles du cabinet d'Ennery : « Un cabas ou espèce de panier de jonc, d'où sort une branche de cyprès ou un thyrse. » Bien que Mionnet ait admis sans rectification cette monnaie dans son _Suppl._ (8., 206, n° 59), et bien que je n'aie pas vu l'original, je suis porté à penser qu'il y a une erreur dans l'indication d'une branche de cyprès.
+
+*) Sestini, _Descript. num. var._ p. 528. Mionnet, _Descript. de méd._ t. 5., p. 292, n° 61.
+
+*) Vaillant, _Num. in colon. percuss._ t. 2., p. 232. Mionnet, _loc. cit._ n° 62.
+
+*) Mionnet, _loc. cit._ p. 294, n° 77.
+
+*) _Id. ibid._ p. 295 et 296, n° 85. _Mus. Sanclem. Numism. select._ p. 512, tab. 34., n° 371.
+
+*) Voy. le n° 5 de la planche 7 ci-jointe. Eckhel, _Catalog. Mus. cæsar. vindob._ t. 1., p. 244, n° 20 ; cf. n° 19.
+
+*) Sestini, _Mus. Hederv._ 3., p. 97, n° 34. Mionnet, _loc. cit._ p. 434, n° 650.
+
+*) Mionnet, _ibid._ p. 438, n° 674.
+
+*) _Recherches sur Vénus_, pl. 12., n° 5.
+
+*) Mionnet, _loc. cit._ p. 443 et 444, n° 703.
+
+*) Voy. mes _Rech. sur Vénus_, p. 52-54, pl. 1., n°s 1 et 2.
+
+*) Eckhel, catalogue cité, t. 1., p. 244, n°s 19 et 20. Mionnet, _Descript. de méd._ t. 5., p. 429, n° 626.
+
+*) Vaillant, _Num. in colon. percuss._ Sestini, _Mus. Hederv._ 3., p. 97, n°s 30 et 37 ; C. M. H. n°s 6148 et 6100. Mionnet, _loc. cit._ p. 384, n°s 319 et 320.
+
+*) Sestini, _Descript. num. var._ p. 539, n° 32. Mionnet, _loc. cit._ p. 437, n° 673.
+
+*) Mionnet, _ibid._ p. 438, n° 676.
+
+*) _Id. ibid._ p. 439 et 440, n° 685 ; p. 441, n° 692. --- Ajoutez une médaille de la même série, à l'effigie d'Otacilie, _ibid._ p. 441 et 442, n° 695.
+
+*) _Id. ibid._ p. 442, n° 698.
+
+*) Sestini, _Descript. num. vet._ p. 539. Mionnet, _loc. cit._ p. 584 et 585, n° 35.
+
+*) Mionnet, _ubi supra_, p. 443 et 444, n° 703 ; p. 444, n° 704.
+
+*) Vaillant, _ubi supra._ Mionnet, _loc. cit._ p. 445, n°s 714 et 716. --- _Mus. Theupol._ p. 760.
+
+*) Mionnet, _loc. cit._ p. 447, n° 724.
+
+*) _Id. ibid._ p. 449 et 450, n° 739. --- Ajoutez une médaille de la même série, à l'effigie de Salonine, et décrite par Sestini (_Mus. Hederv._ 3., p. 98, n° 45).
+
+*) Pl. 7., n°s 2 et 4 ; pl. 8., n° 10.
 
 Je n'ignore point que, selon le témoignage irrécusable des monuments,* le dieu Faune ou le dieu Silène, portant une outre sur l'épaule, figure seul et sans Astarté ou Vénus sur les médailles coloniales romaines, frappées à Alexandria-Troas, à Antioche de Pisidie, à Bostra en Arabie, à Cœla dans la Chersonèse de Thrace, et à Corinthe. Je n'ignore pas non plus que la plupart des numismates, et nommément l'illustre Eckhel,* le considèrent comme un simple signe colonial, même lorsque, sur les médailles romaines citées de la Cœlésyrie, de la Phénicie et de l'Arabie, nous le voyons adorer Astarté tantôt sous l'emblème du cyprès pyramidal, tantôt sous une forme humaine. Mais je ne puis me défendre de penser que les Romains, en le plaçant dans cette attitude auprès de la déesse, avaient entendu par là indiquer qu'il existait des rapports particuliers entre elle et le personnage mythologique dont il s'agit, personnage ambigu qui était resté une énigme pour les écrivains latins les plus instruits.* La supposition qu'il me suggère ne pourrait-elle pas se justifier par le souvenir des relations que l'Italie, comme nous le verrons plus loin, avait anciennement établies entre le symbole du cyprès et le dieu Silvain, qui a tant d'analogie avec le dieu Faune ? Et cette attribution du cyprès ne nous autoriserait-elle pas à rechercher si la déesse _Fauna_ n'avait, de son côté, aucun trait de ressemblance avec l'Astarté des peuples de l'Asie occidentale ? Ce n'est point ici le lieu rie discuter ces questions incidentes. Je me contenterai de faire remarquer qu'au revers d'une belle médaille, qui fut frappée à Thessalonique, en l'honneur de Trajan Dèce,* on voit, devant la statue colossale d'une divinité hermaphrodite,* à deux têtes, vêtue à mi-corps comme la _Vénus Génitrice_, et vaguement désignée sous le nom de _Janus bifrons_, une petite figure semblable en tout au Faune ou au Silène Ascophore qui, sur les monnaies d'Asie et d'Arabie, est en adoration tantôt aux pieds d'Astarté, tantôt devant l'arbre symbolique de la déesse.
 
+*) Voy. Mionnet, _Descript. de méd._ t. 5., p. 237, n°s 19 et 20 ; p. 582, n° 24 ; t. 2., p. 643 et 644, n° 104 ; p. 645, n° 110 ; p. 647, n° 124 ; p. 652 et 653, n° 159 ; t. 3., p. 493, n° 8 ; t. 2., p. 179 et 180, n° 233. Vaillant, _Num. in colon. percuss._ t. 2., p. 114. Christ. Ramus, _Catal. num. vet. reg. Daniæ_, 1., 346, n° 8. Sestini, _Descript._ p. 79, n° 5 ; _Lett. numism._ t. 4., p. 93 ; t. 9., p. 18. D'Ennery, _Catal._ p. 558. Mionnet, _Suppl._ t. 3., p. 165, n° 1073, pl. 9., fig. 1.
+
+*) _D. N._ t. 4., p. 493-496.
+
+*) « Nam Fauni vocem equidem numquam audivi ; tibi, si audisse te dicis, credam ; etsi Faunus omnino quid sit, nescio. » (Cicéron, _De natur. Deor._ 3., 6., p. 216 ; ed. Schütz.) --- Personne n'ignore que les Romains adoraient aussi une déesse appelée _Fauna_. (Lactance, _De falsa relig._ 1., 22., ed. Walch. Cf. Macrobe, _Saturn._ 1., 12., et Arnobe, 1., p. 15 ; 5., p. 168). On l'identifie avec Cybèle ou Cérès, avec la _Dea bona_ ; mais sa légende est tout aussi obscure que celle du dieu Faunus.
+
+*) Voy. Mionnet, _Suppl._ t. 3., p. 165, n° 1073, pl. 9., fig. 1.
+
+*) Cette figure attend un commentaire.
+
 Les médailles que j'ai décrites plus haut, celles surtout d'Aradus et de Damascus, concourent à établir, comme les trois monuments syriens nous avaient déjà permis de le faire, que, chez les Assyriens, les Syriens, les Arméniens et les Phéniciens, Vénus fut adorée sous le symbole du cyprès. Toutefois, nous n'avons pas encore interrogé les antiquités de Cypre, et il importe d'autant plus de ne point les laisser dans l'oubli que cette île, tout aussi phénicienne qu'Aradus, est bien autrement célèbre par le culte qu'y recevait, dès les temps les plus reculés, la Vénus assyrienne. Personne n'ignore que, selon les témoignages les plus dignes de foi,* ce culte fut porté d'Ascalon en Cypre par les Phéniciens ; et nous pourrions _a priori_, et sans craindre de nous être trop avancé, affirmer que le culte du cyprès, inséparable de la légende et des rites de la déesse, fit partie d'une si mémorable importation. Les monuments de l'art, loin de nous démentir, prouvent que cette assertion est parfaitement fondée. Ici, cependant, nous ne trouvons à invoquer le témoignage d'aucune médaille frappée dans l'île de Cypre ; mais, à défaut de médailles, je citerai deux monuments précieux, récemment exhumés du sol même de cette île et encore inédits. Ce sont deux belles coupes d'argent doré, qui jadis furent probablement en la possession de deux rois, à l'usage de qui tout annonce qu'elles étaient destinées.* L'une, il y a deux ans, a été rapportée de Beyrouth par M. de Saulcy, qui libéralement en a fait don au musée du Louvre ; elle est gravée en creux. L'autre, ciselée en relief, vient d'être acquise par le même musée. Je me propose de les publier incessamment avec les commentaires nécessaires. En attendant, je me bornerai à dire ici que je rapporte aux cérémonies instituées dans les mystères de la Vénus assyrienne les sujets mystiques représentés dans l'intérieur de ces deux coupes royales, et que, sur les deux coupes, les initiations s'accomplissent en présence d'un cyprès, ou de deux cyprès accouplés. Je ne puis donc douter que, chez les Cypriens, comme chez les Aradiens, comme chez les habitants de la Phénicie continentale, de la Syrie et de l'empire assyrien, le cyprès n'eût été consacré à la déesse dont il porte le nom, aussi bien que l'île* où une tradition fait aborder Cypris au moment de sa naissance. On verra, dans la suite de mon travail, que le culte de cet arbre symbolique fut importé par les Phéniciens, non-seulement dans l'île d'Aradus, dans l'île de Cypre et en Étrurie, mais aussi chez les Grecs et dans la péninsule hispanique.
+
+*) Hérodote, 1., 105. Pausanias, 1., 14., 6.
+
+*) Ces deux coupes faisaient partie d'un trésor enfoui dans la terre, qui comprenait dix autres coupes du même genre et un grand nombre d'objets ou de bijoux d'or ou d'argent doré. Il paraît certain que tout a été fondu, à l'exception des deux coupes apportées à Paris. C'est pour la science une perte à jamais regrettable ; mais cette perte est en partie compensée par les belles coupes de bronze ciselées qui proviennent des secondes fouilles de M. Layard sur le sol assyrien.
 
 Si, en Asie, nous trouvons ce culte intimement lié à la légende de Vénus, et cette déesse, le soleil, la lune et l'Artémis de Perga représentés chacun sous l'emblème du cyprès, nous ne pouvons nous défendre de la présomption que les peuples de l'Orient avaient dû attribuer ce même symbole à la divinité mâle, solaire, qu'ils adoraient sous divers noms. Bien plus, cette présomption se change en certitude à la vue des médailles frappées dans une ville de la Cœlésyrie où chacun sait quels honneurs religieux y recevaient le soleil et le dieu asiatique dont j'entends parler, alternativement confondus l'un avec l'autre. A défaut d'autres témoignages, le nom de Baal-Hamon, et ceux d'Héliopolis et de Baalbeck, que porta successivement cette ville, confirmeraient la confusion ou l'assimilation que je juge nécessaire de rappeler ici. Je rappellerai, en même temps, que la cité connue sous ces trois noms était située non loin de la pointe culminante de ce mont Liban qui, dès une époque très-reculée, fut, dans l'Asie antérieure, un des principaux sièges du culte de la Vénus assyrienne. Les monnaies coloniales d'Héliopolis, qui attestent l'association du culte du cyprès avec celui de ses deux divinités éponymes, Hélios et Baal, nous offrent, au revers de la tête de Philippe père* et au revers de la tête d'Otacilie,* son épouse, la façade d'un temple dodécastyle, où l'on monte par un escalier de six marches. Sous le péristyle de ce majestueux édifice, s'élève un cyprès pyramidal, planté à la place même où, sur d'autres monnaies asiatiques, nous voyons tantôt une pierre conique, emblème d'Astarté et d'Artémis, tantôt la statue en pied de la première de ces deux déesses, ou de quelque autre divinité d'un ordre également supérieur, tantôt enfin un buste colossal d'Astarté. Il n'est donc pas douteux qu'ainsi placé, le cyprès représente symboliquement une des divinités principales qu'on adorait à Héliopolis. Les numismates, et un grand nombre d'autres archéologues, ne veulent ici encore considérer cet arbre que comme l'emblème du soleil.* Toutefois la série des monuments monétaires d'Héliopolis et un passage de Macrobe bien souvent cité, mais toujours à l'occasion de monuments peu judicieusement interprétés, permettent de croire que les Héliopolitains attachaient au symbole du cyprès, non pas seulement l'idée de l'astre qui répand sur la terre la lumière et la chaleur, mais l'idée d'une divinité solaire, ou tout à la fois solaire et lunaire. Car le philosophe néoplatonicien affirme que le Soleil et Jupiter sont un même dieu, une même puissance, et que, pour cette raison, les Assyriens rendent au soleil, dans la ville d'Héliopolis, un culte solennel sous un nom que l'on traduisait en grec par la dénomination de _Zeus Héliopolite_.* Ils donnaient aussi à ce dieu le nom d'_Adad_, c'est-à-dire _unique_, et l'honoraient comme la divinité suprême ; c'est le même écrivain qui le dit. Mais, ajoute-t-il, les Assyriens associent à Adad une déesse nommée _Atargatis_ ; ils les considèrent comme les arbitres souverains de toutes choses. Sous ces deux noms, ils entendent le Soleil et la Terre ; et, au lieu d'énoncer par une multitude d'épithètes les diverses espèces de puissance et de prééminence attribuées à ces deux divinités, ils les expriment par les symboles dont ils ornent leurs images. Ces symboles, poursuit Macrobe, se rapportent au soleil, car la tête d'Adad est ceinte de rayons inclinés, qui indiquent que la force du ciel réside dans ceux que le soleil envoie à la terre. Les rayons de la tête d'Atargatis tendent, au contraire, vers le ciel, montrant ainsi que la force des rayons qui viennent d'en haut fait naître tout ce que la terre produit.* Déjà nous savions, par le témoignage de Strabon* et de Pline,* qu'Atargatis, Adargatis ou Adergatis, était un des noms de la Déesse de Syrie. Déjà aussi Hérodien, parlant dune divinité locale ([GREEK]), dont l'oracle avait promis la victoire aux habitants d'Aquiléia, ville de la Pannonie, nous avait appris que les Aquiléiens donnaient à cette divinité le nom de _Bélis_, l'identifiaient avec Apollon et lui rendaient un culte solennel.* Hésychius, de son côté, dit* que, chez les Laconiens, le soleil est adoré sous le nom de _Béla_. D'autre part, Servius, dans ses savants commentaires sur l'_Énéide_ de Virgile, affirme que _Bel, Hel_ et _Hélios_, sont des dénominations identiques,* et que, chez les Assyriens, par une raison qui tient à certains dogmes religieux, Bel, Saturne et le soleil* sont une seule et même divinité. Plus tard, Damascius* affirme à son tour que les Phéniciens et les Syriens identifient Saturne, El, Bel et une divinité qu'il nomme _Bôlathé_.* Enfin, un mythographe latin anonyme, des derniers temps du paganisme, nous dit qu'on identifiait Adonis avec le soleil,* et nous savons qu'Adonis et Bélus étaient un même dieu. Ces diverses traditions ne contribuent pas peu, avec les autres témoignages que j'ai produits plus haut, à nous montrer que, sur les quatre faces de l'autel palmyrénien* du Musée capitolin, il faut réellement reconnaître, comme j'ai proposé de le faire, les images du Temps-sans-bornes, de Baal ou Bel et du Soleil réunies à l'image symbolique de Vénus, dont le nom asiatique _Beltis_ ou _Baaltis_ semble facile à reconnaître sous la forme _Bôlathé_, qui en est probablement une altération, ainsi que _Belethé_ et _Belthès_. En même temps, nous pouvons, par un passage très-curieux attribué à Ptolémée, constater le rapport intime qui liait au dogme théologique, fondement de cette association de divinités, une croyance astrologique répandue dans l'Orient. Le sens formel de ce passage est que, chez les Assyriens, les Babyloniens, les Perses, etc. qui vivent sous le triangle _notapéliotique_ et qui adorent Vénus, Saturne, et Mithra, qui est le soleil, les organes de la génération sont sacrés, à cause des aspects du soleil, de Saturne et de Vénus, qui sont _séminaux_.*
 
