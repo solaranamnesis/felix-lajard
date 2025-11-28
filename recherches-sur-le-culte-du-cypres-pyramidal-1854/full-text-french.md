@@ -1259,21 +1259,133 @@ D'autre part, si le zèle fanatique des sectateurs de Mahomet n'a laissé subsis
 
 *) Cité par Pococke, _Specim. hist. Arab._ p. 92, 93.
 
+*) Dans un passage de sa Chronique, cité par Sir William Ouseley (_Travels_, vol. 1., appendix, p. 369-371).
+
+*) Voy. Pococke, _ubi supra_, p. 100.
+
 La narration de Firouzabadi, à quelques légères différences près, est confirmée par Zakaria Cazwini,* qui écrivait sa Chronique dans le 13e siècle de notre ère. Ce dernier auteur fait précéder son récit de cette observation, que les Arabes qui primitivement suivaient la religion d'Abraham, étaient ensuite tombés dans une grande idolâtrie, et adoraient les uns une pierre,* les autres un arbre. Nous avons à regretter qu'à l'exemple des écrivains cités par Pococke, Zakaria ne dise pas si cet arbre était un cyprès ou un palmier. Mais nous devons remarquer, à l'appui des observations qui précèdent, que le cyprès, chez les Arabes, ne peut avoir porté des noms étrangers, ni servi de nom propre à un roi du Yémen et de comparaison aux poëtes nationaux, pour exprimer les idées de majesté et de beauté, sans avoir été là, comme chez les Assyriens, le symbole de la déesse qui réunissait au suprême degré ces deux qualités.
+
+*) Cité par Sir William Ouseley, _ubi supra_, p. 371.
+
+*) Voy. mes _Recherch. sur le culte de Vénus_, p. 61, note 4.
 
 ### § 3\. --- Perse.
 
 Le cyprès pyramidal croît spontanément sur le sol de la Perse, du golfe Persique jusqu'à la mer Caspienne, sans en excepter le Khorassan.* Les témoignages à cet égard abondent ; ils sont même unanimes pour établir que là cet arbre atteint les plus grandes dimensions et forme un des plus beaux ornements de certaines localités. Thomas Herbert,* qui voyageait en Perse dans les années 1627 et 1628, fait une mention particulière des cyprès majestueux qu'il vit dans les forêts, les parcs ou les jardins des environs de Schiraz. Déjà, en 1622, un autre voyageur, Pietro della Valle,* avait été frappé de l'incomparable beauté d'un groupe de cyprès qu'il remarqua sur sa route, à l'est de cette ville. Plus tard, Kæmpfer,* faisant la description de Schiraz, parle avec admiration des arbres de même espèce* qui ornaient les magnifiques jardins dont la ville était entourée. Il compare enfin à de superbes hallebardiers les cyprès qui bordaient la route royale.* En 1811, sir William Ouseley,* traversant le territoire de Schiraz, trouva encore debout, à l'est de la ville, une douzaine de ces cyprès qui autrefois avaient attiré l'attention de Pietro della Valle. La station où ils se sont conservés s'appelle _Servistân_ ou _Selvistân_ « le jardin des cyprès, » vraisemblablement à cause de la quantité d'arbres de cette espèce qui jadis couvraient ce canton.*
 
+*) Voy. les nombreuses citations que M. Carl Ritter (_Die Erdkunde_, 11., 568-574) a réunies pour montrer que le cyprès pyramidal est indigène dans toute la Perse et, en particulier, dans les forêts du Khorassan ; mais il a soin d'ajouter (_ibid._ p. 575) que l'Irân ne fut pas la seule patrie de cet arbre et qu'on le trouvait également indigène dans l'empire assyrien, dans le pays des Cananéens, sur le Liban et l'Hermon, de même que sur les montagnes de la Judée. J'ai cité plus haut un passage de Pline qui nous apprend qu'une autre espèce de cyprès (_cupressus horizontalis_) croissait spontanément dans l'Élymaïde.
+
+*) _Some yeares Travels into divers parts of Asia and Afrique_ (London, 1638), p. 134, 135.
+
+*) _Viaggi_, t. 2., La Persia, parte 2a, lett. 16., de' 27 di luglio 1622, p. 311 ; Rom. 1658 ; t. 2., p. 449 ; Venetia, 1661.
+
+*) _Amœnit. exotic._ fascic. 2., p. 366, 367.
+
+*) « Telluris genio earum (_cupressorum_) vigori singulariter favente ... Audeo affirmare, nusquam terrarum extare, vel tantam uno loco cupressorum multitudinem, vel tam alto fastigio, tam læto et concordi elegantia luxuriantium. » (_Ibid._ p. 367.)
+
+*) « Tot desuper intuemur cupressorum densas series (_in via regia_), cum ad viæ latera, tum per viridariorum margines consitas, quæ velut hastatas satellitum copias, et nescio qualem ineffabilis magnificentiæ speciem imaginationis nostræ objiciunt ; adspectu, quo nullum elegantiorem, collatis in unum studiis, ars et natura possint efficere. » (_Ibid._)
+
+*) _Travels_, vol. 2., p. 74, 90-94.
+
+*) Plus à l'est de Schiraz, à _Fassa_ ou _Passa_, le voyageur anglais remarqua aussi de beaux cyprès (_loc. cit._).
+
 Des traditions écrites, des monuments figurés, vont nous apprendre qu'au 6e siècle avant l'ère chrétienne, l'usage de faire du cyprès un emblème religieux fut porté de la Babylonie chez les Perses avec le culte de Mithra, comme il l'avait été chez les Arabes avec le culte d'Alitta, Alilat ou Allat. Nous acquerrons ainsi une preuve nouvelle de l'authenticité des renseignements qui avaient permis à Hérodote, deux siècles plus tard, d'affirmer que le culte de Mithra, de même que celui d'Alitta, dérivait du culte assyrien de Mylitta ou Vénus-Uranie.
 
 Le _Schah-nameh_ de Firdousi, le _Muntekhab-el-tewarikh_ ou _Schemschir-khani_,* le _Schah-nameh-nasr_,* le _Rauzet-el-safa_* de Mirkhond, le _Fehrenghi-Djihanguiri_, le _Borhan-katti_, un écrit de Boundâry ou Bondâry, et les autres ouvrages orientaux ou fragments cités par Thomas Hyde, d'Herbelot,* Anquetil du Perron, ou publiés par MM. Jules Mohl et Olshausen,* et par M. le Dr Vullers,* s'accordent en effet à nous dire, avec des circonstances plus ou moins croyables, plus ou moins merveilleuses, que Zoroastre, puissamment secondé par le roi Gustasp, introduisit dans la Bactriane et dans le pays que nous appelons aujourd'hui le Khorassan le culte et le pèlerinage du cyprès, en même temps qu'il y établissait le culte de Mithra. A peine arrivé à la cour de Gustasp, à peine admis à lire devant ce prince le livre de la loi ou le _Zend-Avesta_, le disciple des Chaldéens d'Assyrie ou de Babylone planta dans la ville de Bactres, à côté du palais du roi, un cyprès qui, selon l'auteur du _Schah-nameh_ en prose,* acquit en peu de jours de telles dimensions, que dix grandes cordes, dont à la vérité on ne nous indique pas la longueur, suffisaient tout juste à embrasser sa circonférence, et que l'heureux planteur put faire construire une grande salle sur les branches les plus élevées de l'arbre miraculeux. Tawakhol-Beg* ajoute que les feuilles de ce cyprès donnaient de l'intelligence ou de l'esprit à ceux qui en mangeaient. Les traditions qui se rapportent à un second cyprès, également planté par Zoroastre, sont plus détaillées. Ici je laisserai parler Anquetil, qui les avait recueillies avec soin, sans se douter pourtant que le culte du cyprès eût originairement été institué, avec le culte de Mylitta, par les Chaldéens ou les Assyriens ; sans se douter non plus que cet arbre mystique jouât un rôle quelconque dans les monuments figurés mithriaques. « Il y avait, dit-il,* dans Kaschmer (ou Kischmer), village du Khorassan,* un _atesch-gah_* célèbre. Près de la porte de ce temple, Zoroastre planta un cyprès, et grava sur l'écorce du tronc de cet arbre, que Gustasp avait embrassé sa Loi.* Après plusieurs années, ce cyprès étant devenu grand, épais et garni de branches, on bâtit dessus un palais qui avait quarante coudées de haut et en carré. Il renfermait deux salles, dont le toit était d'or, le plancher d'argent, les murs d'ambre et ornés de pierres précieuses. On y forma (_sic_) les portraits de Djemschid et de Féridoun. Gustasp se retira dans ce palais, pour de là s'élever au ciel lorsque son heure serait venue. Ce prince, continue Anquetil,* dépêcha des courriers aux extrémités de son empire, et écrivit aux gouverneurs de venir à pied visiter le cyprès, écouter Zoroastre, et d'abandonner le culte des idoles du Touran et de Tchin. Boundâri ajoute qu'on lui obéit moitié de gré, moitié de force ; et ce fut ce zèle ardent qui occasionna en partie les guerres sanglantes que Gustasp eut à soutenir. » Anquetil termine en disant, dans une note,* que, selon le _Fehrenghi-Djihanguiri_,* Zoroastre planta deux branches de cyprès qu'il avait apportées du ciel, l'une à _Kaschmer_,* village du canton de _Tarschiz_,* dans le Khorassan ; l'autre à _Féroumad_,* qui était un des villages du canton de _Tous_, dépendant aussi du Khorassan. Cette dernière tradition avait déjà été puisée à la même source par le Dr Thomas Hyde,* qui n'a pas oublié, comme l'a fait Anquetil, d'ajouter que, suivant le _Fehrenghi-Djihanguiri_, les deux cyprès furent plantés sous une étoile heureuse.* Le savant Anglais cite un passage de Scharistâni,* où nous lisons que Dieu, après avoir placé l'esprit ou l'âme de Zoroastre dans un arbre qui croît sur les montagnes les plus élevées, planta cet arbre dans l'Aderbaïdjân, sur le mont _Asmuîdacher_. Hyde n'hésite pas à dire qu'il s'agit ici du cyprès.*
 
+*) Écrit en persan, au 17e siècle de notre ère, par Tawakkol-Beg.
+
+*) Ouvrage anonyme et composé, par quelque destour ou prêtre parse, d'après le _Schah-nameh_ de Firdousi.
+
+*) On prononce : _assafa_ ou _essafa_.
+
+*) Cf. Golius, _in Alfergan._ p. 231. Elmacin, _Histor. Saracen._ livr. 2., p. 186, 191 et suiv. de la trad. lat. d'Erpénius ; p. 160 de la trad. franç de Vatier.
+
+*) _Fragm. relatifs à la relig. de Zoroastre, extr. des mss. persans de la Biblioth. du roi._ Paris, 1829, in-8° (textes sans traduction).
+
+*) _Fragm. über die Relig. des Zoroaster_ (Bonn, 1831, in-8°), p. 70 et suiv.
+
+*) _Schah-nameh-nasr_, cité par Th. Hyde, _Relig. veter. Pers._ p. 324 ; edit. 2a. Anquetil du Perron, _Zend-Avesta_ (Vie de Zoroastre), t. 1., 2e partie, p. 33.
+
+*) Dans son _Muntekhab-el-tewarikh_, cité par Anquetil, _ubi supra_, note 2.
+
+*) Ouvrage cité, t. 1., 2e partie, p. 46 et 47. --- Ce passage d'Anquetil du Perron est tiré d'une histoire inédite des sulthans Seldjoukydes, par Emad-eldyn, intitulée : [ARABIC] (c'est-à-dire, _La crême du secours et le choix du temps_), et abrégée par l'iman Alfath, fils d'Ali-el-Boundâry d'Ispahan, qui écrivait vers l'an 1230 de notre ère. La Bibliothèque impériale de Paris possède un exemplaire de cet abrégé (_manuscr. arab._ ancien fonds, n° 767 A).
+
+*) Ce village était situé dans le canton de Nischapour ; son nom s'écrit ou se prononce tantôt _Kaschmer_, tantôt _Kischmer_, tantôt même _Kaschmir_.
+
+*) Autel du feu ou pyrée.
+
+*) Ce dernier fait, dans la traduction que nous donne Thomas Hyde (_Hist. relig. veter. Persar._ p. 321 ; edit. Oxon. 1760) d'un passage emprunté a un auteur musulman, est rapporté en ces termes : « in cujus trunco scripsit (_Zoroaster_), quod Guschtasp acceptaverat Dei Religionem, quod testaretur ista cupressus. »
+
+*) Ouvrage cité, t. 1., 2e partie, p. 47.
+
+*) _Ibid._ p. 46 et 47, note 2. _Mém. de l'Acad. roy. des inscriptions_, t. 37., p. 728.
+
+*) Composé, en 1605, par Djémal-eldyn-Hussein-Andjou.
+
+*) _Kischmer_ dans le _Schah-nameh_ de Firdousi et ailleurs. Le _Borhan-katti_ et un autre dictionnaire, intitulé : _Les Sept mers_, donnent à ce village, comme le _Fehrenghi-Djihanguiri_, le nom de _Kaschmer_.
+
+*) M. Kleuker écrit ce nom _Tarschitz_ ; M. Vullers, _Terschis_ ; M. Carl Ritter, _Turschiz_.
+
+*) Hyde (ouvrage cité, p. 332) fait observer que ce lieu est aussi désigné sous les noms de _Pharouyad_ et de _Pherdid_.
+
+*) _Ibid._ p. 332.
+
+*) M. le Dr. Vullers (_Fragm. über die Relig. des Zoroaster_, p. 113, 114, note 20) a publié le texte du _Borhan-katti_ relatif à ces deux cyprès.
+
+*) Hyde, ouvrage cité, p. 300.
+
+*) _Ibid._ p. 332.
+
 Firdousi, dans son _Schah-nameh_ ou _Livre des rois_,* ajoute, au sujet du cyprès de Kischmer, quelques détails qui ont été négligés par les écrivains que je viens de citer, et qui méritent d'être rapportés. C'est ainsi que, selon le poëte, le temple du feu, devant lequel Zoroastre planta cet arbre, s'appelait _Mihr-Berzin_, dénomination qui, pour nous, a le précieux avantage de montrer le culte du cyprès aussi intimement lié, chez les Perses, au culte de Mithra, qu'il l'était, chez les Assyriens et les Phéniciens, au culte de Mylitta ou d'Astarté. L'expression dont se sert Firdousi, en parlant du palais que fit construire le prophète, est assez vague pour qu'il soit possible de comprendre que ce palais fut édifié, non sur les branches du cyprès, mais bien autour de l'arbre. Diverses variantes, recueillies par M. Mohl, qui a eu la complaisance de me les communiquer, présentent ce dernier sens. On lit ensuite, dans le _Schah-nameh_, que Zoroastre fit peindre, sur les murs du palais, Gustasp en adoration devant le soleil et la lune, Féridoun armé de sa massue à tête de taureau, et les portraits de tous les autres rois de Perse. Quand l'édifice fut achevé, Gustasp envoya dans toutes les parties de son empire un message conçu en ces termes : « Qu'y a-t-il de comparable dans le monde au cyprès de Kischmer ? Dieu me l'a envoyé du ciel, et m'a dit que de là j'irais dans le ciel. Écoutez maintenant, vous tous, mon conseil : rendez-vous à pied auprès du cyprès de Kischmer ; suivez tous la voie de Zoroastre et tournez le dos aux idoles de la Chine. Au nom du pouvoir et de la gloire des Iraniens, je vous ordonne de vous ceindre tous du kosti, d'abandonner les coutumes de vos pères et de vous réunir sous l'ombre de ce cyprès. Venez au temple du Feu, d'après l'ordre du prophète véridique. » « Tous ceux qui portaient des diadèmes, reprend Firdousi,* se rendirent, sur l'ordre du roi, auprès du cyprès de Kischmer ; par leur présence, le temple devint semblable au paradis, et Zoroastre y enchaîna les divs. Donne à ce cyprès l'épithète de _paradisiaque_, si tu ne sais pas pourquoi il se nomme le _cyprès de Kischmer_. Pourquoi ne l'appellerais-tu pas un _rejeton du paradis_ ? Dans ce monde voit-on s'élever un cyprès comme celui de Kischmer* ? » Plus loin, le poëte raconte* qu'au bout de huit années d'un second séjour à la cour de Gustasp, Zoroastre, voyant que le pèlerinage du cyprès s'était ralenti, conseilla au roi de secouer le joug du Touran. Son but probablement était d'essayer de ranimer le zèle de ses sectateurs par une guerre de religion.
+
+*) Pag. 1067 et 1068 ; éd. de Calcutta ; trad. franç. de M. Jules Mohl, partie inédite.
+
+*) _Fragm. relatifs à la relig. de Zoroastre_, texte persan de la vie de Gustasp, p. 20. _Fragm. über die Relig. des Zoroaster_, trad. allem. de M. le Dr. Vullers, p. 72.
+
+*) Hamdallah Kazwini rapporte, au sujet du cyprès de Kaschmer, quelques particularités qui s'écartent de celles que présente le récit de Firdousi. (Voy. Sir William Ouseley, _Travels_, vol. 1., p. 388 et 389.)
+
+*) _Schah-nameh_, 3e djeld, cité par Anquetil du Perron (_Vie de Zoroastre_, dans le _Zend-Avesta_, t. 1., 2e partie, p. 54).
 
 Le _Dabistân_* décrit, d'après le code de Mâhâbâd, les différentes régions dont se compose le paradis. Les minéraux appartiennent à la première ; les végétaux, à la seconde. Celle-ci renferme deux arbres : le platane et le cyprès. L'auteur du _Dabistân_* ne fait mention que d'une seule branche de cyprès qui, selon les livres des Behdinians, aurait été rapportée du paradis* par Zoroastre et serait devenue un arbre, après avoir été plantée de ses mains devant l'_atesch-gah_ ou pyrée de Kischmer ; mais le même ouvrage nous apprend que,* selon quelques Yezdénians, Zoroastre avait imploré en faveur de ce rejeton la protection particulière d'_Azerwan_ (l'ized du feu), surveillant supérieur de tous les arbres de l'espèce du cyprès. On voit ici comment l'idée du feu, exprimée à la fois par un pyrée et par le génie qui préside à cet élément, se rattache à la signification symbolique de l'arbre dont on avait fait l'emblème ou l'attribut des divinités génératrices, et dont la forme pyramidale rappelle la forme de la flamme, qui s'élance de la terre vers les cieux.* L'auteur anonyme du _Desâtir_,* s'il est permis de citer une pareille composition, renchérit sur cette alliance d'idées : parmi les nombreux emprunts qu'il fait au _Dabistân_, sans indiquer la source où il puise, nous retrouvons la tradition qui caractérise la région des végétaux par le platane et le cyprès ; mais il ajoute au nom d'_Azerwan_ celui de _Nouzerwan_ (l'ized de la lumière), qui aurait été le second gardien de ces deux arbres.
 
+*) _The Dabistan_ or _School of manners_, translated from the original Persian by David Sea and Antony Troyer, vol. 1., p. 150 (Paris, 1843, 3 volumes in-8°).
+
+*) _Ibid._ p. 309.
+
+*) Cette tradition, qui, comme le passage ci-dessus de Firdousi, place dans le paradis céleste le cyprès, symbole de vie, a probablement sa source dans les témoignages bibliques relatifs à l'arbre de vie, à l'arbre du bien et du mal, que le Seigneur avait mis au milieu du paradis où vivaient Adam et Ève. Ce rapprochement ne pouvait échapper à la pénétration de M. Carl Ritter (_Die Erdkunde_, 11., 571). Il faut y ajouter celui que suggère l'arbre merveilleux placé par Mahomet dans le paradis du Koran.
+
+*) _The Dabistan_ or _School of manners_, p. 309.
+
+*) Je me félicite de me trouver également d'accord sur ce point avec M. Carl Ritter ; et je ne puis résister au plaisir de rapporter textuellement ici les judicieuses remarques que lui suggèrent, en termes élégants, les divers faits qui, chez les Perses, se rattachent au culte du cyprès : « Kann man sich wundern, dit-il (_ubi supra_), wenn die Cypresse, ein Paradiesbaum, durch ihren pyramidalen Wuchs, wie die Flamme, majestätisch in hohen Lüften steigend, an die Pforte des heiligsten Feuertempels gepflanzt, mit der von Zoroaster eingegrabenen Schrift des Gesetzes, durch ganz Iran die Begleiterin jedes Heiligthums, jedes Ateschghas, jedes Paradeisos, jeder Königsresidenz der Diener Ormuzds wurde ? »
+
+*) P. 9, § 57.
+
 Le docteur Hyde* n'a pas omis de rapporter, d'après le _Fehrenghi-Djihanguiri_, que, par l'ordre de Motawakkel, dixième khalife abbasside, le cyprès qu'avait planté Zoroastre à Kaschmer (Kischmer), dans le Khorassan,* fut coupé et transporté à Baghdad, malgré les instances et les offres considérables d'argent* que firent en corps les mages ou destours pour obtenir la révocation des ordres du khalife. Ces faits sont racontés fort au long dans un chapitre du _Dabistân_,* et dans un article du _Borhan-katti_, cité par Anquetil du Perron,* par Sir William Ouseley* et par M. le docteur Vullers.* Ils s'y trouvent accompagnés de quelques détails qui nous apprennent de plus que, lorsque la volonté de Motawakkel fut connue à Kischmer, la population du canton et celle de tout le Khorassan se rassemblèrent au pied du cyprès sacré, suppliant, avec des lamentations et des larmes, le gouverneur arabe* d'épargner cet objet de leur vénération. Le refus de ce gouverneur fut suivi d'une scène de désolation générale, et l'arbre, en tombant sous les coups redoublés de la hache des Arabes, causa d'immenses dégâts aux bâtiments et aux fontaines du voisinage. Une grande catastrophe devait marquer la chute de ce cyprès sacré et empêcher qu'il ne fût mis en la possession du khalife qui l'avait fait abattre. Le convoi qui transportait à Baghdad le tronc et les dépouilles de cet arbre était parvenu, le 12 décembre 861, à une journée du palais appelé _Djafari_ ou _Djafariah_,* lorsqu'on apprit que, pendant la nuit et à la suite d'une débauche, Motawakkel avait été assassiné dans cette résidence par les chefs de la garde turque.* Selon le _Dabistân_, les Yezdénians prétendaient que le gardien céleste des cyprès était apparu à un docteur nommé Hakim Mirza, pour lui annoncer d'avance qu'il avait ordonné que l'on mît à mort Motawakkel, coupable du crime d'avoir fait abattre le cyprès de Kischmer. Le compilateur persan, voulant nous donner une idée des dimensions gigantesques qu'avait atteintes cet antique cyprès, porte à la somme exorbitante de cinq cent mille dinars* le montant des frais occasionnés par le transport du tronc seul, et raconte que les branches formèrent la charge de treize cents chameaux. Quelques écrivains, ajoute-t-il, disent que le tronc n'avait pas moins de trente-trois coudées et trois quarts de circonférence.* Le _Fehrenghi-Djihanguiri_ prétend que dix mille bœufs pouvaient se reposer à l'ombre de ce cyprès. Le _Borhan-katti_, moins porté ici à l'exagération, réduit ce nombre à deux mille. Mais les deux dictionnaires s'accordent à dire avec assurance que la chute de l'arbre ébranla tellement la terre, que les canaux et les bâtiments voisins en furent très-endommagés. Selon le _Fehrenghi-Djihanguiri_ et le _Dabistân_, quatorze cent cinquante ans s'étaient écoulés depuis le jour où il avait été planté jusqu'à l'année 232 de l'hégire.* Cette dernière date, qui correspond à l'an 846-847 de notre ère, ferait ainsi remonter la plantation du cyprès de Zoroastre jusqu'en l'année 604 ou 590 avant J. C. si le nombre 1450 doit s'entendre d'années solaires, et seulement à l'an 562 ou 548, s'il s'agit d'années lunaires.* Quelle que soit la date qu'il convienne d'adopter, nous pouvons tenir pour certain que, si le culte du cyprès n'avait pas déjà été introduit dans ce pays au temps de Djemschid* ou de Féridoun, comme le donne à entendre Firdousi, il y fut institué au plus tard vers le milieu du 6e siècle avant J. C. par Zoroastre, l'élève des Chaldéens d'Assyrie. Ce fait mérite d'autant plus d'attirer notre attention que, avec le culte du cyprès, l'auteur du _Zend-Avesta_ apportait en Perse, je le répète, le culte de Mithra, divinité androgyne, primitivement identique avec la Vénus babylonienne ou assyrienne, dont nous avons vu que le cyprès, dès une époque très-reculée, fut un des symboles ou un des attributs caractéristiques.
+
+*) _Hist. relig. veter. Pers._ p. 332.
+
+*) C'est à tort qu'Anquetil du Perron (_ubi supra_) reproche à Th. Hyde d'avoir confondu ici Kaschmer avec Kachemîr.
+
+*) On porte la somme à cinquante mille dinars, environ six cent mille francs.
+
+*) _The Dabistan_, etc. vol. 1., p. 306 et 308.
+
+*) _Mém. de l'Acad. royale des inscript._ t. 37., p. 728-730.
+
+*) _Travels_, vol. 1., p. 387 et 388.
+
+*) _Loc. cit._
+
+*) Il s'appelait _Taher, fils d'Abdallah_.
+
+*) M. le Dr. Vullers (_Fragmente_, p. 114, note) dit que ce palais était ainsi nommé parce qu'il avait été bâti par le khalife Motawakkel, qui s'appelait aussi _Djafar_. Selon le _Borhan-katti_, cet édifice était situé dans l'Irak arabique, sur la rive occidentale du Tigre, à _Samira_ ou _Samrah_, ville dont le nom, ajoute le savant orientaliste allemand, s'écrit de plusieurs manières. Il renvoie ici à d'Herbelot (_Bibloth. orient._ art. **Sermenrai**) et à Abou'lféda (_Annal. moslem._ 2., 204, 207, 220).
+
+*) Sur cet assassinat, voyez Abou'lféda, _Annal. moslem._ 2., p. 204. --- D'après la version rapportée par Anquetil (_ubi supra_, p. 729), le khalife aurait été coupé en morceaux par ses esclaves.
+
+*) C'est aussi la somme qu'indiquent le _Fehrenghi-Djihanguiri_ et le _Borhan-katti_. Le dinar est une monnaie de compte, par laquelle on entend ordinairement la valeur du sequin de Venise ou de Hongrie, c'est-à-dire un peu moins de douze francs. Quelquefois cependant on prend le dinar pour l'équivalent de treize francs.
+
+*) Ces dimensions, sans doute, sont fort exagérées. Cependant il semble avoir été donné à la famille des cyprès de produire des espèces capables d'atteindre de grandes proportions. Ainsi, par exemple, feu M. Dupratz attestait avoir vu, près de la Nouvelle-Orléans, un pied de _cyprès de la Louisiane_ (_cupressus disticha._ Linn.) qui avait douze brasses de circonférence et une hauteur extraordinaire. (Cubières, _Mém. sur le cyprès de la Louisiane_, lu à l'Institut le 24 avril 1809, p. 5.) Il n'en précise pas la hauteur, mais on sait que, dans les états de la Delaware et du Maryland, il n'est pas rare de rencontrer des pieds de cyprès distique qui ont vingt-sept à trente mètres de haut. En Orient, le cyprès pyramidal atteint presque cette dernière dimension.
 
 Remarquons aussi que Zoroastre, en plantant un cyprès à côté du pyrée de Kischmer, ne faisait qu'imiter un usage dont nous avons trouvé des exemples analogues, soit sur des médailles asiatiques qui reproduisent des types propres à la religion des Assyriens, des Syriens ou des Phéniciens, soit dans un récit emprunté aux traditions religieuses des Troyens ou des Phrygiens. D'autres exemples, comme nous le verrons plus loin, se rencontrent sur des médailles frappées en Occident, ou dans la description qui nous reste de plusieurs édifices religieux de la Grèce.
 
