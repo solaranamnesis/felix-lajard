@@ -1932,19 +1932,95 @@ En quittant l'Argolide, cette province à laquelle se rattache avec éclat la l�
 
 *) 2., 24., 6.
 
+*) Peut-être ce surnom d'_Orthia_ était-il en rapport avec la forme _droite_ du cyprès, image symbolique de la déesse.
+
+*) La statue de Latone, ainsi placée sur la montagne de la lumière, avec ses deux enfants, qui représentent, l'un le soleil, l'autre la lune, nous rappelle que le nom de Latone emporte avec lui le sens de _nuit_ ou d'une _chose cachée_. J'ajoute que le nom de _Damia_, donné à la déesse dans une tradition qui la fait arriver du pays des Hyperboréens à Délos, signifie, en zend et en sanscrit, _ténèbres_. Cette remarque, si je ne me trompe, n'avait pas encore été faite.
+
+*) _Geogr._ 14., p. 639, 640.
+
 La Grèce, par conséquent, doit nous offrir plus d'un exemple de l'attribution du cyprès à Apollon et à Artémis. Et d'abord, notons ici que, selon le témoignage exprès de Pindare,* les lambris du temple d'Apollon à Delphes,* ou du moins d'une des _cella_ de ce temple,* étaient de bois de cyprès. Notons aussi que très-anciennement, sur le mont Parnasse, consacré à Apollon et aux Muses, ses fidèles compagnes, il existait, au milieu d'un _cupressetum_, une ville qui, primitivement appelée _Cyparissia_, fut ensuite nommée _Apolloniade_.
+
+*) _Pythic._ 5., 52.
+
+*) C'est ainsi que Winckelmann (_Opp._ t. 6., p. 162) entend le passage de Pindare.
+
+*) Feu M. Avellino (mémoire cité, p. 8, note 3), s'appuyant sur un commentaire du scoliaste de Pindare, croit que les mots [GREEK], dont se sert le poëte, s'appliquent, non à tout le temple, mais seulement à la _cella_ où Arcésilaüs consacra son char.
 
 Les médailles impériales de deux villes de l'Argolide, Épidaure et Trézène, fournissent des témoignages non moins explicites. Parmi les premières, je citerai deux pièces longtemps attribuées à une prétendue ville de _Cyparisus_ ou _Cyparissus_, dont on ne pouvait, et pour cause, indiquer la position topographique ; elles furent frappées en l'honneur d'Antonin le Pieux. Au revers de la tête de cet empereur, elles nous montrent, l'une et l'autre, une chèvre allaitant un jeune enfant au pied d'un grand cyprès.* Sestini commet l'erreur de désigner l'enfant sous le nom d'Apollon.* Feu M. Avellino,* mieux inspiré, prend ici le cyprès pour l'image symbolique de ce dieu, et l'enfant pour Esculape, nourri à l'ombre de l'arbre consacré à son père. Le savant archéologue napolitain n'oublie pas de rappeler que, selon les traditions grecques qui avaient encore cours du temps de Pausanias, Esculape enfant aurait été découvert, dans le pays des Épidauriens, par le chevrier Aresthanas,* ou par Autolaüs, fils illégitime d'Arcas.* Les monnaies impériales d'Épidaure qui ont pour revers un sujet si habilement interprété, sont encore rares. La Bibliothèque impériale de Paris en possède deux depuis peu d'années seulement ; leur état de conservation laisse beaucoup à désirer. Elles proviennent de la collection formée, au musée Hedervar, par le comte de Wiczay, et ne sont pas d'un même flan.* Je les ai fait dessiner avec soin, et placer sous les n°s 1 et 2 de la planche 21 ci-jointe. Au revers, la première offre, coupées par le haut, les trois lettres [GREEK], gravées du même côté que le cyprès, et les deux lettres terminales [GREEK], placées à l'exergue. Les lettres [GREEK], qui sont ici presque entièrement effacées, se voient nettement au revers du n° 2 ; de sorte qu'en rapprochant les deux médailles, on a la légende entière [GREEK], « des Épidauriens. » Il existe au cabinet impérial de Vienne un autre exemplaire de la pièce n° 2. Neumann en a donné* un dessin très-inexact, où l'on ne retrouve pas le jeune Esculape allaité par la chèvre. Le dessin qu'a publié Sestini* d'un quatrième exemplaire, semblable à celui de Vienne et tiré du musée Bondacca, est un peu moins mauvais. Enfin il en indique un cinquième exemplaire dans le musée Sanclemente.* En 1846, M. Th. Panofka, dans une savante dissertation intitulée : _Asclepios und die Asklepiaden_,* nous a fait connaître deux autres médailles impériales qui offrent, au revers, le même sujet que ces cinq pièces : l'une porte l'effigie de Caracalla, et se conserve au médaillier impérial de Vienne* ; l'autre, où nous retrouvons l'effigie d'Antonin le Pieux, est déposée dans le médaillier royal de Copenhague.* L'habile académicien de Berlin rapporte, sans hésitation, la première à Épidaure, mais ne sait à quelle ville il convient d'attribuer la seconde ; il indique avec doute Cyparissie de Messénie, ou Cratie de Bithynie. Comme les six autres cependant, celle-ci appartient à Épidaure.
 
+*) Mionnet, sans faire remarquer que Sestini, dans l'écrit intitulé : _In Catalogi musei Hedervariani partem primam Castigationes_ (p. 46, n° 6012), restitue à Épidaure les médailles dont il s'agit, classe, avec doute cependant, parmi celles de l'île de Crète, la médaille impériale décrite par Sestini dans ses _Lettere numismatiche_ (_Continuazione_, t. 3., p. 44 et 45), et l'attribue à une ville qu'il désigne sous le nom de _Cyparisus incerti situs_. (Voy. _Suppl._ 4., 316, n° 137.)
+
+*) _In Catalog. mus. Hederv. part. 1 Castigationes, loc. cit._
+
+*) Mémoire cité, p. 22.
+
+*) Pausanias, 2., 26., 4.
+
+*) _Id._ 8., 25., 6.
+
+*) Une de ces médailles est décrite par l'abbé Caronni dans le Catalogue du musée Hedervar (pars 2., n° 6012).
+
+*) _Num. populor._ t. 2., tab. 7., fig. 7.
+
+*) _Descript. numor. veter._ tab. 13., fig. 2.
+
+*) _Letter. numism. Continuaz._ t. 3., p. 45.
+
+*) Berlin, in-4°, fig.
+
+*) Pag. 10, pl. 1., n° 1.
+
+*) Pag. 10 et 11, pl. 1., n° 2.
+
 Parmi les monnaies impériales de Trézène qui nous offrent le cyprès, je trouve deux moyens bronzes à citer : le premier représente, au revers de la tête de Septime Sévère, un temple placé sur une colline qui s'élève entre un cerf et un cyprès* ; le second, qui est à l'effigie de Julia Domna, porte le même revers, avec cette seule différence que le cerf y est remplacé par un laurier.* Quoique le cerf et le laurier soient, comme le cyprès, des emblèmes consacrés à Vénus tout aussi bien qu'au dieu des Muses, je n'hésite pas à croire, avec M. Avellino,* que l'édifice qui, sur chacune de ces deux médailles, orne le sommet d'une colline, ne soit un de ces deux temples qu'au rapport de Pausanias les Trézéniens avaient dédiés à Apollon, surnommé, dans l'un, _Théarius_,* dans l'autre, _Épibatérias_.* A cette occasion, le savant auteur du mémoire sur le mythe de Cyparisse a soin de mentionner l'autel que, selon le voyageur grec,* ces mêmes Trézéniens avaient consacré à _Hélios Éleuthérios_ ; mais il ne connaissait pas le sens philosophique d'un des noms, _serv-azâd_, qu'en Perse on donne au cyprès, à cet arbre qui fut l'emblème tout à la fois de Mithra, du soleil, de la lune et des cinq autres planètes ; c'est-à-dire l'emblème du dieu psychopompe et des sept cieux où les âmes, rendues à la liberté et à la vie spirituelle, doivent achever de se purifier avant de rentrer dans le séjour des bienheureux. Dès lors, M. Avellino n'a pu faire un rapprochement qui se présente à notre esprit ; il n'a pas remarqué la corrélation qui existe entre le surnom d'_Éleuthérios_, donné par les Trézéniens au Soleil, porte du ciel, et attribué ailleurs à Dionysus, prince des mystères ; les surnoms de _Liber_ et de _Libera_ ou _Libitina_, appliqués, chez les Romains, l'un à Bacchus, l'autre à Vénus ou à Proserpine, déesses des vivants et des morts ; et l'épithète _azâd_,* _sans vie_ ou _libre_, ajoutée au nom de l'arbre qui chez les Perses, comme chez les Assyriens et les Phéniciens, était non-seulement un symbole de vie, de liberté ou de vie spirituelle, mais aussi l'image immortelle de la divinité qui préside à des mystères fondés sur le dogme de la descente et de l'ascension des âmes. C'est ici le lieu de rapporter en entier un passage de Pausanias dont j'ai déjà dit quelque chose* à propos d'un autre récit où le même écrivain s'impose un silence religieux sur le rôle de Mercure et de son bélier* dans la célébration des mystères de la Mère des dieux. Malgré une seconde réticence, nous allons trouver ici la preuve que, chez les Grecs, on associait le culte du cyprès aux cultes réunis d'Apollon, des Grandes Déesses adorées dans les mystères, et du dieu que les Égyptiens, sous le nom de Thoth ou Thaut, et les Grecs, sous le nom d'Hermès, considéraient comme une divinité psychopompe. « En face des champs stényclériques, dit Pausanias,* il y a un lieu que les anciens appelaient _Œchalia_, et qui se nomme maintenant le bois Carnasius.* On y voit une forêt très-épaisse de cyprès, qui renferme les statues de plusieurs dieux : Apollon Carnéus, Hermès portant un bélier, et Coré la Chaste, fille de Démèter. Près de cette dernière statue coule une fontaine. Dans le Carnasius, on célèbre des mystères en l'honneur des Grandes Déesses ; mais je garderai le silence sur le rite qu'on y suit. Ces mystères m'ont paru tenir le premier rang après ceux d'Éleusis. » Ce passage, rapproché des sculptures de l'autel palmyrénien du Musée capitolin et des observations placées dans la section précédente, prouve jusqu'à l'évidence qu'en Grèce, comme dans l'Asie occidentale, le culte d'Apollon, ou d'un dieu-soleil désigné sous divers noms, se liait intimement à l'institution des mystères.
 
+*) Sestini, _Descr. num. veter._ p. 215, n° 3.
+
+*) _Mus. Sanclemente_, num. select. t. 2., p. 299, tab. 25., fig. 235. --- C'est à tort que l'abbé Sanclemente désigne ici sous le nom d'olivier l'arbre placé en regard du cyprès.
+
+*) Mémoire cité, p. 22-24.
+
+*) Pausanias, 2., 31., 9.
+
+*) _Id. ibid._ 32., 2.
+
+*) _Id. ibid._ 31., 8.
+
+*) Dans mon second mémoire, je donne sur la formation de cette épithète philosophique les explications nécessaires.
+
+*) Ci-dessus, p. 26, 27.
+
+*) Une agate-onyx, que M. le duc de Luynes a récemment acquise et qu'il veut bien me communiquer au moment où cette feuille est sous presse, fournit une preuve nouvelle et irrécusable de l'authenticité des traditions qui attribuent au symbole du bélier un rôle important dans la célébration des mystères d'origine asiatique. D'un côté, cette agate-onyx, dont le travail me paraît phénicien ou assyrien, offre en relief une tête de bélier ; de l'autre, elle représente, gravé en creux, un griffon ailé et crété, dévorant un bouc terrassé. Dans mes _Recherches sur Mithra_, je montrerai comment ce groupe se rattache directement aux mystères de la Vénus assyrienne.
+
+*) 4., 33., 5.
+
+*) [GREEK].
+
 Un autre lieu, un autre monument, peuvent ajouter une nouvelle preuve à celles que déjà nous avons de l'attribution du cyprès à Apollon chez les Grecs. J'entends parler de la fresque dont un dessin au trait accompagne le mémoire cité de feu M. Avellino, et qui a été fidèlement reproduit sur la planche 12 ci-jointe. Bien que cette belle peinture provienne des ruines de Pompeï,* elle a droit, par la simplicité de sa composition et par l'élévation de son style, à être comptée au nombre des monuments dont les artistes grecs revendiquent l'invention. Elle représente, vu de face, Apollon debout, presque nu, la tête ceinte d'une couronne de laurier et entourée d'un limbe, la main gauche appuyée sur une grande lyre à dix cordes posée à terre, et une branche de laurier dans la main droite. Une chlamyde, dont un bout est jeté sur le bras gauche, est agrafée au-dessous de l'épaule droite, et tombe par derrière jusqu'à mi-jambes. Les pieds sont chaussés du cothurne. A la gauche du dieu, et plongé dans la tristesse, on voit le beau Cyparisse assis, tenant de la main gauche deux longues lances. Une draperie, jetée sur le bras droit, passe sur la cuisse droite et enveloppe le bas des reins, la cuisse et la jambe gauches ; le reste du corps est nu. Du sommet de la tête sort la cime d'un cyprès pyramidal. Cyparisse est donc représenté au moment même où, selon la fable, Apollon, touché de la douleur que cause à ce jeune homme la mort d'une biche ou d'un cerf qu'il aimait et qu'il a tué par imprudence, le métamorphose en cyprès. Aussi le peintre a-t-il placé auprès du siége de Cyparisse un jeune cerf, ou peut-être une biche. Derrière les deux seuls personnages qu'on voie dans le tableau, s'élèvent de belles constructions, qui nous annoncent qu'ici la métamorphose de Cyparisse s'opère devant un temple dédié à Apollon : le trépied, l'arc et le carquois posés sur ces constructions, et le bois de cyprès dont elles sont entourées, ne laissent aucun doute à cet égard. Ce sont, avec la branche de laurier qui pend de la main droite d'Apollon, les mêmes accessoires caractéristiques que nous avons trouvés auprès de ce dieu, sur les médailles coloniales d'Alexandria-Troas* ; mais, au lieu d'un seul cyprès que ces médailles nous montrent planté à ses côtés, la fresque de Pompeï, seul monument figuré, authentique, qui nous reste de la métamorphose de Cyparisse, laisse distinctement apercevoir un _cupressetum_ autour de l'édifice consacré à Apollon.
+
+*) Elle fut découverte in 1833 ou 1834.
+
+*) Ci-dessus, p. 105-107 ; et pl. 13., n°s 1-3.
 
 Les traditions relatives au mythe de Cyparisse varient beaucoup dans les auteurs grecs, comme dans les auteurs latins.
 
 Philostrate* reconnaît à ce mythe une origine asiatique : en parlant du bois sacré de cyprès et de lauriers planté auprès du temple d'Apollon, dans le faubourg d'Antioche de Syrie, appelé _Daphné_, il a soin de dire que Cyparisse était un jeune Assyrien, qui passait pour avoir été changé en cyprès ; et, ajoute-t-il, la beauté de l'arbre fait foi d'une telle métamorphose.
 
+*) _In Vita Apollon._ 1., 16.
+
 Une autre tradition, recueillie par Servius,* assigne l'île de Crète pour patrie à Cyparisse, jeune homme aussi chaste que beau, dont Apollon, ou Zéphyre, était éperdument amoureux, et qui, voulant conserver la pureté de ses mœurs, s'enfuit vers le fleuve Oronte, et se réfugia sur le mont Casius, où il fut changé en cyprès. Si, dans cette légende, l'île de Crète est le lieu où Apollon chercha à séduire Cyparisse, n'oublions pas que les écrivains grecs ou latins désignent comme la patrie du cyprès une ville de cette île, Tarrha, célèbre, de même que Cnosse, par le culte qu'on y rendait à Apollon.* Remarquons, d'autre part, que, dans le récit de Servius, le mont Casius et le fleuve Oronte nous ramènent en Syrie, cette partie importante de l'Asie occidentale, qui déjà, par ses monuments figurés et par ses traditions écrites, nous a fourni la preuve que le culte du cyprès y fut très-anciennement établi en l'honneur d'Apollon et du soleil, comme en l'honneur de Vénus et de la lune.* Si Zéphyre est substitué à Apollon dans une variante de cette légende recueillie par Servius,* nous le trouvons nommé dans un passage où Nonnus semble dire qu'Apollon et Zéphyre s'étaient disputé le cœur de Cyparisse.* A ce nom de Zéphyre, pouvons-nous ne pas nous rappeler que la Vénus asiatique était assimilée à l'air, cosmologiquement parlant, et que, chez les anciens habitants de l'Arménie, peuple sorti du territoire de l'empire assyrien, cet élément intervenait dans les augures qui se tiraient de la plus ou moins grande agitation du feuillage des cyprès sacrés d'Armavir* ?
+
+*) _Ad_ Virgil. _Æneid._ 3., v. 680.
+
+*) Sur la haute antiquité et l'importance du culte d'Apollon dans l'île de Crète, nommément à Cnosse et à Tarrha, voyez les savantes remarques de K. O. Müller (_Die Dorier_, t. 1., p. 206-209).
+
+*) Ci-dessus, p. 19, 20, 37-41, 51-58, 96-99, 104-107.
+
+*) Servius, _loc. cit._
+
+*) [GREEK].
+
+*) Ci-dessus, p. 64-73.
 
 Ovide, sur l'autorité, sans doute, de quelque mythographe grec, dont les écrits et même le nom ne nous sont point parvenus* ; Ovide, le plus ancien des écrivains de l'antiquité qui nous ont conservé la fable de Cyparisse et Apollon ; Ovide* place la scène principale dans l'île de Céos ou Céa,* dans une île presque contiguë à l'Attique, cette célèbre contrée où le culte d'Athéné, la légende et les symboles de la déesse, l'assistance qu'elle prête à Hercule dans ses douze travaux ou ses initiations,* la légende de Thésée et bien d'autres faits, nous révèlent une civilisation importée de l'Asie occidentale. Aussi trouvons-nous dans le récit du docte et ingénieux chantre des Métamorphoses, plus d'un trait qui tout à la fois décèle aussi une origine asiatique et s'accorde avec la fresque de Pompeï. D'autre part, des témoignages authentiques nous apprennent que, sous divers noms et dès une époque reculée, Apollon fut adoré dans l'île de Céos,* et qu'il continua de l'être jusqu'aux derniers temps du paganisme. Il y portait principalement les surnoms d'_Aristée_ et de _Carthéen_. De nos jours on a découvert, dans les ruines de Carthée, les restes d'un temple dédié à Apollon Carthéen* ; et c'est aux environs mêmes de Carthée, que, selon le poëte latin, Cyparisse tua par mégarde un très-beau cerf objet de tous ses soins, et qui était consacré aux nymphes des champs appelés _carthéens, carthæa arva_. Ce cerf, comme le cyprès, doit être pour nous une image symbolique d'Apollon lui-même.* Le portrait qu'en trace Ovide ne permet aucun doute sur ce point : il était très-grand* ; il avait des cornes d'or ou dorées,* un collier de pierres précieuses, une bulle d'argent suspendue sur le front, ce qui,* pour le dire en passant, caractérisait Apollon comme un dieu solaire et lunaire à la fois.* Cette description, que j'abrége, ne se rapporte nullement au quadrupède placé près du siége de Cyparisse, dans la fresque de Pompeï. Les petites proportions que lui a données le peintre ne répondent ni à un cerf ordinaire, ni au cerf des champs carthéens, tel que le poëte le dépeint. De plus, l'animal, plein de vie, n'est point dans l'attitude où devrait être un cerf blessé à mort. Ne dirait-on pas plutôt une biche* ou un jeune cerf apprivoisé, qui tourne la tête vers Cyparisse, pour exprimer qu'il l'aime et qu'il attend de lui un regard, une caresse ? Et si c'est un cerf, comme je suis porté à le croire, ne représente-t-il pas ici symboliquement Apollon lui-même, le protecteur céleste de Cyparisse ? Dans les traditions écrites, le quadrupède tué par Cyparisse est tantôt un cerf,* tantôt une biche* ; mais le trait principal du mythe, qui, dans la fresque de Pompeï, marque la métamorphose du jeune chasseur, ce trait est fidèlement reproduit dans le récit d'Ovide* : le peintre fait naître du sommet de la tête de Cyparisse la cime d'un cyprès pyramidal ; le poëte, à son tour, après ces mots caractéristiques, _metas imitata cupressus_,* dépeint la métamorphose dans les vers que voici :
 
@@ -1953,11 +2029,56 @@ Et modo, qui nivea pendebant fronte capilli,
 Horrida cæsaries fieri, sumptoque rigore  
 Sidereum gracili spectare cacumine cœlum.
 
+*) Voyez, à ce sujet, les observations de Gierig, dans la préface de son édition des _Métamorph. d'Ovide_, et celles de M. Avellino (mémoire cité, p. 13-17, 21).
+
+*) _Metamorph._ 10., 106-142.
+
+*) Aujourd'hui Zéa.
+
+*) Voy. surtout les peintures d'une série nombreuse de vases grecs, d'ancien style.
+
+*) Voy. sur l'île de Céos, sur les ruines de Carthéa et sur le culte d'Apollon dans cette île, les manuscrits autographes et inédits d'Anse de Villoison, déposés à la Bibliothèque impériale (le 3e vol. surtout), et les notes écrites, par le même voyageur, à la marge des pages 15, 16 et suivantes du 2e volume du _Voyage de Tournefort au Levant_ (éd. de Lyon, 1727 ; trois vol. in-8°). L'exemplaire se conserve aussi à la Bibliothèque impériale. (Cf. Bröndsted, _Voyag. et Recherch. dans la Grèce_, p. 1-76 ; pl. 8., 16-19.)
+
+*) Bröndsted, _ibid._ p. 18 et suiv. pl. 8., 16-19.
+
+*) A l'appui de cette opinion, j'aurais à citer les témoignages que plusieurs savants archéologues, nommément MM. le duc de Luynes, Raoul-Rochette, Rathgeber, Ph. le Bas, Em. Braun, Avellino, ont produits pour prouver que le cerf et la biche furent consacrés à Apollon, comme à Artémis ou Diane. Je me bornerai à faire une mention particulière des monnaies autonomes de Caulonia, qui nous montrent, au droit, un cerf placé sur un autel, à côté de l'image d'Apollon, et, au revers, un cerf regardant tantôt à droite, tantôt à gauche (voy. l'intéressante notice publiée par M. Émile Braun, dans le _Bulletino dell' Instit. arch._ année 1843, p. 94, 95). C'est ainsi que, sur un des bas-reliefs de l'obélisque de Xanthus, l'image symbolique de Vénus, une vache allaitant son veau, est placée en regard de l'image anthropomorphique de la déesse.
+
+*) « Ingens cervus. »
+
+*) « Cornua fulgebant auro. »
+
+*) Bulla super frontem parvis argentea loris  
+Vincta movebatur ... ...
+
+*) Voyez mes observations sur l'emploi simultané de l'or et de l'argent dans les images des divinités (_Recherches sur Vénus_, p. 108-116).
+
+*) Les biches qui jouent un rôle dans les fictions mythologiques des Grecs et des Romains, sont souvent représentées avec un bois de cerf.
+
+*) Ovide, _loc. cit._ Servius, _ad_ Virgil. _Æneid._ 3., 64, 680. Lactantius Placidus, _Argum._ Ovid. _Metamorph._ 10., 3. _Scriptores rer. mythic. latini tres_, t. 1., fab. 177., p. 134.
+
+*) Servius, _ad_ Virgil. _Georgic._ 1., 20. _Scriptores rer. mythic. latini tres_, t. 1., fab. 6., p. 2 ; fab. 178., p. 135.
+
+*) Cette conformité avait tellement frappé M. Avellino, que, selon lui (Mémoire cité, p. 15), l'auteur de la fresque l'aurait peinte, l'imagination pleine des vers d'Ovide. Il a soin de dire que les inscriptions latines trouvées à Pompeï prouvent que les poëtes de la haute latinité étaient parfaitement connus dans cette colonie romaine, et il renvoie à l'opuscule de M. Wodsword intitulé : _Inscriptiones pompejanæ_ (Lond. 1837). Toutefois les différences que je signale entre le récit du poëte et l'œuvre du peintre ne me permettent pas de souscrire sans restriction à l'opinion du docte académicien de Naples.
+
+*) Il n'est pas sans intérêt de faire remarquer ici que d'autres écrivains latins, pour désigner le cyprès, emploient quelquefois, au lieu de _cupressus_, le mot _cyparissus_, identique avec le nom du personnage changé en cyprès par Apollon. Virgile nous en fournit deux exemples, l'un dans les _Géorgiques_ (2., v. 84), le second dans l'_Énéide_ (3., v. 680).
+
 On chercherait en vain dans les autres poëtes ou mythographes de l'antiquité les précieux détails qui accompagnent cette fiction ; et il est difficile de ne pas reconnaître dans le récit d'Ovide, comme dans la fresque de Pompeï, un exemple de l'habitude qu'avaient les Grecs et les Romains de transformer en mythe le symbole. Remarquons de plus qu'ici l'origine asiatique de la légende de Cyparisse ne se trahit pas moins par le nom même du lieu où s'accomplit la métamorphose. Ce nom, _Carthéa_, appartient à plusieurs idiomes de l'Asie occidentale ; il signifie _la ville_, et dut nécessairement être imposé par une colonie phénicienne à la cité qu'elle fonda dans l'île de Céos. Le nom seul de _Carthage_ justifierait, au besoin, une pareille assertion.
 
 Lactantius,* dans l'analyse succincte qu'il fait de chaque livre des Métamorphoses d'Ovide, n'avait pas à reproduire les détails que je loue dans le récit du poëte ; mais, tout en se bornant à rapporter les deux faits principaux, la coupable passion d'Apollon et la métamorphose de Cyparisse, il place aussi le lieu de la scène dans l'île de Céos ; et s'il omet de désigner nominativement la ville de Carthée, en revanche il nous montre qu'il avait puisé ses renseignements ailleurs que dans Ovide, car il nous apprend que Cyparisse avait pour père Amyclée. Cette dernière notion ne se trouve ni dans Ovide, ni dans aucun autre écrivain. Rapprochée des trois vers cités de Nonnus,* où Cyparisse a pour patrie la Laconie, elle nous ramène dans cette contrée ; et là nous trouvons, non-seulement une très-ancienne ville du nom de _Cyparissia_,* mais une Aphrodite armée, dont le culte dut être, de bonne heure, importé en Grèce par les Phéniciens, adorateurs d'Astarté armée, et une Athéné _Cyparissia_,* autre divinité armée, qui se confond à la fois avec la déesse _Onka_ ou _Onga_ de ces mêmes Phéniciens, et avec la Vénus Mylitta de Babylone et de Ninive.
 
+*) _Loc. cit._
+
+*) Ci-dessus, p. 201, note 4.
+
+*) Ci-après, p. 245.
+
+*) Pausanias, 3., 22., 7.
+
 Une autre tradition* donne pour père à Cyparisse, au lieu d'Amyclée, Télèphe, qu'une biche, disait-on, avait nourri ; et, par une coïncidence digne d'attention, nous voyons, sur un bas-relief de la villa Borghèse,* une biche accroupie auprès d'Augé, mère de Télèphe, comme nous trouvons une biche ou un cerf accroupi auprès de Cyparisse sur la fresque de Pompeï.
+
+*) Servius, _ad_ Virgil. _Æneid._ 3., 680.
+
+*) Visconti, _Monum. scelti borghesiani_, pl. 33. ; édit. de Milan.
 
 Enfin quelques écrivains latins substituent le nom de Silvain ou Sylvain à ceux d'Apollon et de Zéphyre dans la légende, de Cyparisse.* Parmi ces écrivains, nous retrouvons Servius, et ici le témoignage qui résulte de sa riche érudition est d'autant plus important qu'il se produit à l'occasion de ce vers où Virgile* nous apprend que l'on représentait Silvain portant à la main un jeune cyprès :
 
@@ -1965,17 +2086,55 @@ Et teneram ab radice ferens, Silvane, cupressum.
 
 Cette attribution du cyprès à Silvain est confirmée tout à la fois par la substitution de ce dieu à Apollon, dans la fable de Cyparisse, et par les monuments figurés que citent à ce sujet Heyne* et Visconti.* A ces monuments, selon la judicieuse observation de M. Avellino, il faut ajouter une inscription latine, métrique, composée en l'honneur du dieu Silvain et découverte dans l'Abruzze citérieure, sous le château de Capistrano, diocèse de Valva.* Le vers cité des Géorgiques de Virgile est introduit dans cette inscription.
 
+*) Servius, _ad_ Virgil. _Georgic._ 1., 20 ; _ad Eclog._ 10., 26. _Scriptores rer. mythic. latini tres_, t. 1., fab. 6., p. 2 ; fab. 178., p. 135.
+
+*) _Georgic._ 1., 20.
+
+*) _Ad_ Virgil. _loc. cit._
+
+*) _Mus. Pio-Clement._ t. 7., explication de la pl. 10. (Cf. le Dr. Frédéric Creuzer, _Symbolik_, t. 3., p. 843 ; 3e édition.)
+
+*) Copiée par l'abbé Costanzo, cette inscription fut publiée dans les _Papiri diplomatici_ (p. 332) de Marini, puis dans les _Nouvelles annales de l'Institut archéologique_ (vol. 6., p. 150), ou M. Avellino (mémoire cité, p. 27, note 1) est fondé à dire qu'elle n'aurait pas dû être annoncée comme inédite. Elle a, plus récemment, été reproduite par M. Liberatore, dans ses _Opuscoli_ (p. 112).
+
 L'identité de Silvain et d'Apollon ressort donc à la fois, on le voit, de la substitution du premier au second dans la légende de Cyparisse, et de l'attribution du cyprès à Silvain, comme à Apollon. Le culte de Silvain, divinité fort énigmatique, dont nous ne découvrons en Grèce aucune trace, avait-il été importé de l'Orient chez les Romains* ? ou bien ceux-ci trouvèrent-ils ce culte établi chez les anciens peuples d'Italie, à qui une émigration asiatique l'aurait apporté en même temps que le symbole du cyprès ? Ce sont des questions insolubles, ce me semble, dans l'état actuel de nos connaissances. Bornons-nous à remarquer que le vers cité des Géorgiques nous rappelle un usage originaire de l'Asie occidentale, comme le cyprès ; un usage simultanément constaté par des cylindres asiatiques et par des monuments égyptiens, où nous avons vu un jeune cyprès placé à la main, soit d'un prêtre, soit d'un initié, soit d'une divinité chargée de présider à la vie et au printemps.* Mais complétons cette remarque en transcrivant ici le commentaire entier de Servius sur le même vers de Virgile, commentaire où Silvain, à l'exemple des divinités de l'Asie occidentale,* se montre avec le double caractère de dieu des vivants ou de la terre et de dieu des morts ou des enfers : « Silvain est le dieu des forêts. Il aima un jeune homme, nommé Cyparisse, qui avait une biche parfaitement apprivoisée. Le dieu, sans le savoir, ayant tué cette biche, Cyparisse en mourut de douleur. Silvain, qui le chérissait,* le changea en cyprès, arbre ainsi appelé du nom de Cyparisse ; et, pour se consoler, dit-on, il porte à la main un arbre de cette espèce. Quelques-uns pensent que Silvain est une divinité infernale,* et, pour cette raison, ils lui attribuent le cyprès, qui, à cause de la faiblesse de ses racines, convient aux rites funéraires.* »
 
+*) Voyez, sur le dieu Silvain, les inscriptions latines que M. le Dr. Jean Labus a rapportées dans ses _Marmi antichi bresciani_, et les savantes observations dont il a accompagné ces inscriptions (p. 74-77).
+
+*) Ci-dessus, p. 64, 165, 166, 183-185.
+
+*) Voy. _Mém. de l'Acad. des inscriptions_, nouv. série, t. 14., 2e partie, p. 68, 173. _Recherches sur Vénus_, p. 43, 44, 72, 74, 75, 226, 227, 238-240.
+
+*) Mot à mot : « le dieu amoureux. »
+
+*) Mot à mot : « un dieu funèbre. »
+
+*) « Silvanus deus est silvarum. Hic amavit puerum Cyparissum nomine, qui habebat mansuetissimam cervam. Hanc quum Silvanus nescius occidisset, puer est extinctus dolore : quem amator deus in cupressum arborem nominis ejus vertit, quam pro solatio portare dicitur. (Hunc Silvanum quidam funebrem deum putant, et ideo cupressum tribuunt ei, quia eadem arbor apta sit funeri ob radicum infirmitatem). » Servius, _ad_ Virgil. _Georgic._ 1., 20. --- Ces mêmes renseignements se trouvent, mot pour mot, dans le premier et le second des trois mythographes latins dont les écrits ont été retrouvés à la bibliothèque du Vatican, par les soins de S. Em. Mgr. le cardinal Maï. (Voy. _Script. rer. mythicar. latini tres Romæ nuper reperti_, t. 1., fab. 6., p. 2 ; fab. 178., p. 135 ; ed. Bode.)
+
 Que le dieu qui change Cyparisse en cyprès s'appelle Silvain ou Apollon, cette métamorphose ne cache pas moins un sens élevé, que mes savants devanciers ne semblent pas avoir pénétré à travers la fiction érotique inventée par l'imagination sensuelle et dépravée des Grecs. On n'a pas compris que Cyparisse est un initié qui atteint, non sans de pénibles efforts, le but que s'étaient proposé les fondateurs des mystères. Son âme est restée victorieuse dans le combat qu'elle avait à livrer à la matière, source de toutes les passions charnelles et déréglées ; et cette victoire est représentée symboliquement par la mort que Cyparisse donne lui-même au cerf ou à la biche qu'il chérissait. Le cerf, dans certains rites propres à l'institution des mystères chez les Assyriens et les Phéniciens, se substitue au taureau.* Dominé par des désirs impétueux, emporté par sa grande vigueur, furieux même au temps des amours, le cerf, animal herbivore comme le taureau, est, comme lui aussi, le symbole du principe humide,* et, par conséquent, le symbole de la vie matérielle, le symbole des dieux créateurs ou qui dispensent la vie.* Mais il a sur le taureau l'avantage de marquer, tout à la fois par son rut et par la perte annuelle et périodique de son bois, l'époque du printemps, cette saison si impatiemment attendue, où, chaque année, une nouvelle vie se manifeste à la surface de la terre.* Dans le langage symbolique des mystères, dompter et tuer le cerf ou le taureau, c'est donc la victoire de la vie spirituelle sur la vie charnelle, la victoire de l'âme sur le corps. Ce triomphe appartient à Cyparisse, dont les habitudes pieuses et la pureté de mœurs nous sont attestées par les légendes grecques qu'Ovide et Servius avaient eues sous les yeux. Sorti victorieux des épreuves et des combats institués, en Orient, dans les initiations, il meurt, c'est-à-dire il achève, par la mort de son corps, de rendre à son âme la liberté qu'elle avait perdue. Comme Hercule, après que sa dépouille mortelle eut été consumée sur le bûcher mystique, il reçoit, avec le don de l'immortalité, les honneurs insignes de l'apothéose. Il les reçoit d'un dieu solaire, Apollon ou Silvain, qui, comme Mithra, modèle de perfectibilité proposé aux initiés, préside à la vie future et à la célébration des mystères. La métamorphose de Cyparisse en cyprès, symbole d'Apollon et de Silvain, symbole de la vie éternelle ou de l'immortalité, est donc une véritable apothéose.* Je ne sais si je m'abuse, mais il me semble que la fresque de Pompeï, monument où se révèle un sentiment profondément religieux, confirme le sens élevé que je prête au mythe de Cyparisse.
+
+*) De là, cette double attribution du cerf et du taureau à Apollon et à Artémis ou Diane ; de là, sur des bas-reliefs assyriens et sur des pierres gravées ou des scarabées de travail phénicien, ces groupes composés d'un ou deux lions, d'un ou deux griffons, qui dévorent un cerf au lieu d'un taureau ; de là aussi, des têtes de cerf substituées à des cornes ou à une tête de taureau, comme ornement des tiares des rois parthes.
+
+*) Voy. _Rech. sur Vénus_, p. 156-162, 191, 192, 220-225.
+
+*) Que si l'on objectait que, dans le récit d'Ovide et sur la fresque de Pompeï, je prends le cerf des champs carthéens pour l'image symbolique d'Apollon, je demanderais si Zeus ou Jupiter, Osiris, Çiva, Dionysus, ne se métamorphosent pas en taureau sous la plume des mythographes et des poëtes, ou ne sont pas représentés avec les formes de cet animal dans les monuments de l'art.
+
+*) On voit encore une fois ici que les institutions religieuses et le langage symbolique des Chaldéens ou des Assyriens n'avaient rien emprunté aux phénomènes climatériques de l'Égypte, ni aux productions de son sol.
+
+*) M. Émeric David et M. Avellino reconnaissent bien que le cyprès est un symbole solaire, et le cerf ou la biche, un symbole du principe humide ; mais ils ne tirent pas de ces deux faits les conséquences qu'il convient d'en déduire, pour les appliquer à l'interprétation du mythe de Cyparisse. L'académicien napolitain n'entre même pas dans l'examen du sens psychologique de ce mythe. L'académicien français, j'en fais à regret l'observation, se trompe lorsqu'il dit (_Jupiter_, t. 2., p. 436, 437) : « Ce n'est point Cyparisse qui fut changé en cyprès ; c'est, au contraire, l'amour d'Apollon pour le cyprès qui donna naissance à la fable de Cyparisse ... »
 
 L'attribution du cyprès à Apollon, chez les Grecs d'Europe, de même que chez les Grecs asiatiques, est, on le voit, pleinement justifiée par le témoignage indirect de la légende de Cyparisse où nous lisons le nom de Silvain, comme par les témoignages directs que j'ai rapportés plus haut. Je ne puis produire un nombre aussi imposant de preuves en faveur d'une attribution semblable à Artémis, la Diane grecque, sœur et compagne inséparable d'Apollon. Mais le fait n'est pas moins certain ; il pourrait même être affirmé par voie d'analogie ou de consanguinité, à défaut de preuves.
 
 Déjà nous avons appris de Pausanias que, sur la route d'Argos à Tégée, au milieu du _cupressetum_ planté sur le mont Lyconé, on avait érigé, en l'honneur d'Artémis _Orthia_, un temple qui renfermait les statues de Latone, d'Apollon et d'Artémis.*
 
+*) Ci-dessus, p. 192, 193.
+
 Dans la Phocide, à Œanthéa, où Aphrodite avait un temple, le même voyageur* vit, un peu au-dessus de la ville, un bois sacré de cyprès et de pins, et, dans ce bois, un temple et une statue d'Artémis.
 
+*) Pausanias, 10., 38., 5.
+
 Xénophon, exilé de sa patrie, se retire à Scillonte,* ville bâtie par les Lacédémoniens aux environs d'Olympie. Par l'ordre même des dieux, il y achète, pour le consacrer à Artémis, un territoire qu'arrosait un petit fleuve nommé _Sélinus_, comme celui qui coulait près du temple de la déesse, à Éphèse. Là, avec les dîmes des richesses rapportées de son expédition en Asie, Xénophon érige un temple, une statue et un autel à Artémis. « Le temple, nous dit-il lui-même, ressemble en petit à celui d'Éphèse ; mais à Éphèse, la statue de la déesse est d'or ; ici, elle est de cyprès.* »
+
+*) Ou _Scillunte._ Ce fut là qu'il écrivit sa célèbre histoire de la retraite des dix mille.
 
 Ovide, dans ses Métamorphoses,* représente comme couverte d'une épaisse forêt de cyprès* la vallée de Gargaphie* consacrée à Diane, qui s'y baignait avec les nymphes lorsqu'elle fut surprise par Actéon. La détermination de la position de cette vallée dans la Béotie n'offre point de difficulté. M. Panofka* me semble fondé à la placer au pied même du mont Cithéron. Décrivant un bas-relief de sarcophage,* où l'on voit Actéon attaqué par quatre de ses propres chiens, au moment où la déesse offensée le métamorphose en cerf, il dit : « Des cyprès et des pins contribuent à désigner le mont Cithéron, sur lequel ces deux espèces d'arbres croissaient en abondance. » Toutefois cette dernière assertion n'est pas justifiée par les deux passages, l'un d'Ovide,* l'autre de Philostrate,* auxquels il renvoie le lecteur. Si le poëte latin et l'écrivain grec ne nous apprennent rien sur l'emplacement précis de la vallée et de la fontaine de Gargaphie, le second fait mention d'Actéon à propos d'une fontaine ou d'une source qui doit être celle de Gargaphie, située près du mont Cithéron, bien qu'il ne la désigne par aucune dénomination.
 
