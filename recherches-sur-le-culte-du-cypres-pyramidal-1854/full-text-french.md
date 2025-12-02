@@ -2540,21 +2540,71 @@ Les seuls monuments numismatiques que, jusqu'à ce jour, leur légende ait permi
 
 *) _Rec. de méd. de peuples et de villes._ --- Eckhel, qui n'avait pas eu la médaille sous les yeux, la rapporte à _Cyparissus du mont Parnasse, près de Delphes_, en se bornant à citer et à copier Pellerin. (Voy. _D. N._ 2., 193).
 
+*) _Descript. de méd._ 2. 96, n° 20.
+
+*) _Méd. inéd._ p. 41 et suiv.
+
+*) Mémoire cité, p. 11.
+
 En Occident, _Cypresseta_* me paraît être la dernière ville qui nous présente uu nom analogue à ceux des diverses cités grecques dont je viens de parler. Elle était située, dans la Gaule narbonnaise, entre _Arausio_ et _Avenio_, au lieu actuellement nommé le _Pont de Sorgues_.* Mais on ne possède aucun renseignement sur l'époque de sa fondation, ni sur l'origine de son nom ; et, à ma connaissance, nos médailliers ne renferment pas une seule pièce que l'on puisse rapporter à cette ville.
+
+*) Antonini Aug. _Itiner. Itinerar. a Burdig. Hierusal. usque_, p. 553, ed. Wesseling.
+
+*) Voy. d'Anville, _Notice sur l'anc. Gaule_ (Paris, 1760, in-4°), p. 260, 261.
 
 Selon un antique usage, qui se révèle dans un grand nombre de prescriptions thérapeutiques indiquées par les médecins grecs, ceux-ci et, à leur exemple, les médecins latins attribuaient plus d'une vertu médicale au cyprès, de même qu'à quelques autres arbres ou plantes que la religion avait consacrés aux dieux. Ces vertus médicales, vraies ou supposées, étaient d'ordinaire en rapport avec les fonctions ou attributions dévolues à chaque divinité. Un tel usage, n'en doutons pas, avait pris naissance dans l'Asie occidentale ; et les peuples de cette vaste contrée l'avaient introduit dans la Grèce, en y important, avec leurs systèmes religieux, toutes leurs connaissances scientifiques comprises sous la dénomination unique de théologie, la science universelle. Les noms que donnaient les Grecs aux diverses productions des trois règnes de la nature en fourniraient plus d'une preuve ; mais ce n'est pas le lieu de traiter un pareil sujet. Nous n'avons à nous occuper ici que des prescriptions qui se rapportent à l'emploi médical du cyprès. Le P. Hardouin, dans son édition de Pline,* a réuni la plupart des renseignements que fournissent à cet égard Dioscoride, Pline lui-même, Galien et quelques autres écrivains de l'antiquité ; et je demande à l'Académie la permission de me référer aux citations du savant éditeur. Il n'a oublié ni Q. Sérénus Samonicus, ni Marcellus l'Empirique ; mais il m'a laissé le soin de mettre en relief les faits qui confirment mes remarques sur l'origine asiatique de cette thérapeutique et sur sa concordance avec les idées religieuses que l'Occident, comme l'Orient, attachait au symbole du cyprès.
 
+*) _H. N._ t. 2., p. 328.
+
 Observons, en premier lieu, que Dioscoride était né dans la Cilicie, et que Pline,* qui avait principalement tiré des ouvrages attribués à Pythagore et à Démocrite, sur les effets des plantes, l'indication des diverses propriétés médicales de cet arbre, n'omet pas de nous dire* que ces deux philosophes avaient visité les mages de Perse, d'Arabie, d'Éthiopie et d'Égypte. Nous pouvons, sans craindre de nous tromper, ajouter à ces mages les prêtres chaldéens de la Babylonie. Pline* avait, de plus, trouvé dans les Histoires écrites par l'empereur Claude quelques détails sur l'usage médical que les Parthes faisaient des feuilles et du bois de l'espèce de cyprès appelée _bratus, brathus_ ou _brathys_,* qui croît sur le mont Zagrus, au delà du Pasitigre, près de la ville de Sittacé.*
+
+*) _Ibid._ 25., 5., 4.
+
+*) _H. N._ 25., 5., 4.
+
+*) _Ibid._ 12., 39., 1.
+
+*) Voy. ci-dessus, p. 88-91.
+
+*) Dans l'Élymaïde.
 
 Les anciens employaient comme médicaments, non-seulement les feuilles, le bois, la racine, les semences et l'huile de cyprès* ; mais ils composaient avec une partie quelconque de cet arbre un onguent* et une sorte de vin et de vinaigre, désignés chacun par l'épithète de _cyprin_. Ils avaient aussi des pilules cyprines. Galien, dans un long chapitre* sur les cas où il convient de faire usage des diverses préparations thérapeutiques que l'on tire du cyprès, recommande ces pilules, comme les feuilles et les semences, pour la guérison des ulcères, mais il ne s'explique pas sur leur composition.
 
+*) _Oleum cyprinum._ Pline, _H. N._ 15., 7., 4.
+
+*) Pline, _ibid._ 13., 2., 2 et 7.
+
+*) _De simplic. medicam. facultatib._ 7., 63.
+
 Les feuilles s'employaient seules, broyées ou infusées ; on en exprimait aussi le suc ; d'autres fois on les pilait avec les semences. Elles étaient réputées très-efficaces pour la réduction des hernies, pour la guérison des maux de vessie, des affections morbides qui attaquent les parties génitales, et des maladies qui sont propres au sexe féminin.* Broyées et appliquées sur la plaie, ou prises en breuvage, elles passaient pour un excellent remède contre la morsure des serpents venimeux. Dans le cas de piqûre de scorpion, on attribuait la même efficacité à une infusion ou décoction de racine raclée, qui devait être prise intérieurement, et cette boisson était prescrite aussi pour faciliter ou rétablir les menstrues.*
+
+*) On attribuait à l'espèce de sabine appelée _cyprès de Crète_, la propriété de délivrer la matrice d'un fœtus mort pendant la gestation (Pline, _Hist. nat._ 24., 61., 1). --- En effet, elle provoque l'avortement.
+
+*) Pline, _H. N._ 24., 10., 1 et 2.
 
 L'huile de cyprès possédait, assure Pline,* des qualités semblables ou analogues à celles qu'on se plaisait à reconnaître aux feuilles et aux racines. Elle est de plus recommandée, comme un puissant antidote contre les piqûres de tous les insectes venimeux, en général, et contre toute espèce de poison corrosif. On lui attribuait enfin les mêmes propriétés qu'à l'huile de myrte,* c'est-à-dire, à l'huile qu'on tirait d'un arbuste consacré à Vénus, comme le cyprès.
 
+*) _Ibid._
+
+*) _Ibid._ 23., 44., 1 ; 45., 1.
+
 Ainsi l'arbre dont l'Occident, à l'exemple de l'Orient, faisait le symbole de la vie, l'attribut et même l'emblème des dieux créateurs ou générateurs, avait, chez les Grecs et les Romains, sinon, comme en Chine,* le privilége de donner l'immortalité, celui du moins de fournir des médicaments réputés efficaces pour combattre tout ce qui peut attaquer les sources de la vie, ou les organes de la reproduction. Il n'est pas inutile d'ajouter que l'expérience des médecins modernes est loin d'avoir confirmé toutes ces prétendues propriétés. Les cas, en très-petit nombre, où ils prescrivent encore des médicaments fournis par le cyprès, deviennent de plus en plus rares.
 
+*) Ci-dessus, p. 161.
+
 Je ne m'arrêterai point à rapporter ici les témoignages des auteurs anciens qui nous font connaître les divers usages domestiques auxquels jadis, en Occident, chez les Grecs et les Romains surtout, on employait le cyprès pyramidal. Ces témoignages sont cités, ou du moins indiqués, dans le recueil des œuvres du Dr. Lampe,* dans la Géographie de M. Carl Ritter,* trésor inappréciable d'érudition, dans le recueil des Mémoires de l'Académie d'Herculanum,* et, en particulier, dans le Mémoire de feu M. Avellino sur le mythe de Cyparisse.* Quelques mots qui se trouvent dans un passage des _Géoponiques_* semblent résumer les titres du cyprès à la faveur dont il jouissait chez les anciens : « Le cyprès, est-il dit à la fin de ce passage, a été donné par les dieux pour charmer les hommes.* »
+
+*) Tom. 1., p. 574-593.
+
+*) 11., p. 567-582.
+
+*) Tom. 5., p. 393.
+
+*) Pages 7, 8, 31.
+
+*) 2., 4.
+
+*) « ... [GREEK] »
 
 ### § 2\. --- Étrurie et Picentine.
 
@@ -2564,31 +2614,189 @@ Et quis litoreæ fumant altaria Cupræ.
 
 La déesse avait même imposé son nom à deux villes de la Picentine. Dans les auteurs anciens, ou dans les inscriptions lapidaires, elles sont appelées, la première, [GREEK],* _Cupra maritima_,* _Cupra litorea_,* ou simplement _Cupra_* ; la seconde, [GREEK].* Dans l'_Agro Firmano_, diocèse de Ripatransona, le lieu nommé aujourd'hui _Le grotte a mare_* paraît répondre à l'ancienne _Cupra maritima_. C'est près de là que fut trouvée une plaque de marbre, où se lit une inscription latine, destinée à perpétuer le souvenir d'un acte de munificence de l'empereur Trajan,* qui avait restitué le temple de la déesse Cupra. Cette inscription a été publiée par Gruter,* d'après Ursin.
 
+*) Ci-dessus, p. 68 ; p. 215.
+
+*) Au sujet de cette déesse et de son temple en Étrurie, on peut consulter : Tite-Live, 5., 21., 22. ; cf. 27., 37. Turnèbe, _Advers._ 16., 19. Gori, _Mus. etrusc._ t. 2., p. 84, 164. Passéri, _Dissertat._ 1., _ibid._ t. 3., p. 48. Inghirami, _Monum. etrusc._ t. 2., p. 235, 242. Dr. Frédéric Creuzer, _Symbolik_, t. 2., p. 490 ; t. 3., p. 256, 553, 666, 3e édit. --- Remarquez qu'aucun de ces écrivains n'a aperçu l'identité du nom de _cypra_ ou _cupra_ avec les noms ou les mots que j'indique un peu plus loin.
+
+*) Ci-dessus, p. 217, note 2.
+
+*) _Geogr._ 5., p. 241.
+
+*) 8., 432.
+
+*) Ptolémée, _Geogr._ 3., p. 69 ; ed. Bertio.
+
+*) Gruter, _Inscript. antiq._ p. 108. n° 7.
+
+*) Silius Italicus, _loc. cit._
+
+*) Pline, _H. N._ 3., 18. Pomponius Mela, 2., 4., 10 ; _ibique_ Solin.
+
+*) Ptolémée, _loc. cit._ p. 72. Pline (_loc. cit._), parlant des habitants de cette ville, les désigne sous le nom de _Cuprenses cognomine montani_.
+
+*) Selon quelques-uns, _Cupra maritima_ aurait été située non dans ce lieu, mais dans le voisinage et au nord de Marano, château du diocèse de Ripatransona, par conséquent, dans l'_Argo Massignano_, qui fait partie du territoire de S. Quirico. (Voy. la traduction française de Strabon, t. 2., p. 237, 238, note 3.)
+
+*) _Trib. potest._ 11., cos. 3.
+
+*) Recueil cité, p. 1016., n° 2.
+
 Déjà ces divers faits nous autorisent à supposer qu'avec le culte asiatique de Cypra ou Cupra s'était introduit en Picentine et en Étrurie celui du cyprès pyramidal, évidemment aussi inséparable du culte de cette déesse qu'il l'était du culte de la Vénus assyrienne, soit dans l'Asie occidentale, soit en Égypte, soit chez les Grecs. Ma supposition se change en certitude à la vue de quelques monuments de l'art exhumés, depuis plusieurs années, des hypogées étrusques. Au nombre de ces antiquités se trouvent des sarcophages ou des urnes cinéraires dont je me réserve de parler en détail dans le mémoire suivant. Toutefois, par anticipation, je dirai brièvement ici que, sur sa face antérieure, un de ces monuments funéraires* est décoré d'un bas-relief où l'on reconnaît sans peine l'image de Vénus placée entre deux cyprès, comme sur les bas-reliefs asiatiques. Ici la tête de la déesse est ornée de deux grandes cornes de vache, ce qui nous reporte aussi dans les contrées de l'Orient où Vénus était représentée tantôt avec une tête de vache au lieu d'une tête humaine, tantôt sous la forme d'une vache allaitant son veau. Les autres monuments que j'ai à citer ne sont ni des urnes cinéraires, ni des sarcophages ; et, bien qu'ils aient été découverts dans des tombeaux et qu'ils soient ornés de plusieurs symboles souvent employés avec un sens funéraire, on ne doit peut-être pas les considérer comme primitivement destinés à des usages funèbres. En première ligne, se place ici un vase peint, de la collection Candélori, publié par feu M. Micali* et déclaré par lui d'origine purement étrusque : _a me pare tutto etrusco_, nous dit-il en propres termes. Ce vase, à deux anses et à figures noires, blanches et rouges sur un fond jaune, est couvert de peintures réparties dans cinq bandes ou divisions horizontales. On y voit Hercule combattant les Centaures,* et plusieurs autres scènes* qui se rapportent, comme celle-ci, à l'initiation aux mystères. Dans un de ces cinq tableaux, deux griffons ailés sont placés chacun à l'extrémité opposée d'un groupe composé d'un lion et de deux panthères ou lionnes, dont la seconde dévore une vache. Entre la première et le lion s'élève un cyprès pyramidal, qui n'a point été remarqué par M. Micali, et qui, à mes yeux, est l'image symbolique de la déesse chargée de présider aux mystères. Je montrerai, dans mon ouvrage sur le culte de Mithra, comment les griffons et le groupe de quadrupèdes que nous voyons auprès de cet arbre se rattachent directement à la série des symboles employés dans les initiations aux mystères de la Vénus assyrienne et du dieu des Perses.
+
+*) Voyez le n° 4 de la planche 13 ci-jointe.
+
+*) _Storia degli antich. pop. ital._ (Firenz. 1832), t. 3., p. 163-165 ; pl. 95., A-E.
+
+*) _Storia degli antich. pop. ital._ pl. 95., B, E.
+
+*) _Ibid._ B, D.
 
 C'est avec plus de certitude encore que nous devons rapporter aux mystères de la première de ces deux divinités deux plats d'argent doré, qui proviennent d'un tombeau étrusque et qui nous offrent chacun un exemple de l'emploi religieux du cyprès pyramidal. Ce tombeau, de grandes dimensions, fut découvert, en 1836, non loin des ruines de _Cæré_, par M. le général Galassi et M. l'abbé Rigolini. Tous les objets qu'il renfermait ont été déposés à Rome, au Musée grégorien. En 1841, M. le chevalier Louis Grifi* en a publié la description et les dessins. L'année suivante, ils furent également figurés dans la description du Musée étrusque grégorien dont nous sommes redevables au P. Marchi.* Je ne m'arrêterai pas à démontrer ici combien peu est fondée l'opinion du premier de ces deux archéologues, qui, tout en proclamant la haute antiquité des ouvrages d'art trouvés dans le grand tombeau de Cæré, prétend les rattacher aux mystères de Mithra. Je traiterai ailleurs cette question ; mais, en attendant, je dirai que l'origine phénicienne ou assyrienne des deux plats dont j'ai à parler ne saurait être mise en doute par aucune personne tant soit peu versée dans la connaissance des antiquités asiatiques. Le style, le travail, les sujets, les symboles, tout concourt à justifier cette assertion. Un médaillon central et en relief orne le fond de chacun de ces deux plats. L'un* représente deux colombes, oiseau sacré de Vénus, voltigeant au-dessus d'une vache qui allaite son veau, image symbolique de la déesse, considérée comme mère de l'Amour.* L'autre médaillon nous offre un groupe composé de deux lions, ou d'un lion et d'une lionne, dévorant un taureau,* groupe caractéristique dont l'invention et la signification appartiennent indubitablement à l'art hiératique des Assyriens, des Phéniciens et des Perses. Je crois avoir mis ce fait hors de doute* bien avant la découverte des bas-reliefs de Nimroud, qui nous ont permis de constater que, dès une haute antiquité, des compositions semblables ou analogues faisaient partie des scènes religieuses sculptées sur les murs des palais érigés par les rois d'Assyrie.* De plus, les sujets que représentent les deux médaillons de nos plats reposent chacun sur un soubassement en échiquier ou en treillis et semi-circulaire, qui se rencontre exclusivement dans les monuments assyriens ou phéniciens. Ces deux médaillons sont entourés chacun de deux bandes circulaires, qui offrent, en relief, des scènes analogues à celles qu'on voit tout à la fois sur les deux coupes citées* de l'île de Cypre, sur les murs des palais de Nimroud et de Persépolis, sur les coupes de bronze assyriennes provenant des dernières fouilles de M. A. H. Layard, et sur des cylindres et des cônes de travail babylonien, assyrien, phénicien ou persépolitain. La présence, sur un des deux plats de Cæré, du groupe symbolique de la vache allaitant son veau, l'identité de style, de forme, de matière et de travail que présentent entre eux ces deux monuments, tout nous autorise à les rapporter l'un et l'autre, non, comme l'a fait M. Grifi, aux mystères de Mithra, divinité mâle, mais aux mystères de la déesse que l'Asie occidentale, Corinthe et ses colonies adoraient sous la forme d'une vache allaitant son veau, ou d'une femme à cornes de vache, et sous les noms de Mylitta, Anaïs, Astarté, Aphrodite, etc. ; les Étrusques, sous les mêmes formes et sous les noms de Cypra ou Cupra, de Turan ou Touran, etc. Je m'abstiens de présenter ici l'interprétation des figures et des symboles qui entourent le médaillon central de chacun de nos deux plats. Je l'ajourne par la même raison qui m'a obligé d'ajourner l'interprétation des deux coupes citées de l'île de Cypre, c'est-à-dire, par l'impossibilité de me faire comprendre sans avoir préalablement exposé l'ensemble de mes idées sur les symboles et les cérémonies propres à l'initiation aux mystères. Je me borne à prier l'Académie de remarquer que, sur l'un des deux plats,* dans les deux bandes circulaires, plusieurs colombes voltigent entre les cyprès pyramidaux plantés au bord de la voie sacrée que parcourt une pompe religieuse. Sur l'autre plat,* la bande qui entoure immédiatement le médaillon central nous offre des combats mystiques, qui se livrent au pied de plusieurs cyprès entre lesquels voltigent aussi des colombes. De plus, on voit ici deux palmiers femelles* et deux vautours,* symboles consacrés à la Vénus assyrienne. La seconde bande représente, comme les deux bandes du premier plat, une pompe religieuse, qui suit une voie bordée de cyprès ; entre ces arbres volent des colombes et un vautour. Dans le mémoire suivant nous retrouverons, sur un sarcophage étrusque, des cyprès plantés au bord d'une voie que parcourent des personnages montés sur des chars.
 
+*) _Monum. di Cere antica spiegati coll. osservanz. del culto di Mitra_ (Rom. 1841, 1 vol. petit in-fol. fig.).
+
+*) _Mus. etrusc. gregorian._ parte 1. (Rom. 1842, gr. in-fol. fig.).
+
+*) M. Grifi, ouvrage cité, pl. 10., n° 1. _Mus. etrusc. gregorian._ parte 1., tav. 65., nⁱ 1 e 2.
+
+*) Voy. ci-dessus, p. 59. M. le Dr. Chr. Walz, _De Nemesi Græcor._ p. 16. --- Un fait très-curieux, qui me paraît avoir jusqu'à ce jour échappé à l'attention de tous les archéologues, ressort du médaillon central où, sur le plat d'argent doré dont je parle, on a représenté le groupe symbolique de la vache allaitant son veau. Ici (M. Grifi, _ubi supra. Mus. etrusc. gregor._ parte 1., tav. 65., n° 2), devant la vache, et la tête élevée vers elle, nous voyons un second veau, dont l'attitude indique qu'à son tour, il voudrait être allaité comme son jumeau. Peut-on se défendre de supposer qu une telle représentation était destinée à constater que, sur cette coupe, on avait voulu perpétuer symboliquement le souvenir de la naissance d'Éros et d'Antéros, représentée ailleurs par deux enfants ou deux Amours qui accompagnent Vénus, leur mère, ou qui sont placés tantôt sur ses bras, tantôt dans son giron ?
+
+*) M. Grifi, ouvrage cité, pl. 5. n° 1. _Mus. etrusc. gregor._ parte 1. tav. 66., nⁱ 1 e 2.
+
+*) Voy. _Mémoires de l'Acad. des inscript._ nouv. série, t. 15., 2e partie, p. 63-127.
+
+*) Voyez Layard's _Monum. of Nineveh_, pl. 9. ; pl. 45., n° 2 ; pl. 46., n° 1 ; et pl. 48., n° 2. Cf. pl. 8.
+
+*) Ci-dessus, p. 64, p. 95.
+
+*) M. Grifi, ouvrage cité, pl. 10., n° 1. _Mus. etrusc. gregorian._ parte 1., tav. 65., nⁱ 1 e 2.
+
+*) M. Grifi, _ibid._ pl. 5., n° 1, _Mus. etrusc. gregor._ parte 1., tav. 66., nⁱ 1 e 2.
+
+*) Nous retrouvons ces deux palmiers femelles, ou un seul palmier femelle, sur plusieurs cylindres ou cônes, de travail babylonien ou assyrien, et sur un bas-relief mithriaque, d'époque romaine. (Voy. _Rech. sur le culte de Vénus_, pl. 1., n°s 1 et 8 ; 4., n° 12 ; et _Recherches sur Mithra_, pl. 16., n° 4 ; 25., n° 6 ; 27., n° 7 ; 51., n° 2 ; 52., n° 4 ; 62., n° 3 ; 74.) --- Nous avons vu plus haut (p. 91, 92 ; pl. 6., n°s 1 et 2 ; et pl. 7., n°s 4 et 5) que, sur les médailles impériales, frappées dans la Phénicie, le palmier et le cyprès figurent alternativement comme emblèmes ou symboles d'Astarté. Il en est de même sur les cylindres asiatiques consacrés aux mystères de la déesse. Alciat (_Emblemat. libell._ emblem. 198), à qui ces monuments étaient inconnus, n'a pas ignoré cependant l'espèce de parenté que l'antiquité avait établie entre ces deux arbres symboliques.
+
+*) Je montrerai ailleurs que le vautour remplit ici le même rôle qui lui est assigné sur plusieurs bas-reliefs et cylindres assyriens.
+
 On le voit donc, le cyprès, chez les Étrusques, comme chez les peuples de l'Asie occidentale, de l'Arabie, de l'Égypte et de la Grèce, remplissait, dans la composition des monuments figurés, un rôle essentiellement religieux. Ce n'est pas le seul exemple qu'on pourrait citer du culte des arbres en Étrurie, et je demande à l'Académie la permission de lui rappeler que j'en ai, il y a bien des années, signalé d'autres exemples à l'occasion des peintures trouvées dans les grottes Marzi et Querciola.*
+
+*) _Annal. de l'Instit. arch._ t. 5., p. 90-113.
 
 ### § 3\. --- Rome et empire romain.
 
 Diverses remarques ou citations placées dans ce mémoire, divers monuments de l'art, dont j'ai déjà invoqué le témoignage, nous ont préparés à reconnaître que le culte du cyprès pyramidal avait pénétré chez les Romains bien des siècles avant l'époque où il leur arriva, uni au culte persique de Mithra. A Rome, dès le temps même de la fondation de la ville, nous le trouvons lié au culte des divinités nationales. Pline* fait une mention expresse d'un cyprès et d'un lotos qui, selon Masurius, étaient aussi anciens que la ville ; ils passaient pour avoir été plantés auprès du temple que Romulus victorieux venait d'ériger en l'honneur de Vulcain, avec la dîme du butin enlevé à l'ennemi. Le cyprès, ajoute Pline, tomba vers la fin du règne de Néron et ne fut pas remplacé. De son côté, Tite-Live* rapporte que les Romains avaient enlevé de la citadelle de Véies (_Veii_), en Étrurie, et placé dans un temple bâti exprès sur le mont Aventin, deux antiques statues de bois de cyprès, représentant Junon, surnommée Reine, _Regina_. Ce précieux renseignement nous ramène tout à la fois à la _Junon Reine_, [GREEK], qu'on adorait dans l'île de Samos, primitivement appelée _Cyparissia_, et à la _Junon Cypra_ ou _Cupra_ des Étrusques, dont le culte, sans aucun doute, était d'origine asiatique. On peut juger de la profonde vénération qu'inspiraient aux Romains les deux statues de bois de cyprès conquises à Véies, lorsqu'on lit, dans le même Tite-Live,* qu'elles furent solennellement portées en procession, accompagnées de vingt-sept vierges et de dix prêtres, pour expier les prodiges arrivés pendant la guerre d'Hannibal en Italie.* A côté de ce passage vient se placer celui de Pline* où nous apprenons que, depuis l'an 661 de la fondation de Rome,* il existait au Capitole* une statue de Jupiter Véjove, de bois de cyprès, qui s'était parfaitement conservée jusqu'au temps où cet auteur écrivait. Il est curieux de rapprocher de ces témoignages les vers cités de Virgile,* qui nous ont montré que les Romains n'ignoraient point l'attribution faite du cyprès à Rhéa ou Cérès par les Troyens, et un long passage de Claudien,* où nous voyons Cérès, à la recherche de sa fille Proserpine, arriver sur le mont Etna, y couper deux cyprès, les prendre en main, et les plonger, par leur cime, dans le cratère du volcan, pour les allumer et s'en faire deux immenses torches.
 
+*) _H. N._ 16., 76., 1.
+
+*) 5., 21-23. ; 27., 37. Obsequens, _De prodigiis_, cap. 106.
+
+*) 27., 37.
+
+*) Sous le consulat de Cn. Cornélius Lentulus et de P. Licinius.
+
+*) _H. N._ 16., 79., 3.
+
+*) Il me paraît bien difficile de ne pas supposer qu'il y a ici, dans le texte, une erreur de copiste. La statue dont parle Pline remontait probablement à une époque beaucoup plus reculée que l'an de Rome 661.
+
+*) Des écrivains postérieurs disent que cette statue était placée dans un temple situé entre la citadelle et la roche tarpéienne.
+
+*) Ci-dessus, p. 81.
+
+*) _De raptu Proserp._ 3., v. 370-403.
+
 Les Romains, conquérants de l'Asie occidentale, purent donc regarder comme une nouvelle preuve de l'origine asiatique qu'ils aimaient à s'attribuer, l'usage répandu dans cette contrée de consacrer le cyprès pyramidal à des divinités qui s'identifiaient avec leur Jupiter, avec leur Junon, avec leur Vénus, avec la Mère des Dieux. Une même pensée dut se présenter à leur esprit, lorsque, chez les peuples de l'Orient, ils virent la consécration de cet arbre s'étendre à plusieurs autres dieux ou déesses, nommément au Soleil et à la Lune divinisés ? La métamorphose de Cyparisse en cyprès, chantée par Ovide, la belle fresque qui, à Pompeï, représentait cette ingénieuse métamorphose, quelques vers de Virgile, les savants commentaires de Servius, et enfin un passage d'Apulée et plusieurs monuments figurés dont il me reste à entretenir la Compagnie, ici ou dans le mémoire suivant, nous prouvent, en effet, que, chez les Romains, dès une époque antérieure à leurs premières expéditions en Asie, le culte du cyprès était intimement lié à celui d'Apollon, de Diane, de Vénus, de Mercure et de quelques autres divinités.
 
 Je ne reviendrai pas sur les divers traits que, déjà, j'ai mis en relief, à l'occasion du récit d'Ovide et de la fresque de Pompeï,* deux tableaux dont la poésie et la peinture grecques avaient certainement fourni les modèles aux Romains. Je ne reviendrai pas non plus sur les passages de Philostrate, de Nonnus, de Virgile, de Servius et de Lactantius Placidus qui se rapportent au mythe de Cyparisse. Ce que j'en ai dit longuement me laisse à peine le soin de répéter ici que tout, dans ce mythe, décèle une origine asiatique et la transmission succesive en Grèce et en Italie des traditions écrites ou des monuments figurés qui nous en ont conservé le souvenir.
 
+*) Ci-dessus, p. 201-205.
+
 L'imitation d'un type grec, imité lui-même ou plutôt transformé d'après un type asiatique, ne se décèle pas moins dans un disque d'argent, de travail romain, représentant Apollon avec l'attribut du cyprès, et dans le revers des trois médailles citées plus haut,* qui appartiennent à la numismatique d'Alexandria-Troas devenue colonie romaine. Ces trois pièces et le disque, rapprochés entre eux, fournissent un témoignage important et irrécusable. Le disque est figuré ici, avec les dimensions mêmes de l'original, sous le n° 5 de la planche 20. Il n'est pas inédit, mais il a été décrit et lithographié sans beaucoup de soin dans le _Catalogue des collections de feu M. Toussaint Grille, d'Angers_.* Il provient d'un trésor qui, en 1836, et, par conséquent, peu d'années après l'heureuse découverte faite à Berthouville, près de Bernay, fut trouvé enfoui dans la terre, à Notre-Dame-d'Alençon, près de Brissac.* Celui-ci se composait de trente-quatre objets, dont le plus précieux, sous le rapport de la mythologie, du symbolisme et de l'art, est, sans contredit, notre disque d'argent. Ces trente-quatre objets, après avoir appartenu à M. Grille, ont récemment été acquis par le musée du Louvre, grâce à la sollicitude éclairée qui préside à la direction de ce bel établissement. Le disque a dû jadis orner le fond d'un plat ou de tout autre vase d'argent, soit votif, soit employé dans des cérémonies religieuses. Il représente, en relief et vu de face, Apollon debout, presque nu, le bras gauche appuyé sur un trépied à griffes de lion ; dans la main droite, le dieu solaire tient une branche de laurier. Une légère draperie, qui part de l'épaule gauche, couvre une portion des cuisses et toute la jambe gauche jusqu'au coude-pied ; les deux pieds sont nus. A droite et à gauche d'Apollon s'élèvent des rochers dont la disposition, pour le dire en passant, rappelle les rochers qui, sur un grand nombre de monuments romains, forment la grotte au milieu de laquelle est placé Mithra, le dieu solaire des Perses. Pour compléter l'analogie, un corbeau, fidèle compagnon d'Apollon, comme de Mithra, est posé sur les rochers placés à la droite du dieu. De là, à l'exemple du corbeau des bas-reliefs mithriaques, il semble contempler attentivement le sacrifice auquel il assiste ; mais ses regards s'arrêtent sur une grande roue qui forme une saillie très-prononcée. Cette roue ne se rencontre sur aucun des monuments mithriaques que nous ont légués l'antiquité persique et l'antiquité romaine. Je ne sais jusqu'à quel point il est permis de croire que, sur ces derniers, elle est, en quelque sorte, remplacée par les roues d'un char qui porte tantôt le soleil, tantôt Mithra lui-même. Symbole connu d'Apollon et de Némésis, et fréquemment placée sous la patte d'un griffon, animal solaire, la roue rappelle tout à la fois le mouvement rapide du soleil, et les arrêts du Sort ou du Destin. C'est à ce double titre qu'on la voit ici auprès d'Apollon, dieu solaire et créateur, qui préside à la vie et à la reproduction. Un grand cyprès pyramidal, planté entre le trépied et les rochers qui s'élèvent à l'extrémité droite de ce petit tableau, achève de caractériser, comme symbole de vie, les fonctions dévolues à ce dieu ; et cet arbre, nous allons le retrouver sur des monuments romains consacrés à Mithra. Ces divers rapprochements, la légende presque entière d'Apollon et le mythe de Cyparisse, en particulier, nous reportent encore une fois dans l'Asie occidentale. C'est là, en effet, que nous avons trouvé, à Alexandria-Troas, trois monnaies coloniales dont les types présentent la plus grande analogie avec le sujet figuré en relief sur le disque d'argent que je viens de décrire. Cette analogie est surtout frappante lorsque nous comparons ce précieux monument avec le revers de la pièce autonome coloniale d'Alexandria-Troas,* qui représente Apollon debout et vu de face, comme ici et comme à Pompeï.* Sur d'autres médailles autonomes coloniales et sur quelques médailles impériales coloniales de cette ville,* de même que sur notre disque et sur la fresque de Pompeï, nous voyons une branche de laurier placée dans la main droite de ce dieu. D'autres médailles impériales d'Alexandria-Troas* nous montrent un corbeau posé aux pieds d'Apollon. Enfin, le style du disque d'argent du Louvre permet, ainsi que je l'ai annoncé plus haut,* de faire remonter ce monument au 1er ou au 2e siècle de l'ère chrétienne, c'est-à-dire à une époque peu éloignée du temps où Auguste avait établi une colonie romaine dans la ville même dont la numismatique vient de nous fournir des rapprochements qui ne sont pas, ce me semble, sans intérêt pour l'histoire de l'art et des origines mythologiques.
+
+*) Pag. 105-107 ; pl. 13., n°s 1, 2 et 3.
+
+*) Angers, 1851, in-8°, fig. (Voy. p. 43, n° 585 ; pl. 1., n° 25. ; pl 2., même numéro.)
+
+*) Département de Maine-et-Loire.
+
+*) Pl. 13., n° 1.
+
+*) Pl. 12.
+
+*) Vaillant, _Col._ 2., 63. Sestini, _Descriz. delle med. ant. del mus. Hederv._ t. 2., p. 131, n° 24. C. M. H. n° 4765. Mionnet, _Descript. de méd._ 2., 643, n° 103 ; 646, n° 120 ; 648, n° 132 ; _Suppl._ 5., 512, n° 94 ; 522, n° 158 ; 522 et 523, n° 162 ; 523, n°s 163 et 164 ; 529, n° 215 ; 539, n° 283.
+
+*) Mionnet, _Descript. de méd._ 2., 646, n° 116 ; _Supplém._ 5., 519, n°s 137 et 142.
+
+*) Ci-dessus, p. 107.
 
 L'attribution du cyprès à Apollon, sur un disque romain trouvé dans les Gaules, nous autorise sans doute à présumer que ce symbole appartenait aussi à la Diane romaine, de même que nous l'avons reconnu parmi les attributs de l'Artémis grecque. Toutefois aucun des monuments figurés que nous ont légués les Romains ne nous en fournit la preuve. Mais un passage de Virgile* supplée au silence de l'iconographie : on y trouve une mention expresse de forêts de chênes et de plantations de cyprès, les premières consacrées à Jupiter, les secondes à Diane. Le commentaire de Servius* confirme pleinement le témoignage du chantre de l'Énéide.
 
+*) _Æneid._ 3., v. 679-681.
+
+*) _Silva alta Jovis, lucusve Dianæ Jovis, propter quercum ; Dianæ, propter cupressum._ Servius, _ad_ Virgil. _Æneid._ 3., v. 681.
+
 Un vers déjà cité du même poëte* et les observations de son commentateur nous ont appris qu'en Italie, dès une haute antiquité, le culte du cyprès se liait à celui d'un dieu appelé Silvain ou Sylvain, qui pour nous est resté très-énigmatique. J'ai rapporté plus haut* et le vers de Virgile et le commentaire de Servius. Je ne reviendrai pas sur les remarques qu'ils m'ont donné lieu de soumettre au jugement de l'Académie. Seulement je répéterai ici que la substitution de Silvain à Apollon dans le mythe de Cyparisse, les monuments de l'art cités par Heyne* et par Visconti,* et enfin l'inscription latine découverte dans l'Abruzze citérieure* concourent à établir que l'inimitable auteur des Géorgiques se conformait à une ancienne tradition lorsqu'il attribue à Silvain le symbole du cyprès.
+
+*) _Georgic._ 1., v. 20.
+
+*) Pages 206, 207.
+
+*) _Ad_ Virgil. _Georgic._ 1., v. 20.
+
+*) _Mus. Pio Clementino_, t. 8., p. 16-18 ; pl. 10. Cette planche 10 reproduit un bas-relief de marbre, qui représente plusieurs divinités rustiques, parmi lesquelles on distingue Silvain portant à la main un arbre dont toutefois l'espèce est difficile à reconnaître. On ne peut dire si c'est un pin, un cyprès, ou tout autre arbre.
+
+*) Ci-dessus, p. 206.
 
 D'autre part, l'ingénieux épisode des amours de Léda et de Jupiter métamorphosé en cygne a fourni au ciseau d'un sculpteur ancien l'occasion de montrer que l'attribution de ce même symbole à Vénus était tout aussi connue des Romains. Un monument trouvé, vers la fin du siècle dernier, dans le jardin supérieur de l'hospice de la charité à Vienne, en Dauphiné, représente, sous la forme d'un cyprès pyramidal, la déesse assistant, avec son fils Cupidon, au bonheur que goûtent les deux amants réunis sur le mont Taÿgète.* Ce monument, publié une seule fois et de manière à être peu remarqué, est, jusqu'à ce jour, resté, pour ainsi dire, ignoré ou inaperçu. Dans leur recueil intitulé : _Monuments romains et gothiques de Vienne, en France_,* MM. Rey et Vietty ont eu le tort de n'en donner que des dessins en miniature ; et, de plus, ces dessins, médiocrement lithographiés, sont disposés de façon à se confondre avec d'autres, sur une même planche. Au milieu de plusieurs monuments groupés ensemble, il n'est rien moins que facile de démêler les trois bas-reliefs qui ornent celui dont j'ai à parler, ni de comprendre quelle place ils y occupent. Enfin le texte explicatif ne fait aucune mention du cyprès planté à gauche de la scène érotique représentée sur le plus grand de ces trois bas-reliefs. Je mets sous les yeux de l'Académie d'autres dessins de ces sculptures, exécutés au musée de Vienne par M. Muret et gravés par M. Bigant avec toute l'exactitude et tout le soin que l'on connaît à ces deux habiles artistes.* Désormais, les archéologues qui n'auront pas eu l'occasion de voir sur les lieux le monument original, pourront prendre ici une idée juste de la forme, de la composition et du style des bas-reliefs dont ce bloc carré, de marbre blanc, est orné sur trois de ses quatre faces. MM. Rey et Vietty le désignent sous la dénomination d'autel de Jupiter. M. Delorme, qui, en 1841, l'a décrit dans son Catalogue du musée de Vienne,* suppose qu'il servait de piédestal à une des deux colonnes placées à l'entrée d'un _sacellum_. Une lettre que j'ai sous les yeux, et qu'il a écrite, le 25 mars 1852, à M. le comte de Nieuwerkerke, directeur général des musées de France,* m'apprend qu'il persiste dans son opinion ; il ajoute que ces deux colonnes étaient sans doute adossées au sacellum, ce qui, selon lui, expliquerait pourquoi la face postérieure du piédestal est restée brute, tandis que les trois autres sont richement sculptées. « Au-dessus de la corniche du piédestal, remarque-t-il, on distingue une plinthe, et, au-dessus, un tore couvert d'ornements. De plus, la face supérieure de ce tore n'est point unie et porte les traces du marteau, circonstance qui me paraît indiquer qu'elle était recouverte par une autre partie offrant les autres membres de la base de la colonne. » En 1841, j'ai vu le monument sur les lieux, et je n'ai pas hésité à le prendre aussi pour un piédestal. Mais je ne puis partager l'opinion de M. Delorme, quant à la destination qu'il lui suppose. Bien que ce marbre ne porte aucune inscription, aucune dédicace, et bien qu'il appartienne à une époque où déjà l'art romain était en décadence, il serait par trop insolite, ce me semble, de le considérer comme ayant servi de base à une colonne. Les bas-reliefs qui ornent trois de ses faces, et les sujets que représentent ces bas-reliefs, me porteraient plutôt à présumer qu'il était le piédestal d'une statue de Jupiter. Les sculptures de la face antérieure* se rapportent directement à la longue liste des amours de ce dieu voluptueux. Les bas-reliefs des deux faces latérales* se rattachent moins clairement à sa légende. On peut néanmoins supposer, avec quelque vraisemblance, qu'ils font allusion à la naissance ou à l'enfance de Jupiter ; car, sur la face latérale gauche, nous voyons deux Amours ou deux Génies ailés, dont l'un tient par le cou un bouc qui se dresse sur ses deux pieds de derrière. Entre les deux Amours, on remarque un autel et un vase qu'ombrage un chêne, arbre consacré à Jupiter. Sur le troisième bas-relief, c'est-à-dire sur la face latérale droite du piédestal, nous retrouvons un chêne. Au pied de cet arbre, est assis un personnage, qui semble être un pâtre, et non Mercure, comme on l'a avancé.* Devant lui on voit une chèvre debout, peut-être la chèvre Amalthée, nourrice de Jupiter.* En face du quadrupède, est placée une maison rustique, demeure probable du chevrier, transformée, bien à tort, en « un temple rustique, » sous la plume du premier éditeur.*
 
+*) « Le Taÿgète, dit Strabon (_Geograph._ 8., p. 362, 363), est une haute montagne à pic, peu éloignée de la mer, et qui, du côté du septentrion, touche aux pieds des montagnes d'Arcadie, avec lesquelles elle forme un vallon à l'endroit où la Messénie confine à la Laconie. »
+
+*) Paris, 1831, gr. in-fol. fig. lith. Voy. p. 11, et pl. 6.
+
+*) Voy. les n°s 3, 3a et 3b de la pl. 14. ci-jointe. --- Le monument original est carré ; il a 425 millmètres de haut sur autant de large.
+
+*) Sous le n° 174.
+
+*) Je saisis avec empressement cette occasion de rendre publique l'expression de la reconnaissance que m'inspirent les procédés dont M. le comte de Nieuwerkerke veut bien user à mon égard.
+
+*) Pl. 14., n° 3.
+
+*) _Ibid._ n°s 3a et 3b.
+
+*) M. Vietty, ouvrage cité, p. 11.
+
+*) Peut-être est-il permis de considérer Amalthée, nourrice du maître de l'Olympe, comme une déesse dont l'image symbolique était une chèvre. Dès lors, le bouc figuré sur l'autre bas-relief latéral deviendrait pour nous l'image symbolique du dieu époux d'Amalthée ; et cette remarque nous expliquerait pourquoi le bouc était consacré à Vénus, divinité primitivement androgyne et qualifiée mère des Dieux. Que ces diverses conjectures soient fondées ou non, il convient d'ajouter que les Romains aimaient à varier la composition des sujets destinés à perpétuer le souvenir des rapports de Jupiter enfant avec la chèvre Amalthée. A l'appui de cette assertion, je me bornerai toutefois à citer un médaillon de bronze et un grand bronze d'Antonin le Pieux, qui, au revers de l'effigie de cet empereur, nous montrent Jupiter enfant assis sur une chèvre, devant un autel. (Voy. Mionnet, _De la rareté et du prix des méd. rom._ t. 1., p. 213 et 218.)
+
+*) M. Vietty, _loc. cit._
+
 Je n'insisterai pas sur la connexion qui peut exister entre les sujets de ces deux petits bas-reliefs latéraux et la scène érotique où, sur le grand bas-relief qui occupe la face antérieure de notre piédestal, nous voyons Léda recevant dans ses bras Jupiter métamorphosé en cygne. Je me hâte de soumettre à l'Académie les observations que m'ont suggérées les accessoires de cette scène. C'est pour la première fois, si je ne me trompe, que l'antiquité nous montre le groupe de Jupiter et Léda placé entre un cyprès et Cupidon, bien que ce groupe soit un de ceux que les artistes se plaisaient à reproduire sur des monuments de toute espèce. Le sculpteur, fidèle ici à la tradition hiératique, ou plutôt simple imitateur d'un modèle grec, a placé le lieu de la scène au sommet d'une montagne ; et, sans doute, il nous transporte sur le mont Taÿgète, situé entre la Messénie et la Laconie, car, dans l'hymne homérique composé en l'honneur des Dioscures, nous lisons ces paroles, remarquables sous plus d'un rapport* : « Sur les sommets du Taÿgète, haute montagne, Léda, s'étant unie d'amour au formidable Jupiter,* donna le jour à des fils pour être les sauveurs des faibles humains* ... » Mais, dans ce passage, il n'est fait, on le voit, aucune mention de la présence d'Aphrodite et d'Éros. C'est donc à une autre source qu'avaient été puisés les éléments de la composition sculptée qui est sous nos yeux. Remarquons à ce sujet que le mont Taÿgète dominait une partie de la Grèce où le culte d'Aphrodite et le culte du cyprès remontaient à une époque très-reculée. Nous avons trouvé la preuve de ce fait dans les traditions qui se rapportent, soit à la Vénus armée des Lacédémoniens, soit à la Vénus des Corinthiens et de leurs colonies, et dans le nom de _Cyparissia_ ou _Cyparissies_ que portèrent chacune une ville de Laconie, une ville de Messénie, et qui s'étendit à une rivière, à un golfe, à un promontoire et à un port de cette dernière province. D'autre part, le sculpteur romain, en plaçant sur un point culminant de la montagne où Jupiter s'unit à Léda un cyprès pyramidal* qui domine la scène, et le poëte grec, en nous disant que de cette union fortunée naquirent les Dioscures, sauveurs des nochers, nous reportent, l'un et l'autre, aux traditions écrites et aux monuments figurés qui, dans un autre mémoire,* m'ont servi à démontrer qu'une antique théologie avait établi entre les Dioscures et Vénus, d'une part, et entre les Dioscures et Mithra, de l'autre, des rapports où les deux jumeaux célestes se montrent subordonnés à chacune de ces divinités. Ils remplissent auprès d'elles les fonctions d'assesseurs, et sont, par conséquent, associés à une déesse et à un dieu qui, l'un et l'autre, président aux mystères, et qui, à ce titre, avaient chacun mérité la qualification de _sauveur_, comme l'Artémis qu'on adorait à Bœæ, en Laconie,* comme les Grandes Déesses des mystères d'Éleusis.
 
+*) Je me sers ici de la traduction de Dugas Montbel.
+
+*) Mot à mot : « Au formidable fils de Cronos. »
+
+*) [GREEK],  
+[GREEK],  
+[GREEK],  
+... ...  
+(Vers 4-6.)
+
+*) M. Delorme, qui avait pris cet arbre pour un peuplier, ne fait pas difficulté, dans la lettre citée, de reconnaître qu'il s'était trompé, et qu'au lieu d'un peuplier le bas-relief porte réellement un cyprès. Cet arbre ne peut servir ici à caractériser le mont Taÿgète, car ni Strabon, ni l'hymne homérique aux Dioscures, dans les passages cités ci-dessus, ni aucun autre écrivain ancien ou moderne, ne fait mention d'une plantation de cyprès sur cette montagne escarpée.
+
+*) _Mém. de l'Acad. des inscript._ nouvelle série, t. 15., 2e partie, p. 261-305.
+
+*) Pausanias, 3., 22., 9.
+
 Si l'un des bas-reliefs de l'autel palmyrénien du Musée capitolin* nous a donné lieu de reconnaître Vénus sous la forme d'un cyprès pyramidal qui enfante l'Amour, pouvons-nous, sur le monument de Vienne, ne pas reconnaître aussi comme une image symbolique et vivante de la même déesse le cyprès pyramidal placé auprès du groupe de Jupiter et Léda ? Cet arbre, n'en doutons pas, représente ici la divinité qui, chargée de présider à la vie, à la reproduction, aux amours, aux hyménées, comme aussi à la destinée des âmes, assiste à l'union divine de laquelle naîtront les Dioscures-Sauveurs. Le rôle que Cupidon joue dans cette scène ne semble pas permettre une autre interprétation. Le groupe des deux amants est placé entre ce jeune dieu et le cyprès, image de Vénus. Debout et armé d'un arc dont il dirige les traits enflammés* vers le couple amoureux, Cupidon agit ici en présence de sa mère, et obéit à son ordre exprès en excitant ainsi le feu allumé dans le cœur des deux amants. Ne nous étonnons donc pas si les poëtes de l'antiquité donnent à l'Amour un arc et des flèches de bois de cyprès, et le disent vainqueur de Jupiter lui-même.* Et remarquons qu'une peinture de vase grec justifie pleinement le sculpteur romain d'avoir placé entre Vénus et Cupidon le groupe de Jupiter et Léda. Ce vase, acquis à Naples par M. Kestner, et récemment publié par M. Éd. Gerhard,* représente Vénus assise sur un trône et portant sur la main gauche une colombe ou une _jynx_ ; la déesse, continuant le rôle que nous venons de lui voir remplir auprès de Jupiter et de Léda, assiste à l'entrevue amoureuse de deux personnages que mon savant ami prend, avec toute raison, ce me semble, pour Hélène et Pâris. N'oublions pas que cette princesse était née des amours mêmes de Léda avec Jupiter changé en cygne, et que Théocrite, dans un passage cité plus haut,* compare réellement la beauté d'Hélène à celle de Vénus elle-même, lorsqu'il compare cette princesse à un cyprès. Au revers du vase de M. Kestner, sont peints deux cygnes qui, sans doute, font allusion à la naissance d'Hélène, et qui, pour le dire en passant, nous donnent lieu de supposer qu'à une époque ancienne, le langage symbolique exigeait que l'on représentât Jupiter et Léda sous la forme de deux cygnes, l'un mâle, l'autre femelle.*
+
+*) Pl. 1., n° 2.
+
+*) « Flammiferas pennas, » dit Silius Italicus (11., 412). « Nec Idalia lenta incaluisse sagitta, » avait-il dit précédemment (5., 19). On trouve dans Horace (_Od._ 2., 8., 15) : « Ardentes sagittas. » Ces diverses expressions sont empruntées aux poëtes grecs. Ceux-ci, parlant des flèches d'Éros, les qualifient [GREEK] (_Antholog._ 4., 470), [GREEK] (Musée, vers. 88), etc.
+
+*) Silius Italicus, 8., vs. 453 _sqq._
+
+*) _Denkmäler und Forsch._ nov. et déc. 1851, n°s 35, 36, p. 387-392 ; pl. 36., _Archäolog. Anzeig._ décemb. 1851, n° 36, p. 123.
+
+*) Ci-dessus, p. 238.
+
+*) On voit que cette supposition s'appuie tout à la fois sur un monument figuré et sur des considérations du genre de celles qui m'ont suggéré la conjecture exposée ci-dessus, dans la note 1 de la p. 267.
 
 N'oublions pas non plus que, dans la mythologie romaine, la métamorphose de Vénus en cyprès ne nous est point attestée par le seul témoignage du bas-relief de Vienne. Dans leurs compositions écrites, les mythographes latins, comme les sculpteurs, dans les œuvres de leur ciseau, faisaient parfois apparaître aussi la déesse sous la forme de cet arbre. N'étaient-ils que l'écho d'une tradition grecque qui ne nous est point parvenue, ou s'inspiraient-ils seulement de quelque monument figuré qu'ils avaient sous les yeux ? Les deux suppositions me paraissent admissibles ; et je ne saurais dire, par exemple, laquelle, de préférence, s'applique à un récit où Apulée,* voulant peindre le fils de Vénus dans le giron de sa mère, nous le montre placé dans le feuillage d'un cyprès pyramidal. Dans ce récit, riche en sujets pour le poëte, pour le sculpteur, pour le peintre, et composé, soit d'après une antique légende écrite, soit en présence d'une œuvre de l'art, Cupidon se réveille au moment où, sur son épaule, tombe brûlante une goutte d'huile de la lampe que tient à la main Psyché, attirée auprès de son amant par une irrésistible et coupable curiosité. Rendu à l'usage de sa raison, il reconnaît, mais trop tard, qu'il a désobéi aux ordres de Vénus. Il se sépare de Psyché, et s'envole pour retourner dans les bras de sa mère. Psyché s'élance, le saisit par une jambe, s'y suspend, et, dans cette humiliante position, traverse les airs avec lui. Bientôt la fatigue l'accable ; ses mains refusent de la tenir plus longtemps attachée à la jambe de son perfide séducteur ; elle retombe sur la terre.* A cet instant, Cupidon dirige son vol vers un cyprès voisin. Du sommet de cet arbre, comme du giron de sa mère, et non sans une profonde émotion, il adresse à son amante délaissée de graves paroles, qui commencent par cette phrase : « Trop crédule Psyché, j'avais oublié les ordres de ma mère* ... » Ainsi, dans le tableau sculpté sur une des faces de l'autel palmyrénien, nous voyons l'Amour naître des flancs d'un cyprès pyramidal. Sur le monument de Vienne, en présence de cet arbre, image vivante et symbolique de la déesse qui l'a conçu, il exerce sur les cœurs l'empire qu'il a reçu de Vénus. Enfin, dans le tableau tracé par Apulée, Cupidon, coupable d'avoir séduit Psyché, c'est-à-dire l'âme, reconnaît sa faute, et vient chercher dans les bras de sa mère, représentée sous le même symbole du cyprès, le pardon qu'il attend de la divinité qui, je le répète, préside aux mystères, c'est-à-dire aux destinées de l'âme humaine. Si, jusqu'à ce jour, les commentateurs d'Apulée n'ont fait aucune remarque sur le trait le plus saillant de son récit, c'est tout simplement qu'ils n'ont pas compris que là le cyprès tient la place de Vénus elle-même.
 
