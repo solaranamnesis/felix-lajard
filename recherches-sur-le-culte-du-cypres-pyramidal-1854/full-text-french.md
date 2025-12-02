@@ -2260,7 +2260,7 @@ Sans quitter l'Arcadie, nous pouvons recueillir un témoignage non moins direct 
 
 *) _Apud_ Euseb. _Chronic._ 1., 4 et 5.
 
-*) Il est curieux de retrouver cette forme du nom de Vénus dans le nom d'une courtisane qui, selon Athénée (_Deipnosoph. 13., p. 567 _c_), s'appelait _Thalatta_. C'était aussi le titre d'une comédie grecque, qui ne nous est point parvenue (_ibid._).
+*) Il est curieux de retrouver cette forme du nom de Vénus dans le nom d'une courtisane qui, selon Athénée (_Deipnosoph._ 13., p. 567 _c_), s'appelait _Thalatta_. C'était aussi le titre d'une comédie grecque, qui ne nous est point parvenue (_ibid._).
 
 *) Voy. mes _Recherches sur Vénus_, p. 41, 42.
 
