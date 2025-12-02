@@ -2394,29 +2394,151 @@ Deux autres faits, rapportés par Athénée,* concourent plus directement à ét
 
 Hermippe, dans un passage dont j'ai déjà dit quelque chose, s'exprime de manière à nous donner lieu de croire que le cyprès pyramidal ne fut pas seulement attribué aux dieux et aux déesses que j'ai indiqués par leurs noms, mais à toutes les divinités de l'antiquité qui présidaient aux choses du ciel et de la terre, [GREEK], dit le philosophe grec.* Servius semble partager l'opinion d'Hermippe, lorsqu'il rapporte que Cyparisse fut changé en cyprès « par la miséricorde des dieux, » _misericordia deorum_.* Aussi peut-on ajouter quelques faits à ceux que déjà j'ai cités dans le cours de ce mémoire, et qui tendent à généraliser l'attribution du cyprès, en nous montrant cet arbre comme le symbole de plusieurs divinités génératrices, mâles ou femelles. C'est ainsi que, selon Théocrite,* les statues du dieu Priape devaient être entourées de cyprès, de myrtes et de lauriers. A Byzance, un _xoanon_ représentant Triton était de bois de cyprès.* Ce dernier usage s'étendit même jusqu'aux statues destinées à perpétuer les traits et le nom des athlètes vainqueurs aux jeux olympiques* ; et si je n'invoque pas ici les témoignages qui établissent que le cyprès était consacré à plusieurs divinités infernales, c'est qu'ils trouveront plus naturellement leur place dans le mémoire suivant.
 
+*) _Ap._ Athen. _Epitom._ 1., p. 27 ; ed. Dalech.
+
+*) _Ad._ Virgil. _Æneid._ 3., 680.
+
+*) _Epigramm._ 4., dans les _Analecta_ de Brunck, t. 1., p. 377.
+
+*) Athén. _Deipnosoph._ 11., p. 479, 480.
+
+*) Pausanias, 6., 18., 7.
+
 La Grèce, en empruntant à l'Asie occidentale la coutume d'attribuer ce symbole aux dieux générateurs, lui avait aussi emprunté l'usage de prendre le cyprès pour exprimer poétiquement l'idée d'une beauté humaine égale à la beauté d'un dieu. Déjà nous venons de constater que, dans la Béotie, les Grâces ou les filles d'Étéocle sont changées en cyprès, et prennent le nom même de _Cyprès_ ([GREEK]), qui est un des noms de Vénus.* Déjà aussi nous avons vu appliquer à de très-beaux cyprès la qualification de _vierges_ ([GREEK]), qui appartenait à Vénus et à Minerve. Disons maintenant que Théocrite,* voulant peindre la beauté d'Hélène, fille de Léda, compare cette princesse à un cyprès, c'est-à-dire à Vénus, si nous prenons cette comparaison dans son acception symbolique. De son côté, Anacréon souhaite un bel époux à une femme, en lui disant : « Qu'un beau cyprès croisse dans votre jardin.* » Enfin Aristénète, dans une de ses lettres,* compare au cyprès et au palmier le port de Laïs. Bien des siècles après ces divers auteurs, une princesse qui a pris rang parmi les écrivains byzantins, Anne Comnène, croit nous donner, dans son _Alexiade_,* l'idée la plus avantageuse de la taille et du port de Marie, épouse de Michel Ducas, en comparant aussi cette princesse à un cyprès. Cet usage s'est perpétué d'âge en âge chez les Grecs. Au 12e siècle, dans le roman des _Amours de Rhodante et Dosiclès_,* un moine grec, Théodore Prodrome, compare la jeune fille tout à la fois au cyprès et à la vigne qui s'enlace aux arbres. De nos jours, dans les chansons et les autres poésies légères des Grecs, il n'est pas rare de trouver la taille et le port d'une jeune beauté ou de son amant comparés de même au cyprès. Pouqueville, Fauriel, et plus récemment M. le comte de Marcellus,* en ont cité plusieurs exemples. Firdousi et tous les poëtes arabes ou persans, j'en ai déjà fait la remarque, emploient la même comparaison pour rehausser les mérites des personnages, hommes ou femmes, dont ils célèbrent les actions. On voit ici une preuve remarquable de l'influence exercée par le langage hiératique ou symbolique sur le langage des poëtes : en Occident, comme en Orient, le cyprès devint l'emblème de la beauté, parce qu'il était l'emblème des dieux, des déesses, et, en particulier, le symbole de Vénus, de la déesse dont la beauté avait mérité la pomme. Sous la plume éloquente et sévère de nos écrivains sacrés, le cyprès est l'emblème de la divine sagesse,* ou un terme de comparaison, qui sert à élever au-dessus des autres hommes le pontife du vrai Dieu.*
 
+*) De même, dans une autre légende, les Grâces se changent en myrte, et nous rappellent que Vénus était surnommée _Myrthia_ et _Myrtæa_ (Plutarque, _Quæst. roman._ Opp. t. 7., p. 87 ; ed. Reiske. Pline, _H. N._ 15., 36., 2).
+
+*) _Idyll._ 18., 30.
+
+*) [GREEK] (_Od._ 65., v. 15).
+
+*) Lib. 1., epist. 1., p. 5 ; ed. Boissonade.
+
+*) Liv. 3., p. 74.
+
+*) Liv. 2.
+
+*) _Chants da peuple en Grèce._ Paris, 1851, 2 vol. in-8°. M. de Marcellus, dans le deuxième volume (p. 434, B'), rapporte uv distique populaire qu'il traduit ainsi : « Quand le cyprès a brûlé, sa racine embaume. Dès qu'un cœur est amoureux, tout le monde s'en aperçoit. »
+
+*) _Ecclesiastic._ 24., 27.
+
+*) _Ibid._ 50., 11.
+
 Au témoignage des monuments de l'art et des traditions écrites qui nous montrent combien fréquemment les Grecs firent du cyprès un symbole religieux non funéraire, viennent se joindre des renseignements topographiques et quelques observations qui vont nous révéler combien aussi furent nombreux, sur le sol antique de la Grèce, les lieux dont la dénomination dérivait ou d'une divinité éponyme, appelée du même nom que le cyprès, ou d'un bois de cyprès consacré par la religion. M. Avellino* n'hésite point à reconnaître que chaque _cupressetum_ se liait à un mythe ; mais il admet que le mythe avait pu être postérieur à la plantation ; c'est-à-dire que, selon lui, le _cupressetum_ aurait parfois été planté sans un but religieux, et ne serait devenu plus tard l'objet de la vénération des peuples que lorsqu'on l'aurait rattaché à un mythe quelconque. Je ne partage pas, je l'avoue, cette manière de voir ; et, à mon grand regret, je me trouverais ici en complet désaccord avec le savant académicien de Naples, s'il ne terminait son observation par cette conclusion, dont je prends acte : « Il est toujours sûr qu'une idée religieuse se trouve associée au _cupressetum_, et qu'on peut en suivre les traces avec une certitude suffisante.* »
+
+*) Mémoire cité, p. 11, 12.
+
+*) « È sempre sicuro che una idea religiosa venne ad esse associata, e di questa possono andarsi determinando con sufficiente certezza le trace. »
 
 Malgré la variété que cette judicieuse remarque semblerait nous promettre dans la revue topographique que je vais entreprendre, je demande d'avance pardon à l'Académie de la sécheresse et même de la monotonie des détails où je serai obligé d'entrer. J'ai besoin, en cette occasion, plus encore qu'en toute autre, de solliciter et d'obtenir son indulgence.
 
 Une ville du nom de _Cyparissus_ ([GREEK] ou [GREEK]) et une autre appelée _Cyparisséeis_ ([GREEK]) existaient en Grèce longtemps avant la guerre de Troie. Homère* les mentionne toutes deux. La première était située dans la Phocide, sur le mont Parnasse, près de Delphes ; suivant les uns, dit le chantre immortel de l'Iliade, elle devait son nom à l'arbre que produit son territoire ; selon d'autres, au héros Cyparisse. Plus tard, elle fut nommée _Apolloniade_ ([GREEK]), au dire d'Eustathe* et d'Étienne de Byzance,* et _Anticyre_, d'après une tradition recueillie sur les lieux par Pausanias.* Ce voyageur ajoute que, dans la liste des Phocéens, Homère a préféré la désigner sous son ancien nom de _Cyparissus_, quoique déjà elle portât celui d'Anticyre, qu'elle avait reçu d'Anticyrée, contemporain d'Hercule. Dicéarque* et Strabon* ne la mentionnent que sous le nom de _Cyparissus_. Le second de ces deux écrivains la place au-dessous de Lycoréa, et semble la réduire à la simple condition d'un bourg ou d'un village.* Pour concilier entre eux ces divers témoignages, il faut croire que la ville dont je parle s'appela successivement Cyparissus, Anticyre et Apolloniade, et qu'elle avait tiré son premier nom, soit d'un _cupressetum_ consacré à Apollon, soit du dieu lui-même, si, à l'exemple de la déesse appelée _Bérouth, Brathy_ et _Cypris_, ce dieu avait reçu un nom identique avec celui de l'arbre que les Grecs connurent sous la dénomination de [GREEK] ou [GREEK] (_cyparissus_). La place qu'occupait la ville sur le mont Parnasse, consacré à Apollon et aux Muses ; la quantité de cyprès dont elle était entourée ; le soin qu'a eu Pindare* de nous apprendre que les lambris du temple d'Apollon à Delphes étaient de bois de cyprès ; les autres traditions et les monuments figurés qui nous montrent cet arbre au nombre des symboles du même dieu ; le nom de _Cyparisse_ imposé au jeune héros changé en cyprès par Apollon ; et enfin la dénomination d'_Apolloniade_ substituée à celle de _Cyparissus_ : telles sont les considérations qui peuvent justifier mon sentiment. Disons cependant que la divergence d'opinion signalée par Homère n'a pas cessé de se manifester parmi les écrivains grecs postérieurs, qui ont recherché l'origine du nom de la ville de Cyparissus : les uns le font dériver simplement du grand nombre de cyprès qui entouraient cette antique cité ; les autres, de son fondateur, appelé Cyparisse et supposé fils de Minyas et frère d'Orchomène.* Mais cette dernière version est en faveur de ma conjecture, car de nombreux exemples analogues nous autoriseraient, dans ce cas, à considérer le nom du fondateur comme un de ceux que portait Apollon lui-même.
 
+*) _Iliad._ 2., 519, 593. Dicéarque, [GREEK]. p. 17, edit. Rom. Strabon, _Geograph._ 9., p. 423. Stace, _Thebaid._ 7., 344. Pausanias, 10., 36., 3. Étienne de Byzance, [GREEK]. Eustathe, _ad_ Homer. _Iliad._ 2., 519.
+
+*) _Loc. cit._
+
+*) _Loc. cit._
+
+*) _Loc. cit._
+
+*) _Loc. cit._
+
+*) _Loc. cit._
+
+*) Selon Wheler (_Voyag. de Zanthe à Athènes_, t. 2., p. 355, 356), ce bourg aurait été remplacé par _Arachova_ ou _Arachovi_.
+
+*) _Pythic._ 5., 52.
+
+*) Didyme et Eustathe, _ad_ Homer. _Iliad._ 2., 519. Strabon, _ubi supra_. Étienne de Byzance, _ubi supra_.
+
 La ville appelée _Cyparisséeis_ par Homère était située dans les états de Nestor.* M. Avellino* croit qu'elle correspond à celle qu'Étienne de Byzance désigne sous le même nom et qu'il place en Messénie. Selon Heyne,* remarque-t-il, la _Cyparisséeis_ d'Homère se confond avec la _Cyparisséeis_ de Strabon,* également située dans les états de Nestor et bâtie sur le territoire de la Triphylie, aux confins de la Messénie.* Cette identité n'est pas mise en doute par l'habile traducteur français de Strabon, M. de Laporte du Theil. Toutefois le savant napolitain, après avoir assimilé, non à la _Cyparisséeis_ d'Homère, mais à celle de Messénie,* la _Cyparissia_ mentionnée par Diodore de Sicile, dans son 15e livre,* se montre disposé* à identifier celle-ci avec la _Cyparisséeis_ de Strabon, bien que K. O. Müller,* observe-t-il, n'ait pas hésité à rapporter à la _Cyparissia_ de Messénie le passage de Diodore, comme déjà l'avait fait le docte Eckhel.*
+
+*) _Iliad._ 2., 600, 601.
+
+*) Mémoire cité, p. 9 ; p. 10, note 5.
+
+*) _Ad_ Homer. _Iliad._ 2., 593.
+
+*) _Geograph._ 8., p. 345, 348, 349.
+
+*) Dans ses Recherches géographiques sur les ruines de la Morée, feu M. Puillon Boblaye, officier supérieur d'état-major, ne fait pas une mention particulière de cette Cyparisséeis de Triphylie. Il se borne à dire (_Expéd. scient. de Morée_, sect. des sciences physiq. t. 2., p. 134) : « Les deux distances de la table théodosienne : _Olympia-Samaco_ 15. et _Samaco-Cyparissa_ 24. sont, la première, fautive, et, la seconde, parfaitement exacte. » --- Au lieu de l'ablatif _Samaco_, les cartes rédigées par les géographes modernes portent _Samicum_.
+
+*) Mémoire cité, p. 9.
+
+*) Chap. 67.
+
+*) Mémoire cité, p. 9, note 9 ; p. 10, note 5.
+
+*) _Das neue Rhein. Mus._ t. 2., p. 171.
+
+*) _D. N._ 2., 276.
 
 Les commentateurs d'Homère, de Strabon et de Pausanias ont tous reconnu que la concordance des témoignages de l'antiquité touchant les villes grecques qui s'appelèrent _Cyparisséeis_ ou _Cyparissia_, présente de graves difficultés. Les passages du géographe grec ne sont pas eux-mêmes exempts d'obscurité. Cependant, après les avoir examinés avec attention, il me paraît probable que Strabon distingue deux _Cyparissia_, l'une dans la Phocide,* l'autre dans la Messénie,* non loin de Pylos, et une _Cyparisséeis_,* qui, dit-il, est déserte et se nomme aujourd'hui _Cyparissia_ au singulier et au féminin, comme la _Cyparissia_ de Messénie.* Il place _Cyparisséeis_ dans l'ancienne Macistie, province qui faisait partie de la Triphylie et, par conséquent, de l'Élide. A cette occasion, il mentionne un fleuve du nom de _Cyparisséeis_ au masculin.* La _Cyparisséeis_ de Macistie était située au delà du petit fleuve appelé _Néda_, et ainsi non loin du lieu où nous avons trouvé, sur les pas de Pausanias, un temple et un _cupressetum_ consacrés à la Vénus assyrienne ou phénicienne sous le nom grec d'Eurynome.*
 
+*) _Geograph._ 9., p. 423.
+
+*) _Ibid._ 8., 349, 359.
+
+*) _Ibid._ p. 345, 348, 349.
+
+*) Ici le texte de Strabon manque de clarté. Le traducteur français en fait la remarque, et propose, sans cependant garantir la correction, de lire : « L'une et l'autre s'appelaient autrefois _Cyparisséeis_ ; mais toutes deux portent aujourd'hui le nom de _Cyparissia_. »
+
+*) Anne Comnène, dans son _Alexiade_ (liv. 6., p. 173), donne à un lieu situé en Bithynie le nom neutre de _Cyparissium_, [GREEK] ; mais je ne découvre aucune trace de cette localité dans les géographes anciens, ni sur nos meilleures cartes de géographie.
+
+*) Ci-dessus, p. 220-234.
+
 Pline*, Ptolémée* et Eustathe* mentionnent aussi la _Cyparissia_ de Messénie. Pausanias,* qui la nomme _Cyparissies_, [GREEK], parle d'une route qui d'Andania conduisait à cette ville, en passant par Électra. Il nous apprend, de plus, qu'auprès de _Cyparissies_ on voyait un temple dédié, comme je l'ai déjà dit, à Apollon et à Athéné surnommée _Cyparissia_, circonstance qui semblerait nous révéler un nouveau trait de conformité entre la légende primitive de cette déesse et celle de la Vénus asiatique. _Cyparissies_ donna son nom à un port, à une rivière, à un promontoire et à un golfe situés dans son voisinage.* Ce nom s'étendit même aux îles Plotæ ou Strophades : les anciens les appellent souvent les _îles des Cyparissiens_, [GREEK].
+
+*) _H. N._ 4., 7., 1.
+
+*) 3., 16.
+
+*) _Ad_ Homer. _Iliad._ 2., p. 297.
+
+*) 4., 36., 7.
+
+*) Strabon, _Geogr._ 8., p. 359. Pline, _loc. cit._ Pomponius Méla, 2., 3., 9.
 
 Scylax* parle d'un port de la Messénie, qu'il nomme _Cyparissus_, [GREEK]. Ce ne peut être pour nous que le port de la ville dont il vient d'être question. On sait que feu M. de Sainte-Croix* avait proposé de corriger le passage de ce géographe et de considérer [GREEK] comme une ville située dans l'intérieur des terres et non comme un port. On sait aussi que les juges compétents n'ont point admis cette opinion. En dernier lieu, feu M. Puillon Boblaye* a exposé les raisons très-plausibles qui le portent à croire que Scylax, dans son Périple, avait indiqué avec précision la position de _Cyparissies_ de Messénie, mais que le texte, altéré par les copistes, a été, de nos jours, restitué d'une manière fautive. Selon lui, ce texte devait, dans l'original, présenter le sens que voici : « La première ville de Messénie est Cyparisse avec un port, ville éloignée de sept stades de la mer. » L'exploration des ruines situées au lieu actuellement nommé _Arcadia_ paraît avoir démontré à M. Puillon Boblaye qu'en effet la ville antique ne s'étendait pas jusqu'au port.
 
+*) _Geogr. gr. minor._ tome 1. (_Peripl._), page 16 ; édition Hudson ; (_Peripl._), § 46, page 262 ; édition Gail. --- Voyez (_ibid._ page 393) les observations de ce dernier éditeur.
+
+*) _Mém. de l'Acad. roy. des inscr._ t. 44., p. 373 et suiv.
+
+*) Ouvrage cité, t. 2., p. 115.
+
 Un bois sacré de cyprès, dont je ne rencontre aucune mention dans les auteurs anciens, couvrait jadis les flancs de deux montagnes situées non loin des ruines de _Cænopolis_ ou _Cœnopolis_ et près d'un lieu où l'on arrive en sortant de Messène par la porte de Laconie. Là se trouve maintenant un monastère qui porte plusieurs noms : _le couvent des Cyprès, la Trinité, la Panagie de Vourcano_. En avant de cet asile religieux, on voit un bouquet de cyprès ; c'est tout ce qui reste de l'ancien _cupressetum_.*
+
+*) _Expédit. scientif. de Morée_, Relation, t. 1., p. 302 ; atlas, p. vj, cul-de-lampe.
 
 Dans le Péloponnèse, sur le territoire de la province appelée _Éleuthéro-Laconie_* et au fond d'un port aujourd'hui nommé _Xyli_,* existait très-anciennement une autre cité maritime, du nom de _Cyparissia_. Elle était déjà détruite à l'époque où Pausanias visitait la contrée ; il paraît qu'on donnait aux ruines de cette _Cyparissia_ le nom de _cité des Achéens Paracyparissiens_, [GREEK].* L'officier français déjà cité les a retrouvées, et leur reconnaît un caractère d'antiquité que ne lui ont pas présenté les ruines d'Asopus,* autre ville de Laconie, située non loin de la cité des Achéens Paracyparissiens.
 
+*) Strabon, _Geogr._ 8., p. 363.
+
+*) Puillon Boblaye, ouvrage cité, t. 2., p. 97. Cf. Leake's _Travels in the Morea_, vol. 1., ch. 8. --- Selon le traducteur français de Strabon (t. 3., p. 209), les ruines de cette _Cyparissia_ de Laconie seraient situées près du bourg appelé _Castel Rampano_. Mionnet (_Suppl._ 4., p. 210), d'après une autorité qu'il ne nous fait pas connaître, applique cette dénomination moderne aux ruines de la _Cyparissia_, de Messénie ; mais Siebélis, dans son édition de Pausanias, M. le major Leake (_ubi supra_, ch. 2., 10., 11.) et feu M. Puillon Boblaye (_loc. cit._ p. 115), dans deux relations d'une date plus récente, s'accordent à placer les ruines de cette _Cyparissia_ de Messénie au lieu qui maintenant porte le nom d'_Arcadia_.
+
+*) Pausanias, 3., 22., 7. Voy. K. O. Müller, _Die Dorier_, 3., 2.
+
+*) Puillon Boblaye, ouvrage cité, t. 2., p. 97.
+
 C'est dans l'acropole d'Asopus que Pausanias* nous a signalé un temple dédié à Athéné _Cyparissia_. C'est aussi en Laconie que nous avons vu deux traditions* transporter le mythe de Cyparisse. Un village situé dans la même province, près du promontoire du Ténare, porte encore maintenant le nom de _Cyparisso_, ou de _Tiparisto_, par corruption.* Enfin je trouve, dans les Recherches déjà citées de feu M. Puillon Boblaye,* l'indication d'un joli port, nommé aujourd'hui _Kyparissi_,* et situé sur le littoral de l'ancienne Éleuthéro-Laconie. Tout concourt, on le voit, à nous apprendre que, dès une époque fort reculée, le culte du cyprès et de quelques divinités qui comptent cet arbre parmi leurs attributs symboliques était fort répandu chez les Laconiens, en même temps que Lacédémone adorait une Aphrodite armée, dont l'origine asiatique n'est pas douteuse.
 
+*) _Loc. cit._
+
+*) Ci-dessus, p. 201, note 4 ; et p. 205.
+
+*) C'est là que fut trouvée une inscription grecque, que M. Boeckh, d'après Pouqueville, rapporte dans son _Corpus inscript. græcar._ t. 1., p. 645, n° 1317.
+
+*) Ouvrage cité, t. 2., p. 102.
+
+*) J'ignore cependant si ce nom moderne représente le nom antique ; et je remarque que feu M. Puillon Boblaye (_loc. cit._), tout en se décidant, d'après l'autorité de Ptolémée, et contrairement au sentiment de Niger, à placer l'ancien port, appelé _Cyphanta_, au lieu actuellement nommé _Kyparissi_, avoue qu'il n'a trouvé là aucune trace de ville ancienne. « Le joli port de Kyparissi, dit-il, est entouré de palæokastro du moyen âge, qui ont pu faire disparaître les ruines antiques. »
+
 Les seuls monuments numismatiques que, jusqu'à ce jour, leur légende ait permis de rapporter sans hésitation à une ville grecque du nom de _Cyparissia_, de _Cyparisséeis_ ou de _Cyparissus_, sont des monnaies impériales frappées à l'effigie de Septime-Sévère, de Julia Domna, de Caracalla, de Plautille et de Géta ; elles portent toutes, au revers, le nom grec [GREEK], gravé autour de divers types, dont aucun ne nous offre le symbole du cyprès. Les numismates* s'accordent à attribuer ces pièces à la _Cyparissia_ de Messénie ; mais un grave dissentiment règne parmi eux au sujet d'une monnaie autonome, de grand module, que Pellerin* rapporte à Cyparissus de Phocide. Elle a pour type, au revers de la tête d'Apollon, un trépied placé dans une couronne, et pour légende un nom, en partie effacé, dont ce savant lit les premières lettres : [GREEK] ... Mionnet* croit devoir adopter cette lecture et cette attribution, tout en prévenant ses lecteurs que quelques antiquaires rangent la médaille parmi les autonomes de Cyzique de Mysie. Après lui, feu M. du Mersan,* au lieu de [GREEK] ... , ou de [GREEK] ... , a proposé de lire : [GREEK] ... , et de restituer cette pièce a Cytinium, ville de la Doride. Plus récemment, M. Avellino* s'est prononcé contre l'opinion de Pellerin ; mais il n'approuve ni ne combat celle de M. du Mersan, et il s'abstient de nous faire connaître son propre sentiment. Ce n'est pas à moi qu'il appartient de décider la question.
+
+*) Eckhel, _D. N._ 2., 276, 277. Mionnet _Descript. de méd._ 2., 212, 213, n°s 31-33, _Suppl._ 4., 210-212, n°s 20-31. M. l'abbé Cavédoni, _Spicileg. numism._ p. 97.
+
+*) _Rec. de méd. de peuples et de villes._ --- Eckhel, qui n'avait pas eu la médaille sous les yeux, la rapporte à _Cyparissus du mont Parnasse, près de Delphes_, en se bornant à citer et à copier Pellerin. (Voy. _D. N._ 2., 193).
 
 En Occident, _Cypresseta_* me paraît être la dernière ville qui nous présente uu nom analogue à ceux des diverses cités grecques dont je viens de parler. Elle était située, dans la Gaule narbonnaise, entre _Arausio_ et _Avenio_, au lieu actuellement nommé le _Pont de Sorgues_.* Mais on ne possède aucun renseignement sur l'époque de sa fondation, ni sur l'origine de son nom ; et, à ma connaissance, nos médailliers ne renferment pas une seule pièce que l'on puisse rapporter à cette ville.
 
