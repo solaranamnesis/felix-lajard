@@ -3080,11 +3080,45 @@ Le rôle qu'en Égypte remplissait la déesse Hâthôr, comme reine à la fois d
 
 Si les divers témoignages que j'ai produits nous ont permis de remonter au berceau primitif du culte du cyprès pyramidal, et si nous remarquons, avec tous les voyageurs, que les peuples musulmans de la Perse et de la Turquie d'Asie emploient cet arbre comme emblème funéraire, il devient impossible, ce me semble, de ne pas admettre que, lorsque les Arabes, d'un côté, les Turcs, de l'autre, envahirent ces contrées, ils durent y trouver cet usage établi de temps immémorial. Ils l'adoptèrent ; et personne n'ignore que, depuis bien des siècles, sans interruption et malgré tout le zèle, toute la persévérance que mirent les khalifes à abolir partout le culte du cyprès, image vivante de quelque antique divinité, les musulmans, sur toute l'étendue de la Turquie d'Asie, comme sur toute l'étendue de la Turquie d'Europe, plantent habituellement des cyprès pyramidaux dans les _champs des morts_, c'est-à-dire dans leurs cimetières. Là, souvent un arbre de cette espèce est sculpté au revers d'une sorte de stèle* dressée à l'une des extrémités de la tombe qui renferme le corps du défunt, ou de la pierre tumulaire qui le recouvre. Fréquemment aussi l'on voit des branches de cyprès, et même des cyprès entiers sculptés sur les pierres tumulaires qui marquent des sépultures de femmes musulmanes.
 
+*) Sur leur face antérieure, les stèles musulmanes portent, gravés en relief, les noms du défunt ou une sentence religieuse.
+
 En Perse, cette dernière coutume ne semble pas avoir été assez attentivement observée par les voyageurs pour qu'il soit possible de décider si elle s'étend ou non aux sépultures des hommes,* et je n'ai moi-même conservé aucun souvenir qui puisse me permettre de trancher la question.
+
+*) Feu sir William Ouseley (_Travels_, etc. vol. 2., p. 93) parle de quelques pierres tumulaires du cimetière de Fassa, qui sont ornées d'un cyprès sculpté ; mais il ne dit pas si elles appartiennent à des sépultures d'hommes ou à des sépultures de femmes. Il fait seulement remarquer que cet usage n'est point particulier au cimetière de Fassa, et qu'il l'a observé depuis le golfe Persique jusqu'à la mer Caspienne, et depuis le Mazendéran jusqu'à Constantinople.
 
 Thomas Herbert,* décrivant sur les lieux, en 1627, les cérémonies funèbres des Persans, dit expressément que les personnes qui suivent le corps d'un parent décédé portent à la main des branches de cyprès ou de laurier.* D'autre part, les plantations de cyprès pyramidaux devant ou autour des sépultures attestent, dans toute l'étendue de ce pays,* qu'elles sont la continuation d'un ancien usage. Je citerai, en particulier, les cyprès qui, de nos jours, ornent encore deux tombeaux érigés à Hafiz et à Saadi, dans les environs de Schîrâz.* On prétend même que le premier de ces deux célèbres poëtes persans avait planté de ses propres mains les cyprès qui se voient au pied de sa tombe,* dans une des cours de l'édifice appelé, de son nom, l'_Hafizée_. Cette cour est ornée d'une autre plantation de beaux cyprès* ; et deux lions de ronde bosse sont posés sur la plate-forme du mur, de chaque côté de la porte d'entrée, comme pour rappeler qu'anciennement, chez les Perses, le lion, aussi bien que le cyprès, avait parfois une acception funéraire.* Sur la route d'Ispahân à Tehérân, et dans plusieurs autres lieux de la Perse, on rencontre des pierres tumulaires qui portent, grossièrement sculptés, des lions et des cyprès.* Non loin de Schîrâz, des arbres de cette espèce ornent la cour qui précède l'édifice funéraire nommé _Heft-ten_ (Les-sept-corps), en mémoire de sept personnages extraordinaires et pieux, qui avaient vécu, comme des derviches, sur l'emplacement où, par l'ordre de Kérim khân,* fut construit l'édifice. Ainsi, pour me servir d'un rapprochement piquant, que j'emprunte à M. Carl Ritter,* sur le territoire même où les sectateurs de Zoroastre ont laissé les ruines d'un grand nombre d'_autels du feu_ (_ateschgahs_), les cyprès qui jadis entouraient ces pyrées ombragent maintenant les tombeaux où reposent des _imâms_, c'est-à-dire des personnages réputés saints parmi les sectateurs de Mahomet.
 
+*) Ouvrage cité, p. 238, traduct. franç. p. 380.
+
+*) Je ne sais si cet usage était déjà tombé en désuétude au temps où Chardin visitait la Perse, mais on n'en trouve aucune mention dans la relation de ce voyageur, et je n'en puis citer aucun exemple d'après mon propre témoignage.
+
+*) Voy. M. Carl Ritter, _Die Erdkunde_, 11., p. 574, 575.
+
+*) Kæmpfer, _Amœnit. exotic._ p. 368, 369. M. J. Morier, _A Journey through Persia, Armenia,_ etc. _in the years 1808 and 1809_, p. 104. Sir William Ouseley, _Travels_, vol. 2., p. 3 et 4 ; pl. 24.
+
+*) M. J. Morier, _loc. cit._
+
+*) Aga Beschir, chef des eunuques du palais de Schîrâz, a été la cause d'une émeute, en faisant imprudemment couper deux de ces arbres (voy. M. J. Morier, _loc. cit._ Ouseley's _Travels_, vol. 1., p. 400).
+
+*) Voy. _Mémoires de l'Acad. des inscript._ nouv. série, t. 15., 2e partie, p. 63-127.
+
+*) Ouseley's _Travels_, vol. 3., p. 83.
+
+*) A Schîrâz, dans la ville même, s'élève un majestueux cyprès devant la première cour de la mosquée de Schah Mirza Hamza, qui renferme, dans une pièce séparée, le tombeau d'Abdul Rakim khân, dont la construction est également due à Kérim khân, père de ce dernier prince (voyez M. J. Morier, ouvrage cité, p. 103).
+
+*) Ouvrage cité, t. 11., p. 574.
+
 A ces témoignages, vient s'ajouter celui qui se tire du nom même que le cyprès pyramidal conserve dans la langue persane. Ce nom, _serv-azâd_, est un exemple mémorable de l'influence directe qu'exercèrent sur la formation du langage les castes sacerdotales, dépositaires tout à la fois des croyances religieuses et des connaissances scientifiques, et, par conséquent, dispensatrices du trésor des idées. En effet, _serv-azâd_ offre par sa composition, je dois le répéter ici, une double signification, qui, à défaut d'autres preuves, nous révélerait l'usage où furent anciennement les Perses d'attribuer au cyprès une acception funéraire. Il est formé de deux mots* : le premier est le nom même de cet arbre* ; le second est un adjectif dérivé du participe du verbe persan _zâden_, qui signifie _vivre_, et qui, comme le verbe grec [GREEK], « vivre, » appartient au même radical que _gaya, gava_ ou _gueïé_, dont la double signification, en zend, est _taureau_ et _vie_. L'_a_ privatif placé devant _zâd_ donne donc à l'adjectif _azâd_ la propriété d'exprimer l'idée de _non-vie_ ou de _liberté_* que l'antiquité attachait à l'état de l'âme après la mort du corps. Cet état faisait dire aux philosophes et aux poëtes grecs, comme aux philosophes de l'Orient, leurs devanciers : « La vie du corps est la mort de l'âme, et _vice versa_, » ou : « Notre vie est la mort des âmes, et leur vie* est notre mort.* »
+
+*) [ARABIC], qui signifient littéralement : « cyprès libre. » Les Persans disent aussi : [ARABIC] _serv-bulend_, c'est-à-dire « cyprès élevé » (_alta cupressus_).
+
+*) Le nom sous lequel les Persans désignent plus habituellement le cyprès est _schemschâd_, [ARABIC], dont on ne connaît pas le sens intime.
+
+*) C'est avec le sens de _libre_ que nous trouvons cet adjectif employé dans la qualification d'_azâd-mard_, qui signifie littéralement « homme libre, » et qui fut donnée à Lohrasp, père de Gustasp (_Modjmel-al-téwarikh_, fol. 272 v°, manuscrit de la Bibliothèque impériale). Cette qualification répond, on le voit, au _Freiherr_ des nations germaniques.
+
+*) C'est-à-dire la liberté de l'âme.
+
+*) [GREEK] ... Héraclite, _apud_ Porphyr. _De antr. nymphar._ 10., p. 12, ed. van Goens. Cf. Euripide, _Polyidus_ (fragm. v. 15, 16) ; _Phrixus_ (fragm. v. 34, 35).
 
 Faute d'avoir rapproché de l'antique doctrine psychologique qui avait cours en Orient et en Occident, la double acception du cyprès, symbole de vie* et symbole de mort ou de liberté* ; et, faute aussi d'avoir connu la composition du nom philosophique que cet arbre conserve chez les Persans, les philologues et les archéologues modernes, sans en excepter même le savant auteur du mémoire cité sur le mythe de Cyparisse, n'ont pas aperçu le sens philosophique ou psychologique que présente le cyprès pyramidal, consacré aux divinités infernales, ou placé auprès des sépultures. Füller* voulait que cet arbre eût reçu une acception funéraire, « parce qu'il avait servi à fabriquer l'arche de Noé, qui, pour ainsi dire, fut longtemps le tombeau ou la sépulture des vivants. » Le Dr. Lampe* a pris la peine de réfuter cette opinion : à ses yeux, le cyprès est un symbole d'eternité, parce qu'il vit indéfiniment. Aussi fait-il observer que jadis cet arbre figurait dans les funérailles des personnages qui avaient mérité les honneurs de l'apothéose, ou accompli des actions dignes de passer à la postérité. C'est pourquoi, dit-il, l'usage de planter un cyprès ou un _cupressetum_ auprès des tombeaux fut limité aux héros ou aux hommes illustres. A l'appui de cette assertion, il cite le vers où Lucain* a pu dire :
 
@@ -3092,11 +3126,57 @@ Et non plebeios luctus testata cupressus.
 
 Il cite aussi un passage de Spartien,* d'où l'on est en droit de conclure qu'une couronne de cyprès était le prélude de l'apothéose.* Il n'oublie pas d'invoquer le témoignage d'Hermippe que j'ai rappelé dans mon premier mémoire.* Enfin, il rapporte un passage où Jamblique,* répétant le précepte de Pythagore* cité par Hermippe, dit aussi, de son côté, que les pythagoriciens s'abstenaient de se faire inhumer dans des cercueils de cyprès, parce que le sceptre de Zeus est fait avec le bois de ce même arbre ; mais, ajoute Jamblique, il se peut qu'un tel précepte repose sur quelque autre considération mystique.* Feu M. Émeric David rejette d'une manière absolue le double sens attribué au symbole du cyprès : « Cet arbre prétendu de la mort, dit-il à l'occasion de la métamorphose de Cyparisse,* est réellement l'arbre de la résurrection, l'arbre de la métempsycose ; il s'élance du sein de la terre, comme le rayon solaire jaillit du milieu des ténèbres, au lever de l'astre du jour, et il tue le cerf, emblème des vapeurs humides ... » A l'exemple de plusieurs autres de ses devanciers, M. Avellino, s'occupant de l'attribution funéraire du cyprès chez les Grecs et les Romains seulement, cherche le motif de cette attribution dans un ordre d'idées qui exclut toute acception philosophique ou psychologique ; il croit le trouver dans une simple règle d'euphémisme : « Il nous semble impossible, dit-il, de mettre en doute que, dans le sens funèbre attribué au cyprès, on ne doive reconnaître un des nombreux exemples de cet _euphémisme_ par lequel l'antiquité grecque embellissait les idées les plus tristes, et, principalement dans le langage des arts, les revêtait des formes les plus riantes et les plus agréables.* » Partant de ce point de vue, le savant académicien de Naples attribue à l'expression de Virgile _læta cupressus_, au lieu d'un sens philosophique,* un sens tiré de l'emploi du cyprès comme ornement des jardins : « Et l'usage qu'en faisaient les anciens pour l'ornement des sites les plus délicieux ne permet pas, observe-t-il, de douter que, loin d'attribuer à cet arbre la triste idée de la mort, ils ne lui reconnussent, au contraire, une signification agréable.* » Reiff* me semble s'écarter bien davantage de la véritable signification lorsque, s'efforçant d'expliquer _læta cupressus_ par _alta cupressus_, il rappelle l'expression _lætas segetes_ qu'emploie Virgile dans ses Géorgiques.* M. de Hammer, je le dis à regret, ne me paraît pas avoir été plus heureux dans ses explications. Les raisons qu'il donne* pour faire comprendre comment le cyprès, chez les Persans, est devenu le symbole de la liberté, me portent à penser qu'il a un peu trop négligé de considérer la corrélation établie par une philosophie religieuse entre l'idée de la mort et l'idée de la nouvelle vie ou de la liberté de l'âme.
 
+*) Dans l'idiome de la basse Bretagne, le nom du cyprès est _hivi_ ou _ivi_, altération peut-être des mots sémitiques ou araméens _hayy, heuïa, héva, héyo_, qui signifient « la vie. » Le nom de l'arbre vert que nous appelons _if_ aurait-il la même origine ? En espagnol et en portugais, on dit _iva_ ; dans l'ancien allemand, on trouve _îwa_, et dans l'allemand moderne, _eibe_.
+
+*) M. de Hammer (_Mithriaca_, p. 157) cite trois passages de prosateurs ou de poëtes persans qui font allusion à la _liberté_, dont le cyprès est l'emblème : « Si tu le peux, dit Saadi, sois fertile comme le palmier ; si tu ne le peux, sois libre comme le cyprès. » --- « Qui rendra ton âme libre comme le lis et le cyprès ? Qui lui donnera la félicité au milieu de ses liens ? » s'écrie à son tour le grand poëte mystique Djelal-eddîn Roumî, cité à l'article _Azâd_, dans le _Ferhenghi Chououri_ (1., 68). --- Un autre écrivain persan dit : « Zerdéhuscht (Zoroastre) planta un cyprès libre devant la porte du pyrée. »
+
+*) _Miscellan. sacr._ 4., 5.
+
+*) Ouvrage cité, p. 26, 27.
+
+*) 3., 442.
+
+*) _In Severo_, 22.
+
+*) J'ai dit, dans le mémoire précédent (ci-dessus, p. 142, 143), que les couronnes de cyprès qui, selon Dinon, étaient en usage chez les Perses, avaient peut-être une acception funéraire. --- Voy. sur les couronnes considérées comme des emblèmes funèbres et comme des emblèmes de l'apothéose, les judicieuses observations de M. Raoul-Rochette (_Mém. de l'Acad. des inscript._ nouv. sér. t. 13., p. 159, p. 209-217). Elles s'étendent et s'appliquent parfaitement aussi au symbole de la palme.
+
+*) Ci-dessus, p. 216, note 3.
+
+*) _Vita Pythagoræ_, 155.
+
+*) Voyez les observations du Dr. Lampe (ouvrage cité, t. 1., p. 578 et suiv.) sur ce précepte et sur les commentaires dont il a été le sujet dans les écrits de Bochart et de Giraldi.
+
+*) ... [GREEK].
+
+*) _Recherches sur Jupiter_, t. 2., p. 437.
+
+*) « Noi non crediamo potersi dubitare che nel senso funebre dato al cipresso riconoscer debbasi uno de' tanti esempli di quell' _eufemismo_, per cui l'antichità greca abbelliva le idee tutte di lutto, e specialmente nel linguaggio delle arti le vestiva di ridenti e piacevoli apparenze. » (Mémoire cité, p. 28, 29.)
+
+*) Dans sa _Somme des vices et vertus_ (manuscrits français de la Bibliothèque impériale, n° 7283, fol. 33 v°), un frère prêcheur, Lorens (_Laurentius Gallus_), exprime sur la mort la pensée religieuse du moyen âge en ces termes énergiques et naïfs, qui peuvent servir à expliquer le sens que Virgile attachait à l'expression _læta cupressus_ : « Mes li sainz homme qui Deu aiment ... mort sunt au pechié et mort au monde ... et desirent la morz corporel. Car cest damoisele porte-joie que la morz, qui touz les seinz corone et met en gloire ... »
+
+*) « E l'uso che gli antichi ne facevano per ornamento de' siti più deliziozi, non ci lascia dubitare che lungi dall' attribuire a quella pianta la trista significazione della morte, la riguardavano al contrario come piacevole e grata. » (Mémoire cité, p. 32.)
+
+*) _Ad_ Artemidor. _Oneirocr._ 2., 25.
+
+*) 1., 1.
+
+*) _Gesch. der schön. Redekunst Persiens_, etc. (Vienne, 1818, in-4°), p. 26, 27 ; _Mithriaca_, p. 42, 43.
+
 A l'est de la Perse, nous trouvons jusqu'à l'Indus un vaste pays, où nous savons* que croît spontanément le cyprès pyramidal. Les voyageurs modernes nous ont laissé ignorer si l'on y rencontre des arbres de celte espèce plantés dans les _champs des morts_, ou auprès des sépultures particulières. Mais ce que j'ai eu à faire remarquer au sujet de la Perse et de la Turquie d'Asie* s'applique de même à l'Afghanistân, et nous permet de supposer que là, comme dans toutes les contrées soumises à l'islamisme, le cyprès ombrage les tombeaux, ou figure dans les sculptures qui ornent les pierres tumulaires.
+
+*) Ci-dessus, p. 151-153.
+
+*) _Ibid._ p. 298, 299.
 
 Je ne serai pas aussi affirmatif à l'égard des immenses régions situées à l'est de l'Indus ; et j'exprime ici le regret de ne trouver dans les relations modernes aucun renseignement qui nous fasse connaître si là on emploie le cyprès comme emblème funèbre, et si cet usage est commun aux populations musulmanes et aux diverses sectes qui n'ont pas embrassé l'islamisme, ou s'il contribue, avec les autres croyances religieuses, à établir une ligne de séparation entre les populations indigènes.
 
 Toutefois, si, chez les Hindous, le cyprès pyramidal ne se montre pas davantage autour des sépultures et sur les pierres tumulaires qu'il ne figure auprès des divinités représentées dans les pagodes ou dans les grottes consacrées par la religion, il reçoit, dans la langue sanscrite, une dénomination, _soka_, dont la signification propre est _tristesse, douleur_.* Les Persans conservent dans leur idiome ce mot _soka_ sous la forme _soug_, avec le sens de _deuil, tristesse_ ; mais ils ne l'appliquent pas au cyprès. De _soug_, ils ont formé _sougwar_, qui signifie _triste, affligé_. Je ne sais si ces mots _soka_ et _soug_ ont quelque rapport avec _sôs_, nom du cyprès chez les Arméniens,* et avec les usages funèbres auxquels nous voyons cet arbre servir chez tant de peuples anciens ou modernes. J'ignore, par conséquent, s'il serait permis de conclure d'un tel rapprochement qu'à des époques fort reculées, dont le souvenir s'est effacé dans la mémoire des hommes, les Indiens, comme la plupart des autres nations civilisées de l'Orient, avaient fait du cyprès un emblème funéraire. Devons-nous croire, par exemple, que lorsque, à Babylone, le philosophe indien Calanus faisait jeter du bois de cyprès dans le bûcher (_pyra_) où volontairement il allait chercher la mort,* il observait un usage propre à l'Inde, plutôt qu'il ne se conformait à une coutume babylonienne ? Ou bien faut-il admettre qu'un tel usage, quant au bois de cyprès, ne fut jamais pratiqué dans l'Inde, et que le nom de _soka_ et sa signification _tristesse, douleur_, y étaient une importation étrangère ? En ce cas, devrait-on attribuer cette importation au grand mouvement qui, durant une période très-reculée, semble avoir fait rayonner d'un centre commun vers les diverses parties du monde la haute civilisation à laquelle étaient parvenus, sur les bords du Tigre et de l'Euphrate, les Chaldéens et leurs élèves, les Assyriens ? Je n'entreprendrai pas de traiter ici, encore moins de décider ces diverses questions. Attendons, pour le faire, la publication complète de tous les livres religieux des Hindous.
+
+*) En sanscrit, _asoka_, c'est-à-dire _soka_ avec l'_a_ privatif, signifie : « sans douleur. »
+
+*) Ci-dessus, p. 65-71. --- Il ne faut pas perdre de vue que la langue arménienne appartient à la même souche que les langues sanscrite, zende et persane.
+
+*) Ælien, _Var. histor._ 5., 6.
 
 Une seule de ces questions se représente quant à la Chine. Dans ce vaste empire, nous avons trouvé, avec le secours des traditions écrites, quelques traces du culte que jadis on y rendait au cyprès, considéré comme symbole des dieux ou des esprits.* Déjà aussi ces mêmes traditions nous ont donné la certitude qu'anciennement les Chinois étaient dans l'usage de planter des cyprès autour des tombeaux* et que cet usage était, en particulier, pratiqué par les princes feudataires de l'empire.* De nos jours encore, on conserve, à la Chine, la coutume de placer les sépultures à l'ombre de diverses sortes d'arbres verts, parmi lesquelles les voyageurs distinguent deux espèces de cyprès, le pyramidal,* et celui que M. Fortune appelle _funereal cypress_.* Les Chinois continuent aussi à tirer du cyprès divers médicaments, et qualifient ses feuilles de _médecine de l'immortalité_.* Mais de quel peuple de l'Asie ont-ils primitivement reçu le cyprès pyramidal à la fois comme symbole des dieux ou des esprits, comme emblème funéraire et comme moyen thérapeutique ? J'ai déjà, en partie, dans le mémoire précédent,* répondu à cette question ; j'ai fait remarquer quelle affectation mettent les écrivains chinois à nous dire que l'arbre _pe_, qui est notre cyprès pyramidal, se tourne constamment vers le couchant. Cette remarque m'a conduit à supposer que par là ces auteurs entendent, soit la région des morts, soit l'Asie occidentale, contrée où, en effet, toutes les observations réunies dans mon premier mémoire nous ont autorisés à placer le lieu natal de ce bel arbre et l'origine des usages religieux auxquels l'antiquité le faisait servir. Et si nous nous rappelons la longue durée de l'empire assyrien, la place immense qu'il occupe dans la topographie et dans l'histoire religieuse, civile et politique de l'Asie occidentale, nous serons portés à penser que l'importation du culte du cyprès chez les Chinois remonte à une époque où ils avaient des relations plus ou moins indirectes avec l'empire d'Assyrie. D'autres faits pourraient justifier cette conjecture ; mais ce n'est ici le lieu ni de les exposer, ni de les examiner.
 
@@ -3104,21 +3184,102 @@ Le Thibet et le Japon reçurent-ils anciennement, comme la Chine, le symbole du 
 
 Avant de quitter l'Asie et de retourner en Europe, il nous reste à rechercher si l'Arabie ancienne et l'Arabie musulmane nous offrent des indices certains de semblables coutumes. Bien que nous ayons trouvé dans les écrivains grecs, dans les écrivains musulmans et dans quelques monuments figurés ou lapidaires la preuve que le culte de la Vénus assyrienne était autrefois très-répandu en Arabie,* ainsi que le culte de son arbre symbolique, le cyprès, je ne puis, pour les temps anciens, découvrir la preuve que, chez les Arabes, cet arbre remplissait un rôle dans les rites funéraires. Le très-petit nombre de monuments antiques restés debout sur le sol de l'Arabie, et la destruction de ses trésors littéraires, antérieurs aux prédications de Mahomet et de ses successeurs, ne me laissent aucun espoir d'acquérir cette preuve. Mais je tiens de quelques voyageurs européens, qu'en plus d'un lieu les Arabes pratiquent maintenant l'usage de planter des cyprès autour des tombeaux, comme on le fait en Perse et dans la Turquie d'Asie. Nous sommes donc autorisés à supposer, par induction, que si une telle coutume existe aujourd'hui en Arabie, elle avait dû y être apportée de Babylone avec le culte de Mylitta et avec le symbole du cyprès. Les témoignages que j'ai recueillis dans mon premier mémoire* ne laissent, ce me semble, aucun doute sur cette double importation.
 
+*) Ci-dessus, p. 161.
+
+*) _Ibid._ p. 160, 161.
+
+*) _Ibid._ p. 161.
+
+*) _Ibid._ p. 163. --- Sir William Ouseley (_Travels_, etc. vol. 2., p. 93) affirme, mais sans citer aucune autorité, que le cyprès est consacré aux morts en Chine, comme en Turquie.
+
+*) _Cupressus funebris._ Voy. ci-dess. p. 163.
+
+*) Ci-dessus, p. 161.
+
+*) Ci-dessus, p. 161, 162.
+
+*) Ci-dessus, p. 117-126.
+
+*) Ci-dessus, p. 117 et suiv.
+
 ## Deuxième Section. --- Occident.
 
 ### § 1er. --- Grèce et colonies grecques.
 
 Il n'en est pas de la Grèce et de l'Italie comme de l'Arabie et de quelques autres parties du continent asiatique : ici, les témoignages les plus directs de l'emploi funéraire du cyprès abondent pour les temps anciens, aussi bien que pour le moyen âge et pour le temps présent. Déjà la métamorphose de Cyparisse, au moment où il meurt de douleur* ; la métamorphose des filles d'Étéocle ; tombées dans un puits ; les cyprès plantés, à Psophis, autour de la sépulture d'Alcmæon, et enfin la tradition recueillie par Asclépiade,* nous ont préparés à reconnaître que, chez les Grecs, cet arbre était un symbole funèbre. Les cyprès du tombeau d'Alcmæon nous ont même donné lieu de constater que l'antiquité grecque, comme l'antiquité asiatique, se plaisait à représenter sous l'emblème du cyprès les personnages mythologiques qui assistent, dans ses fonctions, Vénus représentée elle-même sous la forme symbolique de cet arbre, et considérée comme reine à la fois du ciel, de la terre ou des vivants, et des enfers ou des morts. Développant ici toute ma pensée, je rappellerai qu'Aphrodite, chez les Grecs, était surnommée tantôt _Épitymbie_ ([GREEK]),* tantôt l'_aînée des Parques_,* tantôt même _Hadès_.* Un hymne orphique* nous la montre exerçant un empire absolu sur les trois Parques, et Plutarque* a soin de nous apprendre qu'à Delphes on faisait, devant la statue d'Aphrodite Épitymbie, des libations pour les morts. De leur côté, Lucien* et Proclus* nous fournissent le moyen de remonter à l'origine asiatique de semblables surnoms et de semblables coutumes en nous disant, l'un, qu'à Hiérapolis la Déesse de Syrie était représentée avec les attributs des Parques, l'autre, que les grands de Lydie avaient souvent échappé aux coups de la mort par la toute-puissante protection d'Aphrodite. A son tour, Mithra, chez les Perses, qualifié roi du ciel, roi des vivants et roi des morts,* remplit, comme Hermès ou Mercure, les fonctions de dieu psychopompe : assisté de ses deux hamkars ou assesseurs, il juge, sur le pont Tchinevâd, qui unit la terre au ciel, les bonnes et les mauvaises actions des âmes. Ces diverses traditions me conduisent à rappeler aussi que, dans la même ville où, selon Pausanias,* les cyprès du tombeau d'Alcmæon s'appelaient _les vierges_, il avait existé un très-ancien temple d'Aphrodite Érycine, dont les ruines se voyaient encore au temps où cet écrivain visitait la Grèce.
 
+*) On peut rapprocher de cette métamorphose opérée par Apollon les vers suivants des _Dionysiaques_ (2., 80-83), dans lesquels Nonnus fait intervenir Zéphyre et Phœbus à l'occasion du cyprès caractérisé comme emblème funéraire :  
+[GREEK]  
+[GREEK]  
+[GREEK],  
+[GREEK] ... ...
+
+*) Ci-dessus, p. 294.
+
+*) Plutarque, _Opp._ t. 7. (_Quæstion. roman._), p. 89, 90 ; ed. Reiske.
+
+*) _Pausanias_, 1., 19., 2.
+
+*) Dans un fragment d'un ancien tragique cité par Plutarque, _Opp._ t. 9. (_in Amator._), p. 33.
+
+*) 54., 5, ed. Hermann.
+
+*) _Opp._ t. 7., _loc. cit._
+
+*) _De Dea Syr._ §§ 31, 32 ; ed. Lehmann.
+
+*) _Hymn. 3., in Vener._ v. 1-3, dans les _Analecta_ de Brunck, t. 2., p. 444.
+
+*) Voy. ci-dessus, p. 276, note 3.
+
+*) Ci-dessus, p. 235.
+
 Servius,* de son côté, affirme que les Athéniens avaient la coutume de couvrir de branches de cyprès les maisons mortuaires. Je serais disposé à croire que cet usage était passé de l'Asie occidentale dans l'Attique avec le culte de Minerve ou de Vénus, divinités primitivement identiques. D'autres témoignages nous apprennent que, chez les Grecs, le cyprès fut consacré à Hadès, comme il le fut à Pluton, chez les Romains. A l'appui de cette assertion, on peut citer une inscription grecque antique, gravée sur une plaque d'or, et commentée, en 1836, dans le Bulletin de l'Institut archéologique.* Au milieu d'une phrase relative à la destinée des âmes, elle fait mention d'un _cyprès blanc_, [GREEK], comme déjà je l'ai dit* ; et peut-être est-il permis de conclure de l'épithète [GREEK], que le cyprès était d'argent ou argenté. En ce cas, nous aurions ici le cyprès de la lune, et, conséquemment, un symbole très-propre à caractériser la partie du monde sublunaire où règne Hadès. Je dois donc répéter que le poëte italien cité plus haut* fait du cyprès de la lune un arbre « brillant et blanc, comme l'argent, » et que, par une coïncidence bien plus digne d'attention, le cyprès pyramidal porte, dans la langue chinoise,* un nom qui signifie littéralement l'_arbre blanc_ ; car il se compose du signe générique _mou_ [CHINESE] (_arbre_), et du mot _pe_ [CHINESE] (_blanc_). Or les auteurs chinois, nous l'avons vu, expliquent cette dernière qualification en disant que le cyprès montre constamment l'Occident ou le couchant, et que la couleur blanche est affectée à l'Occident. Il devient, par conséquent, assez probable qu'en Chine, de même que chez les Grecs et les Romains, cette partie du monde sublunaire était considérée comme l'empire des morts, et le cyprès qualifié _blanc_, parce qu'à la fois symbole de la lune et emblème funéraire, il appartient à la région des mânes.
+
+*) _Ad_ Virgil. _Æneid._ 3., 64.
+
+*) Ann. 1836, p. 149. Cette plaque d'or fut trouvée dans le royaume de Naples ; l'inscription est ainsi conçue :  
+[GREEK]  
+[GREEK]  
+[GREEK].
+
+*) Ci-dessus, p. 162.
+
+*) P. 158, 159.
+
+*) Ci-dessus, p. 160.
 
 Quelques renseignements particuliers, qui ne sont pas sans intérêt pour l'histoire du cyprès pyramidal, considéré comme emblème funéraire par les Grecs, nous ont été conservés dans divers écrits plus anciens que l'inscription citée. C'est ainsi qu'au rapport de Thucydide,* les guerriers morts pour la défense de la patrie avaient droit à être ensevelis dans des cercueils de cyprès. Pythagore et ses disciples, je l'ai dit plus haut,* recommandaient, au contraire, qu'après leur mort on n'enfermât point dans des cercueils de ce bois leur dépouille mortelle. L'espèce de contradiction qui semble résulter de ces deux faits a beaucoup embarrassé les savants. Elle disparaît peut-être lorsqu'on remarque que la recommandation des pythagoriciens avait pour motif l'usage hiératique de consacrer aux dieux le cyprès pyramidal. Une telle humilité sied bien à des philosophes animés de sentiments religieux. Mais les idées qui, depuis une époque fort reculée, avaient cours chez les Grecs, comme chez les peuples civilisés de l'Asie occidentale, assimilaient les héros aux demi-dieux. Dès lors on conçoit facilement que le scrupule qui se découvre au fond de la pensée de Pythagore et de ses disciples, ne se soit pas élevé dans l'esprit du législateur chargé de régler les honneurs funèbres que la patrie reconnaissante doit rendre aux guerriers généreux, morts en combattant pour sa gloire et sa défense. Ce scrupule n'arrêta pas non plus le sentiment d'orgueil qui, en Grèce, portait les grands à ambitionner la vaine satisfaction d'être ensevelis dans des cercueils de cyprès. L'exemple des pythagoriciens trouva peu d'imitateurs ; l'usage dont je parle ne fut pas interrompu parmi les personnages d'un rang élevé ; il se perpétua même durant le bas-empire et le moyen âge.
 
+*) 2., 34. Cf. les commentateurs grecs de cet historien.
+
+*) Ci-dessus, p. 303.
+
 Le continuateur incertain de Constantin Porphyrogénète* et le moine George Cédrène* prennent soin de constater chacun qu'en 889 le corps de Michel 3, fils de Théophile et empereur d'Orient, fut rapporté à Constantinople* et placé dans un cercueil de bois de cyprès.* Mais ils ne nous disent pas si à ce genre de sépulture se rattachait une pensée pieuse, puisée dans les textes de la Bible où l'on trouve une mention de cet arbre. Il y a tout lieu de le croire ; car je dois à feu M. Buchon la communication de plusieurs observations que renferme le journal inédit de son voyage en Grèce, et qui établissent, d'une manière incontestable, qu'au moyen âge, dans cette contrée, il existait une alliance intime entre le symbole du cyprès pyramidal et le signe révéré des chrétiens. A Chalcis, dans l'église de Saint-Démétrius, et près de la porte d'entrée, le voyageur français remarqua, sur un fragment d'une ancienne pierre tumulaire, la croix du Christ, sculptée, entre deux cyprès, au milieu d'un cartouche. Sur la route de Delphes à Livadia, dans le monastère de Saint-Luc, un semblable cartouche s'offrit à ses yeux sur une autre pierre tumulaire ; celle-ci est encastrée dans le mur, au-dessus de la porte d'une cellule. A Néopatras,* en Thessalie, une troisième pierre tumulaire, scellée dans les murs d'une église, présenta à M. Buchon un cartouche où la croix, également plantée entre deux cyprès, est de plus accompagnée de deux fleurs de lis sculptées dans les angles supérieurs. A Piada, dans la presqu'île de Methana, les deux fleurs de lis sont remplacées par deux rosaces ou deux étoiles, sur un monument du même genre, encastré dans le mur intérieur d'une petite église ; mais ici, au-dessus de la croix, le sculpteur a ajouté deux oiseaux* becquetant une grappe de raisin. Sur une cinquième pierre tumulaire, on voit, sculptée entre deux cyprès, une grande épée de forme cruciale ; au-dessus de la poignée de cette épée, une rosace est placée entre deux paons ; et, au-dessous des deux cyprès, sont couchés deux lions, la tête tournée, l'un à droite, l'autre à gauche. En plusieurs autres endroits notre voyageur rencontra des monuments funéraires analogues. Les uns et les autres lui parurent appartenir, soit à l'époque byzantine, soit à l'époque champenoise et bourguignone, soit à des temps plus modernes. Dans tous ces monuments, il remarqua, sans pouvoir en deviner la raison, que le sommet de chaque cyprès est constamment courbé en dedans. On dirait, à la vue des croquis qui accompagnent ses descriptions, que les deux arbres s'inclinent comme pour rendre hommage à la croix. Ici se décèle un des emprunts que l'art chrétien, à sa naissance, fut obligé de faire à la série des types symboliques inventés par l'antiquité païenne. Sur une stèle consacrée à la Vénus égyptienne, plusieurs siècles avant la venue du Christ, n'avons-nous pas vu deux cyprès pyramidaux, placés auprès d'une fleur symbolique de lotus,* incliner leur sommet vers la déesse en signe d'adoration ? Nous verrons tout à l'heure, sur des lampes romaines,* deux arbres de cette espèce s'incliner aussi devant une urne cinéraire. De nos jours, sur un grand nombre de pierres tumulaires qui recouvrent la dépouille mortelle de femmes musulmanes, on retrouve sculptés deux cyprès à sommet incliné. J'en ai vu moi-même plus d'un exemple dans la Bulgarie, à Constantinople et dans l'Anatolie. Ces tombes ne présentent aucun autre emblème ; et j'ignore si les deux cyprès qui les ornent en relief doivent être considérés comme l'imitation directe d'un usage observé sur des monuments antiques, ou seulement comme l'imitation d'une coutume pratiquée par les Grecs modernes, à l'exemple de leurs ancêtres.
+
+*) _Scriptor. post Theophan._ p. 217 A ; éd. du Louvre, 1675.
+
+*) _Historiar. compend._ p. 593, C, D ; édit. du Louvre, 1647. Cf. Leo, p. 475. Zonare, t. 2., p. 176. Lebeau, _Hist. du Bas-Emp._ 72., 4. (t. 13., p. 335 ; édit. de Saint-Martin).
+
+*) Par l'ordre de Léon le Philosophe, fils de Basile le Macédonien.
+
+*) [GREEK], selon l'un ; [GREEK], selon l'autre.
+
+*) Ou Néopatra.
+
+*) Vraisemblablement deux colombes.
+
+*) Pl. 10., n° 2.
+
+*) Pl. 19., n°s 1 et 2.
 
 Ce qui n'est pas douteux, c'est qu'en Grèce les générations actuelles continuent d'attacher au cyprès des idées funéraires qui rappellent certaines traditions anciennes. Nous en avons la preuve dans une touchante complainte, où ces idées sont mêlées à des images érotiques et au récit d'un suicide amoureux qui, en opposition directe avec la doctrine chrétienne, ne peut être considéré aussi que comme un emprunt fait aux poëtes de l'antiquité. Cette complainte, recueillie sur les lieux, publiée et traduite par M. le comte de Marcellus,* est intitulée : _L'amour au tombeau_. Un jeune marié revient de la chasse au moment même où l'on ensevelit son Eugénule, morte en son absence ; il tire un poignard et se l'enfonce dans le cœur. « Là où on ensevelit le jeune homme, dit le poëte moderne, naquit un cyprès. Là où on ensevelit la jeune femme, naquit un roseau. --- Quand le puissant Borée souffle, le cyprès se courbe ; quand souffle le Zéphyr, le roseau se penche. --- Le roseau se penche, et vient baiser le cyprès. »
 
+*) _Chants du peuple en Grèce_, tom. 2., p. 72-75.
+
 De nos jours, chez une nation puissante, qui a reçu de la Grèce, avec ses croyances religieuses, plus d'une coutume qui rattache les temps modernes aux temps anciens, on voit se pratiquer, parmi quelques familles considérables, la coutume d'ensevelir la dépouille mortelle des parents dans des cercueils faits avec du bois de cyprès apporté de la terre sainte. Aucune classe de la société ne se sert de bois de cette espèce pour des meubles, des lambris d'appartement, des ustensiles, ou pour tout autre usage domestique, non religieux. De plus, en Russie, on peint souvent l'image du Christ, de la Vierge ou des saints, sur des tablettes et des panneaux de bois de cyprès, destinés, soit à être exposés à la vénération publique dans une église, soit à prendre place dans un oratoire privé et même dans toute autre partie des maisons d'habitation. Les Russes tirent de la terre sainte, non-seulement leurs cercueils, mais aussi ces tablettes et ces panneaux, aimant à se rappeler pieusement que l'arche de Noé fut construite avec du cyprès, et que Salomon fit lambrisser avec du bois de cette espèce, coupé dans le Liban, certaines parties intérieures du temple de Jérusalem. Comme nous, ils recherchent et vénèrent des objets d'art créés par la religion chrétienne et sculptés, à l'époque byzantine, dans le cyprès ou dans le cèdre. De ce nombre sont des reliquaires travaillés à jour avec une grande délicatesse, et surtout des croix, non moins habilement travaillées, qui offrent, dans leur intérieur, de très-petites figures représentant quelques scènes de la passion de Notre-Seigneur Jésus-Christ.* Ces diverses circonstances semblent ne pas contribuer peu à entretenir l'idée de sainteté qu'en Russie on attache au bois de cyprès provenant de la terre sainte, bien que, sous cette désignation topographique, il faille peut-être entendre, dans le langage religieux des Russes, non-seulement Jérusalem, ses environs, le Liban et toute la Syrie, mais aussi le mont Athos et une partie de l'Anatolie et de l'Arménie.
+
+*) Voyez ci-dessus (p. 77-79) un passage de l'Histoire des Aghouans, par Moïse Gaghagantouatsi, qui nous apprend qu'au 7e siècle, l'évêque Israël avait fait ériger une croix de bois de cyprès, et l'avait ornée de sculptures représentant la passion de Notre-Seigneur Jésus-Christ.
 
 ### § 2\. --- Étrurie.
 
@@ -3126,21 +3287,79 @@ Nous avons constaté l'identité qui existe entre le nom de la Vénus des Étrus
 
 En tête de ces monuments se placent deux urnes cinéraires, de terre cuite, qui, en 1850, furent apportées d'Italie et vendues publiquement à Paris, où M. Muret eut l'occasion de les dessiner. Les numéros 4 et 5 de la planche 13 ci-jointe reproduisent ses dessins. La première de ces deux urnes a perdu son couvercle* ; elle provient du mont Politien et se conservait anciennement au musée Bucelli. On en trouve dans le _Musée étrusque_ de Gori* un dessin très- réduit, fort médiocre et mal gravé ; la description qui se rapporte à ce dessin qualifie arbitrairement de _Déesse de la tempête, Dea tempestatis_, la tête de femme qui, sur le devant de l'urne, est placée entre deux cyprès pyramidaux.* Cette tête, vue de face et caractérisée par deux grandes cornes de vache, représente, non une divinité que l'antiquité ne connut point, mais la Vénus asiatique, nommée, chez les Étrusques, _Cypra_ ou _Cupra_, et _Touran_. Comme la Vénus-Hâthôr des Égyptiens,* et comme la Vénus de Babylone et de Ninive,* elle porte les cornes* du quadrupède femelle qui, dans l'Asie occidentale et surtout en Phénicie, servait à représenter symboliquement Mylitta ou Astarté.* Placée, comme celle-ci, entre deux cyprès, images symboliques et vivantes de ses deux assesseurs, c'est-à-dire du soleil et de la lune, qui sont les deux portes du ciel, elle forme avec eux une triade céleste ; et c'est ici que se révèle soudainement à nos yeux l'origine asiatique d'un tel type. Il nous reporte aux monuments syriens, palmyréniens ou phéniciens, qui nous ont montré tantôt Vénus placée, sous la forme d'un cyprès, entre deux autres cyprès,* ou entre le soleil et la lune personnifiés,* ou entre un lion et un taureau,* hiéroglyphes idéographiques de ces deux astres ; tantôt Vénus, sous une forme purement humaine, assise dans un temple flanqué du cyprès du soleil et du cyprès de la lune* ; tantôt enfin Artémis, la Vénus lunaire, figurée par le symbole d'un cône posé entre le cyprès du soleil et celui de la lune.* Comme Mylitta ou Astarté et comme Aphrodite ou Vénus, la Cypra ou la Touran des Étrusques était donc à la fois reine du ciel, reine de la terre et reine des enfers. Sur la plinthe de l'urne cinéraire où je reconnais cette triple Vénus qu'adorait l'Étrurie, on remarque une inscription en caractères étrusques, dont Gori ne s'est nullement occupé. Jusqu'à ce jour les habiles philologues que j'ai consultés ne peuvent en déterminer le sens.
 
+*) Sur le couvercle, selon le dessin publié par Gori et cité plus bas, était couchée une figure de femme vêtue.
+
+*) Tom. 1., p. 37. ; tom. 2., p. 295 ; pl. 157., n° 5.
+
+*) Peut-être faut-il aussi reconnaître deux arbres de cette espèce sur le devant d'une autre urne cinéraire de terre cuite, également publiée par Gori (_Mus. etrusc._ t. 3., p. 158., n° 4).
+
+*) _Recherches sur Vénus_, atlas, pl. 14 D, n° 5.
+
+*) Layard's _Monum. of Nineveh_, pl. 9. --- Voy. aussi mes _Recherches sur Vénus_, atlas, pl. 19 B, n° 6.
+
+*) On devine sans peine que Gori n'a pas compris la véritable signification de ce symbole.
+
+*) Ci-dessus, p. 59, 60.
+
+*) Pl. 5., n° 1.
+
+*) Pl. 3., n° 1.
+
+*) Pl. 6., n°s 1 et 2 ; cf. n° 3.
+
+*) Pl. 8., n° 4.
+
+*) Pl. 14., n°s 1 et 2.
+
 Une inscription différente, qui ne paraît offrir que le prénom et le nom de la défunte, [SVG], se lit sur la plinthe d'une petite urne cinéraire, de terre cuite, presque semblable à celle que je viens de décrire. Cette urne est figurée dans l'ouvrage que Dempster publia sur l'Étrurie,* en 1724, treize ans, par conséquent, avant la publication du Musée étrusque de Gori. Elle appartenait autrefois à la famille des Buonarota. J'ignore ce qu'elle est devenue. Le couvercle est orné d'une figure de femme couchée et tenant, de la main droite, un serpent qui se replie sur lui-même et qui peut être considéré ici comme le symbole de la vie éternelle. Si l'on s'en rapporte au dessin publié par Dempster, les deux cornes de vache implantées sur la tête de la Vénus étrusque seraient moins épaisses et mieux accusées sur cette urne qu'elles ne le sont sur celle de l'ancien musée Bucelli* ; les deux cyprès seraient mieux modelés, et la figure de la déesse aurait une expression gracieuse ou riante, tandis que la Vénus de l'autre urne paraît avoir l'air sévère ou courroucé, qui caractérise les divinités infernales.
+
+*) _De Etrur. regal._ libr. 7. (Florence 1724 ; 2 vol. in-fol. fig. éd. de Th. Coke), t. 2., pl. 83., n° 5.
+
+*) N° 4 de la planche 13., ci-jointe.
 
 L'origine asiatique du sujet modelé sur la face antérieure de la seconde urne cinéraire étrusque, figurée ici,* est tout aussi évidente que celle du bas-relief qui orne chacune des deux urnes dont je viens de parler. Ce sujet, composé dans un esprit purement symbolique, nous offre, au-dessous d'un couvercle qui supporte une figure de femme couchée, une porte cintrée et décorée de deux guirlandes dans sa partie supérieure. Sous cette porte, on voit, plantés sur un soubassement, un grand cyprès pyramidal et, à côté, un objet difficile à déterminer,* peut-être une pomme de pin. A droite et à gauche de la porte sont rangés trois autres cyprès, de moins fortes proportions. Nous avons donc ici, comme autour du temple d'Aphrodite à Apollonia d'Illyrie,* comme sur deux des cinq bas-reliefs mithriaques décrits dans le mémoire précédent,* sept cyprès, emblèmes des sept planètes. Mais sur notre urne, la Vénus-Cypra des Étrusques, au lieu de se montrer sous la forme humaine qu'elle revêt dans les bas-reliefs des deux autres urnes citées et dans le temple d'Apollonia, est figurée elle-même, comme chacune des six autres planètes, sous le symbole du cyprès. La différence que je signale nous reporte donc, plus directement même que ces derniers monuments, dans cette Asie occidentale qui fut le berceau du culte de Vénus et du langage symbolique. Elle rattache le bas-relief de notre urne cinéraire, comme le trône votif de la Déesse de Syrie,* à la série des antiquités figurées qui, uniquement composées avec des éléments ou des signes idéographiques, propres à la langue des symboles, n'empruntent encore rien à l'anthropomorphisme. Cette urne, dont la provenance précise ne m'est pas connue, me paraît être restée inédite. Je ne sais en quelles mains elle se trouve actuellement.
 
+*) N° 5 de la pl. 13.
+
+*) Cet objet représente-t-il symboliquement Adonis, l'amant chéri de Vénus ? Je n'ose décider la question ; mais si, par hasard, elle rencontrait une réponse affirmative, il conviendrait de remarquer qu'à Yazili Kaïa (_Descript. de l'Asie Mineure_, par M. Ch. Texier, 1re part. t. 1., planche 78.), la Vénus orientale est suivie de son époux, représenté sous les traits d'un jeune homme dont la petite taille contraste avec celle de la déesse. C'est un exemple frappant du procédé qu'employait l'art asiatique pour exprimer, comme ici, la prééminence de l'épouse sur l'époux ; ailleurs, la suprématie d'un dieu ou d'un roi sur un autre. (Voy. ci-dessus, p. 57.)
+
+*) Pl. 8. n° 4.
+
+*) Ci-dessus, p. 276-281.
+
+*) Pl. 5., n°s 1 et 2.
+
 Un monument funéraire de marbre, publié par Dempster,* nous offre de nouveau, chez les Étrusques, un exemple de l'acception funèbre attribuée au cyprès. Mais le sculpteur, tout en traçant des arbres de cette espèce, n'a fait intervenir ici, ni sous une forme symbolique, ni sous une forme humaine, la déesse qui, en Occident comme en Orient, présidait à la destinée des âmes. Faut-il en conclure que ce marbre recouvrait la dépouille mortelle d'un homme et non d'une femme ? On serait presque tenté de répondre affirmativement, si l'on pouvait ne prendre en considération que les trois urnes cinéraires où nous venons de reconnaître l'image de la Vénus étrusque : l'Académie a dû remarquer que ces trois urnes renfermaient jadis les restes mortels de trois dames étrusques, qui avaient ainsi placé leur âme sous la protection de la déesse.
+
+*) _De Etrur. regal._ t. 3., pl. 85., n° 1. --- Sur le marbre que j'indique ici, on voit sculptée une amphore semblable à celles où se renfermaient les cendres des morts. Gori (_Mus. etrusc._ t. 2., p. 261) n'a pas omis de faire remarquer cet exemple de l'emploi de l'amphore comme symbole funéraire chez les Étrusques ; mais le renvoi qu'il fait ici à Dempster est fautif : il faut lire pl. 85., au lieu de pl. 80.
 
 Nous retrouvons des cyprès sur un fragment de bas-relief étrusque, que l'on conserve, à Chiusi, dans le musée Casuccini. Il est figuré parmi les monuments inédits de Micali.* Ce savant n'en indique ni la provenance, ni la destination ; il ne désigne même pas sous le nom spécifique qui leur appartient les arbres qu'on y voit sculptés : _Una fila di alberelli_, se borne-t-il à dire, _indica chiaramente stadio campestre_. Or ces _alberelli_ sont de véritables cyprès pyramidaux, plantés au bord d'une voie que suit une course de chars attelés chacun de trois chevaux lancés à fond de train. Des représentations analogues, mais où l'on ne voit aucun cyprès, se font remarquer sur plusieurs autres sarcophages étrusques ou romains. C'est une image sensible de la rapidité du mouvement qui nous emporte dans le tourbillon de la vie. Les cyprès achèvent de montrer qu'ici-bas la mort du corps est le terme de notre existence terrestre ; mais que la vie éternelle est promise à l'âme dans la région céleste. Je n'hésite donc pas à penser, malgré le silence de Micali, que ce bas-relief ornait jadis un monument funéraire. Il mérite d'être rapproché des deux plats d'argent, ciselés et dorés, dont j'ai déjà parlé* et qui, en 1836, furent trouvés à Cæré, dans un grand tombeau souterrain. Si je les cite ici, c'est pour rappeler à l'Académie qu'ils nous ont offert des pompes religieuses de personnages qui suivent, les uns dans des chars, les autres à pied ou à cheval, une voie sacrée, bordée de cyprès et de myrtes, arbres consacrés à Vénus, et symboles à la fois de vie et de mort. Ces pompes religieuses, je les rapporte aux mystères qui, en Étrurie, comme chez les Assyriens et les Phéniciens, se célébraient sous les auspices de la déesse ; et, sans qu'il soit nécessaire d'entrer ici dans de plus amples détails à ce sujet,* chacun comprendra facilement que, si l'initiation à ces mystères conduit à une nouvelle vie, à la vie spirituelle ou éternelle, les cyprès plantés au bord de la voie que suivent triomphalement les initiés sortis vainqueurs des épreuves et des combats mystiques dont se composait le rituel des sanctuaires, ces cyprès, dis-je, remplissent ici le même rôle que les cyprès figurés sur le bas-relief du musée Casuccini. Cette observation s'applique également, ce me semble, aux arbres de même espèce qui, sur les deux coupes d'argent doré, trouvées dans l'île de Chypre,* et sur les coupes de bronze découvertes par M. Layard dans les ruines d'un palais assyrien,* sont plantés au milieu de scènes où l'on voit des initiés livrer ces mêmes combats mystiques dont j'entends parler. Dès lors chacun aussi comprendra, sans plus de peine, que les plats de Cæré étaient convenablement placés dans un tombeau où l'on avait réuni plusieurs autres ustensiles ornés de scènes qui, par des symboles ou par des luttes mystiques, marquent les différents grades obtenus par l'initiée dont ce tombeau renfermait la dépouille mortelle.*
 
+*) _Monum. ined. a illustraz. della stor. degli antichi popoli italiani_ (Florence, 1844, 1 vol. in-8°, avec un atlas in-f°), pages 145, 146, pl. 24., n° 2.
+
+*) Ci-dessus, p. 254-257.
+
+*) On trouvera ces détails, comme appendice, dans mes _Recherches sur le culte public et les mystères de Mithra_.
+
+*) Ci-dessus, p. 64, p. 95.
+
+*) Ci-dessus, p. 256.
+
+*) Je me réserve de montrer ailleurs que ce tombeau est réellement celui d'une femme qui, dans les mystères de la Vénus étrusque, remplissait les fonctions de grande prêtresse. Je montrerai, en même temps, que les personnages qui figurent dans les pompes religieuses, représentées sur les deux plats déposés auprès de la dépouille mortelle de cette grande prêtresse, appartiennent également au sexe féminin. Ces diverses remarques paraissent avoir échappé à l'attention des archéologues qui ont écrit sur les objets d'antiquité trouvés dans la riche sépulture dont je parle.
+
 Le rapprochement que je viens de faire reçoit un nouveau degré d'intérêt d'une remarque qui n'avait pas échappé à l'attention de Micali. « C'est pour la première fois, dit-il,* que l'on rencontre sur un monument étrusque le costume dont est revêtu chacun des personnages qui, sur le fragment de bas-relief du musée Casuccini, conduisent des chars ; ce costume n'est ni grec ni étrusque. » Je ferai observer, à mon tour, que les personnages figurés sur les deux plats de Cæré portent aussi des vêtements qui n'appartiennent ni aux usages de la Grèce, ni à ceux de l'Étrurie. Comme le costume déclaré étranger à ces deux pays par Micali, ces vêtements me paraissent avoir une origine asiatique.
 
+*) _Loc. cit._
+
 Je ne mets pas en doute qu'un examen attentif des monuments recueillis sur le sol de l'antique Étrurie ne fournît de l'acception funèbre attribuée au cyprès des exemples plus nombreux que je n'ai pu le faire d'après les recueils ou les ouvrages publiés jusqu'à ce jour. Il ne m'a pas été donné de visiter les riches collections d'antiquités étrusques que possèdent la Toscane et les États Romains. Mais mon assertion repose à la fois sur des inductions que chacun peut tirer de l'influence exercée en Étrurie par les colonies venues de l'Asie occidentale, et sur le témoignage de Passéri,* qui, parlant du seul musée Bucelli, nous apprend qu'on y voyait beaucoup d'urnes cinéraires étrusques, ornées de cyprès.
+
+*) _Dissert. 3., apud_ Gor. _Mus. etrusc._ vol. 3., p. 177, 178.
 
 ### § 3\. --- Rome et empire romain.
 
 Chez les Romains, les traditions écrites* et les monuments figurés concourent à établir qu'aux funérailles des personnages d'un rang élevé, ou des guerriers morts pour la patrie,* on employait le cyprès, soit dans les rites, soit dans la décoration des sépultures.* Cette double coutume remontait à une époque fort ancienne, nous ne pouvons guère en douter. Sans se prévaloir des traditions qui, pour flatter l'orgueil du peuple et de ses souverains, assignaient aux fondateurs de Rome une origine troyenne, on doit remarquer, d'une part, que, dans le Latium, le culte du cyprès se liait intimement à celui du dieu national Silvain, comme je l'ai déjà dit,* et au culte de Pluton* et de Proserpine,* divinités toutes trois rangées parmi celles qui président aux enfers. J'ai dit aussi que, du temps de Pline le naturaliste, on conservait au Capitole* une ancienne statue* de Jupiter Véjove, faite avec du bois de cyprès. Or il résulte des témoignages réunis et comparés des auteurs latins,* que _Vejovis_ était assimilé à Jupiter Stygius, à Pluton, et, par conséquent, considéré comme une divinité infernale. D'autre part, Ovide fait une mention expresse de la coutume qu'avaient les Romains d'entourer d'arbres de cette espèce leurs autels funéraires.* Varron,* commentant l'usage de brûler des branches de cyprès autour des bûchers des grands, en parle comme d'un usage ancien, et non comme d'une coutume récente.* Pline,* Servius* et Festus* rapportent que, chez les Romains aussi, on plaçait des branches de même espèce devant la porte ou dans le vestibule de la maison où se trouvait le corps d'une personne décédée. Le premier de ces écrivains explique très-brièvement cette coutume en se bornant à dire que le cyprès est consacré à Pluton : _Diti sacra cupressus_. Le second nous apprend de plus que cet usage avait été institué, soit à l'imitation des Athéniens, qui, je l'ai déjà dit, couvraient de branches de cyprès les maisons mortuaires ; soit pour empêcher les prêtres de se souiller en entrant imprudemment dans une maison où reposait un mort ; soit enfin parce que le cyprès, une fois coupé, ne repousse plus. Festus s'en tient à cette dernière explication, ajoutant seulement ces paroles : « De même il n'y a plus rien à espérer d'un mort ; et c'est la raison pour laquelle on estime que le cyprès a été placé sous la protection de Pluton. » Enfin Claudien* atteste la coutume d'élever les tombeaux à l'ombre des cyprès.
+
+*) Ajoutez aux écrivains qui déjà ont été cités et à ceux qui le seront plus loin : Horace, 2., _Od._ 14., vers 21-24. Stace, 5., _Silvar._ 1., 135, 136. Silius Italicus, 10., 535, 536. Claudien, _De raptu Pros._ 2., 108. Cf. Gunther, _De jure Man._ 1., 19. Kirchmann, _De funer. roman._ 1., 14. Nicolas, _De luctu Græc._ 5. et 13. Aringhi, _Rom. subterran._ 6., 42. Sagittarius, _De januis_, 31. Wouweren, _ad_ Petron. _Satyr._ c. 120.
 
 S'il n'est parvenu jusqu'à nous aucune antiquité figurée qui puisse, chez les Romains, fournir, une exemple de l'acception funéraire du cyprès antérieurement au temps des empereurs, en revanche, la colonne trajane,* un grand nombre de sarcophages, d'urnes cinéraires, de lampes de terre cuite, comme aussi quelques plats ou vases d'argent, nous attestent qu'à Rome, et dans tout l'empire romain, l'usage de placer cet arbre sur les monuments et les ustensiles funéraires était très-répandu sous le règne des Antonins. Il se perpétua jusqu'aux dernières années du paganisme. Mon intention n'est pas d'entreprendre ici l'énumération de tous les objets d'antiquité figurée qui confirment ces deux assertions. Ils sont, en général, parfaitement connus des archéologues. Mais j'appellerai l'attention de l'Académie sur un sarcophage, sur un joli petit vase d'argent, inédit, sur deux plats de même métal, que je crois également inédits, et sur deux lampes de terre cuite, qui me paraissent mériter une mention particulière, bien que déjà elles aient été figurées dans plusieurs recueils.
 
