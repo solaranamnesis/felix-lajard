@@ -2826,13 +2826,71 @@ Le second monument mithriaque est un bas-relief à deux faces, qui fut découver
 
 *) _Zend-Avesta_, t. 2. (_Boun-déhesch_, § 15), p. 376, 377. Voy. sur le _Reivas_, Hamzah Isphâani ou d'Ispâhân, cité dans le _Modjmel-el-tewarikh_ (Anquetil, _Zend-Avesta_, t. 2., p. 352, note 1 ; p. 353, note 2). Cf. Hyde, _De relig. veter. Persar._ appendix, n° 9., p. 541 _sqq._
 
+*) Tertullien, _De corona_, 15., p. 3, C.
+
+*) Ci-dessus, p. 65-73.
+
+*) C'est ainsi qu'est qualifié Mithra dans le _Zend-Avesta_, t. 2. (_Iescht_ de Mithra, 10e, 12e, 20e et 21e cardé), p. 212, 213, 218, 219.
+
+*) Il n'est pas sans intérêt de remarquer que la haute montagne du Caucase qui conserve son ancien nom d'_Albordj_, sous la forme moderne _Elbrouz_, présente également un double sommet.
+
+*) Tom. 1., 2e partie, p. 28, 418 ; t. 2., p. 13, 99, 209, 212, 213, 228.
+
+*) Sur le grand bas-relief mithriaque du musée du Louvre (_Rech. sur Mithra_, atlas, pl. 75.), cette triade est représentée par trois pins au lieu de trois cyprès.
+
+*) Ci-dessus, p. 51-58 ; et pl. 5., n° 1.
+
+*) Ci-dessus, p. 55, 56 ; et pl. 14, n°s 1 et 2.
+
+*) Ci-dessus, p. 167-183 ; et pl. 10., n° 2 ; et pl. 11. _Recherch. sur Vénus_, pl. 14 F.
+
+*) Roi du ciel mobile (_Zend-Avesta_, t. 1., 2e partie, p. 28, 82, note 10 ; t. 2., p. 13, 99, 206, 207, 209, 212, 213, 216, 218-221, 225, 228-230, 418) ; roi de la terre ou des vivants (_ibid._ t. 2., p. 205, 206, 210, 214, 215, 222, 223), et roi des morts ou des enfers (_ibid._ t. 2., p. 15, 211, 212, 223, 230).
+
+*) Voy. _Mém. de l'Acad. des inscriptions_, nouv. série, t. 14., 2e partie, p. 174, 175.
+
 Un troisième et un quatrième bas-reliefs mithriaques, d'époque romaine, nous offrent de nouveaux exemples de l'emploi symbolique du cyprès ; et ces exemples méritent d'autant plus notre attention, qu'ici cet arbre est répété sept fois sur chacun de nos deux monuments, comme sur les médailles impériales citées d'Apollonia d'Illyrie,* comme sur une urne cinéraire étrusque* dont il sera question plus loin. L'un de ces deux bas-relief provient d'une découverte heureuse, faite, en 1838, à Neuenheim, près de Heidelberg. C'est à mon savant confrère et ami M. le Dr. Frédéric Creuzer, que les archéologues doivent la connaissance de ce monument et la belle dissertation dont il a été le sujet.* Toutefois j'exprimerai ici à l'illustre auteur de la _Symbolique_ le regret de n'avoir pas trouvé dans cette dissertation les observations que nous devait peut-être, sur le symbole du cyprès, son érudition si riche et si variée. Elles m'eussent été d'un grand secours pour mon travail ; et j'en suis privé probablement parce que M. Creuzer, s'arrêtant à la supposition que, chez les Perses, le _hôm_ et le cyprès étaient identiques,* aura, par là, été détourné de l'idée d'entreprendre des recherches de la nature de celles que je soumets au jugement de l'Académie. Je regrette aussi qu'il ne nous ait pas fait connaître les raisons qui le portent à identifier le cyprès avec le hôm.* On ne découvre, il faut bien le dire, rien qui, dans les textes ou sur les monuments figurés, puisse justifier son opinion. D'une part, les observations ou les renseignements recueillis sur les lieux, par Anquetil du Perron, nous montrent que, chez les Parses de l'Inde, le hôm est un arbrisseau et non un arbre, et qu'il est fort difficile d'en déterminer l'espèce. D'autre part, le hôm, tel qu'on le voit figuré, soit sur les bas-reliefs assyriens découverts à Khorsabad et à Nimroud, soit sur les cylindres et les cônes, de travail babylonien, assyrien, phénicien ou persépolitain, est également un arbrisseau, quelquefois même une simple plante fleurie, et toujours un végétal dont les formes conventionnelles varient beaucoup et ne sauraient être rapportées avec certitude à une espèce déterminée.
+
+*) Ci-dessus, p. 226-231 ; et pl. 8., n° 4.
+
+*) Pl. 13., n° 5.
+
+*) _Das Mithraeum von Neuenheim bei Heidelberg._ Heidelb. 1838, 94 pag. avec 2 pl. lithogr. La planche 92. de l'atlas de mes _Recherches sur Mithra_ reproduit le dessin que donne ici (pl. 1.) M. Creuzer du bas-relief de Neuenheim.
+
+*) Dissertation citée, p. 44 ; 85, note 76.
+
+*) M. de Hammer (_Mithriaca_, p. 42, 46) pense que le cyprès répond au _barsom_ du _Zend-Avesta_ ; mais il oublie que le _barsom_ n'est ni un arbre, ni une branche d'arbre : c'est un faisceau de rameaux cueillis sur des arbrisseaux dont la liturgie persique ne détermine ni ne limite l'espèce ; quelquefois même ces rameaux sont remplacés par un faisceau de tiges de cuivre ou de laiton. (Voy. Anquetil, _Zend-Avesta_, t. 1., 2e partie, p. 90, note 3 ; t. 2., p. 532.)
 
 Ainsi que je l'ai annoncé, on compte sept cyprès sur le bas-relief mithriaque de Neuenheim. Ils sont plantés, à côté l'un de l'autre, sur le sommet de la montagne céleste, l'Albordj ou le Gorotman, qui s'élève ici derrière la tête de Mithra et entre le buste du Soleil et celui de la Lune. Cette disposition, par rapport aux sept cyprès, mérite d'être rapprochée de celle que l'on observe sur quelques cylindres consacrés aux mystères de Mylitta ou aux mystères de Mithra. Ces cylindres nous offrent l'emblème de la triade divine, ou le _mihr_, symbole de Mylitta et de Mithra, placé auprès de l'astérisque du soleil, du croissant de la lune et de cinq ou de sept petits globes qui, de même que les sept cyprès, sur notre bas-relief et sur les autres monuments cités, représentent les planètes.* L'encadrement du bas-relief de Neuenheim, comme celui de la face antérieure du bas-relief de Heddernheim, est divisé en plusieurs compartiments où l'on retrouve un enfant qui naît de l'arbre Reivas, et trois groupes qui, si je ne me trompe, représentent les trois autres phases de la vie humaine.
 
+*) On en peut voir des exemples dans l'atlas de mes _Rech. sur Mithra_, pl. 16., n° 1 ; pl. 29., n° 5 ; pl. 30., n° 7 ; pl. 54 A, n° 5. Cf. pl. 29., n° 6 ; pl. 35., n° 9 ; pl. 54 A, n° 7.
+
 Le quatrième bas-relief, comme le cinquième, fut découvert, il y a quelques années, dans la Transylvanie, cette belle province de l'empire autrichien qui déjà nous a fourni plusieurs monuments importants pour l'histoire du culte de Mithra chez les Romains. Il provient des ruines d'_Apulum_ ; il est de marbre blanc, et se conserve à Carlsbourg, dans une des salles de l'Institut battyanien. Je dois à l'obligeance de feu Mme. la baronne Jósika et de feu l'abbé Henne le dessin que j'en ai publié dans mes _Recherches sur Mithra_.* Ce bas-relief présente plusieurs particularités dont il n'est pas nécessaire que j'entretienne ici l'Académie. J'ai seulement à faire remarquer qu'au-dessus de la grotte du dieu des Perses, c'est-à-dire au-dessus de la région terrestre, et, par conséquent, dans la région céleste, on a sculpté, entre le buste du Soleil et celui de la Lune, sept groupes composés chacun d'un poignard, d'un autel allumé, d'un bonnet phrygien et d'un cyprès. Si les sept arbres qu'avec l'abbé Henne,* M. de Köppen,* M. le baron de Hammer* et M. le professeur N. Müller,* je prends pour des cyprès, affectent une forme beaucoup moins élancée que ne l'est réellement la forme du cyprès, il faut remarquer que les figures qui ornent ce bas-relief sont elles-mêmes très-courtes et très-ramassées, comme il arrive maintes fois sur les monuments d'une époque de décadence. Ici, de même que sur plusieurs autres bas-reliefs mithriaques bien connus,* les sept autels allumés représentent les sept feux du ciel mobile ou les sept planètes ; les sept cyprès, remplacés par sept lauriers sur un bas-relief du musée Chiaramonti,* sont les images symboliques des sept intelligences divines, appelées _Amschaspands_ ou _Immortels_,* qui président aux sept planètes et aux sept cieux des planètes. C'est par les sept cieux et les sept planètes que doivent faire leur ascension les âmes tombées du ciel sur la terre et rendues à la liberté ou à la vie spirituelle après l'accomplissement des sept sacrifices que rappellent les sept poignards, et après la mort du corps. Peut-être est-il permis d'inférer de là que le nombre vingt-huit, qui résulte des quatre objets répétés ici sept fois chacun, fait allusion aux vingt-huit stations lunaires par lesquelles doivent également passer les âmes, et aux vingt-huit Izeds ou Génies qui président à chacune de ces stations. Rappelons-nous que Mithra, dont la place est marquée, dans le ciel mobile, entre la porte du soleil et la porte de la lune, est un des trois dieux dont se compose la triade suprême qui régit les sept Amschaspands et les vingt-huit Izeds. N'oublions pas surtout qu'il préside aux destinées humaines et, par conséquent, à chacune des phases de la descente et de l'ascension des âmes.
 
+*) Atlas, pl. 79., n° 1. --- Le dessin gravé sous ce numéro est, m'assure-t-on, plus exact que celui dont un célèbre orientaliste de Vienne a enrichi le recueil de planches qui accompagne ses _Mithriaca_ (pl. 11.).
+
+*) Notes manuscrites.
+
+*) _Wiener Jahrbücher der Literatur_, t. 24., Anzeige-Blatt, n° 24., p. 9 et 10. L'auteur décrit (_ibid._ p. 5 et 6) un autre bas-relief mithriaque, fort endommagé, où il croit apercevoir des traces d'autels et de cyprès. Je ne connais pas ce monument.
+
+*) _Mithriaca_, p. 46, 93, 182. --- J'aurai ailleurs l'occasion de montrer que le savant orientaliste de Vienne n'est pas fondé à reconnaître (_ibid._ p. 42, et 126, § 5) le palmier et le cyprès dans le _hôm_ et le _barsom_ du _Zend-Avesta_.
+
+*) _Annal. des Vereins für nassauisch. Alterthumsk. und Geschichtsf._ t. 2., 1re partie, p. 19, 20.
+
+*) J'en puis citer quatre : un, de terre cuite, qui se conservait autrefois à Rome, dans le palais Zéno (Lafréry, _Specul. roman. magnif. Mém. de l'Acad. des inscript._ nouv. série, t. 14., 2e partie, pl. 5. _Rech. sur Mithra_, atlas, pl. 89.) ; deux bas-reliefs de grès, découverts en Transylvanie (_Mém. de l'Académie des inscript. ubi supra_, pl. 1., n°s 1 et 2. _Recherches sur Mithra_, atlas, pl. 96., n°s 1 et 2) ; et enfin un bas-relief de marbre blanc, du musée Chiaramonti (_Recherches sur Mithra_, atlas, pl. 79., n° 2). --- La présence de sept autels ou pyrées sur ces quatre bas-reliefs et sur celui de l'Institut battyanien (_ibid._ n° 1) nous rappelle les sept pyrées que, selon Strabon (_Geogr._ 15., p. 15), on voyait, en Cappadoce, dans le temple d'Anaïs et Omanès. Ces divers témoignages suffisent, sans doute, pour confirmer un passage du _Ferhenghi-Djihanguiri_, dont on a contesté la véracité, et où il est dit qu'anciennement sept _atesch-gâh_ ou sept pyrées avaient été établis en Perse. M. le lieutenant-colonel Rawlinson, qui probablement n'avait pas consulté les cinq monuments mithriaques que je viens d'indiquer, a lui-même rejeté ce passage en parlant du pyrée de l'Aderbaïdjan, dans un mémoire sur la position d'Ecbatane, inséré, en 1840, dans le 10e vol. du Journal de la société royale de géographie de Londres (1re partie, p. 114 et suiv.).
+
+*) _Rech. sur Mithra_, atlas, pl. 79., n° 2.
+
+*) Remarquons que les sœurs de Phaëthon, filles du Soleil, appelées tantôt _Phaëthontides_ ou _Phaëthontiades_, tantôt _Héliades_, et comptées au nombre de trois, de cinq ou même de sept, furent changées en arbres. Leurs larmes, disent les mythographes, sont du succin ou de l'ambre jaune. Par là, nous sommes amenés à considérer comme altérées les traditions qui métamorphosent en aune ou en peuplier noir les sœurs de Phaëthon. Il est infiniment probable que, dans la légende primitive, les Phaëthontides étaient métamorphosées, comme les filles d'Étéocle (ci-dessus, p. 234, 235), en arbres verts et résineux, tels que des cyprès, des pins ou des lauriers.
+
 Le cinquième bas-relief mithriaque dont il me reste à parler est inédit, m'assure-t-on, et a été découvert, il y a peu d'années, dans des ruines romaines situées aux environs de Carlsbourg. La planche 15 jointe ici le reproduit d'après un dessin dont je suis également redevable à feu Mme. la baronne Jósika. L'original est fruste en plusieurs endroits, et partout d'un travail passablement barbare. Mais il rachète ces défauts par quelques particularités qui ne se sont pas encore rencontrées dans les monuments de cette catégorie. Au-dessus de la tête de Mithra immolant le taureau est sculpté un mufle de lion, vu de face et inscrit dans un disque,* emblème très-propre à caractériser le dieu des Perses, divinité solaire, assez souvent représentée avec une tête de lion sur les épaules, au lieu d'une tête humaine. Cet emblème nous ramène à la plaque de bronze du Musée royal de Berlin,* qui nous a offert une scène d'initiation dominée par un mufle de lion placé entre deux serpents qui s'élancent du centre de deux cyprès plantés, l'un au-dessous du buste du Soleil, l'autre au-dessous du buste de la Lune. Ici deux cyprès correspondent de même à deux bustes qui représentent ces astres personnifiés ; mais de leur sein ne naissent pas deux serpents ; et, ce qui ne se voit point sur les quatre autres bas-reliefs mithriaques, ces deux arbres sont plantés chacun derrière un des assesseurs de Mithra. On sait que ces deux assesseurs représentent l'équinoxe du printemps et l'équinoxe d'automne, époques de l'année où, sur la terre, se manifestent successivement les deux phénomènes qui caractérisent la vie et la reproduction, la germination ou la feuillaison et la fructification. Le cyprès, comme symbole de vie, est donc d'autant plus convenablement placé ici que, selon Caton, je le répète, la graine de cet arbre se sème au printemps. De plus, nous constatons que si, en Égypte, comme nous l'avons vu,* le même arbre, sur les monuments religieux, sert à caractériser le mois de _tôbi_, dans lequel tombe l'équinoxe vernal, il faut en conclure que les Égyptiens et les Perses avaient puisé à une même source leurs emblèmes astronomiques. Or cette source ne peut être cherchée ailleurs que chez les Chaldéens d'Assyrie, inventeurs des mystères institués avec le culte public d'une divinité qui fut successivement appelée Mithra* dans leurs sanctuaires, Mylitta et Anahid chez les Babyloniens et les Assyriens, Brathy ou Bérouth (cyprès), Astarté, Atergatis et Dercéto chez les Phéniciens, Athtor ou Othtor chez les Arabes, Hâthôr ou Hâthyr chez les Égyptiens, Mithra chez les Perses.
+
+*) Peut-être, au lieu d'un disque solaire ou lunaire, faut-il voir ici une ouverture circulaire pratiquée dans un rocher dont sortirait le lion. Cette interprétation que la grossièreté du travail rend aussi douteuse que la première, nous ramènerait, d'un côté, à la célèbre tradition qui fait naître Mithra d'un rocher (_ex petra natus_) ; et, de l'autre, au bas-relief de la villa Altiéri (_Recherch. sur Mithra_, atl. pl. 74.) et à un camée du Musée impérial de Vienne (_ibid._ pl. 101., n° 1), deux monuments où nous voyons le lion mithriaque, symbole igné, sortir d'un rocher, comme l'étincelle sort de la pierre.
+
+*) Pl. 7., n° 6.
+
+*) Ci-dessus, p. 183-190 ; et pl. 10., n°s 3, 4 et 5.
+
+*) J'espère en donner la preuve dans mon ouvrage sur le culte public et les mystères de cette divinité.
 
 On le voit donc, un accord parfait, quant à l'emploi symbolique du cyprès, se manifeste sur les monuments religieux de ces diverses nations et sur ceux des Grecs, des Étrusques et des Romains. De cet accord et de l'origine asiatique de cet arbre sacré résulte la preuve irrécusable qu'à des époques très-reculées il a existé entre les peuples de l'Asie, de l'Afrique et de l'Europe, des communications dont le foyer ou le point de départ est l'Asie antérieure, patrie primitive du cyprès pyramidal. Ce sont précisément ces communications sur lesquelles, dès mes premiers mémoires d'archéologie, je n'ai cessé d'appeler l'attention de l'Académie et celle des savants de tous les pays. La vie d'un homme est si courte, je le sens chaque jour, qu'il ne faut pas moins que le concours de tous les archéologues pour explorer avec succès un aussi vaste champ d'études. Mais, à chaque instant, pour ainsi dire, je m'applaudis d'avoir ouvert cette nouvelle voie aux investigations des amis de la science.
 
@@ -2840,27 +2898,107 @@ Chez les Romains, la série nombreuse des bas-reliefs consacrés à Mithra finit
 
 Les médailles contorniates, selon l'opinion de Morel et de Mahudel, généralement adoptée aujourd'hui, embrasseraient une période qui ne commence qu'avec le règne de Constantin et qui s'arrête à celui de Valentinien 3. Ce serait donc à cet intervalle de temps qu'il faudrait rapporter les pièces qui, dans la série des contorniates, nous offrent des exemples de l'emploi symbolique du cyprès. Je produis ici deux de ces pièces* ; elles appartiennent l'une et l'autre au riche médaillier de la Bibliothèque impériale. La première est à l'effigie de Vespasien ; et, bien que je n'aie pas la prétention de lui assigner pour date le règne même de ce prince, je ne puis me défendre de penser que le style de cette médaille permet de la faire remonter à une époque antérieure au règne de Constantin. Elle a pour type, au revers, un héros ou guerrier armé de sa lance et combattant à pied, secondé par son chien, un énorme sanglier, qui semble sortir d'un antre. Derrière ce groupe, s'élève un cyprès pyramidal. Si le héros est Méléagre, le cyprès ferait allusion à la mort de ce personnage, puisque sa victoire sur le sanglier de Calydon fut suivie de scènes violentes, qui, selon les poëtes ou les mythographes, causèrent la fin tragique du vainqueur, en excitant au plus haut degré un désir de vengeance dans le cœur d'Althée, sa propre mère. Cette hypothèse admise, le cyprès pourrait être considéré ici comme l'emblème de l'immortalité promise au héros grec pour prix de sa lutte victorieuse avec le sanglier, animal qui, là comme ailleurs, remplit sans doute un rôle symbolique. Dans le mémoire suivant, je reviendrai sur cette médaille contorniate à l'occasion de sujets analogues représentés en relief au fond de deux plats funéraires d'argent, que nous a pareillement légués l'antiquité romaine. Je ne dois pas omettre d'ajouter ici que le type gravé au revers de la tête de Vespasien se retrouve sur deux autres contorniates de la Bibliothèque impériale, l'une à l'effigie de Néron, l'autre offrant la tête d'Homère, entourée de la légende [GREEK]. Mais quel rapport a chacune de ces trois têtes avec un pareil type ? J'avoue bien humblement mon insuffisance à résoudre le problème. L'opinion commune est que les médailles contorniates n'appartiennent point au temps où vécurent les personnages dont elles portent l'effigie, et qu'elles ont pour type, à leur revers, des sujets qui n'offrent aucun rapport avec ces personnages. Par là on est amené à les considérer comme des jetons frappés pour des particuliers, et non comme des médailles ou des monnaies frappées par ordre de l'autorité publique. J'adopte sans réserve cette manière de voir ; et j'en reconnais de nouveau la justesse lorsque j'examine attentivement la seconde pièce dont j'ai à parler.
 
+*) Pl. 18., n°s 3 et 4. --- Elles sont de bronze, comme toutes les médailles contorniates.
+
 Bien que celle-ci ne paraisse point appartenir à la même série ni au même âge que les trois autres contorniates citées plus haut, il est impossible de ne pas reconnaître que, inférieure à celles-là sous tous les rapports, elle doit être classée parmi les jetons qui ne sont susceptibles d'aucune interprétation satisfaisante. Elle représente,* d'un côté, la tête d'un personnage inconnu, vu de profil, tourné à droite et accompagné de trois signes dont la valeur m'est également inconnue. Au revers s'élève un arbre grossièrement dessiné, mais qui me semble être de l'espèce du cyprès. A gauche de cet arbre, est gravée une légende composée de sept lettres dont il ne m'est pas donné de comprendre le sens.
+
+*) Pl. 18., n° 4.
 
 Le cyprès pyramidal, chez les Romains, n'était pas seulement consacré par la religion. On en tirait des médicaments. Les passages de Pline qui sont cités plus haut* nous le prouvent. Ce que j'ai dit, en même temps, des divers usages auxquels les médecins grecs faisaient servir le cyprès, et des rapports qui existaient, à cet égard, entre la thérapeutique et les idées religieuses qu'on attachait au symbole du cyprès, s'applique à l'art médical des Romains tout aussi bien qu'à l'art médical des Grecs, puisque l'un dérivait de l'autre.
 
+*) Ci-dessus, p. 248-250.
+
 Les belles proportions qu'atteint le cyprès dans les pays chauds, sa forme pyramidale, et le précieux avantage qu'il a de ne jamais perdre ses feuilles, l'avaient aussi fait rechercher pour l'ornement des parcs et des jardins.* Plusieurs passages de Caton, de Pline et de divers autres écrivains de l'antiquité* nous l'attestent, et nous apprennent, en même temps, combien était répandue et soignée, dans toute l'Italie, la culture de cet arbre exotique.* A ces témoignages écrits, on peut joindre celui qui résulte d'une fresque découverte à Herculanum.* Elle nous montre sept cyprès pyramidaux, rangés autour d'un bâtiment somptueux, orné de statues. Ce n'est, à ce qu'il paraît, ni un édifice religieux, ni un monument funéraire : il répond mieux à l'idée qu'exprime, chez les modernes, la dénomination de _villa_.* Mais l'architecture en est d'un goût fort médiocre.
+
+*) C'est peut-être parce que les Romains, à l'exemple des Grecs et des peuples de l'Asie occidentale, prisaient infiniment la beauté du cyprès, qu'Horace (_Ars poetic._ 19-21) emprunte à cet arbre l'opposition qui se fait remarquer dans les vers où il dit :  
+... ... et fortasse cupressum  
+Scis simulare : quid hoc, si fractis enatat exspes  
+Navibus ære dato qui pingitur ? ...  
+Toutefois les commentateurs ne sont pas d'accord entre eux sur le sens qu'il convient d'attacher à ces vers.
+
+*) Tous ces passages, je l'ai dit plus haut (p. 250, 251), ont été recueillis ou cités par les savants auteurs des Mémoires de l'Académie d'Herculanum, et par MM. Avellino et Carl Ritter. Je me bornerai à rapporter ici quelques détails curieux qui se trouvent dans Pline (_H. N._ 16., 60., 1). Cet auteur, après avoir dit qu'on fait des haies épaisses en coupant les cyprès et en les tondant, ajoute : « On fait aussi représenter au cyprès diverses figures, comme des chasses, des flottes, et d'autres tableaux auxquels se prêtent ses feuilles courtes, étroites et toujours vertes. » Un usage semblable a longtemps existé dans le midi de la France et ailleurs.
+
+*) Cette culture était même un objet très-lucratif de spéculation. Jadis, en Italie, une forêt de cyprès assurait au possesseur un revenu considérable. Aussi, dit Pline (_H. N._ 16., 60., 2), les anciens appelaient-ils ces sortes de plantations « la dot de leurs filles. » Les voyageurs modernes rapportent que, dans l'île de Crète, le cyprès reçoit une dénomination qui exprime la même idée.
+
+*) _Le pitture antich. d'Ercolano_, t. 5., p. 393 ; pl. 39., gravée en vignette à la p. 173.
+
+*) Les sept cyprès dont est ornée cette _villa_, rappellent les cyprès qui, au même nombre de sept, décorent le temple de Vénus à Apollonia d'Illyrie, le bas-relief du mithræum de Neuenheim, et une urne cinéraire dont il sera question plus loin. Cette coïncidence m'avait d'abord donné lieu de penser que l'édifice représenté dans la fresque citée d'Herculanum avait peut-être une destination religieuse. Un examen plus approfondi et la lecture des observations judicieuses des éditeurs de cette fresque m'ont conduit à adopter l'opinion exposée dans leur texte explicatif.
 
 ### § 4\. --- Ibérie et Lusitanie.
 
 L'importation du cyprès pyramidal en Afrique, en Grèce, en Italie, par les Phéniciens, et l'établissement de nombreuses colonies phéniciennes sur les côtes de la péninsule hispanique sont deux faits trop généralement connus pour qu'on puisse se défendre de quelque étonnement à la lecture des ouvrages qui traitent du culte de cet arbre symbolique : on n'y trouve aucune recherche sur les traces de ce culte dans l'Ibérie et la Lusitanie. Cet étonnement redouble peut-être, je le dis à regret, lorsque la même lacune se découvre dans le volume où M. le Dr. Movers* a recueilli avec tant de soin et d'érudition les témoignages historiques, numismatiques et géographiques qui se rapportent aux colonies fondées par les Phéniciens dans ces deux contrées, aux divinités dont ils y introduisirent le culte, et nommément à leur Vénus-Astarté.
 
+*) _Die Phönizier_, 2e partie, t. 2., ch. 12., p. 588-659.
+
 C'est en vain que j'avais moi-même entrepris des recherches pour découvrir dans la péninsule quelque œuvre de sculpture antique, qui pût fournir une preuve certaine du culte qu'on y rendait au cyprès pyramidal. Mes investigations, mes correspondances n'avaient eu qu'un résultat négatif, lorsque M. le duc de Luynes, qui poursuit avec tant de persévérance et de succès l'étude des médailles frappées dans les pays jadis occupés par les Phéniciens, appela mon attention sur quelques pièces ibériennes ou lusitaniennes publiées par Florez et par Sestini. J'ai tout lieu de m'applaudir de n'avoir pas négligé ce bienveillant avis, et de m'être par là trouvé conduit à consulter la collection de médailles d'Ibérie et de Lusitanie que possède la Bibliothèque impériale. Les recueils de Florez et de Sestini* m'ont offert, dans la numismatique du royaume de Valence,* la description et les dessins d'une monnaie autonome de la ville d'_Ostur_ ou _Otour_,* qui, de l'aveu de ces deux numismates, porte, au revers d'un sanglier, un grand cyprès pyramidal planté entre deux rameaux, dont ils ne déterminent pas l'espèce,* et que je soupçonne être des branches de myrte. Dans ces mêmes recueils, mon attention a aussi été attirée par quelques autres pièces, frappées, les unes à _Olunt_ ou _Olunk_, ville dont la position géographique n'est pas encore déterminée, les autres à _Anticaria_,* dans la Bétique, et à _Balsa_ en Lusitanie. Les premières* ont pour type, au revers d'une tête virile imberbe et inconnue, un arbre de forme conique ou pyramidale, que je prends pour un cyprès, et qui est désigné par Florez sous la dénomination de pomme de pin. Bien que je n'aie pas eu sous les yeux les médailles originales, je n'hésite pas à les ranger dans une même catégorie avec les médailles d'Ostur que j'ai pu examiner à la Bibliothèque impériale. Sur celles-ci,* le cyprès, gravé très en relief, est facilement reconnaissable ; on a peine à comprendre qu'Eckhel* et surtout Mionnet,* qui avait eu sous les yeux plusieurs de ces pièces, aient pu confondre cet arbre avec un gland de chêne. Parmi ces médailles, les unes sont conformes à la pièce décrite et figurée dans Florez, d'après Jacques de Bary* ; les autres, d'un plus petit module, portent, au droit, un grand cyprès pyramidal, sans aucun accessoire, mais avec la légende OSTVR, et au revers, sans accessoire aussi et sans légende, deux rameaux semblables à ceux qui, sur les premières, flanquent un cyprès pyramidal.
+
+*) J'avais négligé de consulter ces deux recueils, parce que le grand ouvrage d'Eckhel et le recueil de Mionnet n'indiquent la présence du cyprès sur aucune médaille de la péninsule hispanique.
+
+*) _Hispania tarraconensis._
+
+*) _Medallas de las colonias, municipios y pueblos antiguos de España_ (Madrid, 1758, in-4°), 3e partie, p. 113 ; pl. 65., n° 6.
+
+*) _Un cipres entre dos ramos_, dit Florez (_loc. cit._). Il a soin d'ajouter qu'il publie cette médaille d'après Jacques de Bary, et que le texte de cet auteur indique ici un épi de blé et non un cyprès. Le dessin joint à la description faite par Bary, observe-t-il, représente un cyprès et non un épi.
+
+*) Aujourd'hui _Antequera_. Sur les médailles, le nom ancien est écrit _Antikaria_.
+
+*) Florez, ouvrage cité, p. 510, pl. 35., n° 2. --- Mionnet n'indique aucune médaille de cette ville d'Olunt qui ait pour revers le type dont il s'agit.
+
+*) Pl. 20., n°s 3 et 4.
+
+*) _D. N._ t. 1., p. 54.
+
+*) _Descript. de méd._ t. 1., p. 47, 48, n°s 346 et 347.
+
+*) Voy. ci-dessus, p. 288, note 3.
 
 Les médailles d'Anticaria et celles de Balsa ont, pour revers, le même arbre que, sur les monnaies d'Olunt, comme ici, Florez et Sestini* prennent pour une pomme de pin et qui me paraît être un cyprès pyramidal. Sa forme large et ramassée nous rappelle les cyprès sculptés sur un des bas-reliefs mithriaques romains du musée de Carlsbourg que j'ai cités plus haut.* Sur les pièces qui appartiennent à la numismatique d'Anticaria, on voit, au revers d'une tête virile, imberbe et inconnue, le croissant de la lune et un astre gravés dans le haut de la médaille, à droite de l'arbre sacré. Autour de cet arbre, une légende en lettres liées nous offre le nom abrégé de la ville et le nom également abrégé d'un magistrat, qui s'appelait _Marcus Sempronius_.* Les médailles de Balsa* nous offrent, au droit, un épi de blé avec la légende BALSA, et, au revers, un cyprès planté dans le centre d'un grand croissant. Les dessins mêmes que l'on trouve d'une monnaie d'Olunt dans Florez, d'une pièce d'Anticaria et d'une pièce de Balsa dans Sestini, me justifient de prendre pour un arbre de cette espèce ce qu'ils désignent, ainsi que Mionnet,* sous le nom de pomme de pin ; car leurs prétendues pommes de pin auraient toutes un long pédoncule, tandis qu'en réalité ce fruit est presque sessile, comme le fruit du cyprès. De plus, on peut voir, au revers d'une jolie médaille autonome d'Irippo,* ville de la Bétique, désignée par Pline* sous le nom d'_Orippo_, une divinité féminine assise, tenant sur la main une pomme de pin dont la forme, les détails et surtout le très-court pédoncule rendent manifeste l'erreur commise par Florez, par Sestini et par Mionnet.
 
+*) _Descriz. delle medagl. ispane apparten. alla Lusitan. alla Betic. e alla Tarragon. che si conserv. nel mus. Hedervar_ (Florence, 1818, in-4°, fig.), p. 23.
+
+*) Ci dessus p. 278-281 ; _Rech. sur Mithra_, atlas, pl. 79., n° 1.
+
+*) Sestini, ouvrage cité, p. 23, n°s 1 et 2 ; pl. 1., n° 17. --- Le numismate italien décrit sous ces numéros deux pièces à peu près semblables, sur lesquelles on avait cru lire _municipium sempiternum_, au lieu de _Marcus Sempronius_, qu'il a raison de donner pour la véritable leçon. Il ajoute qu'à cette même ville d'Anticaria, on peut rapporter une médaille décrite et figurée, parmi les incertaines, dans le recueil de Pellerin (3., pl. 118, n° 16), et rangée également parmi les incertaines par Mionnet (_Descript. de méd._ 6., 641, n° 196). --- Cette pièce ne porte pas de légende. Elle a pour type, au revers, selon Pellerin, une pomme de pin, qui probablement est un cyprès. L'original ne se trouve pas à la Bibliothèque impériale.
+
+*) Sestini, ouvrage cité, p. 3, pl. 1., n° 2. --- Mionnet n'indique pas cette médaille ; mais, dans son _Supplément_ (t. 1., p. 3, n° 9), il en décrit une en ces termes, d'après un dessin qui lui avait été communiqué, et celle-ci me paraît très-analogue, sinon semblable à la pièce publiée par Sestini : « BALSA. Épi couché. ℞. Pomme de pin sur un croissant. Cabinet inconnu. BR. 4. »
+
+*) Voy. la note 5 de la page précédente.
+
+*) Florez, ouvrage cité, p. 474 ; pl. 30., n° 5. _Catalog. mus. Hederv._ 1., 3, n° 50 ; pl. 1., fig. 4. Sestini, ouvrage cité, p. 61, n° 1 ; cf. _ib._ n°s 2-5. Mionnet, _Descr. de méd._ 1., 50, n°s 402, 403 ; _Suppl._ 1., 113, n° 646.
+
+*) _H. N._ 3., 3., 7. --- Florez n'a pas tenu compte de la judicieuse restitution faite par le P. Hardouin dans le passage de Pline que j'indique ici, restitution qui a permis d'identifier Irippo et Orippo. S'il se montre disposé (_loc. cit._) à comprendre Irippo au nombre des cités de la Bétique, c'est par la seule raison qu'on a trouvé en Andalousie plusieurs exemplaires des médailles autonomes de cette ville. Eckhel et Mionnet l'ont rangée parmi les villes incertaines.
+
 Je donne ici,* d'après un exemplaire que possède la Bibliothèque impériale, un dessin exact de la médaille autonome d'Ostur, publiée par Florez, qui s'est borné à copier la mauvaise figure qu'on en trouve dans l'ouvrage de Bary. L'exemplaire de Paris, bien que fourré de plomb et mutilé, m'a permis, à l'aide des empreintes ou des dessins de deux autres exemplaires, de reproduire la pièce entière et avec le caractère qui lui est propre. Je donne également un dessin fidèle* de la médaille autonome d'Ostur, de plus petit module, dont j'ai parlé ci-dessus. Il s'en trouve, à la Bibliothèque impériale, trois autres exemplaires moins bien conservés, qui me semblent être d'un même coin. La variante que présentent le droit et le revers de cette pièce, comparée au grand module, n'a été connue ni de Florez, ni d'Eckhel, ni de Sestini.
+
+*) Pl. 20., n° 4.
+
+*) _Ibid._ n° 3. C'est le n° 347 de Mionnet (_Descript. de méd._ t. 1., p. 48.), inexactement décrit, ainsi que je l'ai dit plus haut.
 
 J'ajoute ici,* d'après le dessin publié par le dernier de ces trois numismates,* la médaille autonome citée d'Anticaria, dont un exemplaire unique se conservait autrefois dans le musée Hédervar. Je ne le retrouve ni dans le médaillier de la Bibliothèque impériale,* ni dans la collection de M. Rollin, et j'ignore quel en est le possesseur actuel. Je ne sais non plus ce qu'est devenue une médaille analogue, décrite aussi par Sestini.*
 
+*) Pl. 8., n° 11.
+
+*) Ouvrage cité, pl. 1., n° 17.
+
+*) Cette médaille n'a été ni connue d'Eckhel, ni décrite dans le recueil de Mionnet.
+
+*) _Loc. cit._ p. 23, n° 2.
+
 Enfin je reproduis,* également d'après le dessin qu'il en a donné, la médaille autonome de Balsa dont il a été question plus haut. Comme les deux précédentes, elle appartenait au musée Hédervar ; mais je n'ai pu découvrir en quelles mains elle est passée.
 
+*) Pl. 20., n° 2.
+
 Les témoignages qui résultent des médailles d'Ostur, d'Olunt, d'Anticaria et de Balsa suffisent, sans doute, pour confirmer notre présomption à l'égard de l'importation du symbole du cyprès pyramidal en Ibérie et en Lusitanie. Dès lors, ne nous est-il pas permis de croire que cette importation fut l'œuvre des Phéniciens, et qu'elle se rattachait particulièrement à l'introduction du culte de Baal et d'Astarté ? Le croissant et l'astérisque que nous montrent les médailles autonomes d'Anticaria, le grand croissant placé au pied du cyprès, sur celles de Balsa, semblent nous autoriser à supposer même que les Ibériens et les Lusitaniens avaient appris des Phéniciens à représenter, sous la forme symbolique du cyprès, la déesse Astarté, considérée comme une divinité luni-solaire ou simplement lunaire.* D'autre part, les médailles autonomes d'Ostur nous ramènent aux médailles asiatiques et au trône votif de la Déesse de Syrie, qui nous ont montré Vénus formant une triade avec le soleil et la lune. Là, en effet, nous avons trouvé tantôt un cyprès placé entre ces deux astres personnifiés,* ou entre un taureau et un lion,* emblèmes de la lune et du soleil ; tantôt un grand cyprès planté entre deux petits cyprès,* autre triade symbolique, bien plus analogue à celle que nous offre, au revers d'une des médailles d'Ostur,* le grand cyprès planté entre deux rameaux ou deux petits arbrisseaux.
+
+*) Remarquons qu'au revers de la médaille autonome d'Irippo, citée plus haut, on voit le croissant de la lune posé au bord du trône où est assise une divinité qu'il est bien difficile de ne pas prendre pour Vénus. D'une main, elle tient une pomme de pin ; de l'autre, une corne d'abondance. Or nous savons, non-seulement que le pin était un arbre consacré à Vénus en Orient et en Occident, mais que la pomme de pin joue un grand rôle dans les cérémonies religieuses qui, chez les Assyriens, se célébraient en l'honneur de Mylitta (voy. les bas-reliefs de Nimroud, publiés par M. A. H. Layard). Nous savons aussi combien sont nombreuses les médailles asiatiques qui représentent Astarté portant une corne d'abondance.
+
+*) Pl. 3., n° 1.
+
+*) Pl. 6., n°s 1 et 2 ; cf. _ibid._ n° 3.
+
+*) Pl. 5., n° 1.
+
+*) Pl. 20., n° 4.
 
 De nos jours, la culture du cyprès pyramidal se perpétue dans la péninsule hispanique, de même qu'en France et en Italie ; et cette culture, on le voit, s'étend, comme jadis, des côtes orientales de la Chine aux côtes occidentales du Portugal. 
 
@@ -2873,6 +3011,13 @@ De nos jours, la culture du cyprès pyramidal se perpétue dans la péninsule hi
 ### § 1er. --- Asie occidentale, Asie orientale, Arabie, Égypte et littoral de Carthage.
 
 Si, en Orient et en Occident, le cyprès pyramidal fut l'image symbolique et vivante des divinités génératrices et, en particulier, de Vénus, du Soleil et de la Lune; s'il fut l'emblème du feu créateur et de cette flamme qui, des autels dressés sur la terre, s'élance vers les cieux, comme l'âme qui aspire à rentrer dans le sein de l'Éternel ; si une antique prescription voulait que les objets les plus propres à exprimer les idées de création, de génération, de reproduction, ou de vie terrestre, servissent d'hiéroglyphes idéographiques pour inscrire sur les monuments funéraires le dogme de l'immortalité de l'âme et l'annonce d'une nouvelle vie, il ne faut pas s'étonner de trouver, chez tous les peuples civilisés de l'antiquité, le cyprès pyramidal placé auprès des divinités infernales, ou employé comme emblème funèbre. Un tel choix n'était-il pas justifié par les conditions d'existence propres à cet arbre ? Sa longévité,* la nature incorruptible de son bois,* son feuillage toujours vert, et cette circonstance qu'une fois coupé, le cyprès ne repousse pas,* tout ne contribuait-il pas à faire d'un tel arbre un emblème expressif de vie, de mort et d'immortalité ?
+
+*) ... perpetua nunquam moritura cupresso,  
+dit Martial (_Epigramm._ 6., 73., v. 7).
+
+*) Ci-dessus, p. 9, note 1. --- A l'occasion de deux statues de bois (_xoanon_) qu'il avait vues près de la colonne d'Œnomaüs, dans l'Altis, et qui représentaient, l'une, Praxidamas d'Égine, l'autre, Rhexibius d'Opus, les deux premiers athlètes qui furent vainqueurs aux jeux olympiques, Pausanias (6., 18., 5) remarque que la seconde, faite avec du bois de cyprès, avait beaucoup mieux résisté aux injures du temps que celle de Praxidamas, qui était de bois de figuier. --- Voyez les diverses autorités citées par Hirt, au sujet de la nature incorruptible du bois de cyprès, _Kunstbau_, t. 1., p. 374, 375.
+
+*) Cette observation, qui s'étend à tous les arbres verts, n'avait point échappé aux anciens. Voyez Pline (17., 39., 2), Servius (_ad_ Virgil. _Georg._ 1., 20 ; _Æneid._ 3., 64, 680, 681 ; 4., 507 ; 6., 216) et un mythographe latin anonyme (_Scriptor. rer. mythic. latini tres_, t. 1., fab. 6, § 28, p. 191, ed. Bode). Toutefois Théophraste avait été induit en erreur lorsqu'il dit (_Hist. plantar._ 4., 6.) que, dans l'île de Crète et nommément à Tarrha, le cyprès coupé repousse du tronc et même des racines.
 
 Un fragment d'Asclépiade, conservé par Piérius Valérianus,* nous apprend, comme je l'ai dit dans mon premier mémoire, que, chez les Grecs, une tradition voulait que le cyprès eût reçu sa signification funéraire et son nom, _cyparissus_, de _Cyparissa_, fille d'un roi des Celtes, nommé _Boreas_, qui, ayant eu le malheur de la perdre, avait planté sur son tombeau un arbre de cette espèce. Sans nous arrêter à un tel récit, remarquons que le témoignage le plus authentique qui nous soit parvenu sur l'emploi de cet arbre dans les anciens rites funéraires, résulte des renseignements recueillis par Virgile, lorsque, se disposant à écrire l'Énéide, il voulait s'y montrer aussi versé dans la connaissance des rites sacrés que le furent Homère, Hésiode, Pindare, Eschyle, Sophocle et tant d'autres poëtes de la Grèce. Déjà nous avons vu le chantre latin du fils d'Anchise et de Vénus mettre dans la bouche de son pieux héros des vers qui attestent que, chez les Troyens, le culte du cyprès remontait à une haute antiquité et s'associait au culte de la Mère des Dieux.* Plus loin,* il nous montre Énée, occupé, sur les côtes de la Thrace, à rendre les honneurs funèbres aux manes de l'infortuné Polydore, après avoir offert un sacrifice à Vénus, sa mère, et au tout-puissant Jupiter. Par son ordre, des autels funéraires se dressent ; on les couvre de branches de cyprès ; et des femmes troyennes les entourent, les cheveux épars, selon une coutume nationale :
 
@@ -2893,11 +3038,45 @@ Funerea ... ...
 
 n'entend-il pas désigner ici, par cette expression,* comme ailleurs,* par les mots _frondibus atris_, les branches de l'arbre qu'il appelle ailleurs aussi* _atra cupressus_ ? A l'appui de ma conjecture, je ne dois pas omettre de dire, d'après un renseignement qui m'est communiqué par un voyageur digne de foi, qu'on a récemment trouvé, dans un cimetière phénicien ou punique, situé près du vieil Arzeu, à une journée à l'est d'Oran, deux cents pierres tumulaires environ, parmi lesquelles plusieurs portent une figure d'homme ou de femme placée sous un portique flanqué de deux cyprès.
 
+*) _Hieroglyphica_, lib. 2., cap. 4. --- Je transcris ici en entier le passage de Piérius : « Aiunt enim (Græci), Asclepiadis authoris gravissimi testimonio, Boream, Celtarum regem, cum filiam Cyparissam nomine amisisset, arborem hanc in ejus tumulo sevisse, a qua inde nomen inditum cyparisso : mox a satu illo luctuosam feralemque haberi cœptam. » Ce fragment d'Asclépiade a été reproduit par Werfer dans le tome 2 des _Acta philolog. monacensium_. C'est par erreur que Needham, premier éditeur des _Geoponica_, dit que le P. Rapin a fait entrer dans le deuxième chant de son poëme sur les jardins la fable de Cyparisse, fille d'un roi des Celtes. Le P. Rapin n'est coupable que de la témérité d'avoir, après Ovide, essayé de mettre en vers latins la métamorphose de Cyparisse (voy. _Hortorum lib. 4., et cultura hortensis_, 2., v. 395-419, ed. Brotier ; Paris, 1780). Il est fâcheux que le second éditeur des _Geoponica_, Nicolas Niclas, ait reproduit la note de Needham sans relever la méprise que j'indique.
+
+*) Ci-dessus, p. 80, 81.
+
+*) _Æneid._ 3., 61-67.
+
+*) _Æneid._ 6., 211-217. Cf. Servius, _ad_ Virgil. _Æneid._ 6., 215, 216.
+
+*) Ci-dessus, p. 88-91.
+
+*) Ci-dessus, p. 19 et suiv.
+
+*) _Æneid._ 4., 503-507.
+
+*) Stace (_Thebaid._ lib. 4., v. 460, 461), dans une imitation du passage de Virgile, est plus explicite, car il dit :  
+... frondes, atque omne cupressus  
+Intexit plorata latus ...
+
+*) Ci-dessus, p. 295.
+
+*) _Ibid._ Sur cette épithète d'_atra_, appliquée au cyprès, on peut consulter Servius (_ad_ Virgil. _Æneid._ 3., 64 ; 6., 215). Ce commentateur l'explique en rappelant que les dieux Lares sont qualifiés _atrati_, et que les feuillages noirs conviennent aux cérémonies funéraires.
+
 Les monuments de l'art qui se sont conservés en Égypte attestent que, dans cette partie si célèbre de l'Afrique, les Assyriens ou les Phéniciens avaient porté avec le culte de la Vénus de Babylone et de Ninive, appelée _Hâthôr_ ou _Athyr_ par les Égyptiens, l'usage d'employer le cyprès pyramidal comme un emblème funéraire. Cet arbre étranger au sol de l'Égypte et qu'à Dendérah, néanmoins, nous avons reconnu* au milieu d'une scène d'adoration, sur les murs du temple de Vénus-Hâthôr ; cet arbre que nous avons vu placé, avec la signification de symbole de vie, sur deux stèles consacrées à la même déesse* et sur des bas-reliefs où il sert à caractériser _Ammon générateur_ et _tôbi_, le premier mois de l'équinoxe du printemps* ; cet arbre, nous le trouvons figuré, non-seulement sur des papyrus funéraires, mais sur un grand nombre de caisses de momies égyptiennes,* où sont peintes des scènes psychologiques, auxquelles préside la déesse elle-même, tantôt sous un nom, tantôt sous un autre.
+
+*) Ci-dessus, p. 164-166.
+
+*) Ci-dessus, p. 167-183, et pl. 11. ; _Rech. sur Vénus_, pl. 14.
+
+*) Ci-dessus, p. 183-190 ; pl. 10., n°s 3-5.
+
+*) On en peut voir quelques-unes au Musée du Louvre et au cabinet des médailles et antiques de la Bibliothèque impériale.
 
 De plus, les beaux dessins rapportés de Karnac, par M. E. Prisse, fournissent la preuve, bien que ce voyageur n'en ait pas fait la remarque, que, dans l'ancienne Égypte, le cyprès pyramidal, comme symbole funèbre, n'était pas seulement placé sur les caisses de momies. Un arbre de cette espèce est planté, entre deux figures humaines, au milieu de la partie supérieure d'un bas-relief dessiné par M. E. Prisse dans l'édifice de Tahraka, situé à l'extérieur du mur d'enceinte du palais de Karnac, près de la salle hypostyle.* Or le voyageur français, après avoir examiné avec attention l'ensemble et les détails de l'édifice de Tahraka, n'hésite pas à déclarer que cet édifice était consacré à des rites funéraires.
 
+*) _Monum. de l'Égypte_, p. 7, et pl. 23.
+
 Le rôle qu'en Égypte remplissait la déesse Hâthôr, comme reine à la fois des vivants et des morts, est conforme à celui que remplissaient Mylitta, chez les Assyriens ; Astarté, chez les Phéniciens ; Aphrodite, chez les Grecs ; Vénus, chez les Romains ; Mithra, chez les Perses. Ce sont autant de divinités médiatrices et psychopompes, qui régnent dans le ciel, sur la terre et dans le royaume des morts.*
+
+*) Voyez mes _Recherches sur Vénus_, p. 97-100.
 
 Si les divers témoignages que j'ai produits nous ont permis de remonter au berceau primitif du culte du cyprès pyramidal, et si nous remarquons, avec tous les voyageurs, que les peuples musulmans de la Perse et de la Turquie d'Asie emploient cet arbre comme emblème funéraire, il devient impossible, ce me semble, de ne pas admettre que, lorsque les Arabes, d'un côté, les Turcs, de l'autre, envahirent ces contrées, ils durent y trouver cet usage établi de temps immémorial. Ils l'adoptèrent ; et personne n'ignore que, depuis bien des siècles, sans interruption et malgré tout le zèle, toute la persévérance que mirent les khalifes à abolir partout le culte du cyprès, image vivante de quelque antique divinité, les musulmans, sur toute l'étendue de la Turquie d'Asie, comme sur toute l'étendue de la Turquie d'Europe, plantent habituellement des cyprès pyramidaux dans les _champs des morts_, c'est-à-dire dans leurs cimetières. Là, souvent un arbre de cette espèce est sculpté au revers d'une sorte de stèle* dressée à l'une des extrémités de la tombe qui renferme le corps du défunt, ou de la pierre tumulaire qui le recouvre. Fréquemment aussi l'on voit des branches de cyprès, et même des cyprès entiers sculptés sur les pierres tumulaires qui marquent des sépultures de femmes musulmanes.
 
