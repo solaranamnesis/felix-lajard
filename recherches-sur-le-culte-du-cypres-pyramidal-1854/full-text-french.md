@@ -3536,33 +3536,171 @@ FILIO • ET • NEPOTIBVS •
 
 Un autre monument funéraire, quoiqu'il ait été rapporté de Smyrne et qu'on y lise une inscription grecque, doit trouver place ici parmi ceux qui appartiennent à l'époque romaine. C'est un sarcophage dont Patin* a publié la description et un dessin. Il renfermait la dépouille mortelle d'un jeune personnage nommé dans l'épitaphe* _Lucius Murdius Héraclas_, et resté inconnu dans l'histoire. Un bas-relief, qui décore la face antérieure du sarcophage, nous montre Héraclas monté sur un cheval. Suivi d'un serviteur et d'un chien, il s'avance pour faire une libation sur un autel allumé ; à côté de cet autel, un serpent s'enroule autour du tronc d'un cyprès pyramidal.* Pouvait-on exprimer par un emblème plus significatif la double idée de vie et d'immortalité ? et cette double idée ne semble-t-elle pas en harmonie avec la qualification de _héros_ qui, dans l'épitaphe d'Héraclas, comme dans toutes les inscriptions funéraires, se traduit par _défunt_, mais qui implique l'idée de l'apothéose, ou, tout au moins, de l'immortalité ?
 
+*) _Thesaur. Polenian._ t. 2. (_Comment. in tres inscript. græc._), col. 1071-1082 ; pl. pour la pag. 1071-1072.
+
+*) Voici comment cette épitaphe a été copiée :  
+[GREEK]  
+[GREEK]  
+[GREEK]
+
+*) Sur la face antérieure du grand bas-relief trouvé dans un mithræum, à Heddernheim (_Recherches sur Mithra_, atlas, pl. 90.), l'idée de vie et de printemps est exprimée par un serpent qui s'enroule autour d'un arbre couvert de fleurs, et planté auprès du groupe de Mithra immolant un taureau.
+
 Une stèle funéraire, publiée par Passéri,* exprime probablement la même pensée, à l'aide d'un procédé différent. On y voit, placé entre deux cyprès pyramidaux, un aigle, symbole du feu céleste, gardien de la foudre et signe caractéristique de l'apothéose, dont les honneurs se décernaient aux héros, comme aux initiés parvenus à l'un des grades supérieurs des mystères de Mylitta et des mystères de Mithra.*
+
+*) _Lucern. fictil._ t. 3., tab. 60.
+
+*) Dans mes _Recherches sur Mithra_, je m'expliquerai à cet égard avec tous les détails convenables.
 
 Non moins variés dans leur composition que les bas-reliefs qui ornent les sarcophages, les stèles et les vases funéraires, les sujets modelés sur les lampes de terre cuite, trouvées dans des tombeaux romains, nous offrent, à leur tour, de nombreux exemples de l'acception funèbre du cyprès. Je n'en citerai que quelques-uns. Les deux premiers me sont fournis par deux lampes que Bellori,* au commencement du siècle dernier, avait publiées d'après des dessins inexacts de Sante Bartoli. Elles ont été apportées d'Italie et mises en vente à Paris, il y a peu d'années. M. Muret, qui les a eues entre les mains,* n'a pas laissé échapper cette occasion de les dessiner ; et j'ai pensé que les archéologues me sauraient gré de placer sous leurs yeux une planche qui reproduit ces deux lampes* d'après un aussi habile dessinateur. La première* représente un autel ou une urne cinéraire qu'ombragent, en inclinant leur sommet pyramidal, deux cyprès plantés, l'un, à droite, l'autre, à gauche. Derrière chacun de ces deux arbres, on voit, placé sur un piédestal carré, un jeune homme imberbe, la tête, les bras, la moitié inférieure des cuisses, les jambes et les pieds nus, le reste du corps vêtu d'une double tunique courte et d'une chlamyde flottante. D'une main, il porte un vase ansé* ; de l'autre, une corne de taureau,* qu'il incline au-dessus de sa tête comme pour faire une de ces aspersions d'eau, de lait et de sang, prescrites dans les sacrifices offerts en faveur des morts aux divinités infernales.* La face antérieure de l'autel ou de l'urne que caractérisent les deux cyprès, est ornée d'un bucrane et de deux guirlandes de fruits ; tous objets dont nous avons, dans une autre occasion,* reconnu l'acception funéraire.
 
+*) _Le antich. lucern. figur._ (Rom. 1729, in-f°.), parte 1., p. 6-8 ; tav. 11., tav. 13.
+
+*) J'ignore qui les a acquises.
+
+*) Pl. 19., n°s 1 et 2.
+
+*) Elle appartenait autrefois à Bellori.
+
+*) Les deux vases ansés ou les deux seaux sont plus nettement modelés sur une autre lampe du recueil de Bellori (3e part. pl. 2.), qui représente un sujet analogue.
+
+*) Sur la face postérieure du grand bas-relief mithriaque de Heddernheim, déjà cité, on voit un prêtre et une prêtresse qui offrent un sacrifice à Mithra. Le prêtre porte, de la main gauche, une corne de taureau, destinée à recevoir le jus du raisin que la prêtresse tient dans ses mains. (Voy. mes _Recherches sur Mithra_, atlas, pl. 91.)
+
+*) Bellori (ouvrage cité, p. 7) rapporte fort à propos le passsage où Virgile (_Æneid._ 5., v. 77, 78), parlant des rites accomplis par Énée au tombeau d'Anchise, dit :  
+Hic duo rite mero libans carchesia Baccho  
+Fundit humi, duo lacte novo, duo sanguine sacro.  
+On retrouve, sur d'autres lampes funéraires, dans le même recueil de Bellori (1re partie, pl. 14. ; 3e partie, pl. 2.), mais sans les deux cyprès, des exemples de l'accomplissement des rites dont il s'agit. Une de ces lampes (1re part. pl. 14.) fournit même un témoignage plus décisif que la lampe ici figurée ; car on y voit distinctement le liquide contenu dans chaque corne de taureau tomber sur les flammes d'un autel funéraire.
+
+*) _Mém. de l'Acad. des inscrip._ nouv. sér. t. 15., 2e partie, p. 124-126.
+
 La composition du sujet qui décore la seconde lampe ici figurée* est beaucoup plus simple. C'est une urne cinéraire, d'une forme particulière, posée entre deux cyprès pyramidaux, qui inclinent aussi leur sommet vers ce petit monument, comme s'ils voulaient rendre hommage aux cendres qu'il renferme, ou montrer qu'elles sont placées sous leur protection. Au milieu de l'urne, on remarque une espèce de cartouche carré, qui probablement indique la place où devait se lire une inscription en l'honneur du défunt.*
+
+*) Pl. 19., n° 2. L'original se trouvait autrefois dans la collection de Sante Bartoli.
+
+*) « Nel mezzo dell' urna, dit Bellori (_loc. cit._ p. 7), si vede il contrasegno del titolo sepolcrale solito à gli Dei Mani, ed alla memoria del defonto. »
 
 Une troisième lampe de terre cuite, analogue à la précédente, se trouve à Paris dans le cabinet de M. le général baron Brunet-Denon. Elle représente un monument funéraire érigé entre deux cyprès pyramidaux. La forme de ce monument est celle d'un sacellum distyle, d'ordre ionique, surmonté d'un fronton triangulaire. Une couronne, d'où pendent deux bandelettes, occupe le milieu du tympan.* Les deux battants de la porte sont entr'ouverts ; à chaque battant est attaché un gros anneau.
 
+*) Voyez, sur l'acception funéraire de la couronne, ci-dessus, p. 303, et note 3.
+
 Sur quelques autres lampes de cette même catégorie, les deux cyprès sont plantés précisément à l'entrée d'un monument funèbre,* ou aux deux côtés d'un autel funéraire, au-dessus duquel est placé un _simpulum_.*
+
+*) Passéri, _Lucern. fictil._ t. 3., tab. 44.
+
+*) _Id. ibid._ tab. 48.
 
 S'il était permis de croire que les médailles contorniates ont eu quelquefois une destination funéraire, la série des monuments romains qui nous offrent le cyprès comme un emblème funèbre devrait se clore par celles de ces médailles où cet arbre remplit le même rôle. Dans cette hypothèse, j'aurais à rappeler ici les trois pièces qui, au revers de la tête d'Homère, de Néron ou de Vespasien,* nous ont montré, devant un cyprès pyramidal, un personnage à pied, armé d'une lance et attaquant, ainsi que son chien, un énorme sanglier réfugié dans un antre. J'aurais aussi à rapprocher ce sujet du médaillon qui, placé au centre de l'un des deux plats funéraires dont j'ai eu l'honneur d'entretenir l'Académie,* représente un cavalier attaquant de même un sanglier formidable. Je devrais enfin répéter que la couronne présentée à ce cavalier par la déesse de la Victoire* ne nous a pas permis, non plus que le sujet funèbre figuré sur le rebord du plat, de considérer le médaillon central comme la représentation d'un simple épisode de chasse, ou d'un danger couru par un voyageur. Dès lors la présence du cyprès au revers de nos trois contorniates ne semblerait pas nous permettre davantage d'attacher au type de ce revers un sens pris dans un ordre d'idées aussi vulgaires. Soit donc qu'un tel type reproduise un fait mythologique, Méléagre, par exemple, combattant le terrible sanglier de Calydon ; sort que le combat ne se rattache nullement à cette légende, et doive être assimilé aux luttes mystiques que nous trouvons sur nos deux plats funéraires et sur une multitude d'urnes cinéraires et de sarcophages, il devient presque certain que le cyprès présente une signification funèbre au revers des trois médailles contorniates de la Bibliothèque impériale.
 
+*) Ci-dessus, p. 283-285 ; pl. 18., n° 3.
+
+*) Ci-dessus, p. 333, 334 ; pl. 16., n°s 1-6.
+
+*) Pl. 16., n° 5.
+
 Ne nous hâtons pas toutefois de conclure de cette remarque et des divers monuments cités ou décrits plus haut, que, de tout temps, les Romains connurent les raisons qui, chez les peuples de l'Asie occidentale, avaient fait ranger le cyprès au nombre des emblèmes employés dans les rites funèbres. Sous le règne des empereurs, beaucoup de traditions religieuses s'étaient perdues à Rome, comme ailleurs, bien que les coutumes propres à une très-ancienne liturgie se fussent perpétuées, d'âge en âge, sans interruption. Quelquefois les traditions étaient encore vivantes au fond des sanctuaires, ou déposées dans des livres sacrés, dont les prêtres avaient seuls la possession. Si Virgile s'exprime en termes qui nous donnent lieu de croire qu'il avait emprunté à ces deux sources ce qu'il nous dit du cyprès, comme symbole de l'antique divinité génératrice des Phrygiens et comme emblème funéraire, Servius,* son commentateur, et les deux mythographes latins* cités ci-dessus ne font pas preuve d'un grand savoir quand ils rapportent qu'on attribue le cyprès à Silvain, dieu infernal, parce que cet arbre, à cause de la faiblesse de ses racines, convient aux rites funèbres. De son côté, Varron, réputé le plus docte des Romains, ne justifie pas à nos yeux cette réputation lorsque, cherchant à expliquer pourquoi on entoure de cyprès les bûchers où l'on brûle le corps des personnages d'une haute distinction, il met en avant, au lieu d'une raison tirée des croyances et des usages religieux, une supposition d'un ordre physique, qui assurément ne peut satisfaire aucun bon esprit : « On entoure ainsi de cyprès les bûchers, dit-il, afin que l'odeur forte qu'exhalent les corps en combustion n'incommode pas les assistants.* » Servius et Festus, nous l'avons vu,* semblent se contenter de cette explication. Saint Isidore* la reproduit sans nommer Varron. Faut-il croire que la religion défendait à ce dernier écrivain et aux deux autres de divulguer les motifs qui, dans les sanctuaires, avaient fait attribuer au cyprès une acception funèbre ? Je laisse à de plus habiles que moi le soin de résoudre cette question.
+
+*) _Ad_ Virgil. _Georgic._ 1., 20.
+
+*) _Scriptor. rer. mythic. latini tres_, t. 1., fab. 6, p. 2 ; fab. 178, p. 135.
+
+*) « Pyras ideo cupresso circumdari, propter gravem ustrinæ odorem, ne offendatur populi circumstantis corona. » Varron, _apud_ Servium _ad_ Virgil. _Æneid._ 6., 216. Cf. Isidor. Hispalens. _Origines_, 17., 7., n° 34.
+
+*) Ci-dessus, p. 326, 327.
+
+*) _Loc. cit._
 
 ### § 4\. --- Europe chrétienne.
 
 L'ignorance du vulgaire sur le sens intime du symbole, soit qu'on figurât des cyprès sur les sarcophages, sur les pierres tumulaires et sur les lampes sépulcrales, soit qu'on en plantât autour des tombeaux, n'empêcha pas ces coutumes de se répandre dans tout l'empire romain. Les chrétiens, succédant aux païens en Asie, en Europe, en Afrique, et trouvant partout ces coutumes établies, ne purent se défendre d'adopter un emblème funéraire consacré par tant de peuples, par tant de siècles.* Peut-être même, se rappelant que, par l'ordre du Seigneur, Noé avait construit l'arche avec du bois de cyprès, et que les cyprès du Liban avaient servi à réédifier le temple de Jérusalem, les premiers chrétiens furent-ils tout naturellement portés à considérer cet arbre comme un des symboles légitimés par le texte de l'Ancien Testament et légués aux disciples de la nouvelle loi. Déjà, dans la Grèce du moyen âge, j'ai eu à signaler des pierres tumulaires qui attestent une alliance intime entre la croix de Jésus-Christ et l'emblème du cyprès pyramidal* ; alliance qu'au 7e siècle nous avions trouvée établie chez un peuple du Caucase converti au christianisme.* En Italie, les chrétiens des premiers siècles ont laissé, parmi une multitude de monuments funéraires, plusieurs pierres,* plusieurs lampes ornées de sujets où cet arbre figure comme emblème funèbre. Je n'appellerai l'attention de la Compagnie que sur deux lampes de terre cuite. La première peut remonter au 3e siècle de notre ère, ou au commencement du 4e ; elle est inédite, et fut apportée de Rome à Paris, il y a peu d'années, pour y être vendue.* Je n'ai pas vu l'original ; mais M. Muret, qui l'a eu entre les mains et qui possède si bien le sentiment de l'art antique, m'en garantit l'authenticité.
 
+*) N'oublions pas qu'en Orient et en Occident le culte des arbres, bien que d'institution païenne, bien que prohibé par nos livres saints (_Deuteron._ 12., 2, 3 ; 16., 21), se conserva longtemps parmi quelques chrétiens, comme il s'était conservé dans quelques tribus israélites. Il se perpétua même fort tard en Europe ; et, entre autres preuves qu'il serait facile d'en donner, je citerai celle que fournissent les statuts d'un synode tenu à Trèves, sous la présidence de l'archevêque et postérieurement à l'année 1274 : on y trouve la défense expresse d'adorer les fontaines, les arbres, etc. (Voy. Martène, _Amplissim. Collect._ t. 7., col. 107 ; col. 113, § 53.)
+
+*) Ci-dessus, p. 313-315.
+
+*) Ci-dessus, p. 77-79.
+
+*) Voy. Aringhi, _Roma subterran._ 6., 42. Mamachi, _Origin. et antiquit. christianar._ lib. 20. (Rom. 1749-1755), t. 1., p. 408, cul-de-lampe.
+
+*) J'ignore en quelles mains elle se trouve, actuellement.
+
 Au centre de cette lampe,* Jésus-Christ debout, vu de face et figuré avec les attributs du Bon Pasteur, est entouré de sept fidèles, représentés sous l'emblème de sept brebis, qui, par leur attitude, témoignent leur joie de son retour ; il a retrouvé et il rapporte sur ses épaules la brebis égarée, image du pécheur qui a quitté la bonne voie. Au-dessus du Bon Pasteur, dans la région céleste, la Vierge,* reine du ciel, s'avance sur un nuage, la tête ceinte d'un diadème, et montre du doigt, sur la tête de son divin fils, une couronne formée de sept étoiles,* qui répondent aux sept branches du chandelier du Temple,* aux sept dons du Saint-Esprit, aux sept sacrements, aux sept principales vertus,* et enfin aux sept sceaux, aux sept esprits, aux sept anges et aux sept églises de l'Apocalypse.* Dans le champ de la lampe, à la hauteur des mains de Jésus-Christ, on remarque, à sa droite, et posée sur l'arche de Noé, la blanche colombe, symbole de lumière. Lâchée par Noé, pour la seconde fois, après un intervalle de sept jours,* elle est revenue dans l'arche. Messagère fidèle, et tenant dans son bec un rameau d'olivier, elle rapporte ainsi le gage de la réconciliation entre Dieu et son peuple, et la preuve manifeste du retour de la verdure, ou d'une nouvelle vie sur la terre, après le retrait des eaux du déluge, ce grand baptême qui régénéra le genre humain tombé dans la corruption et le péché, bien des siècles avant la venue du divin Rédempteur. A gauche, nous voyons l'oiseau au noir plumage, le corbeau, symbole des ténèbres.* Il ne rentra pas dans l'arche, bien qu'il en fût sorti le premier* ; et nous le trouvons ici dans le giron de la nuit, représentée par le buste d'une femme vue de face, la tête surmontée du croissant de la lune et d'un voile que, de ses deux mains, elle tient au-dessus du croissant, pour achever d'indiquer les ténèbres.* Au-dessous de ce groupe si caractéristique, on en distingue un autre non moins expressif et parfaitement en rapport avec l'idée de la nuit, c'est le corps de Jonas ou d'un juste, qui s'est endormi du sommeil de la mort au pied d'un cyprès pyramidal, emblème tout à la fois de vie, de mort et d'immortalité ou d'éternité. Un cep de vigne, chargé de pampres et de trois grappes pendantes de raisin,* s'élève au-dessus de ce corps gisant, le protége, et fait une allusion directe au vin, qui, dans la célébration de nos saints mystères, représente le sang de Jésus-Christ, répandu sur la croix pour notre rédemption. En regard de ce groupe, c'est-à-dire à la droite du Bon Pasteur, Jonas sort, plein de vie, du ventre d'une baleine, après y avoir passé trois jours et trois nuits,* de même que Jésus-Christ, le troisième jour, est sorti vivant du tombeau. Cet emblème, fréquent sur les lampes funéraires chrétiennes, exprime donc l'idée de la résurrection.* Ainsi, en même temps qu'au centre d'une lampe, symbole de lumière, le divin Sauveur se montre sous la figure du Bon Pasteur, à sa gauche sont exprimées les idées de nuit, de ténèbres, de mort et de rédemption ; à sa droite, les idées de lumière, de baptême et de résurrection. Que les personnes qui s'obstineraient à croire l'art chrétien dépourvu d'invention et de poésie, daignent prendre la peine d'étudier avec nous la composition de la grande scène représentée sur cette lampe, et que, la main sur la conscience, elles nous disent si un tableau aussi habilement tracé ne satisfait pas tout à la fois nos croyances et notre imagination !
+
+*) Voy. le n° 1 de la pl. 20. ci-jointe.
+
+*) Et non le Soleil personnifié.
+
+*) « Et habebat in dextera sua stellas septem. » (_Apocalyps._ 1., 16. Cf. _ibid._ 1., 20 ; 2., 1 ; 3., 1.)
+
+*) _Exod._ 25., 37 ; 37., 23. _Num._ 8., 2. Il n'est pas rare de trouver ce chandelier représenté sur des lampes chrétiennes (voy. Bellori, ouvrage cité, 3e partie, pl. 32.). Quelquefois il est remplacé par sept orifices ronds, pratiqués dans la partie supérieure de la lampe et destinés a recevoir sept mèches (_id. ibid._ pl. 33.). On peut rapporter à la même source l'usage qui, de nos jours, se conserve en quelques endroits, de tenir, pendant sept jours et sept nuits, au chef du lit d'un mort, une lampe ou une lanterne allumée.
+
+*) Trois vertus théologales, et quatre vertus cardinales.
+
+*) 5., 1, 5, 6 ; 3., 1 ; 8., 2 ,6 ; 15., 7 ; 1., 4, 11, 12, 13, 16, 20.
+
+*) _Genes._ 8., 10. Euseb. _Chronic._ 2., p. 237, edd. Maïo et Zohrabo.
+
+*) Remarquons bien qu'en hébreu la racine [HEBREW] a le double sens de _corbeau_ et de _nuit_ ou _ténèbres_. Il en est de même dans la langue arabe.
+
+*) _Genes._ 8., 6.
+
+*) On reconnaît facilement dans ce buste l'imitation d'un type souvent employé pour représenter Diane sur les monuments de l'époque des Antonins.
+
+*) On voit fréquemment, sur les lampes chrétiennes trouvées en Italie, dans des cimetières ou des tombeaux, l'image ou le monogramme du Christ entouré d'un cep de vigne chargé de feuilles et de grappes de raisin. J'en puis même citer deux qui représentent Jésus-Christ sous les traits du Bon Pasteur, comme la lampe ici figurée, mais sans aucun autre accessoire que huit grappes de raisin placées dans une bande circulaire. (Voy. Bosio, _Rom. soterran._ (Rom. 1632), pl. à la pag. 203. Mamachi, ouvrage cité, t. 3., pl. à la pag. 79.) --- La lampe publiée par Bosio est reproduite dans la nouvelle _Roma soterranea_, t. 3., pl. 208. ; Rom. 1737, 3 vol. in-fol. --- Toutes ces représentations, aussi bien que notre lampe, se rapportent au passage du Nouveau Testament où Jésus-Christ se compare lui-même à la vigne : « Ego sum vitis vera » (Évangile de saint Jean, 15., 1, 5). Sur la seconde lampe dont je donne le dessin, une tige de courge remplace le cep de vigne.
+
+*) _Jonas_, 2., 2.
+
+*) « Libera me ... de profundis aquis, » dit le Psalmiste (Ps. 68., v. 15) ; « non me demergat tempestas aquæ, » ajoute-t-il (v. 16). Au psaume 17. (v. 17), on lit : « ... assumpsit me de aquis multis. »
 
 La seconde lampe chrétienne dont j'ai à parler se conserve au musée royal de Berlin.* Elle faisait anciennement partie du cabinet de Bellori, d'où elle passa dans la collection de l'Électeur de Brandebourg.* Elle offre le même sujet et presque les mêmes accessoires que la première. Comme celle-ci, elle fut donc composée dans un esprit conforme tout à la fois aux enseignements de l'Ancien Testament et à ceux du Nouveau Testament. C'est ce que ne semblent pas avoir bien compris les écrivains qui l'ont décrite et commentée. Au premier abord, on pourrait croire que les deux lampes sont une copie l'une de l'autre. Un examen attentif ne permet pas de conserver longtemps cette opinion. Ces deux terres cuites offrent entre elles des différences notables ; elles ne sortent ni d'un même moule, ni de la même main ; elles n'appartiennent même pas à une même époque de l'art, bien qu'on puisse les considérer chacune comme l'imitation plus ou moins fidèle d'un seul type original. Le style et le travail de celle que possède le musée royal de Berlin ne sauraient remonter plus haut que la dernière moitié du 4e siècle de notre ère. L'Académie en jugera par le dessin que je joins ici* et dont je suis redevable à l'inépuisable complaisance de M. Édouard Gerhard. Parmi les différences à signaler entre les deux monuments, il faut surtout citer celle que présentent la chevelure et le costume du Bon Pasteur et la forme des sept étoiles et du cyprès. L'arbre, quant à son espèce, est même peu reconnaissable sur la lampe de Berlin, dans l'état où elle est actuellement. Personne encore ne s'est cependant refusé à le prendre pour un cyprès ; et je remarque même qu'il est beaucoup mieux caractérisé comme tel dans les dessins qui en ont été publiés jusqu'à ce jour que dans le dessin tout récemment exécuté sous les yeux de M. Gerhard. De plus, ici, la colombe ne porte pas à son bec le rameau d'olivier ; et le cep de vigne qui, sur la lampe apportée à Paris et dessinée par M. Muret,* ombrage la figure gisant sur le sol, au pied du cyprès, est remplacé par la tige de courge que d'autres monuments nous montrent s'élevant au-dessus de Jonas, également étendu sur le sol. Enfin, sous la lampe de Berlin, on lit en assez beaux caractères, FLORENI ; c'est le nom du potier.
 
+*) N° 289 (1018) du nouveau Catalogue des terres cuites de ce musée.
+
+*) Bellori, _Le antiche lucerne fig._ parte 3., p. 10.
+
+*) Pl. 21., n° 3.
+
+*) Pl. 20., n° 1.
+
 Depuis longtemps elle était connue de tous les archéologues : Bellori* en 1691, Bottari* et Mamachi* vers le milieu du 18e siècle, et successivement, depuis le commencement du 19e, M. le Dr. Schöne,* M. le Dr. Frédéric Creuzer,* feu Mgr. Münter, évêque de Seeland,* et M. Guigniaut* l'ont chacun publiée* d'après un dessin peu fidèle de Sante Bartoli, dessin qui chaque fois, pour ainsi dire, qu'il a été copié par un nouveau graveur, s'est écarté de plus en plus de l'original. L'interprétation qu'ils donnent du monument n'est pas satisfaisante. M. Raoul-Rochette en a fait avant moi l'observation,* quant aux six premiers de ces savants ; mais il ajoute avec raison que feu Mgr. Münter a du moins le mérite d'avoir judicieusement réfuté l'opinion de quelques érudits, tels que M. Schöne et même M. Creuzer, qui voyaient dans la lampe dont il s'agit un monument gnostique. Enfin M. Ferdinand Piper, professeur de théologie à l'université de Berlin, a rendu publique, en 1846, une dissertation* où il décrit cette même lampe* et la reproduit, d'après l'original, par la lithographie.* Je regrette d'avoir à dire que ce dessin et le commentaire dont il est accompagné laissent encore beaucoup à désirer. Comme le Dr. Münter, il constate qu'aucun élément gnostique n'est entré dans la composition du sujet qui décore la lampe chrétienne du musée de Berlin. Mais, à l'exemple de tous ses devanciers, il ne tient aucun compte du cyprès* qu'on y remarque, il ne voit dans le groupe qui, à mon avis, représente la nuit ou les ténèbres qu'une image de la lune considérée comme astre, et il commet la double méprise de prendre pour une seconde colombe* le corbeau, qui est une partie essentielle de ce groupe, et pour l'image du soleil* la figure de la Vierge, bien que Bellori et Mamachi eussent avoué eux-mêmes que les vêtements de cette figure sont ceux d'une femme. De là il est résulté que le savant professeur de Berlin n'a pas mieux compris que ses devanciers l'esprit dans lequel fut composé le sujet qui orne cette lampe. On ne peut se défendre de quelque étonnement en voyant tant d'habiles interprètes s'arrêter à l'idée que le Bon Pasteur y est placé entre le soleil, la lune et les étoiles, et que, par conséquent, ce petit monument doit être classé parmi ceux qui ont pour simple thème la création des corps célestes.* Ils restent ainsi insensibles à l'admirable accord qui, sur la lampe de Berlin, comme sur la lampe inédite que je publie,* se révèle entre les divers accessoires disposés autour du Bon Pasteur et les dogmes fondamentaux de l'Ancien et du Nouveau Testament. Cet accord, malgré les différences que présentent entre elles les deux lampes, dans les détails de leur composition, est, à mes yeux, tout aussi manifeste sur l'un que sur l'autre de ces deux précieux monuments.
+
+*) _Le antiche lucerne figur._ parte 3., p. 9, 10 ; tav. 29. --- Ce recueil a été imprimé en 1694, 1699 et 1729.
+
+*) _Scult. e pitture sagre_, t. 3., p. 79.
+
+*) Ouvrage cité, t. 3., p. 78.
+
+*) _Geschichtsforschungen über die kirchlich. Gebr. und Einrichtung. der Christen_, etc. t. 1. (Berlin, 1819, in-8°), p. 310, 311 ; pl. 1., n° 4.
+
+*) _Symbolik und Mytholog._ t. 4., p. 418 ; pl. 7., n° 2.
+
+*) _Sinnbilder und Kuntsvorstellung. der alten Christen_ (Altona, 1825, in-4°), 1re partie, p. 64, 65 ; pl. 3., n° 39.
+
+*) _Relig. de l'antiquité_, t. 4., 1re partie ; Explication des planches, p. 419, 420 ; pl. 259., n° 914.
+
+*) Plusieurs autres archéologues, tels que Buonarroti, Passéri, Kopp, Bellermann et M. Raoul-Rochette (_Mém. de l'Acad. des inscript._ nouvelle série, t. 13., 1re partie, p. 98, 99) ont écrit sur cette lampe, mais succinctement et sans en donner un dessin.
+
+*) _Loc. cit._ p. 98 et 99, note 2.
+
+*) Elle est insérée dans le recueil périodique intitulé : _Zeitschrift für die historische Theologie_, et il en a été fait un tirage à part que j'ai sous les yeux.
+
+*) Pag. 13-15 du tirage à part.
+
+*) N° 5 de la planche lithographiée jointe au tirage à part.
+
+*) Le Dr. Fr. Münter (_loc. cit._), à l'exemple de Bellori et de Mamachi, ne fait aucune allusion à cet emblème significatif ; il se borne à dire qu'on voit ici, « couché à l'ombre d'un arbre, Jonas, type de Jésus-Christ. »
+
+*) J'ai peine à comprendre que mes savants devanciers, au lieu de reconnaître ici le corbeau sorti de l'arche, aient tous indiqué une seconde colombe, sans tenir compte du texte de l'Écriture sainte. C'est Bellori, le premier, qui a commis cette méprise ; il s'explique en ces termes (ouvrage cité, 3e partie, p. 10) : « L'altra colomba, che posa sotto la luna, può interpretarsi per l'Innocenza, Purità, Simplicità, Concordia, e per l'altre virtù christiane del defonto, di cui è simbolo questo animale. »
+
+*) Je vois à regret que M. Raoul-Rochette (_loc. cit._), comme M. Piper, a partagé, sur ce second point, l'erreur de ses devanciers.
+
+*) Les études théologiques de feu le Dr. Frédéric Münter ne l'ont pas empêché de partager cette opinion erronée : « Es kommt mir jedoch leichter vor, dit-il (ouvrage cité, p. 64), diese Bilder, die in einem Kreise von biblischen Geschichten stehen, demgemäss von der Schöpfung der Himmelscörper zu erklären. »
+
+*) Planche 20., n° 1.
 
 **Résumé.**
 
 Si donc les premiers chrétiens plaçaient le cyprès pyramidal sur leurs pierres tumulaires, dans leurs cimetières et sur leurs lampes* ; si l'Arménie et la Grèce du moyen âge alliaient à ce symbole la croix de rédemption ; si, de nos jours, en Europe, on entoure de cyprès les sépultures royales et les sépultures privées ; si, sous nos yeux, les peuples musulmans, successeurs des antiques nations qui, en Asie, en Afrique, en Europe, faisaient de cet arbre un emblème funèbre, plantent des cyprès autour de leurs tombeaux isolés et dans leurs _champs des morts_ ; si les habitants d'un vaste empire, qui s'étend de l'Europe en Asie, attachent encore aujourd'hui des idées religieuses au bois de cyprès ; si, dans le midi de la France, s'est conservée, d'âge en âge, jusqu'à nous la coutume de faire bénir, le dimanche des Rameaux, des branches de cyprès, dont le feuillage et les fruits sont argentés et dorés ; si, en Asie, le culte de cet arbre symbolique remonte à plus de trois mille ans et se lie intimement à la légende de la Vénus assyrienne, comme aux origines de l'empire d'Assyrie, du royaume d'Arménie et des États fondés par les Phrygiens ou les Troyens, comme à l'histoire de l'importation de la civilisation chaldéenne ou assyrienne chez les Phéniciens, les Arabes, les Égyptiens, les Perses, les Grecs et les peuples italiques ; si enfin le cyprès pyramidal est connu, dans toutes les langues de l'Europe ancienne et moderne, sous un seul nom, précisément le même que portait la divinité androgyne dont cet arbre était, en Asie, l'emblème vivant, reconnaissons que le culte du cyprès, institué aux lieux mêmes où ce bel arbre croît spontanément, aux lieux mêmes habités par les premiers adorateurs de cette divinité, dut être importé partout où pénétra le culte de la déesse qui avait donné son nom à l'île de Cypre, comme au cuivre, et qui fut adorée, chez les Grecs et les Romains, sous celui de Cypris, et, chez les Étrusques, sous le nom de Cypra ou Cupra. Tant furent profondes les racines qu'avaient jetées en Europe les croyances religieuses apportées de l'Asie occidentale avec tout le cortége d'une haute civilisation ! Tant fut puissante l'influence exercée par les castes sacerdotales sur les idées, le langage, les coutumes et les institutions des peuples ! Tant il est vrai de dire que les traits les moins effacés et les moins effaçables de la civilisation d'un peuple, les traits surtout qui caractérisent sa vie intellectuelle, sont ceux que l'on peut rapporter aux dogmes et aux rites enseignés dans ses livres sacrés, ou inscrits en caractères idéographiques sur ses édifices, sur ses monuments figurés ! Tant, il est juste enfin de reconnaître que le culte du cyprès, emblème tout à la fois de vie, de mort, de vie future et d'éternité, concourt, avec bien d'autres faits, à prouver qu'aucun peuple civilisé de l'antiquité ne méconnut le dogme de l'immortalité de l'âme, inséparable, comme la connaissance d'un Dieu éternel, comme le dogme des récompenses et des peines dans une vie future, des conditions morales d'existence, de progrès et de durée de la société humaine !
+
+*) Voy. Aringhi, _Roma subterran._ 6., 42., p. 339-341.
 
 # Explication des planches.
 
