@@ -3361,27 +3361,178 @@ Chez les Romains, les traditions écrites* et les monuments figurés concourent 
 
 *) Ajoutez aux écrivains qui déjà ont été cités et à ceux qui le seront plus loin : Horace, 2., _Od._ 14., vers 21-24. Stace, 5., _Silvar._ 1., 135, 136. Silius Italicus, 10., 535, 536. Claudien, _De raptu Pros._ 2., 108. Cf. Gunther, _De jure Man._ 1., 19. Kirchmann, _De funer. roman._ 1., 14. Nicolas, _De luctu Græc._ 5. et 13. Aringhi, _Rom. subterran._ 6., 42. Sagittarius, _De januis_, 31. Wouweren, _ad_ Petron. _Satyr._ c. 120.
 
+*) Bellori, _Colonna trajana_, pl. 42.
+
+*) Il paraît, d'après deux vers de Lucain (3., _De bell. civ._ v. 442, 443), que cet usage ne s'étendait pas aux classes inférieures de la société romaine :  
+Et non plebeios luctus testata cupressus,  
+Tunc primum posuere comas.  
+On lit aussi dans Alciat (_Emblem. libell._ emblem. 198) ces paroles non moins explicites : « Videmus enim in magnatum et nobilium sepulchralibus ac pollincturis spargi cupressi frondes, sed iste ritus apud omnes non æque celebratur. » Il ajoute (_ib._) que l'ache, comme la sauge, l'hysope, la menthe et le buis, tenait lieu de cyprès dans les cérémonies funéraires des plébéiens :  
+Funesta est arbor, procerum monumenta, cupressus,  
+Quale apium plebis promere fronde solet.
+
+*) Ci-dessus, p. 206.
+
+*) Pline, _H. N._ 16., 33., 60.
+
+*) Servius, _ad_ Virgil. _Æneid._ 3., 64, 681.
+
+*) Aulu-Gelle (_Noct. attic._ 5., 12.) dit que le temple de _Véjove_ était situé entre la citadelle et le Capitole.
+
+*) Pline (16., 79., 3 ) parle de cette statue dans un chapitre où il a réuni des exemples fort remarquables de la longévité de certains arbres et de l'incorruptibilité de leur bois. Il cite des plantations, des statues, des portes de temple et des lambris de cyprès, dont la date remontait à bien des siècles. Cette circonstance me confirme dans la pensée, déjà exprimée plus haut, qu'une erreur de copiste a introduit dans le texte de Pline, un chiffre (661 de Rome) qui rapproche beaucoup trop, de l'époque à laquelle écrivait cet auteur, la date de la statue de bois de cyprès consacrée à Jupiter Véjove.
+
+*) Voy. Aulu-Gelle (_loc. cit._) et les notes de Gronovius et de Conrad sur le chapitre 12. du livre 5. de cet auteur (édit. de Leipzig, 1762).
+
+*) Funeris ara mibi ferali cincta cupresso  
+Convenit, et structis flamma parata rogis.  
+Ovide, _Trist._ 3., _Eleg._ 13., vers 21 et 22.
+
+*) _Apud_ Serv. _ad._ Virgil. _Æneid._ lib. 6., v. 216.
+
+*) Patin (_Thesaur. Polen._ 2., col. 1079) ne met pas en doute que les Romains n'eussent reçu des Grecs l'usage d'employer le cyprès comme emblème funéraire. Il ne tient aucun compte des faits qui tendent à prouver que cet usage avait pu être apporté directement en Italie, par des colonies asiatiques, bien avant la fondation de Rome. Il est juste d'ajouter que plusieurs de ces faits résultent du témoignage de monuments figurés qui ont été découverts très-longtemps après Patin.
+
+*) _H. N._ 16., 30., 60.
+
+*) _Ad_ Virgil. _Æneid._ 3., 64 ; 4., 506, 507 ; 6., 216.
+
+*) _De signific. verbor._ sub voc. **Cupressi** ; ed. K. O. Müller. --- Ici, le savant éditeur loue Scaliger d'avoir considéré comme récents l'usage dont il s'agit et même l'importation du cyprès chez les Romains. Ainsi que Patin, il néglige les passages de Pline et de Tite-Live que j'ai rapportés plus haut, et qui semblent assigner une date ancienne à cette importation, ou du moins à la coutume de consacrer aux dieux nationaux des statues de bois de cyprès. Le témoignage cité de Servius et des deux mythographes anonymes du Vatican doit aussi, quant à l'usage de représenter, un cyprès à la main, Silvain, dieu infernal, s'appliquer à une époque romaine fort reculée ; car ce renseignement est la seule trace qui nous reste d'une semblable coutume. Ces remarques acquièrent peut-être quelque importance à la vue des monuments étrusques où le cyprès figure comme un arbre sacré, soit dans les mystères, soit dans les rites funèbres (voy. ci-dessus, p. 253-257, 317-324). N'oublions pas non plus les témoignages recueillis par Pline (16., 87., 1) pour montrer que le culte des arbres, dans le Latium, était antérieur de plusieurs siècles à la fondation de Rome.
+
+*) _De raptu Proserpinæ_, 2., 108.
+
 S'il n'est parvenu jusqu'à nous aucune antiquité figurée qui puisse, chez les Romains, fournir, une exemple de l'acception funéraire du cyprès antérieurement au temps des empereurs, en revanche, la colonne trajane,* un grand nombre de sarcophages, d'urnes cinéraires, de lampes de terre cuite, comme aussi quelques plats ou vases d'argent, nous attestent qu'à Rome, et dans tout l'empire romain, l'usage de placer cet arbre sur les monuments et les ustensiles funéraires était très-répandu sous le règne des Antonins. Il se perpétua jusqu'aux dernières années du paganisme. Mon intention n'est pas d'entreprendre ici l'énumération de tous les objets d'antiquité figurée qui confirment ces deux assertions. Ils sont, en général, parfaitement connus des archéologues. Mais j'appellerai l'attention de l'Académie sur un sarcophage, sur un joli petit vase d'argent, inédit, sur deux plats de même métal, que je crois également inédits, et sur deux lampes de terre cuite, qui me paraissent mériter une mention particulière, bien que déjà elles aient été figurées dans plusieurs recueils.
+
+*) Bellori, _loc. cit._
 
 Le sarcophage provient de la villa Borghèse et se conserve au musée du Louvre. Publié plusieurs fois dans le cours de trois siècles, il a été commenté, en dernier lieu, par M. Panofka, ainsi que je l'ai dit plus haut.* Je ne reparlerais pas ici de ce monument si mes savants devanciers ne m'avaient laissé le soin de faire remarquer que le cyprès y figure tout à la fois comme symbole de vie, comme emblème funéraire et comme indication d'un lieu consacré à une déesse qui préside à la vie et à la mort. En effet, sur un des deux bas-reliefs qui ornent le devant de ce sarcophage, on voit* Diane occupée à se baigner, avec quelques nymphes, dans une grotte qui renferme une source.* Quatre cyprès, deux à droite et deux à gauche, sont plantés au bas des rochers qui bordent l'ouverture de cette grotte ; un grand pin s'élève au-dessus du cintre. Le bas-relief sculpté auprès de celui-là nous montre Actéon et ses serviteurs se préparant à entrer en chasse avec sept chiens. Sur une des faces latérales du sarcophage, un troisième bas-relief,* que précédemment j'ai eu l'occasion de citer,* représente Actéon attaqué par ses propres chiens au moment où commence sa métamorphose en cerf. Cette scène se passe dans une grotte ornée, à gauche, de deux cyprès, et, à droite, d'un grand pin. Enfin, sur la face latérale opposée,* Actéon, étendu mort sur le sol, mais non métamorphosé en cerf, est entouré de femmes qui semblent se disposer à lui rendre les devoirs funèbres. Ici nous retrouvons de nouveau la grotte, les deux cyprès et le pin du bas-relief précédent. Cette description, toute succincte qu'elle est,* suffit sans doute pour faire comprendre que, placé auprès de Diane, personnification de la lune, porte du ciel par laquelle les âmes descendent sur la terre et remontent dans les régions célestes, le cyprès est ici le symbole de la vie, quant au corps, et le symbole de la mort, quant à l'âme.* Placé auprès d'Actéon, qui vient de perdre la vie pour n'avoir pas su résister à une coupable curiosité, ou, en d'autres termes, pour n'avoir pas su dompter ses passions, le cyprès devient évidemment un emblème funéraire.
 
+*) Ci-dessus, p. 211, 212.
+
+*) Bouillon, _Musée des antiq._ t. 3., bas-reliefs, pl. 17. Clarac, _Mus. de sculpt. antiq. et mod._ n° 315, pl. 113. et 114.
+
+*) Voy. Pausanias, 9., 2. ; 3.
+
+*) Bouillon, _loc. cit._ Clarac, ouvrage cité, n° 315, pl. 113.
+
+*) Ci-dessus, p. 211, 212.
+
+*) Bouillon, _loc. cit._ Clarac, ouvrage cité, n° 315, pl. 113. et 114.
+
+*) Je m'abstiens de placer ici les nombreuses remarques que me fourniraient la composition de ce beau sarcophage, considéré sous des rapports psychologiques, et le choix des symboles ou accessoires employés dans les sculptures dont il est orné. La grotte, la source, les griffons, le nombre des chiens, peuvent surtout donner lieu à des observations d'un grand intérêt.
+
+*) Voy. _Mém. de l'Acad. des inscr._ nouv. série, t. 15., 2e partie, p. 63, 64 ; et ci-dessus, p. 301, 302.
+
 Le petit vase d'argent dont je me suis proposé d'entretenir la Compagnie, après le sarcophage du Louvre, a la forme d'un _crater_ ou d'un _poterium_ ; ses dimensions n'excèdent pas six centimètres et deux millimètres de hauteur, sur dix centimètres de diamètre. On le conserve à la Bibliothèque impériale. Selon les uns, il aurait été retiré du Rhône, au même lieu et vers la même époque où fut découvert le disque d'argent que possède aussi cet établissement, et qui longtemps a été désigné sous la dénomination erronée de _bouclier de Scipion_. Selon d'autres, notre petit vase aurait été trouvé à Aire ou Ayries,* sur les bords de l'Adour.* Par son travail et par son style, il peut remonter au 2e siècle de l'ère chrétienne. Il a été coulé ; le sujet qu'il représente a, en général, fort peu de relief ; mais quelques têtes d'animaux, qui sont rapportées, forment une saillie considérable ; elles ont été ajustées au moyen de soudures, comme on l'a pareillement pratiqué pour les parties les plus saillantes des objets qui ornent plusieurs des vases d'argent trouvés à Berthouville près de Bernay. Je joins ici, sous les numéros 6 et 6 _a_, de la planche 6, deux dessins qui reproduisent avec exactitude la forme du vase et le développement du sujet curieux qui en décore toute la circonférence extérieure, sur une hauteur de quatre centimètres. On y remarque un autel allumé, placé, sur le premier plan, entre deux cyprès pyramidaux. En arrière de celui qui est planté à droite de l'autel, s'élève une colonne surmontée d'une urne cinéraire ; à défaut des deux cyprès, elle suffirait pour marquer que notre petit vase avait dû servir dans les rites funéraires. Tout près de cette colonne, on voit une lionne dévorant un sanglier, et, plus loin, un taureau dévoré par un lion.* Un laurier, dont le tronc a atteint de fortes dimensions, est placé, sur le premier plan, entre ces deux groupes d'animaux. Le second groupe est mutilé : à l'exception de la tête et du cou, le corps du lion manque, par suite d'un déchirement fâcheux qu'à éprouvé le vase sur une longueur et une hauteur moyennes de près de six centimètres. Sur les deux bords de cette fracture, subsistent encore, à droite, la portion droite d'une tête de taureau ou de génisse, vue de face ; à gauche, une jambe allongée de quadrupède, la croupe et la queue d'un animal herbivore, un petit bucrane, et un troisième cyprès pyramidal, dont le tronc a disparu. A droite de cet arbre ainsi mutilé, un pin, resté intact, étend ses branches chargées de feuilles et de cônes. Entre ce pin et le cyprès planté à gauche de l'autel, on remarque un troisième groupe d'animaux : un énorme lion dévorant un quadrupède herbivore, à pied fendu, qui fléchit sur ses jambes de devant, et qui probablement est un taureau. La tête et le cou de ce quadrupède manquent ; ils se sont dessoudés et perdus dans le choc violent que le vase doit avoir éprouvé.
+
+*) Département des Landes.
+
+*) On ajoute qu'au moment de la découverte, ce petit vase contenait un certain nombre de médailles d'argent et une fibule de même métal, attachée à une longue chaînette.
+
+*) Voyez, quant à l'acception funéraire d'un pareil groupe, mon _Mémoire sur une urne cinéraire du musée de la ville de Rouen_ (_Mémoires de l'Académie des inscriptions_, nouv. série, t. 15., 2e partie, p. 63-127 ; pl. 1., 2., 3.).
 
 Quoique endommagé et incomplet, ce petit monument réunit à mes yeux plus d'un genre d'intérêt. Laissant de côté les considérations d'art et de rareté, pour m'occuper seulement du sujet dont il est orné, je remarque que nous avons ici, sur un vase de travail romain, un exemple, unique jusqu'à ce jour, d'une composition où se trouvent tout à la fois trois cyprès, un pin, un laurier, un autel allumé, une colonne surmontée d'une urne cinéraire et trois groupes d'animaux herbivores ou frugivores, dévorés par des animaux carnassiers. Une telle composition prête, ce me semble, un puissant appui à quelques observations, à quelques conjectures que renferment mes deux mémoires sur le culte du cyprès et une dissertation précédente, dont le sujet principal était une urne cinéraire romaine, ornée du groupe d'un lion dévorant un taureau.* Choisis parmi les arbres verts qui, en Occident comme en Orient, furent consacrés aux divinités génératrices, le cyprès, le pin et le laurier ont chacun ici une acception funéraire, précisément parce qu'ils sont ailleurs des symboles ou des emblèmes de vie.* Ils accompagnent des groupes d'animaux qui, à leur tour, reproduisent hiéroglyphiquement l'idée de la mort et l'idée d'une nouvelle vie.* D'autres groupes semblables ou analogues s'étaient déjà montrés à nos yeux, soit isolés, soit réunis, sur l'urne citée, sur un tombeau grec découvert à Myra, sur des scarabées étrusques, sur un miroir mystique trouvé près de Viterbe et sur plusieurs sarcophages romains. Nous avions été conduits à reconnaître* que leur composition et la double acception de mort et de vie, ou de génération et de vie spirituelle, qui leur fut attribuée chez les anciens peuples civilisés d'Europe, étaient des emprunts faits à l'art et aux croyances religieuses de l'Asie occidentale. L'usage primitif d'employer le cyprès, le pin et le laurier avec les deux mêmes acceptions est aussi revendiqué par cette dernière contrée ; et, sur notre petit vase funéraire romain, une particularité plus importante qu'elle ne semble l'être au premier aperçu, ajoute un fait du même genre à la liste de ceux que, pour ma part, j'ai plusieurs fois déjà recommandés à l'attention de l'Académie. Je veux parler de la forme particulière et insolite de l'autel placé ici entre deux cyprès. Cette forme, dont je ne connais pas d'autre exemple dans la série nombreuse des antiquités figurées romaines, est exactement celle qu'affectent d'autres autels qui se voient au milieu de scènes psychologiques, sur des cylindres assyriens ou phéniciens, dont j'ai publié les dessins.* Ces autels, comme celui-ci, sont composés de deux cônes, dont l'un, renversé, est superposé à l'autre, de telle manière qu'ils s'unissent tous deux par leur sommet.* Le cône, symbole de deux divinités génératrices, Vénus et Artémis ou Diane, symbole du feu créateur, symbole phallique, et, en conséquence, symbole de vie et de génération, devenait, par ces raisons mêmes, susceptible d'une acception funéraire. C'est pourquoi il entre dans la composition des autels placés, comme ici, au milieu d'une scène mystique et funèbre, et, comme sur les cylindres, au milieu de scènes qui de même ont un double sens mystique et funèbre, puisqu'elles représentent les âmes passant de la vie corporelle ou matérielle, qui est leur mort et leur tombeau, à la vie spirituelle, qui les rend à leur destinée primitive. C'est aussi pourquoi la forme conique est employée dans un grand nombre de sépultures antiques, soit en Orient, soit en Occident. C'est enfin pourquoi encore la pomme de pin, dont la forme est celle d'un cône, a souvent une acception et une destination funéraires, en même temps qu'elle est un emblème du principe igné et un symbole de vie.*
 
+*) _Mém. de l'Acad. des inscript._ loc. cit.
+
+*) M. Avellino (mém. cité, p. 28), je le remarque à regret, ne tient pas compte de cette double acception, et oublie même les monuments qui attestent que le pin et le laurier furent, aussi bien que le cyprès, employés comme emblèmes funéraires.
+
+*) _Mém. de l'Acad. des inscript._ loc. cit.
+
+*) _Ibid._
+
+*) _Rech. sur Mithra_, atlas, pl. 28., n° 12 ; pl. 42., n° 13 ; pl. 49., n° 2.
+
+*) D'autres fois l'autel est formé d'un seul cône, ou affecte une forme conique plus ou moins modifiée. (Voy. _Rech. sur Mithra_, atlas, pl. 17., n° 3 ; pl. 32., n° 11 ; pl. 36., n° 11 ; pl. 50., n° 3 ; pl. 54 _A_, n° 9 ; pl. 54 _B_, n° 2.)
+
+*) Sur les monuments assyriens, les deux principes nécessaires à la vie, l'eau et le feu ou ce que nous appelons le calorique, sont représentés tantôt par des figures qui portent, d'une main, un vase à contenir un liquide, et, de l'autre, une pomme de pin ; tantôt par des ornements où l'on remarque des méandres et des pommes de pin.
+
 Les deux plats d'argent inédits appartiennent à la Bibliothèque impériale, comme le petit vase dont je viens de parler. Le premier fut trouvé sur les bords du Rhin, il y a quelques années ; il est de forme ronde, et plus profond que le second ; ses bords sont renversés ; son diamètre est de trente-cinq centimètres et quatre millimètres. On peut le citer comme un exemple des ouvrages de plaqué que nous a légués l'antiquité romaine ; car il a été coulé en bronze et recouvert ensuite d'une feuille d'argent, tant extérieurement qu'intérieurement. Les dessins que j'en donne ici* reproduisent le profil de l'original,* le développement du sujet représenté en relief sur ses bords,* et le médaillon, de plus haut-relief, qui en occupe le centre.* Rapprochée du second plat,* qui porte gravée une formule de consécration à Mercure, dieu psychopompe, la composition de ce premier plat annonce, à défaut d'une dédicace, qu'il fut aussi consacré sur les autels d'une divinité chargée de présider à la vie, aux mystères ou aux initiations, et à la mort. Ses bords sont ornés de divers objets, qui tous ont un sens à la fois mystique et funèbre : ce sont des masques scéniques,* des animaux carnassiers, tels que des lions, des lionnes et des ours, qui attaquent ou poursuivent des animaux herbivores ou frugivores, tels que des antilopes ou des bouquetins, des biches, des sangliers et des truies ; ce sont des édicules funèbres et des autels ; ce sont enfin des cyprès, des arbres morts ou dépouillés de leurs feuilles, et des plantes aquatiques. Le médaillon central représente un Romain combattant à cheval un énorme sanglier. C'est sans doute le personnage même qui avait fait la consécration du plat. La déesse de la Victoire s'avance dans les airs pour poser une couronne sur la tête de ce cavalier ; elle nous montre, par cette insigne récompense, que, grâce au dieu psychopompe et sauveur dont il est un des adorateurs fervents, il a pu sortir vainqueur, non d'un simple combat avec une bête féroce, mais d'une lutte qui, si je ne me trompe, fait une allusion mystique au combat perpétuel qu'ici-bas nous devons livrer à nos passions.
+
+*) Pl. 16., n°s 1-6.
+
+*) _Ibid._ n° 6.
+
+*) _Ibid._ n°s 1-4.
+
+*) _Ibid._ n° 5.
+
+*) Pl. 17., n°s 1-3 ; pl. 18., n° 1.
+
+*) Personne n'ignore que des masques scéniques se plaçaient, non-seulement sur les tombeaux, mais aussi sur les lampes funéraires. Ce qui est beaucoup moins connu, c'est que des masques d'un caractère particulier, sur lequel je me réserve de m'expliquer ailleurs, se voient sur des cylindres asiatiques, où ils reçoivent une double acception, mystique et funèbre, à raison du sens psychologique que présentent les scènes gravées sur ces petits monuments, si intéressants à étudier pour l'histoire des mystères. L'atlas de mes _Recherches sur Mithra_ fournit plusieurs exemples des masques dont j'entends parler ; voy. pl. 18., n° 8 ; pl. 27., n° 8 ; pl. 53., n° 1. Cf. le n° 8 de la pl. 50. et le n° 1 de la pl. 51.
 
 Une allusion semblable se découvre dans le médaillon en relief qui orne le centre du second plat* que j'ai à décrire. Ici le cavalier combat, au lieu d'un sanglier, une lionne et une louve, qui l'attaquent simultanément ; et, bien que la déesse de la Victoire n'intervienne pas dans cette scène, le double sens, mystique et funéraire, de la lutte n'est pas plus douteux ici que sur le premier plat ; car l'attaque simultanée d'une lionne et d'une louve n'est assurément pas la représentation d'un fait réel. De plus, des masques scéniques, des édicules et des autels funèbres, des cyprès, des quadrupèdes carnassiers poursuivant des quadrupèdes herbivores sont figurés, en relief, sur les bords intérieurs de ce second plat, tout comme sur le premier,* et lui donnent, de même qu'à celui-ci, un caractère particulier, que justifient pleinement les attributions du dieu psychopompe à qui nous allons voir qu'on l'avait consacré. L'un et l'autre de ces deux plats avaient donc été composés dans un même esprit, dans un même but et avec les mêmes éléments idéographiques. J'ajoute que, par leur forme, leurs dimensions, leur travail et leur style, non moins que par leurs sujets, ils appartiennent tous deux à une même époque de l'art, à une période comprise entre le 2e et le 3e siècle de l'ère chrétienne. Cet intervalle de temps, on le sait, fut marqué par un grand nombre de monuments où les artistes romains se plurent à reproduire des symboles, des figures, et des types empruntés à l'Orient. Comme le petit vase que j'ai décrit ci-dessus, le plat qui est sous nos yeux* a droit, plus encore que le premier, à être rangé dans cette catégorie : on y voit des lions poursuivant des taureaux ; sur le petit vase, ce sont des lions occupés à dévorer des quadrupèdes de cette même espèce. Je demande à l'Académie la permission de lui répéter que, dans une de mes dissertations précédentes,* je n'ai pas eu de peine à établir que le groupe d'un lion attaquant ou dévorant un taureau fut emprunté à l'Asie occidentale par les Grecs et les Romains. Ces peuples, n'ignorant point l'acception mystique et funéraire dont il est susceptible, le placèrent sur leurs tombeaux, où il exprime, par rapport à l'âme et au ciel, l'idée d'une nouvelle vie, en même temps que, sculpté à Persépolis, comme emblème de l'équinoxe vernal, il exprime là aussi, par rapport à la terre, l'idée d'une nouvelle vie. Les beaux bas-reliefs découverts par M. Layard, dans les ruines des palais de Nimroud, ont montré, depuis le mémoire auquel je me réfère, que je ne m'étais pas trompé en assignant à la conception idéographique de ce groupe une origine assyrienne ou plutôt chaldéenne.
 
+*) Pl. 17., n°s 1-3 ; pl. 18., n° 1.
+
+*) Pl. 16., n°s 1-4.
+
+*) Pl. 17., n°s 1-3 ; pl. 18., n° 1.
+
+*) _Mémoires de l'Académie des inscriptions_, loc. cit.
+
 Le plat qui me suggère ces diverses remarques provient du trésor trouvé, en 1830, à Berthouville, près de Bernay. Peu de temps après, il fut décrit par M. Charles Lenormant* et par M. Auguste le Prévost* ; mais ces deux savants n'en donnèrent pas les dessins et ne paraissent point avoir observé qu'au nombre des objets représentés sur les bords de ce plat, on voit des cyprès. De tels arbres ne contribuent pas peu à assigner à ce monument le double caractère que je lui assigne et qu'ils ne lui ont pas reconnu.* Il a trente-cinq centimètres et demi de diamètre, ce qui, à très-peu de chose près, est aussi la dimension du premier plat. Coulé en argent,* il n'est pas fourré de bronze comme celui-ci. Son médaillon central présente un plus fort relief que les objets figurés sur ses bords. Le sujet de ce médaillon est entouré circulairement d'un ornement particulier et de l'inscription suivante, tracée en caractères d'une forte proportion et d'une assez belle forme : DEO • MERCVRIO • KANETONNESSI • (_sic_) C • PROPERT • SECVNDVS • V • S • L • M • Par cette dédicace, nous apprenons que le plat d'argent où elle est gravée était un don offert par _Caïus Propertius Secundus_ à Mercure _Kanetonnessis_,* pour l'accomplissement d'un vœu (_votum solvit lubens merito_). Nous apprenons aussi que ce dieu avait un temple en un lieu appelé _Kaneto_,* dont la position topographique nous reste inconnue. Mercure, divinité psychopompe, présidait nécessairement à la destinée des vivants et des morts, aux mystères et aux rites funèbres. Dès lors, ne trouvons-nous pas dans l'offrande de Caïus Propertius Secundus, personnage que l'histoire ne nous fait pas connaître, la preuve que le donateur s'était mis, durant sa vie, sous la protection particulière de Mercure ? et, cette protection ayant été aussi efficace qu'il l'avait désiré, n'avait-il pas voulu, avant de mourir, accomplir un vœu dicté par le soin du salut de son âme ?
+
+*) _Bulletino dell. Instit. arch._ (Lettre à M. Th. Panofka), n° 5., mai 1830, p. 109. --- La même année, 1830, M. Raoul Rochette publia dans le _Journal des savants_ (Juillet, p. 417-430 ; août, p. 459-473) les deux premières parties d'une intéressante notice sur les vases de Bernay. Il est à regretter que la troisième n'ait pas paru. C'est là, sans doute, que le savant archéologue aurait parlé du plat qui nous occupe.
+
+*) _Mém. sur la collection de vases antiques trouvés, en mars 1830, à Berthouville (arrondissement de Bernay)_, p. 10, 11 (Caen, 1832 ; gr. in-8°, fig.). --- Cette belle dissertation est tirée du 6e volume des Mémoires de la Société des antiquaires de Normandie.
+
+*) M. Lenormant (_loc. cit._) se borne à dire : « Un rebord orné de chasses et de génies, dans le goût de Pompeï. Au centre, un médaillon représenté par un homme à cheval, attaqué par un loup et par un lion. » --- M. le Prévost s'exprime ainsi (Mém. cité, p. 17, 18) : « Le bord est relevé en bosse et orné de lions, de masques et autres attributs scéniques d'une fort belle exécution ; au centre, on voit un cavalier attaqué par un lion et un loup ... Malgré la nature des ornements de la bordure, nous sommes porté à voir dans les figures du centre le souvenir d'un péril auquel aurait échappé le donateur, plutôt que le combat d'un gladiateur contre les deux animaux ... » Toutefois la pénétration dont est doué notre savant confrère ne lui a pas fait défaut, car il ajoute : « Dans l'une et l'autre hypothèse, l'attaque simultanée de ces deux animaux est une circonstance peu vraisemblable. Peut-être y devrait-on chercher un sens allégorique ... » Ces deux dernières phrases nous donnent à comprendre que si, avant de les écrire, M. le Prévost avait eu sous les yeux le plat d'argent, fourré de bronze, que j'ai décrit plus haut, il se serait arrêté davantage à l'idée d'attribuer au médaillon du plat de Berthouville un sens allégorique, ou plutôt un sens mystique.
+
+*) Il pèse un peu plus d'un kilogramme.
+
+*) Ce surnom se retrouve, sous la forme _Canetus_, dans les formules de consécration gravées sur plusieurs autres objets d'antiquité découverts à Berthouville en même temps que notre plat d'argent ; on y lit : MERCVRIO. CANETO. Voy. le mémoire cité de M. le Prévost.
+
+*) _Caneto_, ou _Canet_.
 
 Un manche d'argent que je crois inédit, et qui autrefois, sans doute, était adapté à une patère ou à quelque autre vase employé pour les libations, dans les rites funèbres, confirme, ce me semble, l'interprétation que je donne du médaillon placé au centre de chacun de nos deux plats funéraires. On voit, en effet, sur la face supérieure de ce manche,* un édicule funèbre, parfaitement caractérisé par deux cyprès pyramidaux, plantés, l'un à sa droite, l'autre à sa gauche. Cet édicule, qui renferme une dépouille mortelle, nous rappelle les petits édifices funèbres et les cyprès figurés sur un des bas-reliefs de la colonne trajane* et sur les bords des deux plats d'argent de la Bibliothèque impériale. Il est placé ici entre un capricorne et l'image de Mercure. Le capricorne est debout devant une porte cintrée, qui, sans aucun doute, est la porte par laquelle nous savons que les âmes, selon les doctrines propres aux mystères, rentrent dans la région céleste, après avoir passé par la planète Saturne, dont le domicile est dans le signe du Capricorne.* Mercure, armé du caducée, qui lui sert à conduire les âmes, est placé dans la partie supérieure de ce petit tableau ; il lève la main droite vers le ciel, et, de l'index, il montre ainsi aux âmes leur demeure primitive, le séjour où les attend un bonheur éternel, qu'elles ne sauraient trouver sur la terre. Ce geste si expressif semble nous révéler le rôle que remplissait Hermès Criophore dans les mystères des Grandes-Déesses,* et nous rappelle le célèbre passage où l'empereur Julien* place ces paroles dans la bouche de Mercure : « Je t'ai fait connaître notre père Mithra* ; observe fidèlement ses commandements, et conduis-toi de manière à trouver en lui, pendant ta vie, un port et un refuge, et à emporter, lorsqu'il te faudra quitter cette terre, la douce espérance d'avoir dans ce dieu un guide propice. » Ces paroles servent de commentaire à un bas-relief mithriaque romain,* où Mercure précède le char sur lequel Mithra conduit au ciel l'âme d'un initié parvenu aux trois degrés de pureté* qui lui ont mérité cetle insigne récompense.* Si les médailles de Mostène de Lydie* nous ont montré Mercure servant d'introducteur à des amazones dans le sanctuaire où se pratiquait l'initiation aux mystères de Vénus ; si là ce sanctuaire est caractérisé par un autel allumé et par un cyprès pyramidal, image vivante et symbolique de la déesse, ici, sur notre manche de patère, nous trouvons deux colombes et deux têtes de cygne destinées à rappeler l'intime alliance qui existe entre Vénus, déesse des mystères, et Mercure, dieu psychopompe. De plus, l'idée de la vie future, déjà exprimée par la porte du Capricorne, l'est une seconde fois par deux corbeilles remplies de fruits et placées chacune tout auprès d'une colombe, svmbole de Vénus, comme de Mithra. Chaque fruit ne porte-t-il pas en soi le germe d'un nouvel être ou d'une nouvelle vie ?
 
+*) Planche 18., n° 2.
+
+*) Bellori, _loc. cit._
+
+*) Voy. _Mémoires de l'Acad. des inscript._ nouv. série, t. 14., 2e partie, p. 99-134.
+
+*) Ci-dessus, p. 26.
+
+*) _Cæsares_, Opp., p. 336 ; ed. Spanhem.
+
+*) [GREEK] ...
+
+*) _Rech. sur Mithra_, atlas, pl. 95., n° 2.
+
+*) Ces trois degrés sont : _la pureté de pensée, la pureté de parole_ et _la pureté d'action_. (Voy. _Zend-Avesta_, t. 1., 2e partie, _Vendidad Sadé_, p. 104, 164 et ailleurs ; t. 2., p. 34.)
+
+*) Le nombre des monuments romains où Mercure remplit les fonctions de conducteur des âmes (psychopompe) est considérable. Il faut y ajouter plusieurs lampes funéraires sur lesquelles on voit tantôt le buste de ce dieu (Passéri, _Lucern. fictil._, t. 3., tab. 97., fig. 1 et 4), tantôt seulement son symbole, un bélier (_id. ibid._ et 4 ; fig. 2 et 3).
+
+*) Ci-dessus, p. 108-111 ; pl. 3., n°s 3 et 4 ; pl. 4., n°s 2 et 3.
+
 J'avais donc quelque raison de dire que le sujet figuré sur ce petit manche de patère confirme le sens mystique ou psychologique que je prête au combat représenté sur le médaillon central des deux plats funéraires décrits plus haut, et dont l'un est nominativement consacré à Mercure. La même interprétation s'applique tout naturellement à un grand nombre d'autres vases funéraires et de sarcophages où l'on voit, en relief, des combats de guerriers, de héros, ou des luttes que des gladiateurs soutiennent corps à corps, soit avec d'autres gladiateurs, soit avec des animaux féroces. A cette série de monuments appartiennent deux fragments d'un vase de terre cuite, rouge et de travail romain, qui proviennent des fouilles entreprises, il y a quelques années, à Rheinzabern, dans la Bavière rhénane. Ces deux fragments sont figurés dans un ouvrage posthume de M. Schweighæuser fils, publié par les soins de M. Matter, mais peu répandu.* Le premier fragment* représente un cyprès pyramidal planté entre deux médaillons qui renferment chacun une figure de guerrier combattant. Le second* nous montre, avec un autre guerrier combattant, un lièvre, un cheval et un lion, tous symboles funéraires. A l'occasion de ces deux fragments, M. Schweighæuser s'exprime ainsi* : « Parmi les figures du bas, un cyprès, arbre aujourd'hui inconnu à nos contrées. Mes fragments représentent plusieurs plantes et plusieurs animaux sur lesquels on peut faire la même observation. »
+
+*) Il est intitulé : _Antiquités de Rheinzabern_ ; un volume in-4° (avec fig.), sans indication de lieu ni date d'impression.
+
+*) Ouvrage cité, pl. 8., n° 5.
+
+*) Ouvrage cité, pl. 8., n° 6.
+
+*) Ouvrage cité, p. 3.
 
 Un autre fragment, trouvé dans la même localité, offre un second exemple de la présence du cyprès pyramidal sur une poterie romaine.* Mais ici nous ne voyons aucun combat mystique de guerriers, ni d'animaux. L'opposition des idées de vie, de mort et d'éternité est exprimée par un cyprès planté au milieu de plusieurs oiseaux aquatiques, symboles du principe humide, et, par conséquent, symboles de vie, puisque les premiers êtres vivants sont nés dans les eaux, et que l'eau est, avec l'air et le feu ou la chaleur, un des trois principes indispensables à la manifestation et à la conservation de la vie. C'est à ce même titre que, sur des urnes cinéraires et des sarcophages d'origine romaine, sont sculptés, non-seulement des oiseaux aquatiques, mais des plantes aquatiques et des arbres verts de diverses espèces.
 
+*) _Ibid._ p. 3., pl. 9.
+
 Parmi les monuments funéraires romains où nous retrouvons le cyprès pyramidal, je n'oublierai pas de citer une belle urne cinéraire de marbre, publiée par Boissard* et reproduite par Montfaucon.* Elle est ornée d'un bas-relief qui représente, entre deux arbres de cette espèce, une dame romaine occupée à faire des libations sur un autel allumé. L'inscription latine gravée au bas de ce sujet nous apprend que cette dame s'appelait _Cypris_, et qu'elle avait consacré le monument à son fils et à ses petits-fils, victimes, ainsi que sa belle-fille, des ravages d'une maladie épidémique.* Il est infiniment probable, comme l'a pensé Montfaucon, que les deux cyprès, en même temps qu'ils sont ici un emblème funéraire très-expressif, font une allusion directe au nom de la malheureuse mère. C'est ainsi que sur la pierre tumulaire d'une autre dame romaine, nommée _Labéria Daphné_, on avait sculpté l'image de la nymphe Daphné changée en laurier.* A cet exemple, j'en pourrais ajouter beaucoup d'autres analogues, que je juge inutile de rapporter. Mais je ne puis me dispenser de faire remarquer comment de la composition du sujet qui décore l'urne consacrée par Cypris ressort la preuve incontestable que ce nom s'était perpétué, chez les Romains, comme nom de femme, et que son identité avec le mot cyprès n'était pas mise en doute.
+
+*) _Roman. urb. topogr. et antiquit._ pars 6., tab. 62 (Francof. 1597-1602).
+
+*) _L'Antiquité expliquée_, t. 5., 1re partie, p. 72, pl. 43.
+
+*) Cette inscription est ainsi conçue :  
+PATREM • MATREM •  
+LIBEROS •  
+VNA • LVES • SVSTVLIT •  
+LACRVMIS • (_sic_)  
+CONFECTA • CYPRIS •  
+FILIO • ET • NEPOTIBVS •
+
+*) Fabretti, _Inscript._ C. 3., n° 37., p. 186.
 
 Un autre monument funéraire, quoiqu'il ait été rapporté de Smyrne et qu'on y lise une inscription grecque, doit trouver place ici parmi ceux qui appartiennent à l'époque romaine. C'est un sarcophage dont Patin* a publié la description et un dessin. Il renfermait la dépouille mortelle d'un jeune personnage nommé dans l'épitaphe* _Lucius Murdius Héraclas_, et resté inconnu dans l'histoire. Un bas-relief, qui décore la face antérieure du sarcophage, nous montre Héraclas monté sur un cheval. Suivi d'un serviteur et d'un chien, il s'avance pour faire une libation sur un autel allumé ; à côté de cet autel, un serpent s'enroule autour du tronc d'un cyprès pyramidal.* Pouvait-on exprimer par un emblème plus significatif la double idée de vie et d'immortalité ? et cette double idée ne semble-t-elle pas en harmonie avec la qualification de _héros_ qui, dans l'épitaphe d'Héraclas, comme dans toutes les inscriptions funéraires, se traduit par _défunt_, mais qui implique l'idée de l'apothéose, ou, tout au moins, de l'immortalité ?
 
