@@ -474,7 +474,7 @@ C'est-à-dire : « Iarchi, fils de Chaliphe (ou Kalife), fils de Iarchi, fils de
 
 *) ירחי, _Iarchi_, de ירח, « luna, mensis. » (Note de M. le duc de Luynes.)
 
-*) חליפי, _Chalifi_, de חלף, « successit, vires obtinuit ; » cf. _chalife_, [ARABIC]. _Idem._
+*) חליפי, _Chalifi_, de חלף, « successit, vires obtinuit ; » cf. _chalife_, خَلِيفَة. _Idem._
 
 *) לשמששערו, _Lasemescear_, ou de לשמש, _Lasemes_, « solis ; » שׁער, _scear_, « porta. » _Id._
 
