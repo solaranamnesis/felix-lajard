@@ -1612,7 +1612,7 @@ Tout n'est pas dit, sans doute, sur les traces qui peuvent rester du culte du cy
 
 Je ne serais pas davantage en mesure de parler avec quelque certitude des idées que les Chinois* et les Japonais attachaient anciennement ou attachent maintenant encore au cyprès pyramidal, si notre confrère M. Stanislas Julien, dont l'obligeance est aussi inépuisable que le savoir, n'avait eu, à ma prière, la complaisance de rechercher dans les livres chinois et de traduire en français les passages ou les articles qui se rapportent à l'arbre appelé _pe_. C'est le nom qu'en Chine et au Japon on donne au cyprès. Voici les extraits que le savant sinologue a bien voulu me communiquer :
 
-« Pe 柏, cyprès (_Pen-tsa'o-kang-mo_, liv. 34.). »
+« _Pe_ 柏, cyprès (_Pen-tsa'o-kang-mo_, liv. 34.). »
 
 « Li-chi-tchin (le compilateur du _Pen-tsao_) s'exprime ainsi d'après le dictionnaire _Lou-chou-tsing-wen_, de Weï-tseu-thsaï : »
 
