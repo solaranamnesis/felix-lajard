@@ -6,9 +6,10 @@
 \cftsetindents{subsubsection}{3em}{7em}
 \cftsetindents{subsection}{3em}{6em}
 \cftsetindents{section}{3em}{6em}
-
+\usepackage{float}
 \usepackage{svg}
-
+\usepackage{pdflscape}
+\usepackage{graphicx}
 \usepackage{microtype}
 \usepackage{fontspec}
 \usepackage{polyglossia}
@@ -1080,7 +1081,15 @@ N° 1. Face antérieure d'un autel ou cippe votif, palmyrénien, à quatre faces
 N° 2. Face postérieure du même monument.
 \vspace*{\fill}
 \clearpage
-
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.9\textheight,keepaspectratio]{figures/plate-001.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 \subsection{Planche 2}
 \vspace*{\fill}
 N° 1. Face latérale gauche du même monument.
@@ -1088,7 +1097,15 @@ N° 1. Face latérale gauche du même monument.
 N° 2. Face latérale droite du même monument.
 \vspace*{\fill}
 \clearpage
-
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.9\textheight,keepaspectratio]{figures/plate-002.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 \subsection{Planche 3}
 \vspace*{\fill}
 N° 1. Bas-relief votif, palmyrénien, de marbre. Hauteur, 4 palmes rom. et 4/12 ; largeur, 3 palmes romains. \emph{Musée capitolin.}
@@ -1100,7 +1117,15 @@ N° 3. Médaille autonome de Mostène (Lydie). BR. \emph{Bibliothèque impérial
 N° 4. Grand bronze d'Hadrien, frappé dans la même ville. \emph{Même collection.}
 \vspace*{\fill}
 \clearpage
-
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.9\textheight,keepaspectratio]{figures/plate-003.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 \subsection{Planche 4}
 \vspace*{\fill}
 N° 1. Statuette inédite de bronze, provenant d'un \emph{sacellum} pratiqué dans les flancs d'une montagne située à 20 kilomètres environ de Seyde (Syrie). Hauteur de la statuette, 50 centimètres. \emph{Cabinet de M. le duc de Luynes.}
@@ -1114,7 +1139,15 @@ N° 4. Médaillon de bronze, frappé à Éphèse (Ionie) en l'honneur d'Antonin 
 N° 5. Autre médaillon de bronze, frappé à Éphèse en l'honneur du même empereur. \emph{Même collection.}
 \vspace*{\fill}
 \clearpage
-
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.9\textheight,keepaspectratio]{figures/plate-004.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 \subsection{Planche 5}
 \vspace*{\fill}
 N° 1. Petit trône votif, de bronze, inédit, et vu de face. Hauteur, 28 à 29 centimètres ; largeur, 12 à 13 centimètres. \emph{Bibliothèque impériale.}
@@ -1122,7 +1155,15 @@ N° 1. Petit trône votif, de bronze, inédit, et vu de face. Hauteur, 28 à 29 
 N° 2. Le même monument, vu de profil.
 \vspace*{\fill}
 \clearpage
-
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.9\textheight,keepaspectratio]{figures/plate-005.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 \subsection{Planche 6}
 \vspace*{\fill}
 N° 1. Moyen bronze de Caracalla, frappé dans l'île d'Aradus (Phénicie). \emph{Bibliothèque impériale.}
@@ -1140,7 +1181,15 @@ N° 6. Développement de la périphérie d'un petit vase funéraire, d'argent, i
 N° 6. \emph{a.} Réduction de la forme de ce vase.
 \vspace*{\fill}
 \clearpage
-
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.9\textheight,keepaspectratio]{figures/plate-006.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 \subsection{Planche 7}
 \vspace*{\fill}
 N° 1. Monnaie coloniale de Damascus, à l'effigie de Philippe fils. BR. \emph{Bibliothèque impériale.}
@@ -1156,7 +1205,15 @@ N° 5. Autre monnaie coloniale de Tyr, à l'effigie de Caracalla. BR. \emph{Mêm
 N° 6. Petite plaque de bronze, gravée en creux, inédite, acquise à Rome par M. le professeur Édouard Gerhard, et déposée au \emph{Musée royal de Berlin}.
 \vspace*{\fill}
 \clearpage
-
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.9\textheight,keepaspectratio]{figures/plate-007.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 \subsection{Planche 8}
 \vspace*{\fill}
 N° 1. Moyen bronze d'Élagabale, frappé à Tripolis de Phénicie. \emph{Bibliothèque impériale.}
@@ -1182,7 +1239,13 @@ N° 10. Monnaie coloniale de Bostra (Arabie), à l'effigie de Trajan Dèce. BR. 
 N° 11. Monnaie autonome d'Anticaria (Bétique). BR. Autrefois dans le musée Hédervar. Possesseur actuel non connu.
 \vspace*{\fill}
 \clearpage
-
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.85\textheight,keepaspectratio]{figures/plate-008.jpg}
+\end{figure}
+\vspace*{\fill}
+\clearpage
 \subsection{Planche 9}
 \vspace*{\fill}
 N° 1. Cylindre de stéatite, vert foncé, à taches rougeâtres. Autrefois dans la collection de M. J. Robert Steuart. Possesseur actuel non connu.
@@ -1196,7 +1259,13 @@ N° 4. Cylindre de stéatite verte. Légende en caractères inconnus, offrant pe
 N° 5. Cylindre de talc ollaire, vert-noir.\footnote{Hématite, selon M. Hawkins.} Collection de M. Cl. Scott Steuart, acquise par le \emph{Musée britannique.}
 \vspace*{\fill}
 \clearpage
-
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.85\textheight,keepaspectratio]{figures/plate-009.jpg}
+\end{figure}
+\vspace*{\fill}
+\clearpage
 \subsection{Planche 10}
 \vspace*{\fill}
 N° 1. Table ou autel chargé d'offrandes et tiré d'une stèle égyptienne. \emph{Musée britannique.}
@@ -1210,19 +1279,39 @@ N° 4. Figure représentant le mois de \emph{tôbi}, et tirée d'un des bas-reli
 N° 5. Même figure, tirée d'un autre bas-relief du même temple.
 \vspace*{\fill}
 \clearpage
-
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.9\textheight,keepaspectratio]{figures/plate-010.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 \subsection{Planche 11}
 \vspace*{\fill}
 Stèle égyptienne, inédite, de pierre calcaire. \emph{Musée du Louvre.}
 \vspace*{\fill}
 \clearpage
-
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.85\textheight,keepaspectratio]{figures/plate-011.jpg}
+\end{figure}
+\vspace*{\fill}
+\clearpage
 \subsection{Planche 12}
 \vspace*{\fill}
 Dessin au trait d'une peinture à fresque, découverte à Pompeï en 1833 ou 1834.
 \vspace*{\fill}
 \clearpage
-
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.9\textwidth,keepaspectratio]{figures/plate-012.jpg}
+\end{figure}
+\vspace*{\fill}
+\clearpage
 \subsection{Planche 13}
 \vspace*{\fill}
 N° 1. Monnaie autonome coloniale, inédite, d'Alexandria-Troas. \emph{Bibliothèque impériale.}
@@ -1236,7 +1325,15 @@ N° 4. Urne cinéraire étrusque, de terre cuite, sans couvercle, vendue aux enc
 N° 5. Urne cinéraire étrusque, de terre cuite, inédite, ayant son couvercle, et vendue aux mêmes enchères. Possesseur actuel non connu.
 \vspace*{\fill}
 \clearpage
-
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.75\textheight,keepaspectratio]{figures/plate-013.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 \subsection{Planche 14}
 \vspace*{\fill}
 N° 1. Moyen bronze d'Aurélien, frappé à Perga (Pamphylie). \emph{Biblioth. imp.}
@@ -1250,13 +1347,27 @@ N° 4. Face latérale gauche du même monument.
 N° 5. Face latérale droite du même monument.
 \vspace*{\fill}
 \clearpage
-
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.7\textheight,keepaspectratio]{figures/plate-014.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 \subsection{Planche 15}
 \vspace*{\fill}
 Bas-relief mithriaque romain, de marbre, trouvé, il y a peu d'années, aux environs de Carlsbourg en Transylvanie. Possesseur non connu.
 \vspace*{\fill}
 \clearpage
-
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.85\textheight,keepaspectratio]{figures/plate-015.jpg}
+\end{figure}
+\vspace*{\fill}
+\clearpage
 \subsection{Planche 16}
 \vspace*{\fill}
 N°s 1, 2, 3 et 4. Développement du sujet représenté en relief sur le bord intérieur d'un plat d'argent, rond, fourré de bronze, inédit, et trouve sur les bords du Rhin. \emph{Biblioth. imp.}
@@ -1266,7 +1377,15 @@ N° 5. Médaillon en relief, qui orne le fond du même plat.
 N° 6. Profil ou forme extérieure de ce plat. Diamètre, 354 millimètres.
 \vspace*{\fill}
 \clearpage
-
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.85\textheight,keepaspectratio]{figures/plate-016.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 \subsection{Planche 17}
 \vspace*{\fill}
 N°s 1, 2 et 3. Développement du sujet représenté en relief sur le bord intérieur d'un plat d'argent, rond, très-peu profond, et inédit, qui fait partie du trésor découvert, en 1830, à Berthouville, près de Bernay (Eure). \emph{Bibliothèque impériale.}
@@ -1274,7 +1393,15 @@ N°s 1, 2 et 3. Développement du sujet représenté en relief sur le bord inté
 N° 4. Profil ou forme extérieure de ce plat. Diamètre, 355 millimètres.
 \vspace*{\fill}
 \clearpage
-
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.85\textheight,keepaspectratio]{figures/plate-017.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 \subsection{Planche 18}
 \vspace*{\fill}
 N° 1. Médaillon en relief, dont est orné le fond du plat d'argent représenté sur la planche précédente.
@@ -1286,7 +1413,13 @@ N° 3. Médaille contorniate, à l'effigie de Vespasien. \emph{Bibliothèque imp
 N° 4. Autre médaille contorniate, à l'effigie d'un personnage inconnu. \emph{Même collection.}
 \vspace*{\fill}
 \clearpage
-
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.85\textheight,keepaspectratio]{figures/plate-018.jpg}
+\end{figure}
+\vspace*{\fill}
+\clearpage
 \subsection{Planche 19}
 \vspace*{\fill}
 N° 1. Lampe sépulcrale, de terre cuite rougeâtre. Autrefois dans la collection de Bellori. Possesseur actuel non connu.
@@ -1294,7 +1427,15 @@ N° 1. Lampe sépulcrale, de terre cuite rougeâtre. Autrefois dans la collectio
 N° 2. Autre lampe sépulcrale, de même matière. En vente à Paris, ainsi que la précédente, il y a peu d'années. Autrefois dans la collection de Sante Bartoli. Possesseur actuel non connu.
 \vspace*{\fill}
 \clearpage
-
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.9\textheight,keepaspectratio]{figures/plate-019.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 \subsection{Planche 20}
 \vspace*{\fill}
 N° 1. Lampe sépulcrale, chrétienne, de terre cuite rougeâtre, inédite. En vente à Paris, chez un marchand d'antiquités, il y a peu d'années. Possesseur actuel non connu.
@@ -1308,6 +1449,15 @@ N° 4. Autre médaille autonome de la même ville. BR. Grand module. \emph{Même
 N° 5. Disque d'argent, provenant d'un trésor trouvé dans la terre, en 1836, à Notre-Dame d'Alençon, près de Brissac (Maine-et-Loire). \emph{Musée du Louvre.}
 \vspace*{\fill}
 \clearpage
+\begin{landscape}
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.85\textheight,keepaspectratio]{figures/plate-020.jpg}
+\end{figure}
+\vspace*{\fill}
+\end{landscape}
+\clearpage
 
 \subsection{Planche 21}
 \vspace*{\fill}
@@ -1318,5 +1468,11 @@ N° 2. Autre petit bronze d'Antonin le Pieux, frappé dans la même ville. Même
 N° 3. Lampe sépulcrale, chrétienne, de terre cuite rougeâtre. Autrefois dans la collection de Bellori, maintenant au \emph{Musée royal de Berlin}.
 \vspace*{\fill}
 \clearpage
-
+\vspace*{\fill}
+\begin{figure}[H]
+\centering
+\includegraphics[height=0.85\textheight,keepaspectratio]{figures/plate-021.jpg}
+\end{figure}
+\vspace*{\fill}
+\clearpage
 \end{document}
