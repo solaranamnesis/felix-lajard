@@ -3909,7 +3909,7 @@ N° 4\. Autre médaille autonome de la même ville. BR. Grand module. _Même col
 
 N° 5\. Disque d'argent, provenant d'un trésor trouvé dans la terre, en 1836, à Notre-Dame d'Alençon, près de Brissac (Maine-et-Loire). _Musée du Louvre._
 
-## Planche 21.
+## [Planche 21.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/plate-021.jpg)
 
 N° 1\. Petit bronze d'Antonin le Pieux, frappé à Épidaure (Argolide). Autrefois dans le musée Hédervar ; maintenant dans le médaillier de la _Bibliothèque impériale._
 
