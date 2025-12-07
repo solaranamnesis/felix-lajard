@@ -3707,7 +3707,7 @@ Si donc les premiers chrétiens plaçaient le cyprès pyramidal sur leurs pierre
 
 # Explication des planches.
 
-## Planche 1re.
+## [Planche 1re.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-001.jpg)
 
 N° 1\. Face antérieure d'un autel ou cippe votif, palmyrénien, à quatre faces, et de marbre. Hauteur, 3 palmes romains et 10/12 ; largeur, 2 palmes romains et 5/12.* _Musée capitolin._
 
@@ -3715,13 +3715,13 @@ N° 1\. Face antérieure d'un autel ou cippe votif, palmyrénien, à quatre face
 
 N° 2\. Face postérieure du même monument.
 
-## Planche 2.
+## [Planche 2.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-002.jpg)
 
 N° 1\. Face latérale gauche du même monument.
 
 N° 2\. Face latérale droite du même monument.
 
-## Planche 3.
+## [Planche 3.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-003.jpg)
 
 N° 1\. Bas-relief votif, palmyrénien, de marbre. Hauteur, 4 palmes rom. et 4/12 ; largeur, 3 palmes romains. _Musée capitolin._
 
@@ -3731,7 +3731,7 @@ N° 3\. Médaille autonome de Mostène (Lydie). BR. _Bibliothèque impériale._
 
 N° 4\. Grand bronze d'Hadrien, frappé dans la même ville. _Même collection._
 
-## Planche 4.
+## [Planche 4.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-004.jpg)
 
 N° 1\. Statuette inédite de bronze, provenant d'un _sacellum_ pratiqué dans les flancs d'une montagne située à 20 kilomètres environ de Seyde (Syrie). Hauteur de la statuette, 50 centimètres. _Cabinet de M. le duc de Luynes._
 
@@ -3743,13 +3743,13 @@ N° 4\. Médaillon de bronze, frappé à Éphèse (Ionie) en l'honneur d'Antonin
 
 N° 5\. Autre médaillon de bronze, frappé à Éphèse en l'honneur du même empereur. _Même collection._
 
-## Planche 5.
+## [Planche 5.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-005.jpg)
 
 N° 1\. Petit trône votif, de bronze, inédit, et vu de face. Hauteur, 28 à 29 centimètres ; largeur, 12 à 13 centimètres. _Bibliothèque impériale._
 
 N° 2\. Le même monument, vu de profil.
 
-## Planche 6.
+## [Planche 6.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-006.jpg)
 
 N° 1\. Moyen bronze de Caracalla, frappé dans l'île d'Aradus (Phénicie). _Bibliothèque impériale._
 
@@ -3765,7 +3765,7 @@ N° 6\. Développement de la périphérie d'un petit vase funéraire, d'argent, 
 
 N° 6\. _a._ Réduction de la forme de ce vase.
 
-## Planche 7.
+## [Planche 7.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-007.jpg)
 
 N° 1\. Monnaie coloniale de Damascus, à l'effigie de Philippe fils. BR. _Bibliothèque impériale._
 
@@ -3779,7 +3779,7 @@ N° 5\. Autre monnaie coloniale de Tyr, à l'effigie de Caracalla. BR. _Même co
 
 N° 6\. Petite plaque de bronze, gravée en creux, inédite, acquise à Rome par M. le professeur Édouard Gerhard, et déposée au _Musée royal de Berlin_.
 
-## Planche 8.
+## [Planche 8.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-008.jpg)
 
 N° 1\. Moyen bronze d'Élagabale, frappé à Tripolis de Phénicie. _Bibliothèque impériale._
 
@@ -3805,7 +3805,7 @@ N° 10\. Monnaie coloniale de Bostra (Arabie), à l'effigie de Trajan Dèce. BR.
 
 N° 11\. Monnaie autonome d'Anticaria (Bétique). BR. Autrefois dans le musée Hédervar. Possesseur actuel non connu.
 
-## Planche 9.
+## [Planche 9.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-009.jpg)
 
 N° 1\. Cylindre de stéatite, vert foncé, à taches rougeâtres. Autrefois dans la collection de M. J. Robert Steuart. Possesseur actuel non connu.
 
@@ -3819,7 +3819,7 @@ N° 5\. Cylindre de talc ollaire, vert-noir.* Collection de M. Cl. Scott Steuart
 
 *) Hématite, selon M. Hawkins.
 
-## Planche 10.
+## [Planche 10.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-010.jpg)
 
 N° 1\. Table ou autel chargé d'offrandes et tiré d'une stèle égyptienne. _Musée britannique._
 
@@ -3831,15 +3831,15 @@ N° 4\. Figure représentant le mois de _tôbi_, et tirée d'un des bas-reliefs 
 
 N° 5\. Même figure, tirée d'un autre bas-relief du même temple.
 
-## Planche 11.
+## [Planche 11.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-011.jpg)
 
 Stèle égyptienne, inédite, de pierre calcaire. _Musée du Louvre._
 
-## Planche 12.
+## [Planche 12.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-012.jpg)
 
 Dessin au trait d'une peinture à fresque, découverte à Pompeï en 1833 ou 1834.
 
-## Planche 13.
+## [Planche 13.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-013.jpg)
 
 N° 1\. Monnaie autonome coloniale, inédite, d'Alexandria-Troas. _Bibliothèque impériale._
 
@@ -3851,7 +3851,7 @@ N° 4\. Urne cinéraire étrusque, de terre cuite, sans couvercle, vendue aux en
 
 N° 5\. Urne cinéraire étrusque, de terre cuite, inédite, ayant son couvercle, et vendue aux mêmes enchères. Possesseur actuel non connu.
 
-## Planche 14.
+## [Planche 14.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-014.jpg)
 
 N° 1\. Moyen bronze d'Aurélien, frappé à Perga (Pamphylie). _Biblioth. imp._
 
@@ -3863,11 +3863,11 @@ N° 4\. Face latérale gauche du même monument.
 
 N° 5\. Face latérale droite du même monument.
 
-## Planche 15.
+## [Planche 15.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-015.jpg)
 
 Bas-relief mithriaque romain, de marbre, trouvé, il y a peu d'années, aux environs de Carlsbourg en Transylvanie. Possesseur non connu.
 
-## Planche 16.
+## [Planche 16.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-016.jpg)
 
 N°s 1, 2, 3 et 4. Développement du sujet représenté en relief sur le bord intérieur d'un plat d'argent, rond, fourré de bronze, inédit, et trouve sur les bords du Rhin. _Biblioth. imp._
 
@@ -3875,13 +3875,13 @@ N° 5\. Médaillon en relief, qui orne le fond du même plat.
 
 N° 6\. Profil ou forme extérieure de ce plat. Diamètre, 354 millimètres.
 
-## Planche 17.
+## [Planche 17.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-017.jpg)
 
 N°s 1, 2 et 3. Développement du sujet représenté en relief sur le bord intérieur d'un plat d'argent, rond, très-peu profond, et inédit, qui fait partie du trésor découvert, en 1830, à Berthouville, près de Bernay (Eure). _Bibliothèque impériale._
 
 N° 4\. Profil ou forme extérieure de ce plat. Diamètre, 355 millimètres.
 
-## Planche 18.
+## [Planche 18.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-018.jpg)
 
 N° 1\. Médaillon en relief, dont est orné le fond du plat d'argent représenté sur la planche précédente.
 
@@ -3891,13 +3891,13 @@ N° 3\. Médaille contorniate, à l'effigie de Vespasien. _Bibliothèque impéri
 
 N° 4\. Autre médaille contorniate, à l'effigie d'un personnage inconnu. _Même collection._
 
-## Planche 19.
+## [Planche 19.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-019.jpg)
 
 N° 1\. Lampe sépulcrale, de terre cuite rougeâtre. Autrefois dans la collection de Bellori. Possesseur actuel non connu.
 
 N° 2\. Autre lampe sépulcrale, de même matière. En vente à Paris, ainsi que la précédente, il y a peu d'années. Autrefois dans la collection de Sante Bartoli. Possesseur actuel non connu.
 
-## Planche 20.
+## [Planche 20.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-020.jpg)
 
 N° 1\. Lampe sépulcrale, chrétienne, de terre cuite rougeâtre, inédite. En vente à Paris, chez un marchand d'antiquités, il y a peu d'années. Possesseur actuel non connu.
 
@@ -3909,7 +3909,7 @@ N° 4\. Autre médaille autonome de la même ville. BR. Grand module. _Même col
 
 N° 5\. Disque d'argent, provenant d'un trésor trouvé dans la terre, en 1836, à Notre-Dame d'Alençon, près de Brissac (Maine-et-Loire). _Musée du Louvre._
 
-## [Planche 21.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/plate-021.jpg)
+## [Planche 21.](https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/figures/plate-021.jpg)
 
 N° 1\. Petit bronze d'Antonin le Pieux, frappé à Épidaure (Argolide). Autrefois dans le musée Hédervar ; maintenant dans le médaillier de la _Bibliothèque impériale._
 
