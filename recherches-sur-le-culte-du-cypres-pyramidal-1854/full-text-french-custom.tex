@@ -2,10 +2,10 @@
 \documentclass{article}
 
 \setlength{\emergencystretch}{100pt}
-
+\usepackage{fancyhdr}
 \usepackage{sectsty}
 \usepackage{tocloft}
-\allsectionsfont{\tiny}
+\allsectionsfont{\footnotesize}
 \sectionfont{\small}
 \subsectionfont{\small}
 \subsubsectionfont{\small}
@@ -201,9 +201,17 @@
 
 \begin{document}
 
-\renewcommand\thefootnote{\tiny\arabic{footnote}}
+\renewcommand\thefootnote{\bfseries\tiny\arabic{footnote}}
 \let\oldfootnote\footnote
-    \renewcommand{\footnote}[1]{\tiny\oldfootnote{#1}}
+    \renewcommand{\footnote}[1]{\oldfootnote{\bfseries\tiny#1}}
+\bfseries
+\fancypagestyle{plain}{%
+\fancyhf{} % clear all header and footer fields
+\fancyfoot[C]{\bfseries\scriptsize\thepage} % except the center
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+}
+\pagestyle{plain}
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	%\scshape % Use small caps for all text on the title page
@@ -217,7 +225,7 @@
 	
 	\vspace{1\baselineskip} % Whitespace above the title
 	
-	{\Huge\smallcaps{Recherches sur le Culte \\ du Cyprès pyramidal \\ chez les \\ Peuples civilisés \\ de \\ l'Antiquité}}
+	{\normalsize\smallcaps{Recherches sur le Culte du Cyprès pyramidal \\ chez les Peuples civilisés de l'Antiquité}}
 	
 	\vspace{1\baselineskip} % Whitespace above the title
 
@@ -231,7 +239,7 @@
 	%————————————————
 	
 
-        {\smallcaps{Par \\\large M. Félix Lajard}}
+        {\smallcaps{Par M. Félix Lajard}}
  ‌
 	%————————————————
 	%	Editor(s)
@@ -240,22 +248,22 @@
 
         \vspace{1.0\baselineskip}
 
-        {\small\smallcaps{Mémoires de l'Institut de France}}
+        {\footnotesize\smallcaps{Mémoires de l'Institut de France}}
 	    
-	    {\footnotesize\smallcaps{Académie des Inscriptions et Belles-Lettres \\ Tome Vingtième}}
+	    {\tiny\smallcaps{Académie des Inscriptions et Belles-Lettres \\ Tome Vingtième}}
         
 	    \vspace{1\baselineskip}
 
-        {\small\smallcaps{Paris 1854}}
+        {\footnotesize\smallcaps{Paris 1854}}
 		
 	    \vspace{0.25\baselineskip} % Whitespace after the title block
 
-        {\small\smallcaps{Solar Anamnesis Edition}}% Publication year}
+        {\footnotesize\smallcaps{Solar Anamnesis Edition}}% Publication year}
     
-	{\footnotesize\smallcaps{CC0 1.0 Universal}} % Publisher
+	{\tiny\smallcaps{Attribution — Partage dans les mêmes conditions 4.0 International}} % Publisher
 \end{titlepage}
 \clearpage
-\tiny
+\footnotesize
 \tableofcontents
 \clearpage
 \section*{Introduction}
@@ -411,7 +419,7 @@ Si du royaume d'Arménie nous descendons dans une contrée voisine, la Commagèn
 
 Dans un autre pays voisin de l'Arménie et de la Commagène, l'antique Phrygie, dont les origines ne sont pas mieux connues que celles de l'empire assyrien et du royaume fondé dans la Babylonie, le culte du cyprès, dès une époque antérieure à la guerre de Troie, s'y montre uni à celui de Rhéa et de Vénus, divinités primitivement identiques, qui, dans la suite des temps, conservèrent chacune, au nombre de leurs symboles ou attributs, le lion, le taureau, et non-seulement le cyprès, mais aussi le pin, deux arbres mystiques que nous retrouvons, avec le lion et le taureau, dans la légende de Mithra. Au moment de fuir des murs d'Ilion embrasé, Énée indique, pour point de ralliement, aux malheureux Troyens qui veulent partager son sort, un antique cyprès que, depuis longues années, leur dit-il, conserve la piété de nos pères. Cet arbre vénéré était planté hors de la ville, à côté d'un temple abandonné de Cérès ou Rhéa :
 
-\begin{quotation}
+\begin{quotation}\tiny\bfseries
 Est urbe egressis tumulus, templumque vetustum
 
 Desertæ Cereris, juxtaque antiqua cupressus
@@ -512,7 +520,7 @@ Au-delà de l'Indus et de ses affluents, dans l'Inde anglaise, le cyprès pyrami
 
 Il n'en est pas de même des arbres dont nous parlent certaines traditions qui de l'Orient étaient passées en Occident, et qui, à l'époque de la décadence, avaient cours encore dans l'empire romain.\footnote{Le culte des arbres et les idées superstitieuses qu'il avait fait naître se perpétuèrent d'âge en âge dans l'Orient, comme dans l'Occident ; l'islamisme, non plus que le christianisme, ne parvint jamais à en faire disparaître les dernières traces. L'empereur Julien, qui, loin de répudier les superstitions du paganisme défaillant, s'efforçait de leur rendre la vie, croyait aux songes et au rôle qu'y jouent les arbres en particulier. Dans une lettre que, pendant ses démêlés avec l'empereur Constance, il écrivait à Oribase (\emph{Epistol.} 17.), il raconte à ce médecin qu'il a vu en songe deux arbres : des racines de l'un, qui était vieux et couché sur le sol, il en sortait un autre, jeune, vigoureux et encore debout. Ce songe avait jeté du trouble dans l'esprit de Julien ; mais un génie lui apparut, et le rassura un peu en lui disant que le jeune arbre resterait intact et recevrait même des forces nouvelles.} Si ces traditions ne nous ont été conservées que dans des ouvrages où elles sont accompagnées de circonstances plus ou moins merveilleuses, fabuleuses, incroyables, on ne peut cependant, à mon avis, leur dénier toute authenticité, ni méconnaître que, quant au fond, elles ont une origine ancienne. Ainsi, par exemple, dans l'histoire fabuleuse d'Alexandre le Grand, nous voyons le conquérant macédonien, à son arrivée dans l'Inde, consulter l'\emph{arbre du soleil} et l'\emph{arbre de la lune}, qui lui répondent en indien et en grec,\footnote{C'est sans doute à l'oracle rendu par ces deux arbres que fait allusion la carte de Peutinger, par ces mots tracés à l'extrémité nord-est de l'Asie : \emph{Hic Alexander responsum accepit}. Nous lisons dans la \emph{Vie d'Apollonius de Tyane}, par Philostrate (6., 10.), que, sur l'ordre de Thespésion, chef des gymnosophistes, un ormeau salua Apollonius en lui adressant la parole d'une manière distincte et d'une voix semblable à celle d'une femme.} et qui, ajoute Julius Valérius,\footnote{\emph{Res gest. Alexandr.} 3., 38-42.} \emph{ressemblaient à des cyprès} de l'espèce appelée, selon lui, \emph{mirobolani}. Dans la lettre \emph{De mirabilibus Indiæ}, attribuée au même conquérant, il est question de l'\emph{arbre du soleil} et de ses fruits\footnote{Cf. Silv. Girald. \emph{Topograph. hibern.} pars 2., cap. 4. Petri Cosmetoris \emph{Scholastic. Histor.} Argentor. 1515, in-4°. --- Le célèbre voyageur Marco Polo, visitant l'Asie vers la fin du 13\textsuperscript{e} siècle, rapporte, au chapitre 40. (27.) de sa relation, que, dans la province de \emph{Tonocaïn} ou \emph{Timochaïn}, on trouve l'\emph{arbre seul}, appelé par les chrétiens l'\emph{arbre sèche} (voy. \emph{Recueil de voyag. et de mém.} publié par la Soc. franç. de Géogr. Paris, 1824, in-4°, tom. 1., p. 37, 38, et p. 326). Les manuscrits donnent les curieuses variantes : \emph{arbore del Sole, arbon Solis}. D'autre part, les voyageurs et les romanciers des 13\textsuperscript{e} et 14\textsuperscript{e} siècles emploient les expressions \emph{sec-arbre}, \emph{sech-arbre} ou \emph{arbre-sec}, pour désigner tantôt un arbre de la vallée de Mambré, aux environs de la mer Morte (Mandeville, Relation de ses voyages, mss. français de la Biblioth. impériale, n° 8392, fol. 157 v°), tantôt et plus généralement les terres mêmes situées à l'extrémité de l'Asie orientale. Voy. \emph{Roman du comte de Poitiers} (13\textsuperscript{e} siècle), publié par M. Francisque Michel (Paris, 1831, in-8°), p. 54, v. 1286 ; p. 68, v. 1636 ; et la \emph{Note supplémentaire} à ce roman, placée à la suite du \emph{Roman de Mahomet et Livre de la loi au Sarrazin} (14\textsuperscript{e} siècle), par MM. Reinaud et Fr. Michel. Les savants éditeurs n'ont pas omis de faire remarquer que le passage de Mandeville sur l'\emph{arbre-sec} manque dans l'édition de la relation de ce voyageur qui fait partie du recueil de Bergeron, édition d'ailleurs fautive et incomplète. Ce passage se trouve dans les manuscrits, dans les éditions en caractères gothiques et dans la traduction allemande.} ; les arbres sacrés des Indiens y sont également assimilés à des cyprès.\footnote{« In medio autem luci sacratæ arbores, simillimæ cupressis frondium genere, pedum altæ centenorum, erant, quas \emph{Betrionas} Indi appellant. »} Or peut-on se défendre de rapprocher de ces traditions les monuments figurés asiatiques où nous avons reconnu le cyprès du soleil et le cyprès de la lune, et notamment les médailles impériales de Perga, qui nous ont montré l'\emph{arbre du soleil} et l'\emph{arbre de la lune} représentés par deux cyprès pyramidaux surmontés, l'un, de l'astérisque du soleil, l'autre, du croissant de la lune ? Peut-on aussi se défendre de songer aux médailles occidentales et aux bas-reliefs mithriaques romains dont j'ai déjà dit quelque chose, et où nous allons tout à l'heure retrouver le cyprès du soleil et le cyprès de la lune ? Puis-je enfin m'abstenir de rappeler ici que de l'Orient les traditions relatives à l'\emph{arbre du soleil} et à l'\emph{arbre de la lune} passèrent même dans les sciences et la littérature de l'Europe chrétienne ? Sur quelques cartes géographiques, qui remontent au moyen âge,\footnote{Je crois faire une chose agréable à l'Académie en plaçant ici sous ses yeux une note qu'à ma prière un de mes meilleurs amis, M. le vicomte de Santarem, qui est à la fois un habile homme d'état et un des membres les plus érudits de l'Académie royale de Lisbonne, a eu la complaisance de me remettre. Elle prouvera, s'il en était besoin, combien ce savant est versé dans la connaissance particulière de tous les documents qui appartiennent à l'histoire de la géographie durant le moyen âge :\\\hspace*{5mm}« Au 12\textsuperscript{e} siècle, on remarque, pour la première fois, dans une mappemonde tirée de l'ouvrage manuscrit de Lambertus, intitulé \emph{Floridus}, qui se conserve à la bibliothèque de l'université de Gand et à celle de Paris, la mention de l'\emph{arbre du Soleil} et de l'\emph{arbre de la Lune}. Le cosmographe place ces arbres dans l'\emph{India ultima}, c'est-à-dire à l'orient de la Perse. » ( « Voyez ce monument dans mon Atlas, et l'analyse dans le tome 2., p. 189, de mon \emph{Histoire de la cosmographie et de la cartographie pendant le moyen âge}, etc. » )\\\hspace*{5mm}« Dans la mappemonde du Polychronicon de Ranulphus Hydgen, ( « Cette mappemonde se trouve reproduite dans mon Atlas. Voyez l'analyse dans le tome 2., p. 28, de l'ouvrage cilé. » ) dressée au commencement du 14\textsuperscript{e} siècle (ms. du \emph{British Museum}), on remarque une légende placée dans l'Inde, qui dit : »\\\hspace*{10mm}Hic Alexander petebat responsum ab arboribus.\\\hspace*{5mm}« La même légende se rencontre dans la mappemonde du musée du cardinal Borgia, dressée au commencement du 15\textsuperscript{e} siècle. ( « Voy. ce monument dans mon Atlas, et l'analyse dans le tome 3., p. 28, de mon ouvrage. » ) Dans cette carte, la légende est placée du côté de la Perse. La voici : »\\\hspace*{10mm}Arbores conserti (\emph{sic}) quibus locutus est Alexander. C'est-à-dire :\\\hspace*{5mm}« La forêt d'arbres auxquels Alexandre s'adressa (pour les consulter). »\\\hspace*{5mm}« Enfin, dans la mappemonde tirée du livre très-rare intitulé : \emph{Rudimentum novitiorum}, monument géographique du 14\textsuperscript{e} siècle, copié d'autres plus anciens, on remarque, au midi de la Perse, un arbre supportant les figures du \emph{Soleil} et de la \emph{Lune}, avec cette légende :\\\hspace*{10mm}Arbor Solis et Lune. » ( « Voyez t. 3., p. 239, de mon ouvrage. » )\\\hspace*{5mm}« Le Soleil se trouve placé à droite, et la Lune à gauche. »\\\hspace*{5mm}« D'après le rapprochement que j'ai fait de ces légendes avec la lettre d'Alexandre à sa mère, extraite du Pseudo-Callisthène, j'ai pensé que ces légendes, ainsi que les figures ou emblèmes qu'elles accompagnent, doivent avoir leur origine dans les traditions religieuses de l'ancienne Asie. »\\\hspace*{5mm}« En rapprochant la date de la première croisade de Pierre l'Hermite, qui eut lieu de 1093 à 1094, et la date de la composition de l'ouvrage de Lambertus (1120) où se trouve, pour la première fois, la mention de l'\emph{arbre du soleil} et de l'\emph{arbre de la lune}, il me semble que les cosmographes occidentales ont dû recevoir cette tradition de l'Orient à l'époque des premières croisades. »\\\hspace*{10mm}« Paris, le 22 mars 1852. »\\\hspace*{15mm}« Vte DE SANTAREM. »} ne voyons-nous pas l'Inde ou l'Asie orientale caractérisée par les mots \emph{Arbor Solis et Lune} (\emph{sic}), ou par deux arbres peints ou dessinés, et surmontés des images du Soleil et de la Lune ? Un romancier du 14\textsuperscript{e} siècle\footnote{L'auteur inconnu du roman italien intitulé : \emph{Guarino} ou \emph{Guerino il Meschino}.} n'est-il pas plus explicite encore, lorsque, parlant de l'arbre du soleil et de l'arbre de la lune, il les place sur le mont \emph{Tigrisonte} et les déclare semblables à des cyprès ? Enfin, dans l'ancien poème italien intitulé : \emph{Alessandro Magno} ou \emph{Alessandreide}, et attribué, ainsi que \emph{Il Trojano}, à Jacopo di Carlo, prêtre florentin, les deux arbres fatidiques consultés dans l'Inde par Alexandre le Grand ne sont-ils pas dépeints en ces termes\footnote{Chant 10. ; édit. de Venise, 1627, in-12, fort incorrecte.} ?
 
-\begin{quotation}
+\begin{quotation}\tiny\bfseries
 
 L'arbor del Sole le sue foglie hauia
 
@@ -559,7 +567,7 @@ Je ne serais pas davantage en mesure de parler avec quelque certitude des idées
 
 Plusieurs particularités sont à remarquer dans ces passages importants, dont je ne sache pas que personne ait encore fait usage. Et d'abord, l'affectation que mettent les auteurs chinois à dire que le cyprès se tourne constamment vers le couchant ne soulève-t-elle pas deux questions intéressantes ? Faut-il croire que, par occident, ces auteurs veulent désigner l'empire des morts ? Ou bien devons-nous admettre que, par occident, ils entendent assigner pour patrie à cet arbre l'Asie occidentale, d'où, en effet, il est originaire, et où il jouissait du privilège de représenter symboliquement les dieux créateurs, le soleil, la lune et les planètes ? Il ne m'appartient pas de prononcer ; mais si les Chinois nous disent que le cyprès est placé sous l'influence du principe \emph{In}, qui, chez eux, équivaut au principe femelle ; et s'ils ajoutent que le nom de cet arbre se compose du signe générique \emph{arbre} et du mot qui signifie \emph{blanc}, n'est-il pas très-probable qu'en recevant de l'Asie occidentale le cyprès, leurs ancêtres avaient appris que là cet arbre était particulièrement consacré à une divinité femelle et lunaire ? Et la qualification d'\emph{arbre blanc} ne nous reporte-t-elle pas au \emph{cyprès de la lune}, à ce cyprès qui, selon mes observations, devait être d'argent ou argenté, et que le poète italien cité plus haut\footnote{Ci-dessus, p. 159.} caractérise en disant que ses feuilles sont \emph{blanches} :
 
-\begin{quotation}
+\begin{quotation}\tiny\bfseries
 Si come argento chiare, candidante ?
 \end{quotation}
 
@@ -729,7 +737,7 @@ Une autre tradition, recueillie par Servius,\footnote{\emph{Ad} Virgil. \emph{Æ
 
 Ovide, sur l'autorité, sans doute, de quelque mythographe grec, dont les écrits et même le nom ne nous sont point parvenus\footnote{Voyez, à ce sujet, les observations de Gierig, dans la préface de son édition des \emph{Métamorph. d'Ovide}, et celles de M. Avellino (mémoire cité, p. 13-17, 21).} ; Ovide, le plus ancien des écrivains de l'antiquité qui nous ont conservé la fable de Cyparisse et Apollon ; Ovide\footnote{\emph{Metamorph.} 10., 106-142.} place la scène principale dans l'île de Céos ou Céa,\footnote{Aujourd'hui Zéa.} dans une île presque contiguë à l'Attique, cette célèbre contrée où le culte d'Athéné, la légende et les symboles de la déesse, l'assistance qu'elle prête à Hercule dans ses douze travaux ou ses initiations,\footnote{Voy. surtout les peintures d'une série nombreuse de vases grecs, d'ancien style.} la légende de Thésée et bien d'autres faits, nous révèlent une civilisation importée de l'Asie occidentale. Aussi trouvons-nous dans le récit du docte et ingénieux chantre des Métamorphoses, plus d'un trait qui tout à la fois décèle aussi une origine asiatique et s'accorde avec la fresque de Pompeï. D'autre part, des témoignages authentiques nous apprennent que, sous divers noms et dès une époque reculée, Apollon fut adoré dans l'île de Céos,\footnote{Voy. sur l'île de Céos, sur les ruines de Carthéa et sur le culte d'Apollon dans cette île, les manuscrits autographes et inédits d'Anse de Villoison, déposés à la Bibliothèque impériale (le 3\textsuperscript{e} vol. surtout), et les notes écrites, par le même voyageur, à la marge des pages 15, 16 et suivantes du 2\textsuperscript{e} volume du \emph{Voyage de Tournefort au Levant} (éd. de Lyon, 1727 ; trois vol. in-8°). L'exemplaire se conserve aussi à la Bibliothèque impériale. (Cf. Bröndsted, \emph{Voyag. et Recherch. dans la Grèce}, p. 1-76 ; pl. 8., 16-19.)} et qu'il continua de l'être jusqu'aux derniers temps du paganisme. Il y portait principalement les surnoms d'\emph{Aristée} et de \emph{Carthéen}. De nos jours on a découvert, dans les ruines de Carthée, les restes d'un temple dédié à Apollon Carthéen\footnote{Bröndsted, \emph{ibid.} p. 18 et suiv. pl. 8., 16-19.} ; et c'est aux environs mêmes de Carthée, que, selon le poète latin, Cyparisse tua par mégarde un très-beau cerf objet de tous ses soins, et qui était consacré aux nymphes des champs appelés \emph{carthéens, carthæa arva}. Ce cerf, comme le cyprès, doit être pour nous une image symbolique d'Apollon lui-même.\footnote{A l'appui de cette opinion, j'aurais à citer les témoignages que plusieurs savants archéologues, nommément MM. le duc de Luynes, Raoul-Rochette, Rathgeber, Ph. le Bas, Em. Braun, Avellino, ont produits pour prouver que le cerf et la biche furent consacrés à Apollon, comme à Artémis ou Diane. Je me bornerai à faire une mention particulière des monnaies autonomes de Caulonia, qui nous montrent, au droit, un cerf placé sur un autel, à côté de l'image d'Apollon, et, au revers, un cerf regardant tantôt à droite, tantôt à gauche (voy. l'intéressante notice publiée par M. Émile Braun, dans le \emph{Bulletino dell' Instit. arch.} année 1843, p. 94, 95). C'est ainsi que, sur un des bas-reliefs de l'obélisque de Xanthus, l'image symbolique de Vénus, une vache allaitant son veau, est placée en regard de l'image anthropomorphique de la déesse.} Le portrait qu'en trace Ovide ne permet aucun doute sur ce point : il était très-grand\footnote{« Ingens cervus. »} ; il avait des cornes d'or ou dorées,\footnote{« Cornua fulgebant auro. »} un collier de pierres précieuses, une bulle d'argent suspendue sur le front, ce qui,\footnote{Bulla super frontem parvis argentea loris\\\hspace*{5mm}Vincta movebatur ... ...} pour le dire en passant, caractérisait Apollon comme un dieu solaire et lunaire à la fois.\footnote{Voyez mes observations sur l'emploi simultané de l'or et de l'argent dans les images des divinités (\emph{Recherches sur Vénus}, p. 108-116).} Cette description, que j'abrège, ne se rapporte nullement au quadrupède placé près du siége de Cyparisse, dans la fresque de Pompeï. Les petites proportions que lui a données le peintre ne répondent ni à un cerf ordinaire, ni au cerf des champs carthéens, tel que le poète le dépeint. De plus, l'animal, plein de vie, n'est point dans l'attitude où devrait être un cerf blessé à mort. Ne dirait-on pas plutôt une biche\footnote{Les biches qui jouent un rôle dans les fictions mythologiques des Grecs et des Romains, sont souvent représentées avec un bois de cerf.} ou un jeune cerf apprivoisé, qui tourne la tête vers Cyparisse, pour exprimer qu'il l'aime et qu'il attend de lui un regard, une caresse ? Et si c'est un cerf, comme je suis porté à le croire, ne représente-t-il pas ici symboliquement Apollon lui-même, le protecteur céleste de Cyparisse ? Dans les traditions écrites, le quadrupède tué par Cyparisse est tantôt un cerf,\footnote{Ovide, \emph{loc. cit.} Servius, \emph{ad} Virgil. \emph{Æneid.} 3., 64, 680. Lactantius Placidus, \emph{Argum.} Ovid. \emph{Metamorph.} 10., 3. \emph{Scriptores rer. mythic. latini tres}, t. 1., fab. 177., p. 134.} tantôt une biche\footnote{Servius, \emph{ad} Virgil. \emph{Georgic.} 1., 20. \emph{Scriptores rer. mythic. latini tres}, t. 1., fab. 6., p. 2 ; fab. 178., p. 135.} ; mais le trait principal du mythe, qui, dans la fresque de Pompeï, marque la métamorphose du jeune chasseur, ce trait est fidèlement reproduit dans le récit d'Ovide\footnote{Cette conformité avait tellement frappé M. Avellino, que, selon lui (Mémoire cité, p. 15), l'auteur de la fresque l'aurait peinte, l'imagination pleine des vers d'Ovide. Il a soin de dire que les inscriptions latines trouvées à Pompeï prouvent que les poètes de la haute latinité étaient parfaitement connus dans cette colonie romaine, et il renvoie à l'opuscule de M. Wodsword intitulé : \emph{Inscriptiones pompejanæ} (Lond. 1837). Toutefois les différences que je signale entre le récit du poète et l'œuvre du peintre ne me permettent pas de souscrire sans restriction à l'opinion du docte académicien de Naples.} : le peintre fait naître du sommet de la tête de Cyparisse la cime d'un cyprès pyramidal ; le poète, à son tour, après ces mots caractéristiques, \emph{metas imitata cupressus},\footnote{Il n'est pas sans intérêt de faire remarquer ici que d'autres écrivains latins, pour désigner le cyprès, emploient quelquefois, au lieu de \emph{cupressus}, le mot \emph{cyparissus}, identique avec le nom du personnage changé en cyprès par Apollon. Virgile nous en fournit deux exemples, l'un dans les \emph{Géorgiques} (2., v. 84), le second dans l'\emph{Énéide} (3., v. 680).} dépeint la métamorphose dans les vers que voici :
 
-\begin{quotation}
+\begin{quotation}\tiny\bfseries
 In viridem verti cœperunt membra colorem ;
 
 Et modo, qui nivea pendebant fronte capilli,
@@ -748,7 +756,7 @@ Une autre tradition\footnote{Servius, \emph{ad} Virgil. \emph{Æneid.} 3., 680.}
 
 Enfin quelques écrivains latins substituent le nom de Silvain ou Sylvain à ceux d'Apollon et de Zéphyre dans la légende, de Cyparisse.\footnote{Servius, \emph{ad} Virgil. \emph{Georgic.} 1., 20 ; \emph{ad Eclog.} 10., 26. \emph{Scriptores rer. mythic. latini tres}, t. 1., fab. 6., p. 2 ; fab. 178., p. 135.} Parmi ces écrivains, nous retrouvons Servius, et ici le témoignage qui résulte de sa riche érudition est d'autant plus important qu'il se produit à l'occasion de ce vers où Virgile\footnote{\emph{Georgic.} 1., 20.} nous apprend que l'on représentait Silvain portant à la main un jeune cyprès :
 
-\begin{quotation}
+\begin{quotation}\tiny\bfseries
 Et teneram ab radice ferens, Silvane, cupressum.
 \end{quotation}
 
@@ -849,7 +857,7 @@ Je ne m'arrêterai point à rapporter ici les témoignages des auteurs anciens q
 \paragraph{}
 Les institutions religieuses ou civiles des Étrusques, et les monuments figurés découverts sur le sol qu'habita ce peuple si intéressant à étudier, sont trop fortement empreints tout à la fois de coutumes asiatiques et d'usages propres aux Grecs, pour que le culte du cyprès pyramidal n'ait pas laissé en Étrurie, comme en Grèce, des traces faciles à retrouver. J'ai déjà dit\footnote{Ci-dessus, p. 68 ; p. 215.} que les Étrusques avaient reçu de l'Asie occidentale le culte d'une divinité féminine appelée \emph{Cypra} ou \emph{Cupra},\footnote{Au sujet de cette déesse et de son temple en Étrurie, on peut consulter : Tite-Live, 5., 21., 22. ; cf. 27., 37. Turnèbe, \emph{Advers.} 16., 19. Gori, \emph{Mus. etrusc.} t. 2., p. 84, 164. Passéri, \emph{Dissertat.} 1., \emph{ibid.} t. 3., p. 48. Inghirami, \emph{Monum. etrusc.} t. 2., p. 235, 242. Dr. Frédéric Creuzer, \emph{Symbolik}, t. 2., p. 490 ; t. 3., p. 256, 553, 666, 3\textsuperscript{e} édit. --- Remarquez qu'aucun de ces écrivains n'a aperçu l'identité du nom de \emph{cypra} ou \emph{cupra} avec les noms ou les mots que j'indique un peu plus loin.} nom identique avec celui de \emph{Cypris}, et avec un de ceux du cyprès et du cuivre, arbre et métal consacrés à Vénus. J'ai dit aussi\footnote{Ci-dessus, p. 217, note 2.} que la culture du cyprès, anciennement introduite dans la Grande Grèce, s'y était si bien nationalisée que Caton, traçant aux Romains des préceptes pour la propagation de cet arbre, le désigne sous la dénomination de \emph{cyprès de Tarente} ; mais je n'ai pas encore rapporté un passage de Strabon, qui doit trouver sa place ici. Ce géographe, décrivant le littoral de la Picentine (\emph{Picenum}), s'exprime en ces termes\footnote{\emph{Geogr.} 5., p. 241.} : « De là, on trouve le temple de Cypra (\textgreek{Κύπρα}), bâti par les Tyrrhéniens et dédié par eux à la déesse Héra, que ces peuples révèrent sous le nom de Cypra. » Silius Italicus\footnote{8., 432.} fait allusion à ce temple lorsqu'il dit :
 
-\begin{quotation}
+\begin{quotation}\tiny\bfseries
 Et quis litoreæ fumant altaria Cupræ.
 \end{quotation}
 
@@ -939,7 +947,7 @@ Si, en Orient et en Occident, le cyprès pyramidal fut l'image symbolique et viv
 
 Un fragment d'Asclépiade, conservé par Piérius Valérianus,\footnote{\emph{Hieroglyphica}, lib. 2., cap. 4. --- Je transcris ici en entier le passage de Piérius : « Aiunt enim (Græci), Asclepiadis authoris gravissimi testimonio, Boream, Celtarum regem, cum filiam Cyparissam nomine amisisset, arborem hanc in ejus tumulo sevisse, a qua inde nomen inditum cyparisso : mox a satu illo luctuosam feralemque haberi cœptam. » Ce fragment d'Asclépiade a été reproduit par Werfer dans le tome 2 des \emph{Acta philolog. monacensium}. C'est par erreur que Needham, premier éditeur des \emph{Geoponica}, dit que le P. Rapin a fait entrer dans le deuxième chant de son poème sur les jardins la fable de Cyparisse, fille d'un roi des Celtes. Le P. Rapin n'est coupable que de la témérité d'avoir, après Ovide, essayé de mettre en vers latins la métamorphose de Cyparisse (voy. \emph{Hortorum lib. 4., et cultura hortensis}, 2., v. 395-419, ed. Brotier ; Paris, 1780). Il est fâcheux que le second éditeur des \emph{Geoponica}, Nicolas Niclas, ait reproduit la note de Needham sans relever la méprise que j'indique.} nous apprend, comme je l'ai dit dans mon premier mémoire, que, chez les Grecs, une tradition voulait que le cyprès eût reçu sa signification funéraire et son nom, \emph{cyparissus}, de \emph{Cyparissa}, fille d'un roi des Celtes, nommé \emph{Boreas}, qui, ayant eu le malheur de la perdre, avait planté sur son tombeau un arbre de cette espèce. Sans nous arrêter à un tel récit, remarquons que le témoignage le plus authentique qui nous soit parvenu sur l'emploi de cet arbre dans les anciens rites funéraires, résulte des renseignements recueillis par Virgile, lorsque, se disposant à écrire l'Énéide, il voulait s'y montrer aussi versé dans la connaissance des rites sacrés que le furent Homère, Hésiode, Pindare, Eschyle, Sophocle et tant d'autres poètes de la Grèce. Déjà nous avons vu le chantre latin du fils d'Anchise et de Vénus mettre dans la bouche de son pieux héros des vers qui attestent que, chez les Troyens, le culte du cyprès remontait à une haute antiquité et s'associait au culte de la Mère des Dieux.\footnote{Ci-dessus, p. 80, 81.} Plus loin,\footnote{\emph{Æneid.} 3., 61-67.} il nous montre Énée, occupé, sur les côtes de la Thrace, à rendre les honneurs funèbres aux manes de l'infortuné Polydore, après avoir offert un sacrifice à Vénus, sa mère, et au tout-puissant Jupiter. Par son ordre, des autels funéraires se dressent ; on les couvre de branches de cyprès ; et des femmes troyennes les entourent, les cheveux épars, selon une coutume nationale :
 
-\begin{quotation}
+\begin{quotation}\tiny\bfseries
 ... ... stant manibus aræ
 
 Cæruleis mæstæ vittis atraque cupressu,
@@ -950,7 +958,7 @@ Et circum Iliades crinem de more solutæ.
 \paragraph{}
 Parvenu au rivage que rendait si célèbre l'antre de la sibylle de Cumes, le héros fugitif reçoit de la prêtresse d'Apollon l'injonction de remplir un devoir semblable envers un de ses compagnons d'armes, Misène, dont le corps, à son insu, gisait, sans sépulture, sur le sable de ce rivage. À sa voix, les Troyens élèvent un immense bûcher (\emph{pyra}) de chêne et de bois résineux ; ils y attachent des branches de cyprès, et, en avant, ils plantent des arbres de cette même espèce\footnote{\emph{Æneid.} 6., 211-217. Cf. Servius, \emph{ad} Virgil. \emph{Æneid.} 6., 215, 216.} :
 
-\begin{quotation}
+\begin{quotation}\tiny\bfseries
 Ingentem struxere pyram, cui frondibus atris
 
 Intexunt latera, et ferales ante cupressos
@@ -961,7 +969,7 @@ Constituunt ... ...
 \paragraph{}
 Mais de tels usages avaient, n'en doutons pas, la même origine que la coutume de consacrer le cyprès à la divinité féminine dont l'antique temple, situé hors des murs de Troie, fut le lieu de rendez-vous d'Énée et de ses compagnons d'infortune, au moment de quitter pour toujours le sol de la patrie. Cette origine, il faut l'attribuer au grand peuple de qui les Phrygiens, comme les Phéniciens, les Arméniens et les Arabes, avaient reçu le culte du cyprès avec celui de Mylitta, d'Astarté, d'Anahid ou d'Alilat. Si les révolutions politiques et physiques qui ruinèrent de fond en comble l'empire d'Assyrie, n'ont laissé subsister aucun monument littéraire, aucun monument figuré, où nous puissions découvrir un exemple de l'emploi du cyprès pyramidal dans les cérémonies funèbres ou sur les sépultures des Assyriens, nous trouvons néanmoins, dans un autre récit de Virgile, une troisième preuve de ces usages, très-indirecte sans doute, mais non moins concluante que les deux premières. Ici, le lieu de la scène est Carthage. A ce nom, nos souvenirs se pressent en foule pour nous rappeler que Carthage, colonie de Tyr, rendait, sous divers noms, un culte particulier à la Vénus assyrienne, naturalisée en Phénicie. Nous nous rappelons, en même temps, que, chez les Phéniciens, cette déesse, appelée par eux \emph{Bérouth} ou \emph{Brathy},\footnote{Ci-dessus, p. 88-91.} c'est-à-dire \emph{Cyprès} (\emph{Cypris}), était représentée, ainsi que ses deux assesseurs, le soleil et la lune, sous la forme même de cet arbre symbolique.\footnote{Ci-dessus, p. 19 et suiv.} Dès lors, si Virgile,\footnote{\emph{Æneid.} 4., 503-507.} décrivant l'immense bûcher de chênes et de pins, dressé, par l'ordre de Didon, au fond de son palais, nous dit que la reine couronna de rameaux funèbres ce bûcher,
 
-\begin{quotation}
+\begin{quotation}\tiny\bfseries
 ... ... et fronde coronat
 
 Funerea ... ...
@@ -986,7 +994,7 @@ A ces témoignages, vient s'ajouter celui qui se tire du nom même que le cyprè
 
 Faute d'avoir rapproché de l'antique doctrine psychologique qui avait cours en Orient et en Occident, la double acception du cyprès, symbole de vie\footnote{Dans l'idiome de la basse Bretagne, le nom du cyprès est \emph{hivi} ou \emph{ivi}, altération peut-être des mots sémitiques ou araméens \emph{hayy, heuïa, héva, héyo}, qui signifient « la vie. » Le nom de l'arbre vert que nous appelons \emph{if} aurait-il la même origine ? En espagnol et en portugais, on dit \emph{iva} ; dans l'ancien allemand, on trouve \emph{îwa}, et dans l'allemand moderne, \emph{eibe}.} et symbole de mort ou de liberté\footnote{M. de Hammer (\emph{Mithriaca}, p. 157) cite trois passages de prosateurs ou de poètes persans qui font allusion à la \emph{liberté}, dont le cyprès est l'emblème : « Si tu le peux, dit Saadi, sois fertile comme le palmier ; si tu ne le peux, sois libre comme le cyprès. » --- « Qui rendra ton âme libre comme le lis et le cyprès ? Qui lui donnera la félicité au milieu de ses liens ? » s'écrie à son tour le grand poète mystique Djelal-eddîn Roumî, cité à l'article \emph{Azâd}, dans le \emph{Ferhenghi Chououri} (1., 68). --- Un autre écrivain persan dit : « Zerdéhuscht (Zoroastre) planta un cyprès libre devant la porte du pyrée. »} ; et, faute aussi d'avoir connu la composition du nom philosophique que cet arbre conserve chez les Persans, les philologues et les archéologues modernes, sans en excepter même le savant auteur du mémoire cité sur le mythe de Cyparisse, n'ont pas aperçu le sens philosophique ou psychologique que présente le cyprès pyramidal, consacré aux divinités infernales, ou placé auprès des sépultures. Füller\footnote{\emph{Miscellan. sacr.} 4., 5.} voulait que cet arbre eût reçu une acception funéraire, « parce qu'il avait servi à fabriquer l'arche de Noé, qui, pour ainsi dire, fut longtemps le tombeau ou la sépulture des vivants. » Le Dr. Lampe\footnote{Ouvrage cité, p. 26, 27.} a pris la peine de réfuter cette opinion : à ses yeux, le cyprès est un symbole d'éternité, parce qu'il vit indéfiniment. Aussi fait-il observer que jadis cet arbre figurait dans les funérailles des personnages qui avaient mérité les honneurs de l'apothéose, ou accompli des actions dignes de passer à la postérité. C'est pourquoi, dit-il, l'usage de planter un cyprès ou un \emph{cupressetum} auprès des tombeaux fut limité aux héros ou aux hommes illustres. A l'appui de cette assertion, il cite le vers où Lucain\footnote{3., 442.} a pu dire :
 
-\begin{quotation}
+\begin{quotation}\tiny\bfseries
 Et non plebeios luctus testata cupressus.
 \end{quotation}
 
