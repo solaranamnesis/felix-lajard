@@ -267,7 +267,10 @@ N° 2\. Emblème tiré de la stèle égyptienne dessinée par M. E. Prisse au _M
 [^9]: Voyez, sur la longévité du cyprès pyramidal et sur les grandes dimensions qu'atteint cet arbre, même en Europe, un article inséré, par M. Loiseleur-Deslongchamps, dans les _Annales de la Société d'horticulture à Paris_ (83e livraison, p. 37-53), et intitulé, _Recherches sur l'histoire des cyprès_.
 [^10]: Le nombre quatre et la forme carrée ou cubique faisaient allusion aux quatre éléments, et furent consacrés à Vénus comme à toutes les divinités créatrices.
 [^11]: Théophraste, 5., 5. --- Pline, _H. N._, 16., 40 ; 78, 79.
-[^12]: Horace (_Epist. ad Pisones_, 331, 332 ; ed. Dœring) a dit : ... ... _carmina fingi_ _Posse linenda cedro, et levi servanda cupresso ?_ --- Cf. _Vet. Schol. ad eumdem loc._
+[^12]: Horace (_Epist. ad Pisones_, 331, 332 ; ed. Dœring) a dit :  
+    ... ... _carmina fingi_  
+    _Posse linenda cedro, et levi servanda cupresso ?_  
+    --- Cf. _Vet. Schol. ad eumdem loc._
 [^13]: Voy. _Geoponic._, lib. 2., 18, 4. --- Columelle, 2., 9, 9.
 [^14]: Les anciens croyaient que le cyprès se couvrait trois fois, chaque année, de fruits qui mûrissaient aux mois de janvier, de mai et de septembre.
 [^15]: Vaillant, _Numism. in colon. percuss._, 2., 262.
